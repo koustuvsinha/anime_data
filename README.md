@@ -9,6 +9,7 @@ Inspired by [SouthParkData](https://github.com/BobAdamsEE/SouthParkData)
  - [x] Faturama
  - [x] Seinfeld
  - [x] Stargate SG1
+ - [x] Lost
 
 ## Authors
 

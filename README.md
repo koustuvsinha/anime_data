@@ -11,6 +11,10 @@ Inspired by [SouthParkData](https://github.com/BobAdamsEE/SouthParkData)
  - [x] Stargate SG1
  - [x] Lost
 
+## Source
+
+ - [IMSDB](http://www.imsdb.com/)
+
 ## Authors
 
 Dialog Group, RLLab McGill

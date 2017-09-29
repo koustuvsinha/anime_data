@@ -1,0 +1,249 @@
+Season,Episode,Scene,Character,Line
+0,42,0,STARGATE SG1,Episode 222
+0,42,0,"""OUT OF MIND""",By Jonathan Glassner & Brad Wright A cryogenic chamber is lifted. A man and woman are overseeing the procedure
+0,42,0,MAN,Begin cryo-reversal.
+0,42,0,FEMALE,Beginning reversal. Chamber opening.
+0,42,1,FEMALE,"It's okay, Colonel O'Neill. You're in the SGC. You're going to be fine. No, don't try to speak, Colonel. Give it some time."
+0,42,1,MAN,"Welcome back to the land of the living, Colonel. I'm Major-General Trofsky, this is Dr. Raleigh."
+0,42,1,RALEIGH,Maybe we can try to answer some of the questions that are weighing heavily on your mind.
+0,42,1,TROFSKY,"First of all, I regret to inform you that everyone on your team - Dr. Daniel Jackson, Captain Samantha Carter, and the Jaffa named Teal'c are all deceased."
+0,42,1,RALEIGH,"As a matter of fact, I imagine everyone you knew is probably gone now."
+0,42,1,TROFSKY,"You see, Colonel, the year is now 2077."
+0,42,2,RALEIGH,"How are you feeling, Colonel?"
+0,42,2,JACK,Just confused.
+0,42,2,TROFSKY,Understandable. You've been in cryogenic hibernation for almost 79 years.
+0,42,2,JACK,How?
+0,42,2,RALEIGH,"That's a good question, Colonel. We were hoping you could tell us."
+0,42,2,TROFSKY,"You were sent back through the Stargate already frozen. We're guessing by some advanced culture. Your CO at the time, a General Hammond, and a Dr. Fraiser, felt that to thaw you without the proper technology would probably kill you. They put you in a deep freeze until such time as the technology was developed to safely revive you."
+0,42,2,RALEIGH,"Colonel, do you have any idea what happened to you on that planet?"
+0,42,2,JACK,"No, ma'am. General, I'd prefer not to answer any more questions. Walk around a little, get my bearings."
+0,42,2,TROFSKY,"Of course. Good idea, actually. I'd be happy to show you the rest of the facility. You can disconnect him from these machines for a limited time, can't you, Doctor?"
+0,42,2,RALEIGH,About an hour or so. But he needs the rheumatic infusion in order for his tissues to recover properly.
+0,42,2,TROFSKY,I'll have him back in less than an hour.
+0,42,4,TROFSKY,Hasn't changed much?
+0,42,4,JACK,There's no place like home. How many SG teams are there?
+0,42,4,TROFSKY,"28 here on Earth, another 10 occupying offworld colonies."
+0,42,4,JACK,"So we finally did that, huh? Colonized other planets?"
+0,42,4,TROFSKY,Affirmative.
+0,42,4,JACK,"General, what happened to my team?"
+0,42,4,TROFSKY,They didn't make it.
+0,42,4,JACK,"I got that. They didn't make it back through the Gate, didn't survive the thawing process, what?"
+0,42,4,TROFSKY,"They were sent back, but they were already dead. I'm sorry, Colonel. It was a long time ago."
+0,42,4,JACK,Maybe for you.
+0,42,5,TROFSKY,"So, Colonel. Do you have any recollection of what happened on your last mission?"
+0,42,5,JACK,"I wish I did, sir. I remember intel suggesting that the planet we were going to was ruled by a Goa'uld. But I don't remember anything after we stepped through that gate."
+0,42,5,TROFSKY,Can you think of any reason why the Goa'uld might have saved your life? Sent you back?
+0,42,5,JACK,Certainly not their M O.
+0,42,5,TROFSKY,We feel whoever did help you was able to beat back the Goa'uld in order to do so. We'd love to know who could do that.
+0,42,5,JACK,"So would I, sir."
+0,42,5,TROFSKY,"We have a new technology that might help you remember. We'd like to give it a try, if you feel up to it."
+0,42,7,JACK,Sure.
+0,42,7,TROFSKY,"We'd like to get started right away. Our outpost planets are at war with the Goa'uld, and frankly, we're losing. I'm hoping whoever helped you 79 years ago can help us now."
+0,42,8,RALEIGH,The technology was given to us by the Tok'ra.
+0,42,8,JACK,"We're still friends with them, huh?"
+0,42,8,TROFSKY,"Oh, yes. It's been quite a beneficial alliance."
+0,42,8,JACK,"Just not much help in the outpost colonies, I take it?"
+0,42,8,TROFSKY,No.
+0,42,9,JACK,Ow! What was that?
+0,42,9,RALEIGH,"It's okay, Colonel, it's in. That's all the pain you'll feel."
+0,42,9,JACK,What a shame.
+0,42,9,RALEIGH,"As the Tok'ra explain it, this device stimulates the memory centers of your mind and then amplifies it. Sort of like a capacitor for thoughts. And when it's hooked up to this device here, it projects what the mind's eye is seeing holographically."
+0,42,9,JACK,Beautiful.
+0,42,9,RALEIGH,Now all you have to do is focus your thoughts and guide the right memories to the surface.
+0,42,9,JACK,How do I do that?
+0,42,9,RALEIGH,"We'll lead you through it. It's kind of like a high tech version of hypnosis. We've introduced a very light sedative through those tubes, and you should be feeling the effects now."
+0,42,9,JACK,"Oh, yeah."
+0,42,9,RALEIGH,Great. Let's get going. Start by concentrating on what race or culture you can think of from your travels that might have the technology to defeat the Goa'uld and cryogenically suspend you.
+0,42,9,JACK,The Nox did.
+0,42,9,RALEIGH,"Okay, the Nox. Were they medically advanced?"
+0,42,10,JACK,They could revive their dead.
+0,42,10,TROFSKY,They could make themselves invisible?
+0,42,10,JACK,Not just themselves.
+0,42,11,ANTAEUS,"Before you go, O'Neill, there is something I should have you see."
+0,42,12,ANTAEUS,Fear not.
+0,42,12,RALEIGH,"Colonel O'Neill, was it the Nox who sent you here?"
+0,42,12,JACK,I don't remember.
+0,42,12,RALEIGH,"Well, they had the technology to make themselves invisible. Could be a very powerful weapon against the Goa'uld, could it not?"
+0,42,12,JACK,Probably. But they'd never use it in that manner. The Nox wouldn't even fight in self-defense.
+0,42,12,TROFSKY,Can you think of anyone else who could have defeated the Goa'uld?
+0,42,12,JACK,The Asgard.
+0,42,13,JACK,"Oh, my."
+0,42,13,DANIEL,"Ladies and gentlemen, I think this is Thor's chariot."
+0,42,13,TEAL'C,An Asgard mothership. I have heard them described in Jaffa legend.
+0,42,14,JACK,You're the Asgard. Thor's race. Right?
+0,42,14,ASGARD #1,You have heard of us.
+0,42,14,JACK,Nothing but good things.
+0,42,14,ASGARD #1,We have studied your race closely.
+0,42,14,JACK,What did you learn?
+0,42,14,ASGARD #2,That your race has great potential.
+0,42,14,JACK,Great potential. That's good.
+0,42,14,ASGARD #1,"Understand this. There was once an alliance of four great races in the galaxy.The Asgard, the Nox..."
+0,42,14,JACK,Met them.
+0,42,14,ASGARD #1,The Furlings.
+0,42,14,JACK,Don't know them.
+0,42,14,ASGARD #1,"And the Ancients, the builders of the Stargates."
+0,42,14,JACK,That's a pretty heady group.
+0,42,14,ASGARD #1,Your race has much to prove before we can interact on that level.
+0,42,14,JACK,"Look, you all seem to be quite wonderful people. You folks should understand that we're out there now. We might not be ready for a lot of this stuff, but we're doing the best we can."
+0,42,14,ASGARD #2,You have already taken the first step towards becoming the fifth race.
+0,42,15,JACK,They're part of a - an alliance.
+0,42,16,JACK,What is this place?
+0,42,16,DANIEL,"I believe this room was some sort of meeting place where four alien races, denoted by the symbols and distinctive writing on the wall, gathered, possibly to share knowledge or discuss relations like a United Nations of the stars. Katherine agrees.'"
+0,42,16,CATHERINE,You're right. I would have.
+0,42,16,JACK,This looks familiar.
+0,42,16,EARNEST,Touch it
+0,42,16,JACK,Wow
+0,42,16,CATHERINE,It's beautiful!
+0,42,16,JACK,Daniel? Does this mean anything to you?
+0,42,16,DANIEL,"Well, if this was a mecca of sorts, an alien United Nations, this has to mean something."
+0,42,16,JACK,I know this.
+0,42,16,CATHERINE,Of course! High school chemistry.
+0,42,16,DANIEL,"One proton, one electron, hydrogen."
+0,42,16,CATHERINE,Beryllium. Sodium.
+0,42,16,EARNEST,Silver. Iron. Barium. Xenon.
+0,42,16,DANIEL,"Of course! How do you ensure universal communication? You reduce the method of communication to the most basic elements ofeveryone and everything that exists in the universe. Jack, this is a true universal language."
+0,42,17,RALEIGH,He's had enough. Let's let him rest.
+0,42,17,TROFSKY,"Thank you, Colonel. Good work."
+0,42,17,TROFSKY,We'll resume later
+0,42,18,TROFSKY,"It's okay, Dr. Jackson. You're in the SGC. You're going to be fine."
+0,42,19,TROFSKY,"This one has naquid in her system, so keep her a little more dosed."
+0,42,20,TROFSKY,"It's okay, Dr. Carter. You're in the SGC. You're going to be fine."
+0,42,20,SG-1?,
+0,42,20,RALEIGH,I'm afraid they didn't make it. I'm sorry.
+0,42,21,RALEIGH,"How does that feel, Captain?"
+0,42,21,SAM,It hurts a little.
+0,42,21,RALEIGH,"Well, it's important that we know who would have the technology to do this."
+0,42,21,SAM,Why?
+0,42,21,RALEIGH,"Because, Captain Carter, anyone with that kind of technology would be a valuable ally against Apophis."
+0,42,21,SAM,Apophis? Isn't he dead?
+0,42,22,RALEIGH,"Well, of course he is. We're merely trying to stimulate the region of your memory that involves doing battle with the Goa'uld. It might help us in our current battles."
+0,42,22,SAM,"Okay, well, we did fight the Goa'uld a lot."
+0,42,22,RALEIGH,Tell me how you defeated Apophis.
+0,42,23,SAM,"Well, we gated to what we thought was their home base, but we ended up on a Goa'uld mothership."
+0,42,24,DANIEL,A sarcophagus.
+0,42,24,JACK,"Oh, great. More snake heads. Teal'c, any idea which one's in here? Teal'c?"
+0,42,24,SAM,"We're not on a planet, are we?"
+0,42,24,TEAL'C,That is correct. It appears we are on a Goa'uld transport vessel.
+0,42,24,SAM,And that jolt was...
+0,42,24,TEAL'C,Hyperlaunch.
+0,42,26,BRA'TAC,"Shield generators are far below. There, in the very bowels of the ship.We'll climb down several decks, through the length of the ship. Then, taking our weapons, we must -"
+0,42,28,JACK,Our time is up. We have got to go!
+0,42,29,RALEIGH,"Very impressive, Captain. The end of Apophis."
+0,42,29,SAM,"Well, the beginning of the end, yes. His forces were so weakened that another Goa'uld eventually got him."
+0,42,30,TROFSKY,"So if it wasn't Apophis, what other Goa'uld could it be?"
+0,42,30,DANIEL,"Well, there seems to be a lot of them.Sokar."
+0,42,31,SOKAR,People of the Tau'ri.You have taken what is mine. For this you will be destroyed.
+0,42,32,DANIEL,Heru-ur.
+0,42,33,HERU-UR,You dare challenge me?
+0,42,33,JACK,I was thinking about it!
+0,42,34,HERU-UR,You will pay for this insolence!
+0,42,35,DANIEL,"And then of course, there was Hathor. She almost succeeded in doing some pretty big damage."
+0,42,36,HATHOR,"We must praise you, and gift you a great honor."
+0,42,36,JACK,"Yeah, I'm sure that would be just great, but not right -"
+0,42,36,HATHOR,Do not worry yourself.You will enjoy the rich rewards that will come of what we are giving you. You will cherish the good health and long life that goes with being...Hathor's first new Jaffa.
+0,42,37,HATHOR,We demand that the woman you call Carter be brought before us so that we may gain retribution.
+0,42,37,DANIEL,"Captain Carter does deserve to be punished, my queen, but she does not know what she is doing. I beg of you to show mercy."
+0,42,37,HATHOR,She deserves no mercy from us. She will make amends with her death.
+0,42,37,SAM,I don't think so.
+0,42,38,HATHOR,"You have failed us, our love. You will not fail us again."
+0,42,39,NO!,
+0,42,39,JACK,"Get these airmen out of here! Daniel, let's go! Move it!"
+0,42,40,TROFSKY,What's wrong?
+0,42,40,DANIEL,"Nothing. I just, I really need to know exactly what happened to my friends."
+0,42,40,TROFSKY,"As I said, they were sent back through the Gate. They were already dead. That's all I know."
+0,42,40,DANIEL,What about General Hammond?
+0,42,40,TROFSKY,I'm happy to report he lived to a ripe old age of 93.
+0,42,40,DANIEL,So everyone I ever knew basically is gone.
+0,42,40,TROFSKY,I'm afraid so.
+0,42,41,DR. JANET,"It's okay! It's okay!You're in the SGC, Teal'c."
+0,42,41,HAMMOND,"Good to have you back, Teal'c."
+0,42,41,TEAL'C,General Hammond.
+0,42,41,JANET,Easy! Easy!
+0,42,41,TEAL'C,Where are the rest of SG-1?
+0,42,41,HAMMOND,"Good question. We were hoping you could tell us.When you didn't return, we sent SG teams 3 and 7 after you. We found you lying next to the Stargate, but no trace of Colonel O'Neill, Captain Carter, and Dr. Jackson. We assumed they were captured."
+0,42,41,JANET,"You have no memory of this, Teal'c?"
+0,42,41,TEAL'C,I do. It was a mixture of Horus and Serpent Guards. A very unusual combination.
+0,42,41,HAMMOND,Serving what Goa'uld?
+0,42,41,TEAL'C,"That I do not know. General Hammond, I will return to the planet immediately to search for the answers."
+0,42,41,HAMMOND,"Can't let you do that, Teal'c."
+0,42,41,TEAL'C,"General Hammond, I will not remain idle while my friends may be in danger on this planet."
+0,42,41,JANET,"Teal'c, you've been unconscious for three weeks."
+0,42,41,TEAL'C,That is not possible. My symbiote would have awakened me long before the period of three weeks.
+0,42,41,JANET,"You were barely alive, Teal'c. You had substantial internal injuries."
+0,42,41,HAMMOND,Dr. Fraiser spent most of the three weeks at your side. It was her refusal to give up that kept you alive.
+0,42,41,TEAL'C,"I am in your debt, Dr. Fraiser. General Hammond, permit me to return to this planet to search for my friends.If their bodies were not found by my side, then they are prisoners."
+0,42,41,HAMMOND,"If they're prisoners, they're long gone from that planet. We sent out UAV's, balloons, our best rescue teams... and found nothing but scorched earth. There was no trace of them. They could be moved to any Goa'uld stronghold. You'd be searching for a needle in a very large haystack."
+0,42,41,TEAL'C,Perhaps. But I must try.
+0,42,41,HAMMOND,"Teal'c! I understand your desire to do something, anything, for SG-1. I feel the same way. But I cannot expend any more resources on this. I'm sorry. Request denied."
+0,42,41,TEAL'C,"If the people of the Tau'ri have given up hope on SG-1, then it is with great regret that I must leave this world and return to my people."
+0,42,41,HAMMOND,You mean you want to leave the SGC?
+0,42,41,TEAL'C,That is correct.
+0,42,41,HAMMOND,"I can't let you do that, Teal'c. I won't let you."
+0,42,41,TEAL'C,"General Hammond. I hereby respectfully inform you that I must take my leave of the SGC. Therefore, I am no longer under your command."
+0,42,41,HAMMOND,I can't allow you to do that. You're too great a security risk.
+0,42,41,TEAL'C,"General Hammond, I would die before willingly divulging any information pertaining to this world. You know that."
+0,42,41,HAMMOND,"Yes, I do."
+0,42,41,TEAL'C,I will depart in one hour.
+0,42,43,RALEIGH,"Rok cri'no, mak'tau!"
+0,42,47,SOLDIER,Ten-hut!
+0,42,47,INTERCOM,"Chevron 5, engaged."
+0,42,48,HAMMOND,"Teal'c, you will be missed."
+0,42,48,TEAL'C,"I have learned much from you, General Hammond. And I thank you."
+0,42,49,HAMMOND,"I've learned a lot from you, too, Teal'c. So we're even on that account."
+0,42,50,HAMMOND,Take care of yourself.
+0,42,51,HAMMOND,At ease.
+0,42,52,JACK,Carter? Carter.
+0,42,53,JACK,Carter.
+0,42,53,SAM,I thought you were dead.
+0,42,54,SAM,Get out of there!
+0,42,54,JACK,Agghh!
+0,42,54,SAM,Colonel!
+0,42,54,SAM,It goes right through his shoulder into the concrete.
+0,42,55,SAM,Whoa.
+0,42,55,JACK,Yeah. These things have a nasty habit of going off when you least expect it. Try not to think too much.
+0,42,55,SAM,They said ....
+0,42,55,JACK,"They're Goa'uld, Carter."
+0,42,55,SAM,Daniel? Teal'c?
+0,42,55,JACK,Don't know yet. Think you can walk?
+0,42,55,SAM,Drugs must have prevented me from sensing the naquada in them.
+0,42,56,JACK,Trade clothes with that guy.
+0,42,57,SAM,Sure looks like the SGC.
+0,42,58,SAM,Wow. This looks just like..
+0,42,58,JACK,Don't think about it! You'll set that thing off.
+0,42,59,SAM,Can't we take these things off?
+0,42,59,JACK,"I don't know, you tell me. Mine's in pretty deep."
+0,42,59,SAM,Yeah. Pulling them out could cause some nasty collateral damage.
+0,42,59,JACK,"Yeah, we don't want that.What the hell?"
+0,42,60,JACK,Daniel. Daniel!
+0,42,61,DANIEL,I don't understand. They said -
+0,42,61,SAM,"They're Goa'uld, Daniel."
+0,42,61,DANIEL,What year is it?
+0,42,61,SAM,"1999, most likely."
+0,42,61,DANIEL,So this is all a hoax.
+0,42,61,JACK,Big hoax. I'd say so.
+0,42,61,DANIEL,"I have more questions, but that can wait."
+0,42,61,JACK,Yeah. Come on.
+0,42,62,JACK,Damn cost-cutting.
+0,42,62,SAM,This facade is obviously part of a bigger Goa'uld facility. Complete with Horus and Serpent Guards.
+0,42,62,DANIEL,"What? Horus and Serpent? That's kind of an odd alliance, isn't it?"
+0,42,63,DANIEL,I've never seen this place so deserted.
+0,42,63,SAM,Guess they figure they don't need to keep up the act if we're unconscious.
+0,42,64,JACK,It's fake.
+0,42,64,DANIEL,I don't understand. Who would have spent enough time on the base to be able to reproduce it in this kind of detail? You don't think Apophis -
+0,42,64,VOICE,Silence!
+0,42,65,JACK,"Oh, I was so hoping never to see you again."
+0,42,66,HATHOR,"We have indeed missed you, our beloved."
+0,42,66,SAM,"Daniel, don't let her breathe on you."
+0,42,66,HATHOR,Do you think that we would have gone to these lengths if you were not already immune to that poison? Do you like our guards? We managed to lure them from the remote outposts of our enemies.
+0,42,67,HATHOR,We are quietly building our forces before the System Lords even know that we are alive. But doing so is difficult when we have limited knowledge of the current state of the Empire.
+0,42,67,JACK,"Let me take a guess. It's just a wild guess, but that's where we come in, right?"
+0,42,67,SAM,We know more than you do.
+0,42,67,HATHOR,Perhaps.We are prepared to offer you a life of luxury as servants in our court in exchange for information.
+0,42,68,HATHOR,"Deny us, and you will not enjoy the alternative."
+0,42,68,JACK,"You know, you really should something about the breath."
+0,42,68,HATHOR,How do we contact the Asgards so that we might ally with their forces?
+0,42,68,JACK,Try Roswell. Little place in New Mexico.
+0,42,68,HATHOR,What are the secrets of numbers necessary to open the barricade protecting your Stargate?
+0,42,69,HATHOR,"If you will not give us the information that we desire, we have other means of retrieving it."
+0,42,70,HATHOR,An opportunity has presented itself at a most fortuitous time.
+0,42,71,HATHOR,"Our friend here is ready for a host. Tell us, which one of you shall it be?"

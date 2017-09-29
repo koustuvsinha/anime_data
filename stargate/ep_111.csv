@@ -1,0 +1,380 @@
+Season,Episode,Scene,Character,Line
+0,111,0,STARGATE SG1,Episode 603
+0,111,0,"""DESCENT""","By Joseph Mallozzi & Paul Mullie An Asguard ship is shown coming out of Hyperspace, and arriving outside of a blue planet. . A Goa'Uld mothership is in the planet's orbit."
+0,111,0,HEIMDALL,"First, we must rescue THOR ... he is a prisoner of the Goa'Uld."
+0,111,0,ANUBIS,) I AM ANUBIS. THIS DEVICE WILL BE IMPLANTED INTO YOUR BRAIN. IT WILL FORM A LINK BETWEEN
+0,111,0,THOR,O'Neill ...
+0,111,0,THOR??,
+0,111,0,THOR,I am using the internal communication system to synthesize my voice ... I believe I may be able to rewrite some minor subroutines in the security protocol.
+0,111,1,JAFFA,"Lord Anubis, our Asguard prisoner is gone."
+0,111,1,HE WILL NOT GET FAR!,
+0,111,1,THOR,You can not take me with you.
+0,111,1,JACK,Why not?
+0,111,1,THOR,The link between myself and the Goa'Uld ship has not been severed.
+0,111,1,SAM,"They managed to remove the device from his brain, but it may have been too late. Apparently, he's lapsed into a coma. A small cargo ship is shown flying thru space. It's DAD!"
+0,111,1,DAD,"Looks like your analysis was right, Sam. It's dead in space, but completely intact."
+0,111,1,SAM,Has Anubis ever done anything like this before?
+0,111,1,DAD,"This is a first. It must have been a little crazy around the SGC when it showed up, huh?"
+0,111,1,SAM,You have NO idea!
+0,111,1,DAD,"I have a pretty good idea, Sam. I used to be an Air Force General, remember?"
+0,111,1,JACK,Are we there yet??
+0,111,1,SAM,"Not yet, Sir. Just close enough to do some scans."
+0,111,1,JACK,Scanned anything yet?
+0,111,1,SAM,"Nothing, Sir."
+0,111,1,JACK,Nothing?
+0,111,1,SAM,"It's in a stable planetary orbit. Shields and weapons are down, and it's emitting no EM of any kind."
+0,111,1,JACK,"Still just, kind of, sitting there."
+0,111,1,SAM,"Yes, Sir."
+0,111,1,DAD,"Well, if they were gonna attack Earth, they would have done it by now."
+0,111,1,JACK,What are you smiling at?
+0,111,1,JONAS,"Well, it's just that it's my first time ... in space."
+0,111,1,JACK,Ah ...
+0,111,1,JONAS,"I mean, we've only just begun to consider the possibility of space travel, and to actually be out here is ... It's amazing."
+0,111,1,TEAL'C,Indeed.
+0,111,1,JACK,Until something goes ... horribly wrong
+0,111,2,DAVIS,What's our status?
+0,111,2,SAM,"Well, the ship should be a few hundred kilometers dead ahead. There."
+0,111,2,JACK,Ships Ahoy-oy ...
+0,111,2,JONAS,That's incredible!
+0,111,2,SAM,"I'm not 100%, but ... this could be the same ship that Anubis used to kidnap"
+0,111,2,DAD,Now we know why they haven't attacked. There's no discernable life signs.
+0,111,2,SAM,All the escape pods have been jettisoned.
+0,111,2,TEAL'C,This ship does not appear to have been damaged in battle.
+0,111,2,DAD,Power and life supports seem to be functioning normally. There's just nobody on board.
+0,111,2,JONAS,Why would they abandon a perfectly good ship?
+0,111,2,DAD,They wouldn't.
+0,111,3,DAD,"Jack, rather than fly into a cargo bay, I recommend we use the transport rings to get us there until we have a better idea of what's going on."
+0,111,3,JACK,"Yeah. Boys ... Radio Hammond. Let him know we'll have something in a couple hours. Jonas, stay with Teal'C."
+0,111,3,JONAS,I don't understand.
+0,111,3,JACK,I'm sorry ... Stay here.
+0,111,3,JONAS,So I'm not going with you?
+0,111,3,JACK,Not this time.
+0,111,3,JONAS,"Colonel, I've studied every report, every specification, everything you have on Goa'Uld motherships ---"
+0,111,3,JACK,"Because I gave you an order, Jonas. I always have a reason I'm not required to explain. It's a military thing."
+0,111,4,DAD,Jack ...
+0,111,5,DAVIS,What is that?
+0,111,5,DAD,I can't make it out.
+0,111,5,TEAL'C,"The crew appears to have abandoned ship, General Hammond."
+0,111,5,HAMMOND,"That's good news! I don't mind telling you, we're all been holding our breath down here."
+0,111,5,TEAL'C,That is most unwise.
+0,111,5,HAMMOND,"Yes, of course, Teal'C."
+0,111,5,TEAL'C,Colonel O'Neill is leading a team to determine if the vessel can be salvaged.
+0,111,5,HAMMOND,Very well. Keep me apprised. Hammond out.
+0,111,5,DAD,"Well, this is strange. The ship is operational, but before they left, they initiated the self destruct sequence."
+0,111,5,SAM,It looks like the countdown's stuck.
+0,111,5,DAD,"It just doesn't make any sense. The only way to stop a self destruct is with a command override, but that would completely erase the sequence, not suspend it halfway."
+0,111,5,SCIENTIST,"So, is the ship gonna explode or not?"
+0,111,5,DAD,"Well, until we know why the countdown was suspended, we can't be sure it won't start up again. We need to get to the computer core and do a diagnostic."
+0,111,5,JACK,Carter ... you and Davis --- see if you can disable that self destruct altogether.
+0,111,5,SAM,"Yes, Sir."
+0,111,5,DAVIS,Sir.
+0,111,5,DAD,"Jack, are you seriously considering salvaging this ship??"
+0,111,5,JACK,"Why, yes, I am, Jacob."
+0,111,5,DAD,This ship belonged to Anubis.
+0,111,5,JACK,Excellent!
+0,111,5,DAD,What if it's some sort of Trojan Horse?
+0,111,5,JACK,"Well, then, apparently, they did it wrong."
+0,111,5,DAD,"Look, Jack. None of this makes any sense, so before you go slapping a US Air Force sticker on the side of this ship ---"
+0,111,5,JACK,"Will you stop? Obviously we gotta check things out around here, see what happens before we do anything."
+0,111,5,DAD,And find out what the hell it's doing in Earth's orbit.
+0,111,5,JACK,"But our standing orders are to recover technology that can help us defend against the Goa'Uld. I'd say this ship falls under that heading, wouldn't you?"
+0,111,5,DAD,Okay.
+0,111,5,JACK,Thank you.
+0,111,5,DAD,"You know, sometimes I get a little worried that you're gonna get my favorite planet wiped out."
+0,111,5,JACK,Yes. What planet is that?
+0,111,5,DAD,"So listen, if they wanted to scuttle this ship, and the self-destruct didn't work, their next logical option would be to sabotage the hyperdrive."
+0,111,5,JACK,Friesen ... let's go. )
+0,111,5,DAD,I'll do a system's check from here.
+0,111,6,JACK,Find out what that sound is.
+0,111,7,DAVIS,What's the problem?
+0,111,8,SAM,"Dad, this is Sam."
+0,111,8,DAD,What's up?
+0,111,8,SAM,"We're on our way to the computer core, but we can't access this corridor."
+0,111,8,DAD,"Alright, hang on ... The whole sections been sealed off, and the life support's been shut down."
+0,111,8,SAM,Why would they do that?
+0,111,8,DAD,"I have no idea. I'll see if I can open it up, get the ventilation going again."
+0,111,8,FRIESON,"Colonel, we should also check on the Shield generators."
+0,111,8,JACK,Jacob ...
+0,111,8,DAD,How's the hyperdrive?
+0,111,8,JACK,"Frieson says the engine checks out, but he wants to take a look at the shield generators."
+0,111,8,DAD,Does he say why?
+0,111,8,FRIESON,Why? To see them.
+0,111,8,JACK,To *see* them?? Never mind.
+0,111,8,FRIESON,"If this was the ship that destroyed an Asguard ship, and kidnapped THOR, then the shields were clearly superior to any ..."
+0,111,8,SAM,We're in!
+0,111,8,DAD,"All right, just be careful, Sam."
+0,111,8,SAM,"Yes, Dad."
+0,111,8,DAVIS,Whoa! Something bad definitely happened here!
+0,111,8,SAM,"Dad, we're just outside the computer core. The door looks like it's been hit by several staff blasts."
+0,111,8,DAD,"That's interesting, because it's the only door I can't open. The circuits are fused. It's as if there was a deliberate overload."
+0,111,8,SAM,"It's starting to look more and more like a saboteur on board. Someone damaged the computer, and then sealed it off so they couldn't affect repairs."
+0,111,8,DAD,"Well, whatever happened ... I can't get ya inside."
+0,111,8,SAM,Colonel? Have you been monitoring?
+0,111,8,JACK,"Affirmative. On my way. I have to go blow something up ... head on back to the pel'tac, see if Jacob needs some help."
+0,111,10,JACK,Shall we??
+0,111,11,DAVIS,
+0,111,11,JACK,What??
+0,111,12,JACK,"Jacob, we're in."
+0,111,12,DAVIS,This is fantastic!
+0,111,12,JACK,"No, *THIS* is fantastic."
+0,111,12,FRIESON,Shield generators ... Hello?? Colonel O'Neill?? Jaffa! A flute is heard playing!)
+0,111,13,JONAS,"Why would he bring me all the way out here, if I'm not gonna be allowed to contribute anything?"
+0,111,13,TEAL'C,This is your first mission. It may take some time for Colonel O'Neill to gain confidence in your abilities.
+0,111,13,JONAS,So it was the same for you?
+0,111,13,TEAL'C,"No, it was not."
+0,111,13,JONAS,Oh. You know I heard a rumor that I only got this assignment cause Colonel O'Neill didn't want a Russian on this team.
+0,111,13,TEAL'C,Such rumors are meaningless. O'Neill would not have chosen you if he did not believe that one day you would be an effective member of SG-1.
+0,111,13,JONAS,"Thanks, Teal'C! I really appreciate that. I mean, those of us not originally from the planet Earth have to stick together, right??"
+0,111,13,TEAL'C,Are you suggesting an Alien conspiracy?
+0,111,13,JONAS,"No! Oh ...! Of course, yes. I was warned about your occasional use of humor. It's ... got me! No conspiracy! Teal'C turns his head back to look out the window in front of him, and it looks like he's hiding a grin."
+0,111,13,SAM,The computer log confirms that this *IS* the same ship that THOR was aboard.
+0,111,13,JACK,... And?? ...
+0,111,13,SAM,"Well, it could explain alot, Sir. THOR's brain was directly linked to the computer. Anubis may have grossly underestimated the power of an Asguard's mind."
+0,111,13,JACK,... And?? ...
+0,111,13,SAM,"It's possible that when his mind was linked, THOR was able to rewrite some of the ship's programming, maybe even leave something behind."
+0,111,13,DAVIS,Like a virus?
+0,111,13,SAM,"Exactly! By interfering with everything from navigation to life support, a complex virus could have driven Anubis to abandon ship!"
+0,111,13,JACK,Might explain why the self-destruct got stuck.
+0,111,13,SAM,"He could have generated a whole new subroutine that sent this ship into our Solar System after it was abandoned. Like ... a gift! I know it sounds a little wacky, Sir, but the more I think about it, the more it seems like the most reasonable explanation."
+0,111,13,DAVIS,"There's a little wishful thinking there, Major."
+0,111,13,SAM,"Well, if this ship wasn't ultimately intended for us to find, why did it travel half way across the galaxy all by itself? For that matter, why didn't the self destruct just go off??"
+0,111,13,DAVIS,"Well, even if you're right, I really doubt that a virus is gonna know the difference between us and the Goa'Uld."
+0,111,13,SAM,"There has to be a way to disable it somehow, or THOR wouldn't have sent the ship here. Dr. Freison, this is Major Carter ... We could use your help in the computer room."
+0,111,13,JACK,"Frieson, come in!"
+0,111,13,SAM,"Dad, have you seen Doctor Frieson?"
+0,111,13,DAD,Negative.
+0,111,13,JACK,"You scientists ... Stay here, I'll find him."
+0,111,13,SAM,"It's a big ship, Sir."
+0,111,13,JACK,I think I know where he went.
+0,111,13,DAVIS,It's coming out of the ship's intercom.
+0,111,13,SAM,What is?
+0,111,13,DAVIS,"The sound we keep hearing. You hear that ... it's ... there's a pattern to it, almost like distorted words."
+0,111,13,SAM,Let's check it out.
+0,111,14,JACK,Carter ... I want you and Davis back in the Pel'Tak with Jacob.
+0,111,14,SAM,"What's going on, Sir?"
+0,111,14,JACK,Frieson's dead.
+0,111,15,JACK,"Jacob, come in."
+0,111,16,JACK,"Jacob, do you read?"
+0,111,16,JACK,"Jacob, come in. Jacob??"
+0,111,17,DAVIS,"Colonel, we've got another problem!"
+0,111,17,DAD,"I'll live, go, go! A great shot of the horizon approaching them with the stars above is shown. It is quite beautiful. ;)"
+0,111,17,SAM,"We're decelerating out of orbit and they've disabled the drive control. Sir, we've got no way of altering course ... we're going to crash!"
+0,111,17,JACK,"Teal'C, come in."
+0,111,17,TEAL'C,"O'Neill, you are approaching Earth's atmosphere."
+0,111,17,JACK,"Yeah, you know, we've noticed that. You're gonna haveta ... ring us outta here."
+0,111,17,TEAL'C,Standing by.
+0,111,18,SAM,"It's no use. I estimate impact between 500 and 1,000 miles west south west of Alaska."
+0,111,18,DAVIS,The amount of energy released at impact could be massive. There may be a tidal wave.
+0,111,18,DAD,"Raise the shields, set inertial dampening to maximum. That way the ship should survive in one piece."
+0,111,18,SAM,Done. That's all I can do.
+0,111,18,JACK,"Teal'C, we're heading into the ring room. Wait, wait, wait ... Teal'C??"
+0,111,18,TEAL'C,"O'Neill, we have been attacked by Jaffa from the mothership."
+0,111,18,JACK,What's the situation?
+0,111,18,TEAL'C,"They are no longer a threat to us, but the ship has been damaged. The crystals that allow us to receive ring transports have been destroyed. and there is insufficient time to dock aboard the mothership."
+0,111,18,JACK,"Well, I guess we're going in."
+0,111,18,HAMMOND,"The official line is, early this morning, at approximately 0800 hours, NORAD tracked a meteor as it entered the Earth's atmosphere, and landed somewhere in the North Pacific. So far, no word from the Chinese government, but I'm sure we'll be hearing from them soon enough. As for the Russians, I'll have a call going thru to Colonel Chekov in about 10 minutes. yes, Sir. I'll be keeping you apprized of any further development. Gentlemen! it's good to have you back. We've located the mothership. SONAR readings suggest that it's still intact."
+0,111,18,JONAS,Then they may still be alive.
+0,111,18,HAMMOND,We're proceeding under that assumption. There's a Deep Submergence Rescue Vehicle on Route from Pearl Harbor. But we still have to figure out how the Crew's gonna access the mothership.
+0,111,18,TEAL'C,A mothership's escape pods are jettison thru pressurized tubes. It may be possible that one of them can be used as a point of access.
+0,111,18,HAMMOND,That sounds like our best shot.
+0,111,18,JONAS,"General, with your permission, Teal'C and I would like to join the rescue operation."
+0,111,18,HAMMOND,There's a plane waiting.
+0,111,18,JONAS,"Thank you, Sir. I should have been with them."
+0,111,18,TEAL'C,Do you believe you could have prevented this happening?
+0,111,18,JONAS,Maybe. You don't think so?
+0,111,18,TEAL'C,It was an ambush. I believe your presence would have made little difference.
+0,111,18,JONAS,Like on the Cargo Ship?
+0,111,18,TEAL'C,You could not have known those Jaffa would ring aboard ship.
+0,111,18,JONAS,Yeah. I just stood there! You saved my life just like Dr. Jackson did back on my planet. I didn't do a thing!
+0,111,19,TEAL'C,It is my understanding that was largely YOUR idea that lead to the successful disposal of the other Stargate before it could be detonated. You saved the lives of MILLIONS.
+0,111,19,JONAS,"Yeah, that was different. That was an intellectual exercise. I'm talking about knowing what to do in the heat of the moment when there IS no time to think."
+0,111,19,TEAL'C,One can never be certain what to do until the moment presents itself.
+0,111,19,JONAS,"So far, my track record is not great."
+0,111,19,TEAL'C,"Perhaps that is so, But there are many battles left to be fought, JonasQuinn."
+0,111,20,JACK,How are you doing?
+0,111,20,DAD,"Aside from the burns, I got a broken collarbone. Selmak's working on it."
+0,111,20,JACK,"You know, for guys with no life signs, those Jaffa did a bit of damage."
+0,111,20,DAD,"They must have been trapped in the section of the ship that was sealed off. To stay alive as long as possible, they would have gone into a deep state of Kel'No'Reem, slowing down their heartbeats to one or two beats per minute. In that condition, the cargo ship's sensors weren't sensitive enough to pick them up."
+0,111,20,JACK,You think there are any MORE running around?
+0,111,20,DAD,I doubt it. My guess that the 3 that attacked me were on the computer core level. I let them out when I opened the door to allow Sam inside.
+0,111,20,SAM,"Well, we got life support operating at 50%. It won't be too comfortable in here, but at least we won't freeze to death ... right away."
+0,111,20,DAD,Can we fix the engines?
+0,111,20,DAVIS,"Not a chance, and that's not our only problem."
+0,111,20,SAM,We found evidence of structural damage on the lower levels. Probably a result of the impact.
+0,111,20,DAD,How bad?
+0,111,20,SAM,"I'm not sure. The exterior pressure's pretty severe, especially on the lower levels. It wouldn't take much to compromise the hull."
+0,111,20,JACK,"Well, help'll be on the way."
+0,111,20,SAM,There's also the matter of the self-destruct sequence frozen half way thru its countdown.
+0,111,20,JACK,You haven't turned that off yet?
+0,111,20,SAM,I'm not sure we should even try.
+0,111,20,JACK,Why?
+0,111,20,SAM,"Well, first the door to the computer core was locked, and then when the Jaffa tried to blast their way in, the entire section was sealed off, and life support was shut down."
+0,111,20,DAD,By who?
+0,111,20,JACK,"It's ""Whom""."
+0,111,20,SAM,"Actually, Sir, it's more like ""What""."
+0,111,20,JACK,What?
+0,111,20,DAVIS,The virus THOR left behind.
+0,111,20,SAM,Exactly. What if it was trying to defend itself?
+0,111,20,DAD,"So THOR leaves behind a virus that forces Anubis to abandon his ship, and then this virus defends itself against the Jaffa that Anubis left to blow this ship??"
+0,111,20,SAM,"Or, maybe it was left here so we could find it. Sir, with your permission, I'd like to return to the computer core."
+0,111,20,JACK,I'll go with you.
+0,111,21,WALTER DAVIS,"Sir, we've just got word from the task force. The DSRV's in the water."
+0,111,23,SAM,Major Davis is right. It is definitely coming from the ship's intercom. Maybe the virus is trying to talk to us.
+0,111,24,JACK,What the hey?
+0,111,24,SAM,"Dad, we've got evidence of flooding here."
+0,111,24,DAD,Stand by. There's been a hull breach on the engineering level.
+0,111,24,SAM,We're nowhere near engineering.
+0,111,24,DAD,"It looks like seawater penetrated into the central access shaft, and now the pressure's pushing it up thru the core of the ship. We're flooding from the inside."
+0,111,24,SAM,"Dad, the door's closing behind us!"
+0,111,24,DAD,It's a security measure. All doors are sealed behind the breach. I'll try to open it from here.
+0,111,24,JACK,It's a bit chilly.
+0,111,24,SAM,"Dad, how's it going with that door?"
+0,111,24,DAD,"This could take some time, Sam."
+0,111,25,PILOT,We have visual contact.
+0,111,25,SAM,"I'm sorry, Sir. I can't bypass the system locally."
+0,111,25,JACK,Jacob?
+0,111,25,DAD,"Yeah, without the proper codes, I can't get access to the security program."
+0,111,25,DAVIS,I'm going down there.
+0,111,25,DAD,"To do what? The local controls are locked out. Jack, I'm gonna try to find a back door to the programming."
+0,111,25,JACK,How long's that gonna take?? I'm looking at some major shrinkage here.
+0,111,25,DAD,"I don't know, this is kind of a unique situation here. Give me a few minutes."
+0,111,25,JACK,How long do you think it'll take for this thing to fill up?
+0,111,26,SAM,A few more minutes.
+0,111,26,JACK,Yeah.
+0,111,26,PILOT OF DSRV,Approaching point of entry.
+0,111,26,JACK,"Next time we crash our brand new mothership, what do you say we do it in the tropics??"
+0,111,26,SAM,"Actually, Sir, it wouldn't make a difference. At this depth, all water's ice-cold."
+0,111,26,JACK,"Shallower water, then ... shallower."
+0,111,26,SAM,"Yes, Sir. I'll keep that in mind."
+0,111,26,JACK,Or we could just not crash at all. It would be nice to keep our nice new mothership more than a couple hours.
+0,111,26,SAM,"Yes, Sir."
+0,111,26,DAVIS,"Jacob, we could blow the door."
+0,111,26,DAD,"No, in such a confined space, the concussion would kill them."
+0,111,26,DAVIS,"They'll be dead if we don't! We can't leave them in there to drown, Jacob! We have to do som ---"
+0,111,26,DAD,"What the hell do you think I'm trying to do, Major?!?!"
+0,111,27,JACK,Your dad's cutting it a little clo ---
+0,111,28,DAD,I can't do it. Sam ... I'm sorry ...
+0,111,29,DAVIS,"What is that, Jacob?"
+0,111,29,DAD,The security protocol's been erased.
+0,111,30,DAD,"Jack, Sam! Come in!"
+0,111,30,TEAL'C,"Jacob, this is Teal'C. We are on board the ship."
+0,111,30,DAD,"Teal'C, Jack and Sam are in trouble! Main computer room."
+0,111,30,JONAS,That's 2 levels down this way.
+0,111,30,TEAL'C,Remain here.
+0,111,30,SEAMAN,"Yes, Sir."
+0,111,31,SAM,"Dad, this is Sam. We're"
+0,111,31,DAVIS,Yes!
+0,111,31,DAD,Thank God! Sam! You really had me worried!
+0,111,31,JACK,Tell him I take back everything I was thinking when I was underwater.
+0,111,31,SAM,"Whatever you did, it worked!"
+0,111,31,DAD,I didn't do anything! The security protocol erased itself.
+0,111,31,SAM,Wait a minute! How is that possible??
+0,111,31,DAD,I don't know.
+0,111,31,JACK,Who cares?? Let's go!
+0,111,32,TEAL'C,O'Neill.
+0,111,32,JONAS,You all right?
+0,111,32,JACK,"Ah, a little wet, little chilly. Knee gets a little stiff in cold water, you know?"
+0,111,32,TEAL'C,We have a rescue submarine docked with the ship.
+0,111,32,SAM,We can't leave yet.
+0,111,32,JACK,"Yes, we can."
+0,111,32,SAM,"No, Sir. Something else is definitely going on here."
+0,111,32,WALTER DAVIS,"Sir ... we just got a message from the task force. DSRV pilot reports they made contact, and SG-1's OK, but Dr.Frieson's dead."
+0,111,32,HAMMOND,Did they get them off the ship?
+0,111,32,W.DAVIS,Not yet. They're staying aboard for some reason.
+0,111,33,DAVIS,"It's definitely a voice. Give me a second, I'll see if I can clean it up."
+0,111,33,JONAS,Why would it be so distorted?
+0,111,33,DAD,Anubis probably tried to shut it off.
+0,111,33,JACK,Carter??
+0,111,33,SAM,"Well, the security program that locked us in that corridor didn't just shut down by itself."
+0,111,33,DAD,You think this virus that THOR left in the ship's computer is acting intelligently?
+0,111,33,SAM,"If that door hadn't have opened, Colonel O'Neill and I would have drowned."
+0,111,33,JONAS,It knows who you are.
+0,111,33,DAVIS,I got it!
+0,111,35,TEAL'C,
+0,111,35,SAM,"Sir, maybe what we've been calling a virus isn't a virus at all! Maybe it's"
+0,111,35,JACK,We got him off this ship months ago.
+0,111,35,SAM,"Not before Anubis was able to download his mind into the computer core. Now, If his consciousness remained intact, he would be an independent entity operating within the system."
+0,111,35,DAD,His mind took control of the vessel.
+0,111,36,SAM,"Sir, the Asguard said that THOR was on life support, and there was little chance that he'd come out."
+0,111,36,JACK,So?
+0,111,36,SAM,"So, if that we can download his consciousness from the computer, the Asguard can transfer it into a new cloned body."
+0,111,36,DAD,"If that's what you want to do, Sam, you'd better move fast. The computer core isn't flooded yet, but it's only a matter of time."
+0,111,36,DAVIS,"Wait a second ... if THOR really in control of this ship, then he is the only thing keeping the self-destruct on hold, and if we remove that consciousness ... the countdown will start up again."
+0,111,36,SAM,How much time will we have left when the countdown resumes?
+0,111,36,TEAL'C,Approximately 17 minutes.
+0,111,36,SAM,That gives us plenty of time to get out of here after we've gotten THOR.
+0,111,36,DAVIS,"I know THOR was a friend of yours, but this is a Goa'uld mothership! If we allow it to blow up, they'll be nothing left to salvage."
+0,111,36,DAD,"Jack, this ship us never going to fly again. I'd say having the Supreme Commander of the Asguard Fleet owe you one is more valuable."
+0,111,36,JACK,"Yeah ... Alright! Next mothership, we keep, OK??!! Jonas, take Davis and Jacob back to the Sub, wait for us there."
+0,111,36,JONAS,"Colonel, I'd like to assist Major Carter"
+0,111,36,JACK,Jonas ---
+0,111,36,JONAS,I'll take them back to the sub.
+0,111,36,JACK,Thank you.
+0,111,37,SAM,Here he is!
+0,111,38,JACK,"You sure you got ALL of him in there? He's a smart guy, you know?"
+0,111,39,TEAL'C,The self-destruct has been reactivated.
+0,111,39,JACK,Let's go!
+0,111,40,TEAL'C,This door should not be closed.
+0,111,40,JACK,Dang.
+0,111,40,SAM,The corridor must have flooded.
+0,111,40,JACK,Jacob?
+0,111,40,DAD,"Yeah, what's going on?"
+0,111,40,JACK,Our exit is blocked. We need another way around.
+0,111,40,DAD,"Jack! All the other passageways into the section were already flooded. There IS no other way around! Jack, I'm going back to the Pel'Tac see if I can figure something out."
+0,111,40,JACK,"Negative. Get that sub to a safe distance, we'll think of something."
+0,111,40,DAD,understood.
+0,111,40,JACK,I got nothing. How are you doing?
+0,111,40,SAM,"Sir, there's only one way off this level."
+0,111,40,TEAL'C,The glider bays.
+0,111,40,JACK,We can do that?
+0,111,40,SAM,I have no idea.
+0,111,40,JACK,Okay.
+0,111,40,JONAS,(To seaman
+0,111,40,DAD,"jack, we're at the sub. What's your status?"
+0,111,40,JACK,"Here's our plan, Jacob. We're going to take a couple of gliders."
+0,111,40,DAD,"jack, A glider isn't designed to operate underwater."
+0,111,40,SAM,It's our only shot.
+0,111,40,DAD,"Uh, all right, all right. You'll have to activate the compartment's forcefield to stop the flooding. Now, those systems went off-line after the crash."
+0,111,40,SAM,I know. I'm trying to reroute the power from here.
+0,111,40,JONAS,What is it?
+0,111,40,DAD,"Glider bays have force fields that allow ships to go in and out without having to depressurize the compartment. If she can't get it on-line, she won't be able to open the doors without flooding the hanger."
+0,111,40,JONAS,Right!
+0,111,40,DAD,Sam ?? ---
+0,111,40,JACK,"Jacob, I want you to get that sub to a minimum safe distance."
+0,111,40,DAD,Understood. Let's go.
+0,111,40,JONAS,There's an auxiliary control panel on this deck. I could reroute the power from there.
+0,111,40,DAD,How do *YOU* know?
+0,111,40,JONAS,"Cause I've gone over the schematics of the motherships a dozen times, and I'm a very quick study."
+0,111,40,DAD,"Yeah. Well, where is it?"
+0,111,40,JONAS,Don't wait for me.
+0,111,40,DAD,"All right, now --- Jonas!"
+0,111,41,JACK,"No pressure, Carter. Plenty of time."
+0,111,41,TEAL'C,"On the contrary, O'Neill ---"
+0,111,41,JACK,Lots and LOTS of time!
+0,111,41,SAM,"Yes, Sir."
+0,111,41,DAD,Jack ---
+0,111,41,JACK,"Jacob, would you PLEASE get out of here?"
+0,111,41,DAD,"We are, but Jonas went back to try to get the force field back online from a relay panel on this deck. Listen ... good luck!"
+0,111,42,JONAS,Okay ...
+0,111,44,JACK,What'd he say?
+0,111,44,TEAL'C,"We are being advised that in approximately 7 minutes, the ship will be destroyed."
+0,111,44,JACK,"Ah, see? Plenty of time."
+0,111,44,SAM,This terminal isn't tied into the primary system. I can't reroute the power from here.
+0,111,45,SAM,The force fields just came on-line.
+0,111,45,JACK,Nice!
+0,111,45,SAM,It wasn't me!
+0,111,45,TEAL'C,Jonas!
+0,111,47,JONAS,Wait! Did it work??
+0,111,47,JACK,We're about to find out.
+0,111,48,TEAL'C,Powering engines.
+0,111,49,JACK,"Listen, if we don't survive this ... thanks."
+0,111,49,JONAS,You're welcome.
+0,111,49,SAM,Opening glider bay doors.
+0,111,50,JACK,Nice! Hang on! Oh-Ho! Everybody all right
+0,111,50,SAM,"Yes, Sir. We're fine."
+0,111,50,DAD,"This is Jacob. We're a little seasick down here, but we're in one piece, too."
+0,111,50,JACK,Glad to hear it.
+0,111,50,DAD,What about Jonas?
+0,111,50,JACK,
+0,111,50,JONAS,First time in a death glider.
+0,111,50,JACK,"Oh, well ..."

@@ -1,0 +1,381 @@
+Season,Episode,Scene,Character,Line
+0,171,0,STARGATE SG1,Episode 819
+0,171,0,"""MOEBIUS I""",By Joseph Mallozzi & Paul Mullie Transcribed by
+0,171,1,CARTER,The Daedalus. It has a few advantages over the Prometheus. The more advanced alien technologies were integrated into the original design rather than tacked on after the fact.
+0,171,1,DANIEL,Whens it gonna be ready?
+0,171,1,CARTER,"Well, theyre already testing the Asgard hyperdrive. As soon as that checks out, it should be good to go."
+0,171,1,DANIEL,Hopefully we all get to go this time.
+0,171,1,CARTER,Last time they were worried about spreading our resources too thin.
+0,171,1,DANIEL,"Yeah - now that Anubis is gone, the Replicators are gone ..."
+0,171,1,CARTER,"There are still a few System Lords out there but without their Jaffa armies, theyve lost most of their power."
+0,171,1,TEALC,Indeed.
+0,171,1,CARTER,"Carter. ... Yeah, hold on. Its for you."
+0,171,2,DANIEL,"Hello? ... Yep, hi. ... What? ... No, I was just talking to her last week. ... Yeah, I-I-Ill be there. Thank you."
+0,171,2,CARTER,What is it?
+0,171,2,DANIEL,Catherine Langford died last night.
+0,171,3,DANIEL,"Catherine Langford was more than just kind and generous. She had a gift - of an endless, open-minded, child-like curiosity. She saw the world not for what it was but for what it could be - and she saw potential in people that others failed to recognise. Like her father before her, her contributions to science have changed the world more than most people know. I for one have no idea where I would be today if Id never met her. She changed my life in more ways than I ever could have imagined."
+0,171,4,SABRINA,"Uh, Doctor Jackson? Hi."
+0,171,4,DANIEL,Hi.
+0,171,4,SABRINA,Im Sabrina Gosling. Im Catherines niece.
+0,171,4,DANIEL,"Oh, yes, of course."
+0,171,4,SABRINA,I just wanted to thank you for coming - and for speaking. I know she would have really appreciated it.
+0,171,4,DANIEL,"No, it was a ... it was an honour."
+0,171,4,SABRINA,"You know, my aunt used to talk about you all the time. Its funny - I always used to picture some Indiana Jones type with a bullwhip and a pistol chasing bad guys through some ancient temple!"
+0,171,4,DANIEL,"Yeah, well, I generally leave the whip at home, so ..."
+0,171,4,SABRINA,"Right, well, me too. Um, she, uh, wanted you to have this."
+0,171,4,DANIEL,"No, youre-youre family, you-you should keep that."
+0,171,4,SABRINA,She thought of you like a son.
+0,171,4,DANIEL,Thank you.
+0,171,4,SABRINA,"There are a few other odds and ends she wanted me to give you, but I wasnt able to bring them today. Is there an address where I could send them?"
+0,171,4,DANIEL,"Yeah, of course."
+0,171,4,SABRINA,Great.
+0,171,5,DANIEL,Jack?
+0,171,5,ONEILL,Daniel.
+0,171,5,DANIEL,Whats goin on?
+0,171,5,ONEILL,You been shoppin online lately?
+0,171,5,DANIEL,What are you talkin about?
+0,171,5,ONEILL,"Well, youve got a little delivery here."
+0,171,5,DANIEL,Its from Catherines estate.
+0,171,5,ONEILL,Yeah - kinda looks like she sent the whole thing.
+0,171,6,DANIEL,Holy ...! Looks like her entire collection!
+0,171,7,ONEILL,I prefer stamps.
+0,171,8,BALINSKY,"Now, in addition, we discovered several grains of troilite, and a meselstasis phase which contained micrometer crystals."
+0,171,8,ONEILL,Mmmmm!
+0,171,8,BALINSKY,"Now, its undergoing further testing but we hope to have the results on your desk first thing tomorrow morning."
+0,171,8,ONEILL,Dont you keep me waiting!
+0,171,8,BALINSKY,"No, sir! Now, heres where things get really interesting, because you will notice in this ..."
+0,171,9,DANIEL,"Jack! We need to talk! Oh, sorry for interrupting."
+0,171,10,ONEILL,"No! Its OK. If its important, you must interrupt. You must."
+0,171,10,DANIEL,I think we may have found a ZPM.
+0,171,10,ONEILL,Yes! Great stuff with the rocks. Go!
+0,171,11,DANIEL,"Among the items Catherine left me, this one in particular caught my attention. Its an original 1889 edition of The Eye of the Sun. Its, uh, the only one in known existence. It details the customs and the rituals observed by the ancient worshippers of the sun god, Ra. Now, while I was flipping through the pages, I noticed this."
+0,171,11,TEALC,It appears to be a Zero Point Module.
+0,171,11,DANIEL,The worshippers of Ra referred to it as the Heart of Light. This is a reproduction of a wall painting discovered by a German archaeologist in 1885. It was destroyed in a museum fire ten years later.
+0,171,11,CARTER,But the ZPM was never found.
+0,171,11,DANIEL,No.
+0,171,12,CARTER,"We did an extensive satellite sweep of the Giza plateau searching for an energy signature like the one given off by the ZPM we found at Taonas. Even if its buried under dirt and rock, we should have been able to detect it. We found nothing. Im sorry, Daniel, but if its there, its probably been depleted."
+0,171,12,DANIEL,"No, I dont think so. According to the text, it was a religious artefact, an icon. It was never used as a power source."
+0,171,12,TEALC,It is possible Ra simply took the device with him when he left Earth.
+0,171,12,CARTER,"In which case, it could be anywhere by now."
+0,171,12,DANIEL,"We dont know where it is now, but we do know where it was. Giza, three thousand"
+0,171,12,CARTER,You cant be serious.
+0,171,12,ONEILL,What?
+0,171,12,DANIEL,Its the only way.
+0,171,12,ONEILL,What?
+0,171,12,CARTER,"No, we agreed."
+0,171,12,ONEILL,"If I have to say What? one more time, heads are gonna roll!"
+0,171,12,DANIEL,We have a time ship. We can go back and get the ZPM.
+0,171,12,ONEILL,She wouldnt let me go back and watch the Cubs win the World Series!
+0,171,12,DANIEL,"Jack, this is a unique opportunity. Ra never knew what he had, which means we can go back and take it without adversely affecting the timeline."
+0,171,12,CARTER,"Actually, sir, he may be right about that."
+0,171,12,ONEILL,Youre onboard with this?!
+0,171,12,CARTER,"Im not happy about it, but we dont have any historical evidence to show that any Goauld has ever used a ZPM - in which case, it wouldnt be missed. We would have to be extremely careful to minimise our interaction with the people of the period."
+0,171,12,ONEILL,"Yeah, theres that. But I thought you said you couldnt get it to work?"
+0,171,12,CARTER,"No-one at Area 51 has been able to engage the time device. In fact, theyve barely got the ship off the ground, but you were able to fly it without too much difficulty."
+0,171,12,TEALC,Indeed. You have demonstrated an exceptional ability to control Ancient devices.
+0,171,12,DANIEL,"Jack, think about it: with a fully functional ZPM we could power Earths defences and open up a wormhole to the Pegasus galaxy."
+0,171,14,DANIEL,"Now remember, Jack, three thousand BC. When Sam hooks up the power to the time device, think about that date and nothing else."
+0,171,15,ONEILL,This things Ancient. Hows it gonna know from BC?
+0,171,15,CARTER,"Well, your mind is controlling it. The Ancient computer should be able to extrapolate from your concept of time."
+0,171,15,ONEILL,"Well, shouldnt we test it on a slightly smaller leap - like, say, to 1908?"
+0,171,15,CARTER,"Actually, sir, we were able to determine from the data log that the technology only works in time jumps longer than a couple of hundred years. I think thats it."
+0,171,15,DANIEL,Three thousand BC.
+0,171,15,ONEILL,Any particular day of this century for ya?!
+0,171,16,ONEILL,What happened?
+0,171,16,DANIEL,I didnt feel anything.
+0,171,16,CARTER,The time machine pulsed. Try the radio.
+0,171,17,DANIEL,"Stargate Command, this is Daniel Jackson, do you read? Stargate Command, this is Daniel Jackson, come in please."
+0,171,18,TEALC,The stars are different.
+0,171,18,CARTER,Earth was in a different orbit around the sun five thousand years ago. I think we did it.
+0,171,18,ONEILL,Huh!
+0,171,19,DANIEL,Cant believe Im finally gonna get proof that the Great Pyramids pre-date the fourth dynasty.
+0,171,19,CARTER,So what are you gonna do? Stand in the picture holding a newspaper with todays date?!
+0,171,19,DANIEL,This is an archaeologists dream. I wanna get as much footage as I can.
+0,171,19,CARTER,"Just be careful. Were here for the ZPM. In and out - minimal interaction, minimal impact."
+0,171,19,DANIEL,No problem.
+0,171,19,CARTER,"I mean it. All of you, sir."
+0,171,19,ONEILL,"Youve got it, youve got it!"
+0,171,19,CARTER,Youre gonna need this. Weve determined that it remotely activates the ships cloak.
+0,171,19,ONEILL,Nice!
+0,171,20,DANIEL,"Well, my ancient Egyptians a little rusty, but I think I got the gist of what theyre saying. Thats Katep and his brother Selatis."
+0,171,21,ONEILL,"Hey, guys!"
+0,171,21,DANIEL,Theyre on a pilgrimage to the temple of Ra to make an offering.
+0,171,21,ONEILL,"Oh, theres timing!"
+0,171,21,DANIEL,Tomorrow. I told them we were travellers from the east and they offered to put us up for the night.
+0,171,21,CARTER,I was kinda hoping we wouldnt have to stay that long. Im sorry - I keep thinking Im gonna step on a bug and change the future.
+0,171,21,DANIEL,"Well, we cant just walk into the temple unannounced. A public audience is the perfect way to get inside."
+0,171,21,CARTER,We just have to keep a low profile.
+0,171,22,ONEILL,"Yes. But more importantly, did they say what was for dinner?"
+0,171,23,JAFFA,Kree! Tellok!
+0,171,23,JAFFA,Shalka!
+0,171,23,RA,Rushnel. Rushnel jalna!
+0,171,23,DANIEL,I dont think he was too impressed with the offering.
+0,171,23,RA,Tamel akel maltal. Zara nak shon.
+0,171,23,DANIEL,He says he will not tolerate such disrespect from his followers.
+0,171,24,CARTER,Sir.
+0,171,24,ONEILL,Let me do it now - I wont have to do it in five thousand years.
+0,171,24,CARTER,You cant do that. Theres no telling what effect it might have.
+0,171,25,JAFFA,Kree! Reela nak!
+0,171,26,DANIEL,"Theres gotta be some sort of treasure room. If the ZPM is anywhere, itll be in there."
+0,171,28,ONEILL,You really think theyre gonna let him just waltz in and take it?
+0,171,28,DANIEL,"Well, like I said, they dont even know what a ZPM is. To them its like any number of dozens of ritualistic objects they pull out for any number of occasions. Besides, hes wearing the shiny suit."
+0,171,29,ONEILL,Good luck!
+0,171,30,ONEILL,"Cmon, T!"
+0,171,30,DANIEL,We would have heard something if he was in trouble.
+0,171,31,ONEILL,Nice!
+0,171,32,CARTER,Oh my God!
+0,171,32,ONEILL,"Alright, weve got a little problem here."
+0,171,32,DANIEL,Must have been a sandstorm during the night.
+0,171,32,TEALC,The Jaffa will soon call for reinforcements if they have not already done so. We must move quickly.
+0,171,33,CARTER,"Sir, we cant."
+0,171,33,ONEILL,Weve taken on more Jaffa than that.
+0,171,33,CARTER,You know what I mean. This is exactly the sort of high-impact event were supposed to avoid.
+0,171,33,TEALC,They have the ship. Will that not alter the future more than anything that we could do?
+0,171,33,CARTER,"Not necessarily. They dont know what it is, and even if they did, they cant use it. None of them have the gene - even Ra wont be able to make it work."
+0,171,33,DANIEL,So what are we supposed to do?
+0,171,33,CARTER,Nothing.
+0,171,33,ONEILL,Nothing?!
+0,171,33,CARTER,"Well, close to it."
+0,171,33,ONEILL,"No, heres a better idea: we take back our ship!"
+0,171,33,CARTER,"Sir, if we kill those Jaffa or, worse, get captured, we could alter the future immeasurably. If youre thinking we can go forward and then back again ..."
+0,171,33,ONEILL,Just a couple of days! Then we park that thing where nobody can find it.
+0,171,33,CARTER,"We alter this timeline, and the future is already different. We could set into motion a spiral of changes that we could never fix. Weve already done too much. Im sorry, sir - I should never have allowed us to do this."
+0,171,34,ONEILL,"So, what? We live out the rest of our lives here?"
+0,171,34,CARTER,"Well, we know theres gonna be a rebellion eventually. The human slaves rise up and Ra abandons Earth. Daniel learned that on Abydos nine years ago. When it happens, there is a chance that we could get the Jumper back without creating too big a ripple in the events of this timeline."
+0,171,34,ONEILL,When does that happen?
+0,171,34,DANIEL,I dont know the exact date - it could be years.
+0,171,34,ONEILL,What?! Years?!
+0,171,34,CARTER,"Sir, we dont have a choice."
+0,171,34,ONEILL,"Carter, what about the ZPM? I mean, if we wait, we lose any chance of getting it back to our time."
+0,171,34,CARTER,Preserving the timeline is more important.
+0,171,34,ONEILL,"For all you know, things could get better!"
+0,171,34,CARTER,Or they could be worse! We cant take that chance.
+0,171,34,DANIEL,"Well, I know a way we can get the ZPM back to our time even if we dont. About a month before we left, there was an archaeological dig that uncovered a first dynasty tomb near Giza. All we have to do is bury the ZPM in that tomb, let them find it, and maybe our future selves wont have to take on this mission!"
+0,171,34,CARTER,"Wow! Thats bizarre, but it just might work."
+0,171,34,ONEILL,"Carter, a lot of good people died when Anubis attacked Earth. I dont think their families would mind if we futzed with the timeline a little."
+0,171,34,CARTER,"Sir, I know this is hard for you; your instincts are to change things - make things better - but for once thats exactly what we cant do. We have to let things play out exactly the way theyre meant to."
+0,171,35,DANIEL,"English is, uh, a complex language - a hybrid of many different influences, much like the culture it represents. To understand it is to gain an insight into that culture and the process of integration that created it. OK - lets start with a simple greeting. Often the best way to begin interacting with someone is to find a topic of common interest. Everyone can relate to the weather, so lets start with that, shall we? Introduce yourself and talk about the weather! Yes."
+0,171,36,CARLOS,"Hello, my name is Carlos. You make me so hot."
+0,171,37,DANIEL,
+0,171,38,PRINCIPAL,"Daniel? Sorry to bother you, but there are some people here to see you."
+0,171,38,DANIEL,Scuse me for just one second. What kind of people?
+0,171,38,PRINCIPAL,Air Force people.
+0,171,38,CARTER,"This is totally unbelievable! You are a small and pathetic man! Those were my theories on spinwave technology and the effects of anti-gravity on electromagnetism and you know it! Now, just because my reproductive organs are on the inside instead of the outside doesnt ... God, thats horrible! Who would ever say that?!"
+0,171,39,HERSHFIELD,Carter. Who were you talking to?
+0,171,39,CARTER,No-one.
+0,171,39,HERSHFIELD,Were you talking to yourself?
+0,171,39,CARTER,No.
+0,171,39,HERSHFIELD,Have you proofread my review of the solid fuel rockets yet?
+0,171,39,CARTER,Im almost done. Good job!
+0,171,39,HERSHFIELD,"Thank you. Keep up the good work, Carter - youll be moving up around here."
+0,171,40,DAVIS,"Scuse me. Major Davis, United States Air Force."
+0,171,40,HERSHFIELD,Doctor Hershfield.
+0,171,40,DAVIS,I know who you are.
+0,171,40,HERSHFIELD,Whats this all about?
+0,171,40,DAVIS,Its a matter of national security. Im afraid Im not at liberty to discuss that here.
+0,171,40,HERSHFIELD,"Oh, of course. By all means. We can talk privately in my office."
+0,171,40,DAVIS,"Oh no, Im not here to talk to you. Id like to speak to Doctor Carter."
+0,171,41,CARTER,Me?!
+0,171,42,SAMUELS,Colonel ONeill.
+0,171,42,ONEILL,Samuels. You and the boys looking to charter a boat for the day?
+0,171,42,SAMUELS,"No, sir. Ive been sent by the Pentagon to escort you back to Washington."
+0,171,42,ONEILL,I could give a rats butt.
+0,171,42,SAMUELS,"Its a matter of national security, sir."
+0,171,42,ONEILL,Find someone else.
+0,171,42,SAMUELS,"We cant. It has to be you. Now, if youll allow me, Ill try and explain it on the way."
+0,171,42,ONEILL,"Sammy, it just doesnt sound like fun. Oh, God!"
+0,171,42,[TRANSCRIBERS NOTE,"for most of the rest of the episode, the main characters are these new alt-versions of our heroes. I dont like constantly using Alt-Daniel, Alt-Carter etc so will stick with their normal names until its necessary to differentiate between them and our usual heroes.]"
+0,171,43,DAVIS,"If youll just wait here, maam, General Hammond will be with you in a moment."
+0,171,43,DANIEL,Hi.
+0,171,43,CARTER,Hi.
+0,171,43,DANIEL,Doctor Daniel Jackson.
+0,171,43,CARTER,Doctor Samantha Carter.
+0,171,43,DANIEL,"Oh! Uh, PhD."
+0,171,43,CARTER,"Oh, me too. Astrophysics."
+0,171,43,DANIEL,"Oh, Egyptology."
+0,171,43,CARTER,You wouldnt happen to know why were here?
+0,171,43,DANIEL,"No. Five thousand years ago, maybe, but, uh, now, no. I was kinda hoping you did."
+0,171,43,CARTER,Sorry.
+0,171,43,DANIEL,I teach English as a second language.
+0,171,43,CARTER,Department of Aerospace.
+0,171,43,DANIEL,Oh!
+0,171,43,CARTER,"Oh, not as an astronaut. No, I, uh, I check other peoples scientific reports for factual errors or omissions before they get sent up to the Director."
+0,171,43,DANIEL,Thats ... interesting.
+0,171,43,CARTER,Yeah. Not really.
+0,171,44,HAMMOND,"Doctor Jackson, Doctor Carter - Im General George Hammond. Please."
+0,171,45,DANIEL,Whats this?
+0,171,45,HAMMOND,A non-disclosure agreement. What were about to discuss has been classified top secret by the United States government.
+0,171,46,DANIEL,What if we dont wanna sign it?
+0,171,46,HAMMOND,"Well then, youre free to leave."
+0,171,46,HAMMOND,"You have a background in archaeology, isnt that right, Doctor Jackson?"
+0,171,46,DANIEL,Thats right.
+0,171,46,HAMMOND,But your theories failed to gain much acceptance among your colleagues.
+0,171,46,DANIEL,You could say that.
+0,171,46,HAMMOND,Egyptian pyramids as landing pads for alien spacecraft.
+0,171,46,DANIEL,"I did not say that unequivocally. Um, I simply put forward the possibility that, based on the knowledge that ..."
+0,171,46,HAMMOND,"Its alright, Doctor, you dont have to defend your theories here. A month ago, a team of archaeologists from the University of Chicago uncovered an ancient Egyptian tomb near Giza. Inside, they found artefacts typical of the period, plus one or two objects that have yet to be identified - and a video camera."
+0,171,46,CARTER,A video camera?!
+0,171,46,HAMMOND,"It was perfectly preserved in a vacuum-sealed Canopic jar. The technology is somewhat different to what is commercially available today, but we managed to charge the battery. However, we didnt bring you here because we found the camera. We brought you here because of what had been recorded on the tape inside that camera."
+0,171,47,DANIEL,"I think thats right. OK, my name is Doctor Daniel Jackson. Im part of a team called SG-1 and we have just travelled back in time five thousand years."
+0,171,48,DANIEL,"See, the thing is, were not sure were gonna make it back. Um, the chamber where you discovered this tape should be discovered shortly before were set to leave - if the timeline hasnt changed at all. Lets see, what are some recent major events? Uh, communism recently failed in Eastern Europe. Um, they should be well on their way towards democracy by now. Henry Hayes is President. What else?"
+0,171,48,ALT-CARTER,Henry Hayes?!
+0,171,48,HAMMOND,Secretary of the Interior. President Kinsey was less than amused when he saw that portion of the tape.
+0,171,48,DANIEL,"Sam, help me out here. Um, Samantha Carter, Lieutenant Colonel, United States Air Force and a member of SG-1."
+0,171,48,CARTER,"Well, I suppose we should tell them about the Stargate."
+0,171,48,ALT-CARTER,Oh my God!
+0,171,48,ALT-DANIEL,Whats SG-1?
+0,171,48,HAMMOND,Watch.
+0,171,48,DANIEL,"Right. Colonel Carter and I work for an organisation known as Stargate Command. It is located under Cheyenne Mountain. Now, for the past eight years weve been regularly travelling through a large ring-shaped device known as the Stargate which should have been discovered in 1928 somewhere near where this tape was found."
+0,171,48,CARTER,"Now, by means of these offworld missions, weve managed to acquire a lot of advanced technology which has helped us protect Earth against several alien attacks."
+0,171,48,DANIEL,"If, for whatever reason, the things were talking about are not true, then it is possible that we have somehow inadvertently changed the future. Now, the purpose of this tape is to provide you with the tools you will need to go back in time and set things right. If, for whatever reason, the Stargate has not been discovered, you will have to find it and get it up and running. Uh, Jack, you should say something here."
+0,171,48,ONEILL,"No, no ..."
+0,171,48,DANIEL,We should all be here on the tape.
+0,171,48,CARTER,We have no way of knowing how things could have changed.
+0,171,49,ONEILL,"Uh, uh, General Jack ONeill, United States Air Force. How you doin?"
+0,171,49,DANIEL,Tell them about the future.
+0,171,49,ONEILL,"Uh, college football is played on Saturdays; pro on Sundays, - and there are no fish in my pond, at all, where I fish. Uh, I think that covers it for me."
+0,171,50,DANIEL,Did he say Stargate?
+0,171,50,CARTER,Time travel?!
+0,171,50,DANIEL,What else did the tape say?
+0,171,50,HAMMOND,"Details of the Stargate, SG-1, including a fourth member who appears to be some kind of humanoid alien."
+0,171,50,CARTER,"Are you telling us that in some alternate timeline, were part of a team that ... travels to other planets and defends Earth against alien invasions?"
+0,171,50,HAMMOND,I know. It seems difficult to believe.
+0,171,50,DANIEL,Wait-wait - what about the Stargate? Did you look for it?
+0,171,50,HAMMOND,We searched the co-ordinates provided on the tape but we didnt find anything. The area had already been excavated previously in 1934 by a Doctor Langford but he found nothing but a tablet inscribed with hieroglyphics that no-ones ever been able to translate. We were wondering if youd like to take a crack at it.
+0,171,50,DANIEL,Are you kidding?!
+0,171,51,DANIEL,Hey.
+0,171,51,CARTER,Hi.
+0,171,51,DANIEL,So - what dyou think of all this?
+0,171,51,CARTER,"To be honest, I dont know what to think. I mean, its pretty overwhelming."
+0,171,51,DANIEL,Yeah.
+0,171,51,CARTER,"Time travel is theoretically possible. Theres been a lot of research in the area of quantum gravity which suggests that time flows like rotating fluid within our galaxy, technically allowing the traveller to journey backward and forward at will but theres a huge amount of energy required."
+0,171,52,DANIEL,"Actually, I was talking about us - the other us. I guess you could call it the us were supposed to be. I mean, seriously, didnt you always think that you were destined for something more - I mean, something a hell of a lot more fulfilling than a nine to five desk job?"
+0,171,52,CARTER,I suppose.
+0,171,52,DANIEL,"I dont know, I just always felt like my life was wrong."
+0,171,52,CARTER,"Well - life is what you make it, you know, for better or worse."
+0,171,52,DANIEL,"Well, look at this as a way to change everything - if we help them find this - this Stargate."
+0,171,52,CARTER,What do you think theyre gonna do - ask us to join an elite team of intergalactic space heroes?! Look at us! The only reason that they showed us the tape is because were on it.
+0,171,52,DANIEL,Exactly!
+0,171,52,CARTER,Oh.
+0,171,53,DANIEL,
+0,171,54,TEALC,Daniel Jackson.
+0,171,54,DANIEL,What?
+0,171,54,TEALC,I believe the battery is about to expire.
+0,171,54,DANIEL,
+0,171,54,HAMMOND,Hows that for timing?!
+0,171,54,DANIEL,"Uh, this ZPM was recovered along with the tape?"
+0,171,54,HAMMOND,Yes. We have a team of scientists studying it as we speak. Hows the translation coming?
+0,171,54,DANIEL,Oh! Its an obscure dialect - I can see why your experts had trouble.
+0,171,54,HAMMOND,But?
+0,171,54,DANIEL,"But its almost as if the person who chiselled this tablet knew my research. You see, in 2995 BC, about five years after the team on this tape arrived in the past, there was an uprising. The ancient Egyptians rebelled against the sun god Ra - or at least someone who they believed to be an impostor. Now apparently, whoever this impostor was, he left in a great flying ship, uh, and took the Stargate with him."
+0,171,54,HAMMOND,That is unfortunate.
+0,171,54,DANIEL,"Yeah, but the tablet makes reference to a location where there might be a second Stargate here on Earth."
+0,171,54,HAMMOND,Where?
+0,171,54,DANIEL,Oh. Im still workin on that.
+0,171,54,HAMMOND,"Thank you, Doctor. I look forward to your report."
+0,171,54,DANIEL,"Uh, General, um, if its alright with you, Id like to join the expedition to find the second Gate."
+0,171,56,DANIEL,You were right. Theyre gonna shut us out.
+0,171,56,CARTER,Cant say Im surprised.
+0,171,56,DANIEL,"I still havent finished the entire translation yet, which means we still have some leverage."
+0,171,56,CARTER,What else does it say?
+0,171,56,DANIEL,It says the second Stargate is somewhere in Antarctica.
+0,171,56,CARTER,Somewhere in Antarctica?!
+0,171,56,DANIEL,"Well, it doesnt even say that, it says the land of the cold in the south which Im guessing means Antarctica."
+0,171,56,CARTER,Its a big place - lots of ice.
+0,171,56,DANIEL,"Yeah, Im guessing whoever wrote the tablet didnt have a way of explaining latitude and longitude in ancient Egyptian hieroglyphs."
+0,171,56,CARTER,"Well, at least youre still useful to them. I dont know why theyre keepin me around."
+0,171,56,DANIEL,"Whoa - Im not gonna let them shut you out either. I mean, were supposed to be a team. We have to stick together."
+0,171,56,CARTER,"Thats nice, really."
+0,171,56,DANIEL,Yeah. We need someone whos willing to go to bat for us - someone they cant say no to.
+0,171,57,ONEILL,You folks lookin for a little tour?
+0,171,57,DANIEL,Jack ONeill?
+0,171,57,ONEILL,Yeah.
+0,171,57,DANIEL,"Uh, Im Daniel Jackson, this is Samantha Carter."
+0,171,58,ONEILL,You two a couple?
+0,171,58,DANIEL,"No! No, no, we just - we just met."
+0,171,58,ONEILL,What do you want?
+0,171,58,CARTER,"Well, uh ... we were recently approached by the military about a, uh, a matter of, um, national security."
+0,171,58,ONEILL,Dont care.
+0,171,58,DANIEL,This is really important - all were asking is a little bit of your time.
+0,171,58,ONEILL,A hundred and fifty bucks an hour to rent the boat.
+0,171,58,DANIEL,We dont wanna go anywhere.
+0,171,58,ONEILL,Its your money.
+0,171,59,DANIEL,So ultimately what we have to do is this: we have to find the Stargate and then get hold of this time travel device.
+0,171,59,CARTER,Locate this alien named Tealc.
+0,171,59,DANIEL,"Right - get Tealc first, then go back in time to change the past and fix the future. Are you listening?"
+0,171,59,ONEILL,I was tryin not to.
+0,171,59,DANIEL,"Yeah, I suppose it does sound a little crazy."
+0,171,59,ONEILL,Really? Which part? I have to say: the moment I let you on board.
+0,171,59,CARTER,You dont have to believe us. All we ask is that you watch the tape and decide for yourself.
+0,171,59,ONEILL,"You know, I have decided and, hey, look, your times up!"
+0,171,59,DANIEL,Arent you - arent you the least bit intrigued that there might be something else out there somewhere? Something more than this?
+0,171,60,ONEILL,No.
+0,171,60,DANIEL,Were supposed to be a team. We saved the world.
+0,171,60,CARTER,Several times!
+0,171,60,ONEILL,"Yeah. OK. Sure! I buy that! Uh-huh! The three of us - the world - we save it, right? OK!"
+0,171,60,CARTER,I cant believe I wasted my frequent flier miles on this.
+0,171,61,DANIEL,Sorry to bother you.
+0,171,61,ONEILL,Not a problem.
+0,171,61,ONEILL,Ah! Ah!
+0,171,61,ONEILL,"No worries, eh?"
+0,171,62,CARTER,Do you have any idea whats going on?
+0,171,63,DAVIS,"Doctor Carter, Doctor Jackson."
+0,171,63,CARTER,"Major, whats this about?"
+0,171,63,DANIEL,Did you find the second Stargate?
+0,171,63,DAVIS,"No, we didnt, but we decided to show you something else. Airmen?"
+0,171,64,DANIEL,Woah!
+0,171,64,DAVIS,We think this was the ship SG-1 used to travel back in time.
+0,171,64,CARTER,Where did you find it?
+0,171,64,DAVIS,It was uncovered during an excavation of the area around the tomb where the tape was found. Please.
+0,171,64,CARTER,This is incredible! Is it operational?
+0,171,64,DAVIS,Not yet.
+0,171,64,CARTER,"According to the tape, Jack ONeill had the special gene that makes him able to fly this thing."
+0,171,65,DANIEL,These are constellations.
+0,171,65,CARTER,The tape said that this was able to go through the Stargate as well as time travel.
+0,171,65,DANIEL,So this must be what dials the Gate.
+0,171,66,MCKAY,"Dont touch anything, please! Leave the touching to the experts."
+0,171,66,DAVIS,Doctor Rodney McKay - hes the lead scientist on the project.
+0,171,66,MCKAY,Hi.
+0,171,66,DAVIS,"This is Doctor Carter, Doctor Jackson."
+0,171,67,MCKAY,Pleased to meet you.
+0,171,67,DAVIS,We were hoping they may be of assistance to you.
+0,171,68,MCKAY,"Hmm, yes. Well, thank you."
+0,171,68,DAVIS,"Ill leave you to it, then."
+0,171,68,CARTER,"So, did you try dialling the Stargate address that the Daniel Jackson on the tape mentioned?"
+0,171,68,MCKAY,No. Why would we do that?
+0,171,68,CARTER,"Well, just to see ..."
+0,171,68,MCKAY,Of course we tried. Its called sarcasm. We tried the address numerous times - nothing happened.
+0,171,68,DANIEL,Did you try any other combinations?
+0,171,68,MCKAY,Im sorry - what are your areas of expertise?
+0,171,68,CARTER,Astrophysics.
+0,171,68,DANIEL,Archaeology.
+0,171,68,MCKAY,And I would listen to you because ...?
+0,171,68,CARTER,Were on the tape.
+0,171,68,MCKAY,Now you - you I would listen to if you were reading the phonebook.
+0,171,68,CARTER,"Oh, brother!"
+0,171,68,MCKAY,"You see, I love this whole sexy librarian thing. Look, why dont I take you to lunch, get you up to speed. I hear its lemon chicken today - its my favourite, hmm? Got a lot to talk about."
+0,171,70,CARTER,Daniel! Is he behind me?
+0,171,70,DANIEL,Who?
+0,171,70,CARTER,"McKay. Oh, thank God! I think I lost him. The guy is driving me nuts!"
+0,171,70,DANIEL,Any progress with the ship?
+0,171,70,CARTER,"Well, the technology is way beyond us, but I do have something - it could be big."
+0,171,70,DANIEL,What?
+0,171,70,CARTER,Remember how McKay said that they tried dialling the Stargate address several times and nothing happened?
+0,171,70,DANIEL,Yeah.
+0,171,70,CARTER,I started thinking. Nothing happened here.
+0,171,71,DAVIS,What have you got?
+0,171,71,DANIEL,Were waiting to see General Hammond.
+0,171,71,DAVIS,Hes busy. Why dont you tell me - Ill decide if its worth interrupting him.
+0,171,72,CARTER,I cross-referenced our previous attempts to dial the Gate with some recent seismic activity in Antarctica. Theyre a perfect match. The epicentre in all eight cases was exactly the same - approximately fifty miles outside of McMurdo. That is where youll find your second Gate.
+0,171,72,DANIEL,Worth it?
+0,171,72,DAVIS,Scuse me.
+0,171,73,CARTER,"General, you wanted to see us ..."
+0,171,73,HAMMOND,It was exactly where you said it would be. Good work.
+0,171,73,CARTER,"Thank you, sir."
+0,171,73,HAMMOND,I want you both to know that your help on this project was most appreciated. Your country owes you a debt of gratitude.
+0,171,74,DANIEL,But were not done yet.
+0,171,74,HAMMOND,"Actually, were not done. You two, however, have a plane waiting to take you home. Im sure I dont need to remind you of the details of the non-disclosure agreement."
+0,171,74,CARTER,"Wait a minute. You are gonna send a team through the Gate, arent you?"
+0,171,74,HAMMOND,Were assembling a team as we speak.
+0,171,74,DANIEL,"But you saw the tape - we are that team. I mean, if anybody should be going, its us!"
+0,171,74,HAMMOND,"Im sorry, Doctor Jackson, but neither you nor Doctor Carter possess the training or qualifications for a mission like this. Thats just the way it is."

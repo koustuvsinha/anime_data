@@ -1,0 +1,391 @@
+Season,Episode,Scene,Character,Line
+0,92,0,STARGATE SG1,Episode 506
+0,92,0,"""RITE OF PASSAGE""","By Heather E. Ash We begin with a lovely rectangle shaped cake with white icing, and the words ""HAPPY BIRTHDAY CASSANDRA"" written on it. A woman is lighting the last of 16 candles. Camera pans out ... it's Janet with Sam right next to her."
+0,92,0,JANET,"Cassandra?! I'm not imagining it, I mean she WAS here ... was she not?"
+0,92,0,SAM,Yeah! For almost the entire time she was opening her presents.
+0,92,0,JANET,Cassie!?
+0,92,0,JANET,I thought you were wearing the top that Sam bought you.
+0,92,0,CASSIE,"Oh! Well, that's for school."
+0,92,0,SAM,Hey! Make a wish!
+0,92,0,JANET,Yeah.
+0,92,0,CASSIE,Dominique's waiting.
+0,92,0,JANET,Fine! Invite him in ... I'm sure he'd like to have a piece of Birthday Cake that Sam went _to_all_the_trouble_to ... bake.
+0,92,0,SAM,Buy.
+0,92,0,JANET,Bring!
+0,92,0,SAM,I'd love to meet him.
+0,92,0,CASSIE,You said I could *Go*.
+0,92,0,JANET,"Yeah, I did ... after."
+0,92,0,CASSIE,We're meeting a bunch of people.
+0,92,0,JANET,"You know, considering you haven't been feeling well, I think you're just lucky I even let you go out at all."
+0,92,1,FINE!,
+0,92,1,SAM,"You know, I could just ..."
+0,92,1,JANET,"Uuuhhh ... *SHE* is going to *HAVE* a piece of Birthday Cake, you just stay right where you are. Coffee?"
+0,92,1,SAM,Please.
+0,92,1,CASSIE,"They're NOT letting me leave yet, so, I mean if you want to meet up with everybody ..."
+0,92,1,DOMINIQUE,Wait a second ... here.
+0,92,1,CASSIE,Just like the ones in class.
+0,92,1,DOMINIQUE,"Yeah, well, you ... you said it was pretty, so ... This one's for decoration, so ... I thought you could put it in your room."
+0,92,2,DOMINIQUE,Cassandra?! HELP!
+0,92,2,SAM,What happened?!
+0,92,2,DOMINIQUE,Nothing! She just fell.
+0,92,2,JANET,"She's running a temperature. What was she doing when she ""Just fell"""
+0,92,2,DOMINIQUE,I ... I kissed her.
+0,92,2,SAM,You KISSED Her?!
+0,92,2,DOMINIQUE,"It's her birthday all right? Look, I'm telling you! The light just exploded, and she just ... passed out! That's what happened!"
+0,92,2,JANET,I want to get her to the infirmary. Get the car keys. Cass? Baby? Cassie? Cassie?
+0,92,3,JACK,How's she doing?
+0,92,3,SAM,Her fever still hasn't come down.
+0,92,3,JANET,Sam? I need to get a sample of your blood. Cassandra's bloodwork shows the presence of a retrovirus.
+0,92,3,JACK,Didn't she just get over the flu?
+0,92,3,JANET,"Well, whatever this is ... it isn't the flu."
+0,92,3,SAM,You think there's a causal relationship between the retrovirus and the EM field?
+0,92,3,JANET,Possibly.
+0,92,3,JACK,What?
+0,92,3,SAM,Cassandra's body is somehow generating a low lever electromagnetic field that's periodically spiking. That could be why the light exploded on the porch.
+0,92,3,JANET,And why I can't do an MRI to find out what other effects this retrovirus is having.
+0,92,3,CASSIE,Mom?
+0,92,3,JANET,I'm here.
+0,92,3,CASSIE,I couldn't finish the harvest.
+0,92,3,JANET,That's OK.
+0,92,3,CASSIE,I have to go into the forest.
+0,92,3,SAM,"It's OK, Cassie."
+0,92,4,HAMMOND,Do I need to put the base under quarantine?
+0,92,4,JANET,"I don't think it's contagious, Sir. Major Carter and I show no evidence of the retrovirus in our blood."
+0,92,4,HAMMOND,Then where did Cassandra contract it?
+0,92,4,JANET,I'm guessing her home planet.
+0,92,4,TEAL'C,Cassandra has not been to that planet in several years.
+0,92,4,JANET,"Retroviruses can exist in the body for years undetected before the symptoms first appear. When it does emerge, it begins to rewrite the individual's DNA in order to replicate. I've compared this one with every retrovirus on record, and it doesn't match any of them."
+0,92,4,SAM,"So, there's obviously no vaccine."
+0,92,4,JANET,"I've been giving her antiviral medications, but new tests show it's spread to her cerebral spinal fluid. At this moment, I'm more concerned with brain damage."
+0,92,4,DANNY,I was just going thru the reports of SG-7 from P8X-987 ...
+0,92,4,JACK,Morning.
+0,92,4,DANNY,"Morning! In the three months on Cassandra's planet, SG-7 witnessed 2 instances of high fever and hallucination in teenagers Cassandra's age. The villagers called it the mind fire, I found some digital video footage ..."
+0,92,4,MAN,Alright this way! GO! SHe's frothing! ... what's WRONG with her?!
+0,92,4,DANNY,There's more ... you get the idea.
+0,92,4,SAM,How did they treat it?
+0,92,4,DANNY,
+0,92,4,JACK,What happened to them?
+0,92,4,DANNY,"There were send alone in the forest near the village , and after several days they came back ... CURED."
+0,92,4,HAMMOND,How?
+0,92,4,DANNY,
+0,92,4,JANET,Cassandra talked about going into the forest.
+0,92,4,JACK,She was delirious.
+0,92,4,SAM,"Well, it's worth checking out, Sir."
+0,92,4,TEAL'C,"Where we were last on P8X-987, the air was contaminated by the Goa'Uld Nurrti."
+0,92,4,SAM,"Well, that ... that was 4 years ago. The contaminate could be non persistent. Well, we can send a MALP to be sure."
+0,92,4,JACK,Sir?
+0,92,4,HAMMOND,It's worth a try.
+0,92,5,DANNY,"Well, there's something."
+0,92,5,JACK,It's a hand print.
+0,92,5,TEAL'C,A fire burned here.
+0,92,5,SAM,Maybe we should collect some samples of the local vegetation. I mean it's possible there might be a natural cure around here.
+0,92,5,JACK,Yeah! Let's collect some of that ... flora.
+0,92,6,JACK,Hello.
+0,92,7,JACK,Carter? Daniel?
+0,92,7,TEAL'C,I believe we are in a Goa'Uld laboratory.
+0,92,7,JACK,*Whose*? Do you think?
+0,92,7,TEAL'C,Nurrti.
+0,92,7,JACK,Yeah.
+0,92,8,DANNY,"You guys, it's ... just us."
+0,92,8,SAM,"So, where are we?"
+0,92,8,TEAL'C,I believe we are in the laboratory of Nurrti.
+0,92,9,SAM,"You know, Sir. This is where the children ended up and ..."
+0,92,9,DANNY,... You're right about THAT.
+0,92,9,JACK,She didn't finish her sentence.
+0,92,9,DANNY,"This place is what the initiation rite was all about. Children suffering from the mind fever wander into the forest, it gets dark, they are drawn to the hand print on the tree, the warm fire, and the rings sweep them to this lab ..."
+0,92,9,SAM,And then they come back cured.
+0,92,9,JACK,Nurrti cured them?
+0,92,9,SAM,"Yeah, it makes sense."
+0,92,9,JACK,"No, it doesn't."
+0,92,9,TEAL'C,Indeed. It seems a plausible explanation.
+0,92,9,JACK,
+0,92,9,DANNY,"Well, if I'm reading this right, it was part of some sort of experiment she was conducting."
+0,92,9,JACK,"Now, See? THAT sounds like a Goa'Uld."
+0,92,9,TEAL'C,"The last we saw of Nurrti, she was a prisoner of the System Lords."
+0,92,9,DANNY,"Which means she's in no position to ... help us ... even if she ... would. Oh, boy. I did that."
+0,92,10,JACK,Let's take it with us.
+0,92,11,JANET,Cassie?! Cassandra?! What are you doing?!
+0,92,11,CASSIE,I have to go ...
+0,92,11,JANET,"Honey, you're not well enough to go anywhere!"
+0,92,11,CASSIE,
+0,92,11,JANET,
+0,92,11,CASSIE,You're NOT my mother!
+0,92,11,JANET,"O-Kay, then what HAVE I been to you these last few years?"
+0,92,11,CASSIE,You don't UNDERSTAND!
+0,92,11,JANET,
+0,92,11,CASSIE,
+0,92,11,JANET,
+0,92,11,CASSIE,Don't you get it? It doesn't matter!
+0,92,11,JANET,"It's the only thing that matters, please! Let me try and help you."
+0,92,11,CASSIE,"You can't! If you wanna help me, then"
+0,92,11,JANET,
+0,92,12,CASSIE!!!!,
+0,92,12,CASSIE,"No,no,no,no,no,no,no,no,no,no,no! Let me go, let me go, let me go!"
+0,92,12,JANET,I can't do that!
+0,92,12,CASSIE,You're KILLING ME!!!!!!!
+0,92,13,HAMMOND,Major?
+0,92,13,SAM,"Colonel O'Neill wanted me to report back, Sir. Daniel and Teal'C wanted more time to search the lab."
+0,92,13,HAMMOND,Let's hope they find something.
+0,92,13,SAM,Is she getting worse?
+0,92,13,HAMMOND,You should see for yourself.
+0,92,13,JANET,We had to move her in here.
+0,92,13,SAM,She's still running a fever?
+0,92,13,JANET,"Seems to have piqued, but her bloodwork says otherwise. There's no antibodies. No indication that her body's fighting this retrovirus."
+0,92,13,SAM,Does she know what's happening to her?
+0,92,13,JANET,She seems determined to go back to the planet. I don't know if that is instinctual or a side effect of this retrovirus.
+0,92,13,SAM,What are we gonna tell her?
+0,92,13,JANET,"Hey, how are you feeling? Any better?"
+0,92,13,CASSIE,Why are you keeping me in here?
+0,92,13,JANET,"We have to. Your body is generating something called an EM field, see? You can see the effect it's having on the monitors here, so, this room is shielded from the rest of the base."
+0,92,13,CASSIE,If you let me go back to the planet then this won't happen anymore.
+0,92,13,JANET,That's not true.
+0,92,13,CASSIE,You don't know that. You don't know anything. You're just keeping me here because you're afraid.
+0,92,13,SAM,We found the place where the initiation rite was supposed to happen.
+0,92,13,CASSIE,Then let me go there.
+0,92,13,JANET,We think the place in the forest that you've been drawn to leads to a Goa'Uld laboratory. One that belonged to Nurrti.
+0,92,13,CASSIE,Who killed everyone in my village.
+0,92,13,SAM,Yeah.
+0,92,13,JANET,She also tried to use you to kill all of us.
+0,92,13,SAM,We think she was using your initiation ritual to conduct experiments on the children of your planet.
+0,92,13,CASSIE,Why?
+0,92,13,SAM,We don't know.
+0,92,13,JANET,It's possible that the retrovirus you're carrying is part of the experiment.
+0,92,13,CASSIE,What ... was the experiment?
+0,92,13,JANET,"All we know so far is that this retrovirus is changing the way your cells generate electrical fields. So, your body is generating heat, and your EEG is showing that your brain activity is increasing."
+0,92,13,CASSIE,"You ... don't know why, do you?"
+0,92,13,SAM,No.
+0,92,13,CASSIE,And now she's gone.
+0,92,13,SAM,"Yes, she is."
+0,92,13,CASSIE,"So, we won't be able to stop it."
+0,92,13,JANET,We didn't say THAT.
+0,92,14,JACK,What's this for?
+0,92,14,TEAL'C,What do YOU think it is for?
+0,92,14,DANNY,Evolution.
+0,92,14,JACK,What?
+0,92,14,DANNY,"Of the Ho ... Hok .... Tar ...Hok'Tar ... Teal'C, what is the Hok'Tar?"
+0,92,14,TEAL'C,I have not heard that word in many years
+0,92,14,DANNY,"Well, it's in reference to the children that underwent the initiation rites, so it obviously had something to do with the children ..."
+0,92,15,JACK,Hello.
+0,92,15,DANNY,"Oh, sorry, guys. I may have just done that."
+0,92,15,JACK,Do it again! It's time to go.
+0,92,17,SAM,"Hey, Kiddo. It's Saturday."
+0,92,17,CASSIE,So?
+0,92,17,SAM,"So, every other Saturday, at least while I'm on Earth, we play chess. And since I'm on Earth, and it's Saturday ..."
+0,92,17,CASSIE,I know what's happening to me.
+0,92,17,SAM,"Oh, OK ... What?"
+0,92,17,CASSIE,I'm changing ... into something ... and there nothing you can do to stop it.
+0,92,17,SAM,Hmn ... you know how me and you mom feels when someone issues a challenge like that.
+0,92,17,CASSIE,Doctor Frasier isn't my real mother. She DIED ! When Nurrti poisoned my village.
+0,92,17,SAM,"I know that. Janet knows that, too ... and please! DON'T call her Doctor Frasier."
+0,92,17,CASSIE,Why?
+0,92,17,SAM,"Because she LOVES you, and she deserves better. We ALL love you for that matter."
+0,92,17,CASSIE,That doesn't ... change ... anything.
+0,92,17,SAM,"Well, you're wrong about that."
+0,92,17,CASSIE,It's different. I'm ... different now. I can do things ...
+0,92,17,SAM,How did you do that?
+0,92,17,CASSIE,"I just ... thought it. I thought I wanted a knight, and it just ... flew into my hand. Jack calls 'em horses."
+0,92,17,SAM,"Yeah, well, that's Colonel O'Neill for you."
+0,92,17,CASSIE,He always pretends he's not as smart as he really is.
+0,92,17,SAM,"You know, if you take a close look, they really ARE horses."
+0,92,17,CASSIE,What do you see when you look at me now?
+0,92,17,SAM,"I see you ... and until your head starts spinning around, and probably even then, I will still see ... You."
+0,92,18,HAMMOND,How could she do that?
+0,92,18,JACK,Magnets. Magnets. Every one of those pieces have little tiny magnets at the bottom to ... hold it on the board like when you're driving so they don't rattle off ... anyway ... every one of those magnets has a little electrical field around it. That's how she was able to manipulate it. Magnets. They DO look like ... horses.
+0,92,18,JANET,"I have no idea how she was able to do it physiologically , Sir."
+0,92,18,DANNY,"Actually, Teal'C filled me in on something that might explain that. Hak'Tar is actually a hybrid of 2 Goa'Uld words ... Hak, which means advanced, and Tar which I believe is some sort of slang"
+0,92,18,JACK,For ... ?
+0,92,18,TEAL'C,Human.
+0,92,18,DANNY,"So, it's an advanced human ... HAk' Tau'ri. Anyway, Nurrti was studying the children of Hounka because she believed they were evolving into ... Hak'Tar."
+0,92,18,HAMMOND,"So, you're saying Cassandra is becoming some kind of advanced human?"
+0,92,18,JANET,And the retrovirus is the catalyst.
+0,92,18,TEAL'C,Such an advanced human represents a powerful host for the Goa'Uld.
+0,92,18,SAM,Which explains why Nurrti was conducting the experiments.
+0,92,18,DANNY,And it also explains why she exterminated the entire population when we came on the scene. She didn't want her ... experiment exposed.
+0,92,18,JANET,"Prior to our arrival on P8X-987, and for as long as SG-7 was there, none of the elders exhibited advanced intelligence or the ability to manipulate EM fields."
+0,92,18,SAM,"So, Nurrti created the retrovirus in an attempt to create her own host?"
+0,92,18,JANET,Seems inconceivable anyone could do something like that.
+0,92,18,DANNY,"Well, it never worked. According to all the reports, the children went into the forest sick, and came out well again. If this were some sort of ... transformation or evolutionary process, somewhere along the line, it was stopped."
+0,92,18,TEAL'C,By Nurrti.
+0,92,18,SAM,Why would she do that?
+0,92,18,JANET,"The retrovirus rewrites DNA. If the carrier died before they were able to pass on the altered genes to the next generation, evolution couldn't take place."
+0,92,18,SAM,So the experiment was long-term?
+0,92,18,TEAL'C,With each generation getting closer to becoming a true Hak'Tar.
+0,92,18,DANNY,"The question is ... how far along is Cassandra? I mean, what if she really is transforming into ... something ... else?"
+0,92,18,JACK,She thinks so.
+0,92,18,JANET,"Whatever she believes, her fever is still rising. Admittedly more slowly, and she seems to be able to handle it better but ... I can't control it."
+0,92,18,HAMMOND,Let's find the answers ... dismissed!
+0,92,19,JANET,Cassandra? What are you doing?
+0,92,19,CASSIE,It helps ... to do this.
+0,92,19,JANET,How?
+0,92,19,CASSIE,"It's like ... the heat is leaving my body, and going into the chess piece. You don't got a cure, have you?"
+0,92,19,JANET,No. We're still trying ...
+0,92,19,CASSIE,It's ALL RIGHT!
+0,92,19,JANET,"No, it's not. We may still learn something from the bio samples SG-1 brought back. There might be something there that'll help your body produce antibodies."
+0,92,19,CASSIE,
+0,92,19,JANET,Don't say that.
+0,92,19,CASSIE,It's going to happen anyways.
+0,92,19,JANET,You're ill.
+0,92,19,CASSIE,You KNOW that it's more than that now. I can feel the power inside me. It's only the beginning.
+0,92,19,JANET,"And along with it, your body is undergoing a tremendous physical strain."
+0,92,19,CASSIE,You think it's gonna kill me?
+0,92,19,JANET,"I'm ... worried about that possibility, yes."
+0,92,19,CASSIE,
+0,92,19,JANET,"Well, you should! I know the limitations to the human body ..."
+0,92,19,CASSIE,Maybe I'm not human anymore.
+0,92,19,JANET,Of course you are.
+0,92,19,CASSIE,Maybe dying is part of the transformation.
+0,92,19,JANET,I don't care whether it is or NOT!!!!
+0,92,20,CASSIE,I'm sorry.
+0,92,20,JANET,"Sweetheart, sometimes, when a person is sick, it's important for him to fight it. I want you to fight this, OK?"
+0,92,21,SAM,That can't be right. The EM field must be interfering.
+0,92,21,JANET,"No, she'll be able to control that now. I ran the test 3 times, the results are consistent and it corresponds with the EEG. There's a 25% higher level of activity."
+0,92,21,SAM,How can her body sustain that?
+0,92,21,JANET,"Well, she's found a way to channel the heat from her body. Don't ask me how, but I don't know how long she'll be able to keep it up. What I'd like her to do is sleep. She's been awake for 30 hours straight."
+0,92,21,SAM,I was about to go and see her.
+0,92,21,JANET,Thank you.
+0,92,24,SAM,Hey.
+0,92,25,SAM,I hear you don't wanna sleep. You want some company?
+0,92,25,CASSIE,You wouldn't leave. When the Goa'Uld planted the bomb inside me ... you wouldn't leave. Even though your orders were to leave me there alone. You stayed with me.
+0,92,25,SAM,Yeah.
+0,92,25,CASSIE,Why?
+0,92,25,SAM,I don't know ... just an instinct.
+0,92,25,CASSIE,That I was gonna be OK?
+0,92,25,SAM,"Yeah, I think so."
+0,92,25,CASSIE,But you didn't ... know for sure.
+0,92,25,SAM,No.
+0,92,25,CASSIE,"Well, that's how I feel about what's happening to me now. Do you understand?"
+0,92,25,SAM,"Yeah, I think I do. You want me to stay with you for a while?"
+0,92,25,CASSIE,"No, it's not time yet."
+0,92,25,SAM,
+0,92,25,CASSIE,"Well, when it is ... time ... will you be here?"
+0,92,25,SAM,I promise.
+0,92,25,CASSIE,I think I can sleep now ... for a little while.
+0,92,25,OK.,
+0,92,30,MAN,"Yes, Lt."
+0,92,30,JANET,Sam?
+0,92,30,SAM,She's asleep.
+0,92,30,JANET,Good. Listen ... the ... the bodies of the villagers ... what happened to them?
+0,92,30,SAM,They were cremated on 987 ... we sent a team back.
+0,92,30,JANET,"Good. So there might still be a bone fragment. If we can find one from someone who's been thru the initiation, there still may be antibodies"
+0,92,30,SAM,... JANET! That was 4 years ago. The chances of us even ...
+0,92,31,SAM,"Oh, my God!"
+0,92,32,JANET,Cassandra!?
+0,92,32,CASSIE,It was a Goa'Uld.
+0,92,32,WHAT?!,
+0,92,32,CASSIE,I was asleep ... I thought it was a nurse coming in to take my blood ... but I did ... sense it's presence.
+0,92,32,SAM,I didn't sense anything.
+0,92,32,CASSIE,"It was after you left. At first there was no one there, but then , when it got closer, I saw someone."
+0,92,33,SAM,This is a Code 3 alert! We need ZATS and TDR's in Isolation room 4 NOW!
+0,92,33,JANET,Are you all right?
+0,92,33,CASSIE,It ran away when I screamed.
+0,92,33,HAMMOND,Major?
+0,92,33,SAM,"Apparently, there's a Goa'Uld on base, Sir."
+0,92,33,JACK,What?!
+0,92,33,HAMMOND,How's that possible?
+0,92,33,TEAL'C,Nerrti possesses the technology to become invisible.
+0,92,33,DANNY,Chronus is dead. He's the system lord that was holding her prisoner.
+0,92,34,DANNY,"The rings In the lab, that wasn't me, it was her! She came back thru the Stargate with us!"
+0,92,34,SAM,"Well, that would mean she was waiting for us in her lab the whole time."
+0,92,34,TEAL'C,We may have inadvertently triggered the device alerting her to our presence.
+0,92,35,HAMMOND,"Go level by level, check EVERYTHING ... keep in radio contact. If you locate her, DO NOT shoot to kill. Colonel?"
+0,92,35,JACK,"Staying here, Sir. I figured, you fought her off the first time ... I'm ... safe here with you."
+0,92,35,CASSIE,She was here the whole time . You brought her back.
+0,92,35,JACK,We'll find her.
+0,92,35,JANET,She's right. Why did she wait until now to come after Cassandra?
+0,92,35,SAM,Level 22's clear.
+0,92,36,TEAL'C,Level 21 clear.
+0,92,36,JACK,Roger that.
+0,92,36,CASSIE,She wanted to know if her experiment worked.
+0,92,36,JANET,You don't know what she wants.
+0,92,36,CASSIE,"No. If ... if the transformation were to kill me, she would have just let it happen. Don't you see?"
+0,92,36,JANET,"Honey, not now."
+0,92,36,CASSIE,No! But it DID WORK!
+0,92,36,JANET,Cassandra!
+0,92,36,CASSIE,No ... LOOK OUT!!!!
+0,92,37,JACK,"Easy! We need her alive. Security to Iso room 4. All search teams, Stand down."
+0,92,37,JANET,Cassie? Cassie! Don't do this! We need to get her out of here. Come on! Let's Move! Roll her over ... easy.
+0,92,38,JACK,What's gonna happen to Cassandra?
+0,92,38,JACK,She's just lost consciousness.
+0,92,38,THEN THE END IS VERY NEAR.,
+0,92,38,JACK,If she DIES ... so do you.
+0,92,38,HAMMOND,I don't think you're in any position to bargain.
+0,92,38,HAMMOND,We can't do that.
+0,92,38,JACK,General?
+0,92,38,WITH MY INVISIBILITY DEVICE INTACT.,
+0,92,38,HAMMOND,Absolutely NOT!
+0,92,38,THOSE ARE MY TERMS.,
+0,92,39,DANNY,She says she can help Cassandra.
+0,92,39,JANET,
+0,92,39,DANNY,"No, if we let her go."
+0,92,39,JANET,Do you believe she can actually help?
+0,92,39,DANNY,"Well, as seeing we don't have a choice ... I guess it's worth a shot."
+0,92,39,JANET,WHat about General Hammond? What's he gonna do?
+0,92,39,DANNY,He hasn't decided yet.
+0,92,39,JANET,I really need to get back to see Cassandra.
+0,92,39,DANNY,"Well, I know how tough this has been for you, so if you need anything ..."
+0,92,39,JANET,Thanks. All right. Give me 70 Mg of tantromine.
+0,92,39,NURSE,Doctor?
+0,92,39,JANET,Now.
+0,92,39,CASSIE,Mom?
+0,92,39,JANET,I'm here. We're just getting ready to give you medicine to get your fever down.
+0,92,39,CASSIE,It's nothing.
+0,92,39,JANET,"Hey, I want you to do what we talked about, OK? I want you to FIGHT this."
+0,92,39,CASSIE,I don't want to fight it.
+0,92,39,JANET,"You HAVE to! Honey, your body is not going to be able to survive what this retro virus is going to do."
+0,92,39,CASSIE,Where's Sam?
+0,92,39,JANET,Gone to see if she can get you some help.
+0,92,39,CASSIE,NOooo! Let it happen! I have to let it happen!
+0,92,39,JANET,Drop 10 of valium.
+0,92,39,NURSE,Valium's in. Temperature is 106!
+0,92,39,JANET,Tantroline's not working?!
+0,92,40,JACK,"General, with all due respect, It's not like we're negotiating with terrorists."
+0,92,40,HAMMOND,"It's exactly that, Colonel. You're letting your emotions get in the way."
+0,92,40,JACK,"Yes, I am. Shouldn't you be?"
+0,92,40,HAMMOND,Jack ...
+0,92,40,SAM,"Sir, up until yesterday, we didn't even know Nurrti was still alive."
+0,92,40,JACK,Exactly. Now who cares if we let her go. What difference does it make? There's just one more Goa'Uld running around.
+0,92,40,HAMMOND,"If we were to allow Nurrti to leave ... with a sample of Cassandra's blood, She could well succeed in her experiment to create a genetically advanced host, and become DANGEROUSLY powerful!"
+0,92,40,TEAL'C,I am in agreement with GeneralHammond.
+0,92,40,JACK,What?
+0,92,40,TEAL'C,"The life of a child may be sacrificed, but Nurrti possesses valuable information that would be lost if we allowed her to leave."
+0,92,40,JANET,General Hammond would like me to check in on her.
+0,92,42,SAM,"Teal'C, we're talking about Cassandra."
+0,92,42,TEAL'C,Of that I am aware. But her sacrifice would benefit both our peoples. Nurrti possesses valuable information that would help us defeat the Goa'Uld.
+0,92,42,DANNY,We'll find another way.
+0,92,42,HAMMOND,We may never have A Goa'Uld as our prisoner again.
+0,92,42,SAM,"Sir, I don't have to remind you of what Cassandra has gone thru because of the Goa'Uld. Now, if we're gonna put what we MAY learn or what MIGHT happen over her life ..."
+0,92,42,JACK,"... It's time to ""Pack it in""."
+0,92,42,DANNY,I agree.
+0,92,43,INTERCOM,General Hammond to the Holding Room.
+0,92,44,HAMMOND,"Doctor Frasier, stand down."
+0,92,44,JANET,"I can't do that, Sir. I don't have a choice."
+0,92,44,SAM,Janet? Don't do this.
+0,92,44,JANET,I can't ... help Cassandra ... SHE can
+0,92,44,HAMMOND,"Doctor Frasier, SG-1 has already convinced me to make a deal for Cassandra's life ... this isn't necessary."
+0,92,44,THEN YOU AGREE TO MY TERMS?,
+0,92,44,HAMMOND,"Just one ... once you've cured Cassandra of her illness, you will be free to go."
+0,92,44,HAMMOND,You have only MY word.
+0,92,44,NOT ENOUGH!,
+0,92,44,HAMMOND,"Then I shall remind you, that the woman holding the gun on you is Cassandra's mother."
+0,92,45,YOU HAVE WAITED TOO LONG.,
+0,92,45,JANET,You TRY AGAIN!!!
+0,92,46,IT IS DONE!,
+0,92,46,NURSE,Vital signs are all returning to normal.
+0,92,47,CASSIE,Mom?
+0,92,47,JANET,It's OK. I'm here.
+0,92,47,NURRTI,
+0,92,48,JACK,Let's go to the 'gate.
+0,92,49,JACK,We've never dialed these coordinates before ... I ... sort of hope you know what you're doing.
+0,92,49,JACK,
+0,92,49,JACK,I'll keep that thought alive.
+0,92,51,SAM,"Hey, Janet! How's our patient?"
+0,92,51,CASSIE,Bored.
+0,92,51,JANET,The uh ... homework's backed up. Other than that she's just fine. I get to take her home tonight.
+0,92,51,SAM,OOohhh ... Dominique awaits.
+0,92,51,CASSIE,Stop it.
+0,92,51,SAM,"Come on, that last kiss was impressive."
+0,92,53,SAM,Lights exploded overhead!
+0,92,53,CASSIE,
+0,92,53,SAM,It's Saturday.
+0,92,53,CASSIE,
+0,92,53,SAM,Good. Then we're even.

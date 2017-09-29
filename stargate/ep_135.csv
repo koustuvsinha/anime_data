@@ -1,0 +1,405 @@
+Season,Episode,Scene,Character,Line
+0,135,0,STARGATE SG1,Episode 705
+0,135,0,"""REVISIONS""",By Joseph Mallozzi & Paul Mullie
+0,135,0,JACKSON,What's going on?
+0,135,0,CARTER,"We're getting MALP telemetry from P3X-289. Atmosphere is completely toxic: sulfur dioxide, carbon monoxide, methane, ammonia..."
+0,135,0,JACKSON,"Well, if there was a 'gate there, then chances are good there was life there at some point."
+0,135,0,CARTER,"Yeah, I think that's a safe assumption. Look at this."
+0,135,1,CARTER,"We got these images two hour ago, just after the MALP went through. The dome seems to be the only structure that's managed to withstand the corrosive effects of the atmosphere."
+0,135,1,JACKSON,How big is it?
+0,135,1,CARTER,It's about 2.2 kilometers wide and 500 meters high.
+0,135,1,DAVIS,The MALP's giving us a proximity alert. Three meters...and we're picking up a static charge.
+0,135,2,CARTER,Stop. Extend the arm.
+0,135,3,DAVIS,It went right through.
+0,135,3,JACKSON,"Well, whatever it is, it's not solid."
+0,135,3,CARTER,Move forward.
+0,135,4,DAVIS,"Uh, we've lost contact. The MALP's not responding."
+0,135,4,CARTER,Bring up that last image.
+0,135,5,JACKSON,How is that possible?
+0,135,5,CARTER,I have no idea.
+0,135,6,HAMMOND,Colonel O'Neill...report.
+0,135,6,O'NEILL,"We're good, Sir. Although, there's not much of a view."
+0,135,6,HAMMOND,What about suit integrity?
+0,135,6,CARTER,"According to my readings, the hazmats could withstand about 12 hours of exposure before there was any serious degradation."
+0,135,6,O'NEILL,"Shouldn't be a problem, Sir. We can make it to the dome and back inside an hour."
+0,135,6,HAMMOND,"Understood, Hammond out."
+0,135,7,CARTER,Picking up a static charge.
+0,135,7,JACKSON,"Yeah, I can feel it."
+0,135,7,O'NEILL,"So, what do we do...just walk through?"
+0,135,7,CARTER,The MALP encountered no resistance.
+0,135,7,O'NEILL,Then it disappeared.
+0,135,7,CARTER,"It did transmit for a few seconds before we lost the signal, which suggests it got through."
+0,135,8,CARTER,"I'm reading normal atmosphere. Oxygen, nitrogen... We're clean too."
+0,135,8,JACKSON,It's like the barrier scrubbed the suits when we passed through.
+0,135,8,CARTER,The inside of the barrier seems to be some kind of hologram.
+0,135,9,JACKSON,You can feel the resistance.
+0,135,9,CARTER,That combined with the static charge must act as a warning. So you don't accidentally step through.
+0,135,10,TEAL'C,The MALP appears to be fully operational.
+0,135,10,CARTER,"The barrier must block the signal. Sir, this is an amazing piece of technology. Permeable to large solid objects, but won't allow the poisonous atmosphere in. We really need to study this further."
+0,135,11,O'NEILL,"All right, come on out. Let's go."
+0,135,12,CARTER,Hello.
+0,135,12,JACKSON,We're not gonna hurt you.
+0,135,12,NEVIN,You came from outside.
+0,135,12,O'NEILL,Yes...we did. What's your name?
+0,135,12,NEVIN,What's yours?
+0,135,12,O'NEILL,I asked you first.
+0,135,12,NEVIN,I'm called Nevin.
+0,135,12,O'NEILL,"Hello, Nevin. I'm Jack. That's Sam, Daniel and Teal'c."
+0,135,12,NEVIN,You wear strange clothes.
+0,135,12,O'NEILL,Caught us on a bad day.
+0,135,12,CARTER,"Nevin, where are your parents?"
+0,135,12,NEVIN,My father's in the town.
+0,135,12,CARTER,Can you show us?
+0,135,12,JACKSON,We just want to talk to him.
+0,135,12,NEVIN,Maybe we could trade.
+0,135,13,CARTER,"You know, Sir, we probably could have found the town without his help."
+0,135,13,KENDRICK,Nevin?
+0,135,13,NEVIN,"I found some people in the gardeNEVIN: Jack, Sam, Daniel and Teal'c."
+0,135,13,KENDRICK,"I'm Kendrick, Nevin's father."
+0,135,13,O'NEILL,I assume you don't get many visitors in these parts.
+0,135,13,KENDRICK,We thought we were the only survivors.
+0,135,13,JACKSON,"Survivors of what, exactly?"
+0,135,13,KENDRICK,You'd better speak to the Council.
+0,135,14,COUNCIL MAN #1,You say you came from outside the dome...
+0,135,14,O'NEILL,That's right.
+0,135,15,CARTER,We wore protective suits.
+0,135,15,COUNCIL WOMAN,But where do you come from...originally?
+0,135,15,CARTER,From a planet called Earth. It's about 6000 light years from here.
+0,135,15,COUNCIL MAN #3,You came in a spaceship?
+0,135,15,JACKSON,"Uh, no, we came through the Stargate. It's that-that big circular object...uh, symbols carved on it. It's right outside the dome. There must be some sort of historical reference to..."
+0,135,15,COUNCIL MAN #4,"One moment, please... The Gate of Magh Mar. Discovered 563 years ago."
+0,135,15,COUNCIL MAN #3,Believed to have been of ritual significance in the worship of the goddess Morrigan.
+0,135,15,COUNCIL WOMAN,Taken from the ruins of Danaan and put on display in the national museum of history.
+0,135,15,CARTER,"So, you do know about the 'gate."
+0,135,15,COUNCIL WOMAN,We do now.
+0,135,15,COUNCIL MAN #4,We've accessed the relevant information through the link. It's a direct neural interface with a databank.
+0,135,15,O'NEILL,Ow...
+0,135,15,COUNCIL WOMAN,"The link contains the sum total of our knowledge and wisdom. All our history, our culture, our science...everything."
+0,135,15,CARTER,And you can simply call up this information whenever you need it?
+0,135,15,COUNCIL WOMAN,Precisely.
+0,135,16,O'NEILL,You really think this is gonna work?
+0,135,16,TEAL'C,The signal was lost only when the transmitter crossed the barrier. We need only maneuver the MALP into the correct position.
+0,135,17,O'NEILL,Nice.
+0,135,18,DAVIS,"We have a scheduled radio contact with SG-1, Sir."
+0,135,18,HAMMOND,Dial the 'gate.
+0,135,19,HAMMOND,
+0,135,20,O'NEILL,"Yes, Sir. We read ya, loud and clear. Loud and clear."
+0,135,20,HAMMOND,"Colonel O'Neill, report."
+0,135,20,O'NEILL,"Well, it turns out this planet's not so dead after all, Sir."
+0,135,20,HAMMOND,I take it the dome's inhabited.
+0,135,20,O'NEILL,"Yes, Sir. So far, the natives are very friendly, if...a bit odd, if you know what I mean."
+0,135,20,HAMMOND,Are they willing to share information?
+0,135,20,O'NEILL,"They're gonna show Carter all the technical stuff tomorrow. In the meantime, they've offered to put us up for the night."
+0,135,20,HAMMOND,"All right, next contact in 24 hours."
+0,135,20,O'NEILL,"Yes, Sir."
+0,135,21,O'NEILL,"Thank you. Teal'c nods at Kendrick and then Kendrick goes into another room Jack looks at his bowl, then looks at Teal'c's as Teal'c watches. A few seconds later, Jack signals Teal'c to trade bowls with him. Nevin just stares at Jack as he prepares to eat the meal Kendrick has prepared. Then Jack notices him staring, so he stares back. Then Teal'c notices Jack staring."
+0,135,21,O'NEILL,What?
+0,135,21,NEVIN,How many planets have you been to?
+0,135,21,O'NEILL,I don't know...lots.
+0,135,21,NEVIN,More than 10?
+0,135,21,O'NEILL,Yeah.
+0,135,21,NEVIN,More than 20?
+0,135,21,O'NEILL,Yes.
+0,135,21,NEVIN,More than 30?
+0,135,21,O'NEILL,Yeah.
+0,135,21,NEVIN,More than 40?
+0,135,21,O'NEILL,Yes.
+0,135,21,NEVIN,More than 50?
+0,135,21,O'NEILL,Maybe...
+0,135,21,KENDRICK,Nevin...let the poor man eat.
+0,135,21,NEVIN,"It's more than 50, isn't it?"
+0,135,21,O'NEILL,Think it's too late to pitch a tent?
+0,135,22,PALLAN,Are you sure you've had enough to eat?
+0,135,22,JACKSON,"Yes, it was, uh, it was delicious."
+0,135,22,CARTER,You obviously don't have any trouble growing enough food.
+0,135,22,EVALLA,Everything in the dome is completely self-sufficient.
+0,135,22,CARTER,What about power?
+0,135,22,PALLAN,We draw energy from geo-thermal vents located beneath the town. Tomorrow I can show you the-the generators.
+0,135,22,EVALLA,Pallan's one of the technicians who maintains the system.
+0,135,22,JACKSON,"Well, you're obviously very advanced, but you're level of architecture seems to...be out of step with your level of technology."
+0,135,22,EVALLA,Technology's what destroyed our world. The dome was created because industrial growth poisoned the air and the water. Our people were dying from disease and starvation so...the survivors made a deliberate choice to simplify their lives.
+0,135,22,JACKSON,"We have our own environmental problems. Perhaps if we learned about your history, it might help us avoid a similar fate."
+0,135,22,EVALLA,"Well, the easiest way for you to learn about our history is through the link."
+0,135,23,JACKSON,Is that possible?
+0,135,23,EVALLA,Of course. Thousands of historical books are on file.
+0,135,24,CARTER,Uh...maybe that isn't such a good idea. We have no way of knowing if our brain physiology if compatible with the technology.
+0,135,24,PALLAN,Ah...
+0,135,24,JACKSON,Thanks...maybe later.
+0,135,26,O'NEILL,Hello Nevin.
+0,135,26,NEVIN,I'm not Nevin. I'm Colonel O'Neill from Stargate Command.
+0,135,26,O'NEILL,"All right, Colonel O'Neill... ...will you please take off my hood?"
+0,135,27,KENDRICK,"Nevin, it's time for school. Go into your room and access your lessons."
+0,135,27,NEVIN,"When I grow up, can I be an explorer?"
+0,135,27,KENDRICK,We'll talk about it later.
+0,135,28,CARTER,So none of you has ever been outside the dome?
+0,135,28,PALLAN,"Not in over 400 years. We monitor the levels of toxicity, but we've never actually seen it. What's it like?"
+0,135,28,CARTER,It's not very pretty.
+0,135,28,PALLAN,I've seen images on the link of a great city with tall building made of glass and steel.
+0,135,28,CARTER,I'm afraid there's not much left but rubble.
+0,135,28,PALLAN,I suppose... ...that's why they created this...
+0,135,29,PALLAN,So we're not constantly reminded of what happened.
+0,135,29,CARTER,It's a pretty convincing illusion. I'd love to see how it's made.
+0,135,29,PALLAN,"Well, the control room's underground, but the entrance is this way."
+0,135,30,PALLAN,"As you can see, Major, we haven't abandoned technology all together."
+0,135,30,CARTER,Yeah.
+0,135,31,EVALLA,"If using the link is out of the question, then this is your only option."
+0,135,32,EVALLA,Mmm...we don't have much need for books anymore. These are all that's left from the old world.
+0,135,32,JACKSON,"It's interesting, uhm...the writing's similar to a language we've encountered before."
+0,135,32,EVALLA,Can you translate it?
+0,135,32,JACKSON,With your help?
+0,135,32,EVALLA,Let's get started.
+0,135,33,PALLAN,"Atmospheric analysis, dome integrity... ...power utilization."
+0,135,33,CARTER,Very impressive.
+0,135,33,PALLAN,"If you don't mind, I just have to check the coolant pressure. Please..."
+0,135,34,CARTER,"Pallan... She turns to look at him, he doesn't respond."
+0,135,34,JACKSON,This looks like some kind of religious text...Evalla?
+0,135,35,JACKSON,Evalla...
+0,135,36,CARTER,Pallan?
+0,135,38,EVALLA,Yes?
+0,135,38,JACKSON,You okay?
+0,135,38,EVALLA,Of course...let me see.
+0,135,40,CARTER,Did you see that?
+0,135,40,PALLAN,See what?
+0,135,40,CARTER,The screens changed. Th-they were filled with some sort of streaming code.
+0,135,40,PALLAN,That's impossible. They always display the status of these specific systems.
+0,135,40,CARTER,"Uh...I know what I saw, Pallan."
+0,135,40,PALLAN,I'm afraid you must be mistaken. He walks back to the other console.
+0,135,41,O'NEILL,"So, what do we know?"
+0,135,41,CARTER,"Well, their technology's incredible. At least what's left of it. Right now, Pallan and I are trying to rig up a computer interface so I can download some of the specs."
+0,135,42,TEAL'C,Do they wish anything in return?
+0,135,42,CARTER,Apparently not. They seem quite happy with their situation as it is.
+0,135,42,O'NEILL,"Now, see, that makes no sense to me. These people live in a bubble."
+0,135,42,JACKSON,"Well, they have managed to survive for over 400 years."
+0,135,42,TEAL'C,Sometimes there is more to life than mere survival.
+0,135,42,CARTER,We could offer them relocation.
+0,135,42,O'NEILL,"Yeah, I s'pose."
+0,135,43,COUNCIL MAN #1,Are you suggesting we leave the dome?
+0,135,43,O'NEILL,We're just saying it's possible.
+0,135,43,TEAL'C,There are many suitable worlds where your people could live.
+0,135,43,COUNCIL MAN #3,But we have everything we need right here.
+0,135,43,CARTER,Except room to grow.
+0,135,43,JACKSON,"We're talking about fresh water, fresh air, mountains, trees..."
+0,135,43,COUNCIL MAN #1,We can experience all these things through the link.
+0,135,43,O'NEILL,You gotta be kiddin' me.
+0,135,43,COUNCIL MAN #4,"It is a very generous offer, Colonel, but this is our home."
+0,135,43,O'NEILL,What about the other folks in the town? Some of them have to think differently.
+0,135,43,COUNCIL MAN #4,The Council speaks for the town...and the Council's decision is unanimous.
+0,135,43,JACKSON,"Well, what about the other Council member? The woman that was here?"
+0,135,43,COUNCIL MAN #4,"Uh, there hasn't been a woman on the Council since the last election...and that was two years ago."
+0,135,43,O'NEILL,What're you talkin' about? There was a woman sittin' there yesterday.
+0,135,43,COUNCIL MAN #1,"Colonel, I can assure you the Council has always consisted of three members. The three Council members look at each other and then back to SG-1 in unison."
+0,135,44,CARTER,I spoke to Pallan. He claims to have no memory of there ever being a fourth Council member.
+0,135,44,JACKSON,She was just there yesterday.
+0,135,44,CARTER,"Maybe the link has something to do with this? If it can be used to download information directly into a people's brains, maybe it can also be used to alter their perceptions or memories."
+0,135,44,TEAL'C,Perhaps the Councilwoman opposed the others and they felt it necessary to be rid of her.
+0,135,44,JACKSON,"So they erased her from existence? That seems a little harsh, don't you think?"
+0,135,44,O'NEILL,"Well, the bottom line is we can't trust these people."
+0,135,44,CARTER,"Well, Sir, I'd still like to finish my research on the dome technology."
+0,135,44,JACKSON,"Yeah, maybe there's something in the archive that can shed some light on this."
+0,135,44,TEAL'C,"The behavior of the townspeople does seem odd, but they don't appear to be an immediate threat."
+0,135,44,O'NEILL,All right...see what you can find out.
+0,135,45,EVALLA,How's it coming?
+0,135,45,JACKSON,Well...I still can't find any historical reference to the time period when the dome was first created.
+0,135,45,EVALLA,By that time our people had begun using the link. It's possible not much written material survives from that era.
+0,135,45,JACKSON,"Let me ask you something, uhm...if you had the chance to-to leave the dome and, uh...and go live on another planet, would you take it?"
+0,135,45,EVALLA,Pallan told me about the conversation you had with the Council.
+0,135,45,JACKSON,Ah...and?
+0,135,45,EVALLA,We have everything we need right here.
+0,135,45,JACKSON,That's what they said.
+0,135,45,EVALLA,"We hope that some day, the poison in the outside atmosphere will dissipate and we'll be able to reclaim the planet."
+0,135,45,JACKSON,But not in your lifetime.
+0,135,45,EVALLA,No.
+0,135,45,JACKSON,"What about...children? I mean, don't you and Pallan want to have a family?"
+0,135,45,EVALLA,Of course.
+0,135,45,JACKSON,But there must be some sort of population controls.
+0,135,45,EVALLA,Each couple's allowed a maximum of two children.
+0,135,45,JACKSON,And you're okay with that?
+0,135,45,EVALLA,Limited resources dictate that we maintain the population at a certain level.
+0,135,45,JACKSON,"How many people are we talking about here, exactly?"
+0,135,45,EVALLA,"At this precise moment? One thousand, three hundred and seventy-three."
+0,135,45,JACKSON,"And what would happen if someone...you know, decided to break the rules and have more than two children?"
+0,135,45,EVALLA,I don't know. No one ever has.
+0,135,46,PALLAN,Try the interface now...
+0,135,46,CARTER,We got it.
+0,135,47,PALLAN,You believe this technology will be useful on your world?
+0,135,47,CARTER,Why don't you and your wife come back with us and see for yourselves?
+0,135,47,PALLAN,Oh...
+0,135,47,CARTER,Just for a visit.
+0,135,47,PALLAN,Do you have oceans?
+0,135,47,CARTER,"Oceans, deserts, rainforests...it would take a lifetime to see it all."
+0,135,47,PALLAN,It sounds wonderful.
+0,135,47,CARTER,"Wait a minute... You said these were the power utilization figures, right?"
+0,135,47,PALLAN,That's right.
+0,135,47,CARTER,What's a normal variation?
+0,135,47,PALLAN,Between .01 and .07 percent.
+0,135,47,CARTER,"Well, then we've got a problem. These levels are least 2% lower than when we came down here."
+0,135,47,PALLAN,"No, that can't be. No, you're mistaken. These figures are within normal range."
+0,135,47,CARTER,Do you have the readings from this morning?
+0,135,47,PALLAN,Of course. You see? No variation.
+0,135,47,CARTER,This is wrong.
+0,135,47,PALLAN,These measurements are foreign to you.
+0,135,47,CARTER,"Well, it doesn't mean I can't recognize a relative drop."
+0,135,47,PALLAN,"Major, I can access 400 years of recorded power utilization figures on the link. There's never been or than a 0.1% variation."
+0,135,47,CARTER,"Hypothetically speaking, if there was...would it threaten the integrity of the force field?"
+0,135,47,PALLAN,I suppose it might. But it's never come up.
+0,135,48,KENDRICK,"Colonel O'Neill! Colonel, is it true, what they're saying? You've offered to take us through the Gate to another world?"
+0,135,48,O'NEILL,"Yeah, that's right."
+0,135,48,KENDRICK,Then Nevin and I will come with you. I see the way he is with you and I realize that Nevin deserves the chance for much more than this world can ever offer.
+0,135,48,TEAL'C,Are you certain? This is not a decision to be taken lightly.
+0,135,48,KENDRICK,I want my son to grow up in a world where the sky and the clouds aren't part of an illusion created by a computer.
+0,135,48,O'NEILL,"Well, that's good enough for me."
+0,135,49,CARTER,"Colonel, come in."
+0,135,49,O'NEILL,Go ahead.
+0,135,49,CARTER,"Sir, I've been running some calculations here and I've discovered something."
+0,135,50,TEAL'C,O'Neill...
+0,135,51,CARTER,"Sir, are you reading me?"
+0,135,51,O'NEILL,"Carter, the MALP's gone?"
+0,135,51,CARTER,Say again?
+0,135,51,O'NEILL,The MALP...is no longer parked where we parked it.
+0,135,51,TEAL'C,It would appear someone does not wish us to communicate with Stargate Command.
+0,135,51,CARTER,"Well, that's not our only problem. The dome is losing power. I notice a discrepancy with the output levels, but I wasn't sure because the computer record showed no change. So, I converted the units and compared the current levels with the readings I took yesterday when we first came through."
+0,135,51,O'NEILL,And?
+0,135,51,CARTER,"In the last 24 hours, there's been almost a 4% drop. Sir, if this continues, the dome will fail."
+0,135,51,O'NEILL,How much time?
+0,135,51,CARTER,"It's hard to say. But when it does, everyone here will die."
+0,135,52,JACKSON,Evalla?
+0,135,54,CARTER,"Sir, the computer's giving me new information. The power level is definitely dropping."
+0,135,54,TEAL'C,"Major Carter, should we not warn the townspeople?"
+0,135,54,CARTER,"I'm not sure we're going to be able to convince them. The only evidence we have are the computer readings and...for some reason, Pallan couldn't see that they were changing."
+0,135,54,O'NEILL,Maybe he's in on it.
+0,135,54,CARTER,I don't think so. I think his memories are being altered and it's possible that the same hold true for everyone in this town.
+0,135,55,JACKSON,Evalla! Evalla!
+0,135,57,JACKSON,And I called out to her and she just ignored me. It was like she was in some sort of trance or something.
+0,135,57,TEAL'C,Perhaps she was under the influence of the link.
+0,135,57,CARTER,There's no telling what level of manipulation is possible.
+0,135,57,O'NEILL,So...brainwashing?
+0,135,57,CARTER,"Yeah, that's one way of putting it."
+0,135,57,JACKSON,"We have to help these people. I mean, they're-they're being held against their will, they don't even know it."
+0,135,57,O'NEILL,"Well, as long as they've got those...things on their faces, they're not gonna be convinced of anything."
+0,135,57,TEAL'C,Is it possible to disable the link?
+0,135,57,CARTER,"It's part of the same computer system that controls the dome. If we tamper with it, we risk bringing the whole force field down. On the other hand, if I could use the computer to access the link, maybe I could reprogram the information that's being sent out."
+0,135,57,JACKSON,You mean do a little brainwashing of our own.
+0,135,57,CARTER,"The only problem is, I don't think I could do it without Pallan's help."
+0,135,57,JACKSON,"If I can find historical evidence in the library that directly contradicts information available on the link, that might prove to at least some of these people that they're being lied to."
+0,135,57,CARTER,Like records of the Council meetings. They would show that there used to be more than three members.
+0,135,57,JACKSON,Exactly.
+0,135,58,O'NEILL,"All right, you two do what you do... Teal'c you and I are late for a radio contact."
+0,135,59,NEVIN,Colonel O'Neill! Where are you going?
+0,135,59,O'NEILL,We're going back to the house. We need those special outfits we had.
+0,135,59,NEVIN,The house is this way.
+0,135,59,TEAL'C,You are mistaken. It is in that direction.
+0,135,59,NEVIN,"There's nothing over there. That's the edge of the dome. Come on, I'll show you."
+0,135,60,NEVIN,Here it is. See? Right where you left it.
+0,135,61,O'NEILL,Hey...is this where we slept last night?
+0,135,61,TEAL'C,It is not.
+0,135,62,O'NEILL,What's goin' on here?
+0,135,63,KENDRICK,Colonel...are you going back to Earth now?
+0,135,63,O'NEILL,"No. We were just gonna send a message. Don't worry, we're not leavin' without ya."
+0,135,63,KENDRICK,Excuse me?
+0,135,63,O'NEILL,Anyone who wants to leave is welcome to come with us.
+0,135,63,KENDRICK,'Why would I leave?
+0,135,63,TEAL'C,You have expressed a desire to live in a world where the sky was not artificial.
+0,135,63,KENDRICK,You must have me mistaken for someone else.
+0,135,64,O'NEILL,"Nevin...you wanted to be an explorer, right?"
+0,135,64,NEVIN,"I'm going to be a gardener, like my father."
+0,135,64,TEAL'C,You are under the influence of the link.
+0,135,64,KENDRICK,What are you talking about?
+0,135,64,O'NEILL,Those things on your head...you gotta lose 'em.
+0,135,64,KENDRICK,"No, no."
+0,135,64,O'NEILL,Yes...they're messin' with your mind somehow. You've gotta...get rid of them.
+0,135,64,KENDRICK,The link gives us everything we need.
+0,135,64,O'NEILL,"Look, just...take it off for a minute. Just flick it off."
+0,135,64,KENDRICK,I can't. To be disconnected from the link would cause instant death.
+0,135,64,O'NEILL,"Now, see, that's something you've never said before."
+0,135,64,KENDRICK,"Colonel, I think you should leave now."
+0,135,65,O'NEILL,"Carter, what's your status?"
+0,135,65,CARTER,I'm on my way to the control room now.
+0,135,65,O'NEILL,"Well, watch yourself. They got to Kendrick."
+0,135,66,PALLAN,"Major, I've almost finished downloading the generator design."
+0,135,66,CARTER,"Pallan, we need to talk."
+0,135,66,PALLAN,All right.
+0,135,66,CARTER,"Do you remember earlier today, I told you I noticed a drop in the power levels?"
+0,135,66,PALLAN,I remember you being mistaken.
+0,135,66,CARTER,What about now? Do you notice any change?
+0,135,66,PALLAN,Power levels are constant.
+0,135,66,CARTER,"No, they're not. It's just that every time these screens are updated, the information on the link is updated as well. It alters your memory so you don't see what's happening."
+0,135,66,PALLAN,"Major, this is absurd."
+0,135,66,CARTER,Pallan...the dome is failing.
+0,135,66,PALLAN,I told you you're mistaken.
+0,135,66,CARTER,"No. I am not mistaken. Now, if you don't help me warn the others, then you and Evalla and everyone in this city will die."
+0,135,66,PALLAN,Who?
+0,135,66,CARTER,"Evalla, your wife."
+0,135,66,PALLAN,Major...I don't know what's come over you but...I've never been married.
+0,135,67,CARTER,I need you to disconnect yourself from the link
+0,135,67,PALLAN,That's insane.
+0,135,67,CARTER,I know that you believe that removing that node from your forehead will kill you.
+0,135,67,PALLAN,I've known that since childhood.
+0,135,67,CARTER,"But last night, Evalla removed hers and nothing happened."
+0,135,67,PALLAN,Who is this Evalla?
+0,135,67,CARTER,I told you. She's your wife.
+0,135,67,PALLAN,Ach...
+0,135,67,CARTER,Your memories of her have been altered in the same way that you've been kept from realizing that the dome is deteriorating.
+0,135,67,PALLAN,Major...
+0,135,67,CARTER,"At first, I thought it was somebody on the Council who was responsible, but the changes are happening too quickly. I think it's automatic. The computer makes changes and then updates the memories of everyone in this town so no one's the wiser. Pallan...you have to disconnect."
+0,135,67,PALLAN,That would be suicide.
+0,135,67,CARTER,"No. That's just a lie that's been planted by the computer. We need to reprogram the link to convince the others of what's happening, but I can't do it without you."
+0,135,67,PALLAN,No.
+0,135,67,JACKSON,Sam! Got it.
+0,135,67,PALLAN,What is that?
+0,135,67,JACKSON,"They're legal documents. All I can say is thank God for lawyers. When everyone else was converting to the link, they were still using good, old-fashioned paper. See, when the dome was first created, everyone signed a contract establishing communal land ownership rights. Look at the number."
+0,135,67,PALLAN,"No, that can't be."
+0,135,67,JACKSON,There were originally over a hundred thousand people living here.
+0,135,67,PALLAN,That's impossible. The dome isn't big enough to sustain that many.
+0,135,67,JACKSON,Not any more.
+0,135,67,CARTER,"Oh, my God. All this time, I thought the power loss would cause the dome to fail. But the computer found a way to compensate...the dome is shrinking."
+0,135,67,JACKSON,"See...that's what happened to the MALP. It didn't go anywhere. It's right where we left it, except for now it's on the outside."
+0,135,67,PALLAN,"Now, wait a minute...if there were over 100,000 people living here...where did they all go?"
+0,135,69,TEAL'C,O'Neill...
+0,135,70,TEAL'C,There are other remains here but the bones have been eaten away by the corrosive atmosphere.
+0,135,72,CARTER,"I understand why you're reluctant to believe us, Pallan. You've got things in your head that must seem like memories of a lifetime, but they're not. Just yesterday, you'd never even heard of the idea that disconnecting from the link could be fatal."
+0,135,72,PALLAN,You're lying.
+0,135,72,JACKSON,"Look at these documents. They're over 400 years old, they're written in your language. How could we fake this? Why would be fake this? The only reason they still exist is because the computer did not foresee outside interference. To anyone on the link, they're completely irrelevant."
+0,135,72,PALLAN,But why?
+0,135,72,CARTER,"The computer is programmed to maintain the community. Individuals had to be sacrificed for the good of the whole. Only each time someone disappeared, no one noticed because all memory of them was erased. Please..."
+0,135,72,PALLAN,No...
+0,135,72,CARTER,It's all right...
+0,135,72,PALLAN,No...I...
+0,135,73,CARTER,"You see? Now, we need your help."
+0,135,73,O'NEILL,"Carter, what's your status?"
+0,135,73,CARTER,"Pallan's trying to access the link right now. If he can get in, we might be able to reprogram it."
+0,135,73,O'NEILL,Understood. We're comin' to you.
+0,135,75,PALLAN,What did I do?
+0,135,75,CARTER,It's another update.
+0,135,76,KENDRICK,"Nevin, I want you to stay here."
+0,135,76,NEVIN,Father? Is Colonel O'Neill sick?
+0,135,76,KENDRICK,"He is, but we're going to make him better."
+0,135,77,CARTER,What is it?
+0,135,77,PALLAN,"These systems are so complicated. Without access to the link, I'm not sure I know what I'm doing."
+0,135,77,CARTER,"Pallan, you've been doing this you're whole life. You're just gonna have to try to remember the old-fashioned way."
+0,135,77,PALLAN,Right.
+0,135,78,O'NEILL,Maybe not that way.
+0,135,78,TEAL'C,Agreed.
+0,135,79,O'NEILL,"Let's keep moving. Uh, Carter, we may have a little problem here."
+0,135,79,CARTER,"They're being controlled by the computer, Sir."
+0,135,80,TEAL'C,O'Neill...
+0,135,80,JACKENDRICK,Heeyy...come here.
+0,135,81,KENDRICK,"Everything's going to be all right, Colonel. These are for you."
+0,135,81,O'NEILL,I don't think so.
+0,135,81,KENDRICK,You've been disconnected from the link. You're not well. Let us help you.
+0,135,81,O'NEILL,Carter...now would be a good time.
+0,135,82,PALLAN,"I'm in. Now, what do I tell them?"
+0,135,82,CARTER,There's no time to explain everything. Try to erase all memory of us completely.
+0,135,84,O'NEILL,Don't make me shoot you.
+0,135,84,KENDRICK,"You're not yourself, Colonel. Without the link, your mind is playing tricks on you."
+0,135,86,KENDRICK,Who are you?
+0,135,87,PALLAN,I did it. He takes a deep breath and exhales.
+0,135,89,CARTER,We ran some tests on the geo-thermal vents that supply the town's power. Looks like they started cool about 200 years ago. The dome started shrinking some time after that. We should have the whole town relocated in a couple of days.
+0,135,89,PALLAN,I think I'm going to miss this garden. How much longer will the force field last?
+0,135,89,CARTER,"It's difficult to say. I mean even with less and less surface area to maintain, the power would have failed eventually."
+0,135,89,PALLAN,"And in the meantime, more of us would have disappeared."
+0,135,89,CARTER,"You still don't remember her, do you?"
+0,135,89,PALLAN,"No. You know, in a way, I envy the others. They all, they all must have lost somebody, but I'm the only one who knows for sure. And how do you mourn someone when you can't even picture her face?"
+0,135,89,CARTER,"I'm sorry, Pallan. I wish I could help."
+0,135,89,PALLAN,Maybe you can.
+0,135,89,CARTER,How?
+0,135,89,PALLAN,Tell me about her.

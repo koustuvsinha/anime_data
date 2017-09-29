@@ -1,0 +1,340 @@
+Season,Episode,Scene,Character,Line
+0,34,0,STARGATE SG1,Episode 214
+0,34,0,"""TOUCHSTONE""",By Sam Egan Briefing Room
+0,34,0,SAM,In the 5 weeks since our return from
+0,34,0,DANIEL,Known to its indigenous population as Madrona.
+0,34,0,SAM,We've been able to process most of the data we've collected and as a result we think we've corroborated some startling first hand observations.
+0,34,0,HAMMOND,Which are?
+0,34,0,SAM,"Well sir, the inhabitants of this planet can proactively affect their own climate."
+0,34,0,JACK,That's a bit of an understatement General. They can call it up just like that.
+0,34,0,DANIEL,"You got a crop that needs some water, order some rain, you have a crop that needs sun, and it's literally a matter of dialing it up."
+0,34,0,HAMMOND,You sure you weren't under the local voodoo?
+0,34,0,SAM,"Believe me General, no one was more skeptical than I, but the fact is we may have stumbled on the most important piece of technology the SCG missions has discovered to date."
+0,34,0,TEAL'C,Even the Goa'uld do not possess such technology.
+0,34,0,HAMMOND,And you think you know how they do it.
+0,34,0,SAM,Well our best theory is the planet was terra-formed about 900 years ago.
+0,34,0,DANIEL,Now the Madrona's are technologically primitive so it's likely the planet was terraformed by another alien race.
+0,34,0,SAM,Weather.... seems to be regulated by this device
+0,34,0,DANIEL,The Madronans call it a Touchstone. It's an ancient artifact probably made by the other alien race.It's right theret's in the statue's hand.
+0,34,1,SAM,"And the high priest turns a series of calibrated rings, which seem to determine meteorological conditions over the entire planet's surface."
+0,34,1,HAMMOND,We have any idea what makes it tick?
+0,34,1,JACK,"That's why we'd like to go back, sir. Carter wants to get a closer look with some of her specialized doohickeys."
+0,34,1,HAMMOND,Doohickeys?
+0,34,1,JACK,"I believe that's a technical term, sir."
+0,34,1,SAM,My instruments will measure the Touchstone's emissions and hopefully give us a better idea of how it works.
+0,34,1,HAMMOND,"Any chance we can borrow it for a few days, do a little backwards engineering?"
+0,34,1,SAM,"You have to understand General, the Touchstone maintains the weather on this planet."
+0,34,1,HAMMOND,"Right then, go see what you can figure out."
+0,34,1,JACK,Ok
+0,34,2,DANIEL,"Greetings Roham, Princess La Moor"
+0,34,2,PRINCESS,"It's the visitor's, Uncle."
+0,34,2,ROHAM,We demand that you return the Touchstone.
+0,34,2,SAM,What! It's missing?
+0,34,2,ROHAM,Do Not play games. You must return it at once.
+0,34,2,JACK,No games. We didn't take it.
+0,34,2,ROHAM,"It is gone. Come, see for yourselves."
+0,34,3,SAM,Well I guess this explains the storm clouds outside.
+0,34,3,ROHAM,Without the Touchstone to shield us we will soon be overtaken by the elements. It's only a matter of time before we begin to die because of your theft.
+0,34,3,JACK,"Alright, here's a question for you. If it was so important why wasn't it guarded?"
+0,34,3,ROHAM,It was guarded. We let down our guard because of your people.
+0,34,3,PRINCESS,We trusted you.
+0,34,3,JACK,We did not take it.
+0,34,3,TEAL'C,"Had we taken the artifact, there would have been no need to return to this place."
+0,34,3,PRINCESS,There were witnesses.
+0,34,3,JACK,And what did these witnesses see?
+0,34,3,PRINCESS,A group of people taking the Touchstone in the dead of night. They were dressed much as you are and carried weapons like yours.
+0,34,3,JACK,Did they see where these people went?
+0,34,3,ROHAM,They left by your Stargate.
+0,34,3,PRINCESS,"As you know, none of our people know how to use the portal."
+0,34,3,ROHAM,"Guards, disarm the wrongdoers."
+0,34,4,JACK,
+0,34,4,ROHAM,"Then explain yourself, but be warned. If your answers are not satisfactory, then we have no choice but to seek retribution."
+0,34,4,TEAL'C,Taking revenge on us will not return the Touchstone for we are not those who took it.
+0,34,4,ROHAM,"Perhaps not, but it will lead us to those who did."
+0,34,4,JACK,"Only if they care what happens to us. Look, let me give you a little life lesson on thieves. They're not really in touch with their feminine side. Caring would be on a low priority."
+0,34,4,PRINCESS,My uncle grows impatient.
+0,34,4,DANIEL,If the thieves took the Touchstone used the gate to escape then the only hope to get it back is to let us go back through the gate.
+0,34,4,SAM,"And if they did come from Earth, we have technology to help us find out who the thieves might have been."
+0,34,4,ROHAM,How do we know that you will not use the gate to escape responsibility?
+0,34,4,JACK,Trust Us?
+0,34,4,PRINCESS,"We are a simple people Colonel. We have no means to protect ourselves from this disaster. If my uncle decides to trust you this day, our entire future will depend on that decision."
+0,34,4,JACK,"Ok, that's a little pressure! But we can handle that."
+0,34,4,ROHAM,Let them go. Please help us.
+0,34,6,HAMMOND,Colonel! Why are you back so early? You were suppose to be studying that weather device.
+0,34,6,JACK,"And we would be , sir. If it were still there."
+0,34,6,HAMMOND,What do you mean?
+0,34,6,JACK,We should talk in your office.
+0,34,7,HAMMOND,What's this about?
+0,34,8,JACK,"The Touchstone was stolen, sir. By people wearing SGC uniforms. Came and went through the Stargate."
+0,34,8,HAMMOND,What? Well who was it?
+0,34,8,JACK,"Everyone involved here would like to know that, sir."
+0,34,8,HAMMOND,I don't appreciate your implication Colonel. Why would I send your team to study the thing if I knew it wasn't there?
+0,34,8,JACK,"No implication intended, sir, but circumstances do beg the next logical question,which is...Would any one of the other SG teams have gone through without your order?"
+0,34,8,HAMMOND,Not without my knowing about it.
+0,34,8,JACK,"Yes, sir. General, mind if I have Carter recheck the dialing computer? Just to see if there are any signs anyone sneaking through the gate,covertly, behind your back as it were, sir."
+0,34,8,HAMMOND,"Nothing happens regarding the Stargate without my knowing about it, if a person sneezes near it I get a report."
+0,34,8,JACK,"I understand, sir."
+0,34,8,HAMMOND,Colonel Have Carter check it anyway.
+0,34,8,JACK,"Thank you very much, sir."
+0,34,9,JACK,Anything yet?
+0,34,9,SAM,"Not on the Touchstone, sir."
+0,34,9,DANIEL,Possibly it's affects. Have you been watching the weather channel?
+0,34,9,JACK,I'm more of a C-Span guy.
+0,34,9,TEAL'C,Observe O'Neill
+0,34,10,REPORTER,"Chalk it up to the El Nino, but enough severe storms has struck all over America. And of all places Phoenix Arizona, causing widespread damage. Reports of injuries are still trickling in. We have flooding in Palm Springs California and Florida"
+0,34,10,DANIEL,"That's not all. There's record rainfall in Alberquerque, golf ball size hail in the Panhandle and three major rivers are cresting."
+0,34,10,TEAL'C,Something is definitely altering this planets weather.
+0,34,10,JACK,And you think it's this Touchstone. Kind of a reach isn't it.
+0,34,10,DANIEL,"Well not really if you think about it. Whoever left that device originally on Madrona probably keyed it to the atmospheric conditions of that planet. Somebody steals it and brings it back to Earth, starts fiddling around with it with no idea of what they are doing, and, who knows?"
+0,34,10,JACK,We don't know it's on Earth.
+0,34,10,SAM,I'm thinking it is. There was a huge transitory glitch three days ago when SG-2 returned from a routine mission roughly the same hour as the Touchstone was taken.
+0,34,10,TEAL'C,But SG-2's point of origin was galaxies away from Madrona.
+0,34,10,SAM,"Yeah, but the energy spike is off the charts. You remember what happened the last time the gate's power supply was overloaded?"
+0,34,10,DANIEL,It jumped to the second gate in the Antarctic.
+0,34,10,JACK,Yeah! Thanks for the memory.
+0,34,10,TEAL'C,"Captain Carter, are you suggesting that SG-2 used the second gate to steal the Touchstone?"
+0,34,10,SAM,"No. Not SG-2. They're mission went as planned through our gate, but these readings suggest that someone might have been using the second gate a split second after SG-2 used ours to try to hide the energy spike in ours."
+0,34,10,JACK,Kind of like shooting off a gun when a trains going by . To hide the sound.
+0,34,10,SAM,"Yes, sir. Now lets see if I'm right. SG-2's log should have the same electronic signature that was present the last time the wormhole jumped it's tracks. Bear with me."
+0,34,10,JACK,Bearing.
+0,34,10,SAM,"Damn, it should show up on the primary meta-log...nothing."
+0,34,10,DANIEL,Try the back up log.
+0,34,10,SAM,Yeah possibly Now if someone did systematically try to erase all the relevant data it would be easy to overlook a third tear back up Yes...there it is. The second gate had to have been used. The energy signal is identified.
+0,34,10,DANIEL,Who would have been authorized to use the second gate? I thought it had been officially decommissioned.
+0,34,10,JACK,It was officially.
+0,34,11,HAMMOND,"Come No, I need to talk to him now. Son, do you know what color this phone is? Yes I'll hold. Carter find anything?"
+0,34,11,JACK,"Yes, sir. Apparently the second gate is being used."
+0,34,11,HAMMOND,What? I was given top-level assurances that gate was to be sealed.
+0,34,11,JACK,"A case of the left hand not knowing what the right foot is doing, sir?"
+0,34,11,HAMMOND,"That's what I'm trying to find out. No, It can't wait, son. Well make sure he gets the message the second he comes out."
+0,34,11,JACK,And suddenly the President isn't available.
+0,34,11,HAMMOND,Every time I call. He's tied up. It's like someone is orchestrating his schedule to keep us from speaking today.
+0,34,11,JACK,"Got a someone in mind, sir."
+0,34,11,HAMMOND,"This is gonna sound paranoid, Colonel. Back when the SG program began, there was a philosophical skirmish about its mandate. Some people wanted to make sure that any and all discoveries were brought back regardless of considerations like interplanetary diplomacy."
+0,34,11,JACK,Do you mind if I ask who these some people were?
+0,34,11,HAMMOND,The truth is I'm not sure I ever fully knew who they were. I had a feeling that someone chose not to surface during the debate. Not military-politicians pulling strings behind the scenes. No one said so exactly. 30 years in the service you develop an instinct about these things.
+0,34,11,JACK,"General, is your gut telling you that this group, person, whatever is responsible for stealing the Touchstone?"
+0,34,11,HAMMOND,"I'm a long way from drawing that conclusion, but I'll be damned if I'll be blocked by some sycophant in the White House. I have other channels I can pursue, markers I can call in."
+0,34,11,JACK,"General, I know I don't have to tell you this, but whoever these dark side guys are, they can do some pretty nasty damage if they figure out how to work this thing."
+0,34,11,HAMMOND,"I know, Colonel. I know. Let me do some digging."
+0,34,12,SAM,"In an effort to determine whether the Touchstone was being used on Earth, I figured out a way to measure the Doppler shift for gravitational and radiation emissions. I used one of my monitoring instruments and tied into two NOAA satellites."
+0,34,12,HAMMOND,What did you find?
+0,34,12,SAM,"Well, sir, it's somewhere in the Nevada desert. Now from the crude triangulation I was able to determine it's...."
+0,34,12,HAMMOND,Nevada?
+0,34,12,SAM,"Yes, sir. Something wrong?"
+0,34,12,JACK,"The second gate ended up in Nevada didn't it, sir? Nellis?"
+0,34,12,HAMMOND,Yes.
+0,34,12,JACK,"Well if the gate is there, it makes sense that the Touchstone has at least been there."
+0,34,12,HAMMOND,"You're going to love this, Colonel. Guess who just got himself reassigned to Nellis?"
+0,34,12,JACK,Do tell.
+0,34,12,HAMMOND,Colonel Maybourne.
+0,34,12,JACK,"Oh,well, there's good news!"
+0,34,12,DANIEL,"Nellis, that's the base we send the technology we bring back through the gate, right?"
+0,34,12,HAMMOND,Yes. The Groom Lake Facility.
+0,34,12,JACK,Area 51
+0,34,13,HAMMOND,What are we looking at?
+0,34,13,SAM,"We sent the MALP back to Madrona. It's basically a blizzard, sir. Winds gusting up to 80 miles an hour. It gets any more intense and their whole planet's a write-off."
+0,34,13,TEAL'C,How much time do they have remaining?
+0,34,13,SAM,"Well, if my extrapolations are correct we're looking at 48 hours maybe 72 before all the terraforming is kaput."
+0,34,13,JACK,"Permission to take a little trip to Nevada, sir."
+0,34,13,HAMMOND,Ok. I'll call the Commander at Nellis and get you cleared.
+0,34,13,JACK,"Uh General, it's become pretty obvious that our own people are involved here. The government types, you know. How do you know who to trust?"
+0,34,13,SAM,"We already have the necessary clearance level, sir."
+0,34,13,HAMMOND,Colonel. I need some documents hand delivered to the Groom Lake Facility.
+0,34,13,JACK,Are those documents sensitive enough to warrant a three man team with a Jaffa escort?
+0,34,13,HAMMOND,Absolutely
+0,34,14,REYNOLDS,Colonel O'Neill. Major Reynolds NID. Welcome to Area 51.
+0,34,14,JACK,"Yeah, nice to meet you.This is Captain Carter, Dr. Jackson and Teal'c."
+0,34,14,REYNOLDS,"Gentlemen, Ma'am. I can't tell you what an honor it is to meet you. You guys are a bit of a legend around here."
+0,34,14,JACK,"Yeah well, thanks. We were hoping to meet with Colonel Maybourne."
+0,34,14,REYNOLDS,"He's been paged, sir. I'm sure if you'll come inside he'll find you there."
+0,34,14,DANIEL,So you obviously know who we are.
+0,34,14,REYNOLDS,"Of course, sir. If it wasn't for you and the other SG teams, we'd be out of business here. Follow me please."
+0,34,15,REYNOLDS,"To your left is medical research. They're focusing on the potential cure for Alzheimer's the SG-5 brought back. The other side is geology, space metallurgy and artifacts study. That's where they're pouring over your notes on that Heliopolis place, Dr Jackson. The meaning of life stuff. I love that."
+0,34,17,REYNOLDS,That's where we're studying those 2 Goa'uld death gliders you were in after you guy's did your hero thing. Nice work by the way.
+0,34,17,JACK,"Yeah, thanks."
+0,34,17,REYNOLDS,This way This is the bio-research lab.
+0,34,17,JACK,This where you're keeping the little green men?
+0,34,17,REYNOLDS,There are no alien life forms at Area
+0,34,17,JACK,Present company excluded of course.
+0,34,17,MAYBOURNE,Colonel O'Neill.
+0,34,17,JACK,"Hello, Maybourne."
+0,34,17,MAYBOURNE,"Major, if you'll excuse us."
+0,34,17,MAYBOURNE,"Teal'c, it's good to see you are well."
+0,34,17,TEAL'C,"In my culture, I would be well within my rights to dismember you."
+0,34,17,MAYBOURNE,"Well, that's interesting. Is there something I can do for you, Colonel O'Neill?"
+0,34,17,JACK,Yeah. We assume the Touchstone was brought here.
+0,34,17,MAYBOURNE,Excuse me?
+0,34,17,SAM,Maybe you have a different name for it. The weather controller from Madrona
+0,34,17,MAYBOURNE,"It seems that someone has sent you on a fool's errand, Colonel. Nothing even remotely like that here."
+0,34,17,TEAL'C,You are however aware of our mission.
+0,34,17,MAYBOURNE,"I remember a reference to it, but correct me if I'm wrong, nothing came back from the survey."
+0,34,17,JACK,Not by our team.
+0,34,17,MAYBOURNE,Another SGC team?
+0,34,17,JACK,You tell me.
+0,34,17,MAYBOURNE,"If you're looking for specific answers,I'd ask that you be a little less cryptic with your questions."
+0,34,17,JACK,"Fine, where's the damn Touchstone?"
+0,34,17,DANIEL,Has the second Stargate been activated?
+0,34,17,MAYBOURNE,It's been under complete lock down since it's arrival here. It hasn't even been powered up.
+0,34,17,SAM,Do you mind if we have a look?
+0,34,17,MAYBOURNE,I guarantee it's been dormant since you came through it.
+0,34,17,JACK,Then there's no harm in taking a look. Is there?
+0,34,18,MAYBOURNE,"There it is. Happy now, Colonel?"
+0,34,18,JACK,Carter.
+0,34,19,MAYBOURNE,Satisfied?
+0,34,19,JACK,Not really. Just proves it got packed up real nice after it was used.
+0,34,19,MAYBOURNE,I assure you that gate has been in that crate since it was brought here from the Antarctic.
+0,34,19,JACK,"Come on, Harry. You and I have been through this dance before."
+0,34,19,SAM,Colonel. This gate is plastic.
+0,34,19,MAYBOURNE,What?
+0,34,19,TEAL'C,Captain Carter is correct.
+0,34,19,MAYBOURNE,That's ridiculous. That's the gate that was brought back from the Antarctic. It's been under lock and key since it got here.
+0,34,19,SAM,This gate's plastic. Where's the real one?
+0,34,19,JACK,So what the HELL happened to the Stargate?
+0,34,19,MAYBOURNE,It's obviously been moved.
+0,34,19,JACK,So it can be fired up without raising any eyebrows?
+0,34,19,MAYBOURNE,That's highly speculative.
+0,34,19,JACK,"I don't know who's giving you orders Maybourne, but they better come from where the air is real thin."
+0,34,19,MAYBOURNE,"Is that a threat, Colonel?"
+0,34,19,JACK,You tell me the punishment for losing a Stargate.
+0,34,19,MAYBOURNE,That presumes there was no authorization to move the Stargate.
+0,34,19,DANIEL,"So, who authorized it?"
+0,34,19,MAYBOURNE,That's classified.
+0,34,19,JACK,We have the highest clearance.
+0,34,19,MAYBOURNE,"Within the military, you do."
+0,34,19,JACK,Are you telling me this is a civilian operation?
+0,34,19,MAYBOURNE,"Gentlemen, Colonel O'Neill and his people need an escort back to their vehicle."
+0,34,19,JACK,"Who's pulling the strings, Maybourne?"
+0,34,19,MAYBOURNE,"Take a piece of advice, Jack. Let this one drop."
+0,34,19,JACK,Drop it ?
+0,34,19,MAYBOURNE,Please. Don't make these gentlemen have to get disrespectful.
+0,34,21,HAMMOND,We're operating under a virtual blackout. No one will confirm or deny a thing.
+0,34,21,SAM,Well this is too bizarre. The only other Stargate on the planet gets spirited away and it's business as usual.
+0,34,21,HAMMOND,"There's nothing usual about it, Captain. Someone's clamped down on the communication channels."
+0,34,21,TEAL'C,What of the Touchstone?
+0,34,21,SAM,"Well sometime while we were gone, my instruments readings dropped to zero."
+0,34,21,DANIEL,So either they've stopped using it or they've found a way to shield it from detection.
+0,34,21,SAM,Well the weather anomalies have abated on Earth.
+0,34,21,DANIEL,They probably realized experimenting with it was causing too many problems or attracting un-necessary attention.
+0,34,21,SAM,"Exactly, Now if we can't track the Touchstone, there may still be a way to track the second gate on Earth."
+0,34,21,JACK,Oh Sure! Let's just put out an APB for a huge honkin two story metal ring with 39 little pictures all nicely engraved on it.
+0,34,21,SAM,"Actually, I had another thought."
+0,34,21,HAMMOND,"Go ahead, Captain."
+0,34,21,SAM,We use our gate to go to Madrona then do a quick180 and return through the second gate here on Earth.
+0,34,21,TEAL'C,"Captain Carter, If one were to input the Earth's co-ordinates on the Madrona dialing device he would be sent back to the gate on this facility."
+0,34,21,SAM,You would. Unless you intentially overpower the gate.
+0,34,21,DANIEL,"Of course, the way the wormhole arced to send the two of you to the other gate. We just have to duplicate those conditions."
+0,34,21,HAMMOND,"As you may recall, it was a minor miracle that either of you survived that incident."
+0,34,21,DANIEL,What if we used the MALP robot?
+0,34,21,SAM,Perfect. The GPS could give us an exact position as soon as the MALP made it through.
+0,34,21,TEAL'C,Someone would have to accompany it to Madrona then put in the correct address on the dialing device.
+0,34,21,JACK,I would be that person.
+0,34,21,DANIEL,I'll go too.
+0,34,21,SAM,You'll also need to bring the necessary equipment to modulate the power on the gate.
+0,34,21,HAMMOND,Let's do it.
+0,34,22,SAM,"They've arrived through the Madrona gate, sir."
+0,34,22,HAMMOND,Here we are transporting our people across the galaxy to find something we've lost in our own backyard. Incredible.
+0,34,23,PRINCESS,They're back uncle Roham.
+0,34,23,ROHAM,Did they bring the Touchstone?
+0,34,23,JACK,Not yet. We're working on it.
+0,34,23,ROHAM,Don't you understand. Look around you. The rivers have turned to ice. Before long all our croplands will be disseminated.
+0,34,23,PRINCESS,Why did you return?
+0,34,23,DANIEL,We have to set this machine from here to track the Touchstone.
+0,34,23,ROHAM,You're lying!
+0,34,23,JACK,We're not lying.
+0,34,23,DANIEL,"Look, we really are trying to help."
+0,34,23,ROHAM,Come now
+0,34,24,SAM,They should be inputting the last address now.
+0,34,25,HAMMOND,"Status, Captain."
+0,34,25,SAM,"It's through, sir. It's on Earth."
+0,34,25,HAMMOND,"Well, where the hell is it?"
+0,34,25,SAM,"Switching over to terrestrial video signal. We have visual, but it's dark."
+0,34,25,HAMMOND,Can you make out anything?
+0,34,25,SAM,"No, not much. Looks like there's somebody moving."
+0,34,25,TEAL'C,Can you ascertain its location?
+0,34,25,SAM,I'm resetting the MALP global positioning system to Telsat 13. Attempting to triangulate.
+0,34,25,HAMMOND,What the hell happened?
+0,34,25,SAM,"They blew it away, sir."
+0,34,26,JACK,Carter?
+0,34,26,SAM,The link is gone. They destroyed the
+0,34,26,JACK,Did you get the co-ordinates?
+0,34,26,SAM,"Didn't have time for a full triangulation, but we've got it narrowed down."
+0,34,26,JACK,How far down?
+0,34,26,SAM,"Well as far as we can tell, it's in Southern Utah."
+0,34,26,JACK,"Oh well, Southern Utah."
+0,34,26,DANIEL,Well at least that's a start.
+0,34,26,HAMMOND,I have one last marker I can call. Let me see what I can find out.
+0,34,27,WHITLOW,Hello General.
+0,34,27,HAMMOND,Whitlow.
+0,34,27,WHITLOW,Shall we walk.
+0,34,27,HAMMOND,As I told you on the phone. I don't really have time for all this cloak and dagger stuff. I need to know.
+0,34,27,WHITLOW,Please walk. It makes it harder for the parabolic.
+0,34,27,HAMMOND,Glad to see the paranoia quotient is as high as ever.
+0,34,27,WHITLOW,It's dangerous times George. You never know who's listening. What do you need to know?
+0,34,27,HAMMOND,Two things. Who's got the Stargate? Who's got the weather device?
+0,34,27,WHITLOW,I wish I had that info.
+0,34,27,HAMMOND,"I don't have time for games, Whitlow."
+0,34,27,WHITLOW,"George, really, as much as I'd love to clear our little IOU, I don't know anything. I don't even know what you're talking about in regards to a weather device, but are you telling me the Stargate is missing?"
+0,34,27,HAMMOND,"The second one, yes."
+0,34,27,WHITLOW,That doesn't sound like a good thing.
+0,34,27,HAMMOND,"Come on Whitlow, you've got your fingers in every agency. You haven't heard anything. Military intelligence? NSA? CIA?"
+0,34,27,WHITLOW,"George, if it were military, I'd know about it. It's got to be civilian."
+0,34,27,HAMMOND,Anything strange going on at Nellis?
+0,34,27,WHITLOW,"There's always something going on at Nellis, and most of the time it's strange. But nothing about a Stargate or a weather thingy. Hey! Does this have something to do with all the weird weather lately?"
+0,34,27,HAMMOND,How about Southern Utah? Heard about anything going on there?
+0,34,27,WHITLOW,"Southern Utah? Yeah, as a matter of fact. A requisition just crossed my desk requesting a C-5 for a classified pick-up at a NID landing site. It's in Utah."
+0,34,27,HAMMOND,.No idea what it's for?
+0,34,27,WHITLOW,"Not officially, but I don't have to tell you a C-5 is a big airplane. Big enough to hold a Stargate and transport it anywhere in the world."
+0,34,27,HAMMOND,Where's the strip?
+0,34,27,WHITLOW,Just south of the Black Mountains. About 40 clicks west of Parowan.
+0,34,27,HAMMOND,"Thank you, Whitlow"
+0,34,27,WHITLOW,George. Does this mean we're even?
+0,34,27,HAMMOND,"If it pans out, it does."
+0,34,28,HAMMOND,"Ok, here's the deal. This NID landing strip doesn't officially exist therefore I don't think there's a jurisdictional issue. But even if there is, that C5 is Air Force property and it is our jurisdiction."
+0,34,28,JACK,"Can we go now, sir?"
+0,34,28,HAMMOND,There's a chopper waiting up top. It will take you to Hill Air Force Base. From there you're on your own.
+0,34,28,JACK,Thank You
+0,34,28,HAMMOND,"One other thing, Colonel. We don't know if the people who took the gate and the Touchstone are friend or foe. Therefore under no condition are you to fire on them. Understood?"
+0,34,28,JACK,Under no conditions fire.
+0,34,28,HAMMOND,That's right.
+0,34,28,SAM,"What if they fire on us, sir?"
+0,34,28,HAMMOND,Then you are to take cover. Do not return fire unless it's the only option remaining in order to defend yourselves.
+0,34,28,JACK,General. I don't think that's gonna...
+0,34,28,HAMMOND,"Those are my orders, Colonel. We're already going way out on a limb on this one. I don't want my people mortally wounding another American who may just be following orders. Understood?"
+0,34,28,JACK,"Yes, sir."
+0,34,29,JACK,"Stand too, gentlemen. Keep those hands visible."
+0,34,29,NID MAN,Who the hell are you?
+0,34,29,JACK,No one's damn business! Step away from the crate.
+0,34,30,JACK,Stop Don't do it.
+0,34,31,DANIEL,Aggh!
+0,34,31,JACK,What?
+0,34,31,DANIEL,I missed the address.
+0,34,31,SAM,At least we have this.
+0,34,32,PRINCESS,They've come back uncle Roham! Just as I told you.
+0,34,32,ROHAM,Do they have the Touchstone?
+0,34,32,PRINCESS,They do.
+0,34,33,ROHAM,Thank You.
+0,34,33,JACK,You're very welcome.
+0,34,33,DANIEL,We hope the faith and trust between our two worlds have been restored.
+0,34,33,PRINCESS,You have lived up to your promises. Let there always be peace between our worlds.
+0,34,33,ROHAM,"We must remain vigilant, lest those that trespassed before come back to violate the sanctity of the Holy Touchstone."
+0,34,33,JACK,"Yeah, just make sure your guards are paying attention this time."
+0,34,33,ROHAM,Blessings be upon you.
+0,34,34,SAM,And everything should be back to normal within a few weeks both here and Madrona.
+0,34,34,DANIEL,That's simply why we think they'll be happy we return through the gate to do the studies we had hoped to do.
+0,34,34,JACK,"Any ideas what happened, sir?"
+0,34,34,HAMMOND,"To be honest, it's still something of a shell game. The investigation has been taken out of my hands."
+0,34,34,JACK,By whom?
+0,34,34,HAMMOND,I'm still trying to find that out.
+0,34,34,DANIEL,So we may never know who those men were who went through the gate.
+0,34,34,HAMMOND,"Not unless you can tell me where they went. Well, until then all SG units are to be on watch for four NID guys wandering around on other planets."
+0,34,34,JACK,"Great! So all this could happen again, huh?"
+0,34,34,HAMMOND,"No, Colonel! This time I was able to ensure that our Stargate will be the only one in use."
+0,34,34,SAM,"Sir, The second Stargate is being retired?"
+0,34,34,HAMMOND,"Yes, Only this time there will be a permanent iris welded over it and it will be placed under round-the-clock guard under the command of the SGC, my command."
+0,34,34,JACK,"No lying and deceit, smoking mirrors?"
+0,34,34,HAMMOND,You'll be there yourself. All of you will when they put it away for good.
+0,34,35,JACK,This put you out of a job Maybourne?
+0,34,35,MAYBOURNE,"Oh! You'd be surprised. Strange things happen in high places, Colonel."
+0,34,35,JACK,Don't I know it.
+0,34,35,MAYBOURNE,"People gets reassigned. So does property. Artifacts gets misplaced, orders change. Everyday a new day."

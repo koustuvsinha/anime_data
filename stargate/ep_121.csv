@@ -1,0 +1,382 @@
+Season,Episode,Scene,Character,Line
+0,121,0,STARGATE SG1,Episode 613
+0,121,0,"""SIGHT UNSEEN""",By Damian Kindler
+0,121,1,DAVIS,"Receiving SG-1s IDC, Sir. Request permission to open the iris."
+0,121,1,HAMMOND,Do it.
+0,121,2,HAMMOND,"Welcome home, SG1. How did it go?"
+0,121,2,ONEILL,"Ah, General, you know how I love those sandy planets."
+0,121,2,TEALC,The wind was most pleasant.
+0,121,2,ONEILL,"Jaffa sarcasm at its finest, General."
+0,121,2,JONAS,There wasnt much left to study.
+0,121,2,CARTER,"Most of what used to be there has been eaten away by sandstorms, but we did find evidence suggesting that it was some sort of science outpost or observatory built by the Ancients."
+0,121,2,HAMMOND,I take it thats the artefact you mentioned? What is it?
+0,121,2,CARTER,Actually were not sure.
+0,121,2,ONEILL,"Id say its some kind of bug zapper, General."
+0,121,2,CARTER,All I know is that its emitting energy.
+0,121,2,JONAS,"It was hidden in an underground chamber just below the main section of the ruins. When I tried picking it up, the crystals started glowing."
+0,121,2,CARTER,Touching it must have somehow activated it.
+0,121,2,HAMMOND,Youre certain it isnt dangerous?
+0,121,2,CARTER,"Well as certain as I can be without knowing what it is exactly. As I said when we reported in, my initial scans indicated the energy that its emitting is harmless. That in itself makes it worthy of study as a potential power source, sir."
+0,121,3,JONAS,Colonel!
+0,121,3,ONEILL,What!
+0,121,4,JONAS,There! You dont see that!
+0,121,4,ONEILL,No. What? What?
+0,121,4,JONAS,It just disappeared into the wall.
+0,121,4,CARTER,What did?
+0,121,4,JONAS,"I dont know. Something. It was an alien creature of some kind. You didnt see it? It was right there. It was right there, General."
+0,121,5,HAMMOND,"This is Hammond. I want a class one security lockdown of the base. As of now. This is not a drill. Repeat, this is not a drill."
+0,121,7,HAMMOND,"As you were. In the past six hours, security teams have swept the base three times. They found no trace whatsoever of the creature you described."
+0,121,7,CARTER,Youre certain what you saw disappeared into the wall?
+0,121,7,JONAS,Yeah. Isnt it possible something followed us back through the Gate?
+0,121,7,CARTER,Something with the ability to penetrate solid matter?
+0,121,7,JONAS,Is that not heard of?
+0,121,7,ONEILL,Nothing showed up on the video.
+0,121,7,HAMMOND,"Mister Quinn, you understand Im not questioning your judgement, but without any further evidence I have no choice but to return the base to normal operating status."
+0,121,7,JONAS,Yes Sir. I understand.
+0,121,7,HAMMOND,SG1s had a particularly busy mission schedule lately. I believe youre all due for some down time. I suggest you take it starting from now. Dismissed.
+0,121,8,CARTER,You only saw a flash of this creature. Are you sure it wasnt some kind of hallucination?
+0,121,8,JONAS,Youre suggesting Im delusional?
+0,121,8,ONEILL,"No! No, its just possible you were seeing something that wasnt entirely.... Yes thats what were suggesting."
+0,121,8,JONAS,You think Im having symptoms related to my prior exposure to naquadria? Like the others on my planet? Doctor Fraiser gave me a clean bill of health.
+0,121,8,ONEILL,Over three months ago.
+0,121,8,CARTER,"Jonas, were just concerned about you."
+0,121,8,JONAS,"Colonel, there was something alive down there. It was real."
+0,121,9,ONEILL,I could stay.
+0,121,9,CARTER,"Weve all been cleared, Sir. The base is clean. Jonas is probably suffering from stress. This is all still pretty new to him."
+0,121,9,ONEILL,You could come with.
+0,121,9,CARTER,Sir?
+0,121,9,ONEILL,Fishing Carter. Im going fishing.
+0,121,9,CARTER,You know Im planning on studying the artefact.
+0,121,9,ONEILL,"Yes. Its always something, isnt it?"
+0,121,9,CARTER,"Oh come on, Sir, we both know the only reason you asked is because you knew I had something else to do."
+0,121,9,ONEILL,"No, really I think you should come, fish. Fish some more."
+0,121,10,JONAS,"So this is what you do with your downtime, huh?"
+0,121,10,CARTER,"Colonel ONeill asked me to go fishing with him, but to be honest, I find this more relaxing. How you doing?"
+0,121,10,JONAS,"Ah, well, the possibility of being insane has been interfering with my ability to relax. I figured Id take a crack at these glyphs."
+0,121,10,CARTER,"Fine with me. But the truth is, I still have no idea what were dealing with. Ive scanned it with x-rays, ultra violet, mild EM pulses. Nothing has had even the slightest effect on the particles its emitting."
+0,121,10,JONAS,Particles?
+0,121,10,CARTER,"Well, for lack of a better word. I mean, really theyre just energy patterns. So far, I havent been able to identify them or determine their purpose. Actually, I was hoping that the writings on the device itself would tell us more."
+0,121,10,JONAS,"Lets see what it says. The symbols are definitely a form of the language used by the Ancients although the Ancients have been around so long, the language has evolved. We do have a base reference.... Arrggghhh!"
+0,121,11,CARTER,What?
+0,121,11,JONAS,Youre telling me that you dont see that?
+0,121,11,CARTER,What?
+0,121,11,JONAS,Its right there in front of you.
+0,121,12,JONAS,Okay. Theres definitely something wrong with me.
+0,121,13,FRAISER,"No evidence of brain damage from exposure to naquadria radiation. No indication of any viruses or toxins in your system. CAT scans, MRI, bloodwork all came back clean. Hes in perfect health."
+0,121,13,JONAS,Physically.
+0,121,13,FRAISER,Thats all I can say definitively. But you havent shown any signs of stress or fatigue that usually accompany these kinds of hallucinations.
+0,121,13,JONAS,Then why am I the only one seeing these things?
+0,121,13,FRAISER,I wish I had an answer for you.
+0,121,13,HAMMOND,"Unfortunately until we find out exactly whats going on, I have no choice but to remove you from active duty effective immediately."
+0,121,13,JONAS,"General Hammond. Sir, these visions only started when we returned with the device."
+0,121,13,HAMMOND,What are you suggesting?
+0,121,13,JONAS,"I know that I cant go on any more missions, thats fine. But at least give me permission to continue researching the device with Major Carter. I mean, there has to be a connection here."
+0,121,13,HAMMOND,"Major Carter has already submitted her report on the device. Nothing in it suggests the device has anything to do with your condition. Until someone presents hard evidence, we have to assume its a coincidence."
+0,121,13,JONAS,I havent even started translating the writing.
+0,121,13,HAMMOND,Youll have to do that from video reference. The device is being shipped to Area
+0,121,14,JONAS,I cant believe theyre gonna ship it out of here for further study? We barely got a crack at figuring out what it is.
+0,121,14,TEALC,Perhaps the scientists at our Nevada facility will be able to determine the devices true purpose.
+0,121,14,JONAS,"Meanwhile, Im stuck here cooling my heels."
+0,121,14,TEALC,You are welcome to join me as I kelnoreem.
+0,121,14,JONAS,"No offence, Tealc, but it doesnt have quite the same effect on me. No other plans?"
+0,121,14,TEALC,Colonel ONeill requested that I accompany him on a fishing excursion.
+0,121,14,JONAS,"Ahh, I guess Im the only one he didnt invite."
+0,121,14,TEALC,You are not permitted to leave the base.
+0,121,14,JONAS,Still.
+0,121,14,TEALC,Be extremely happy that he did not ask.
+0,121,14,JONAS,"Why, you dont like fishing?"
+0,121,14,TEALC,No.
+0,121,14,JONAS,"Hmm. Well seeing as how Ive read every book in the base library twice, I guess Ill get back to work on my...."
+0,121,15,JONAS,You saw that?
+0,121,15,TEALC,Indeed.
+0,121,16,VERNON,"Hey there. You just caught me fixing the carburettor, I didnt even hear you pull in."
+0,121,16,ONEILL,Its not a problem.
+0,121,16,VERNON,"You sure? Its a full service station, you know the price includes yours truly."
+0,121,16,ONEILL,"I got it, thanks."
+0,121,16,VERNON,"All right. At least, I can wash your windows for you."
+0,121,17,VERNON,"What do you get, like four or five miles to the gallon in this thing?"
+0,121,17,ONEILL,"Yeah, its a pig."
+0,121,17,VERNON,"Yeah, Im more of an el Camino fan myself. Those things are like catnip to the ladies."
+0,121,17,ONEILL,Dont I know it.
+0,121,18,VERNON,What?
+0,121,19,VERNON,Oh jeez. The moneys inside in a locked box under the counter.
+0,121,19,ONEILL,"Im not gonna rob you, just get down."
+0,121,19,VERNON,Getting down.
+0,121,20,VERNON,"Dont kill me please, Im a vet."
+0,121,20,ONEILL,"Im not gonna kill you, get up. Colonel Jack ONeill, US Air Force. Did you see anything?"
+0,121,20,VERNON,"Ahh, just my life flashing before my eyes. What the hell were you shooting at?"
+0,121,20,ONEILL,Its classified.
+0,121,20,VERNON,"Well, you could tell me. I gotta work here, you know. If theres something going on I should know about it."
+0,121,21,ONEILL,ONeill for Hammond.
+0,121,21,VERNON,I served in the Gulf.
+0,121,21,ONEILL,What division?
+0,121,21,VERNON,"Motor pool. Aw man, my sign."
+0,121,21,DAVIS,"Patching through a call from Colonel ONeill, Sir."
+0,121,21,HAMMOND,"Colonel, where are you?"
+0,121,21,ONEILL,"About 30 clicks north, Sir. I just saw something fairly interesting."
+0,121,21,HAMMOND,That means theyve breached base containment.
+0,121,21,ONEILL,Sir?
+0,121,21,HAMMOND,"Were seeing them here, theyre everywhere."
+0,121,21,CARTER,Anything?
+0,121,21,JONAS,Says something about experiment but Im hung up on a few of these glyphs here. They were studying beings of the something something. According to this it should be inner layer. The beings of the inner layer but that doesnt make much sense.
+0,121,21,CARTER,Not really.
+0,121,21,JONAS,"Maybe, uh, other level."
+0,121,21,CARTER,What about another dimension?
+0,121,21,JONAS,That could work.
+0,121,21,CARTER,It would make sense if the creatures are inhabiting another dimension close to ours.
+0,121,21,JONAS,"Yeah absolutely. Yeah, thanks."
+0,121,21,CARTER,Is that it?
+0,121,21,JONAS,"Sorry, Im working as fast as I can believe me."
+0,121,21,CARTER,General Hammond wants a full report as soon as possible.
+0,121,22,CARTER,"Look, Im the one whos sorry. We should never have doubted you about what you saw in the first place."
+0,121,22,JONAS,Its perfectly understandable. With the whole naquadria poisoning thing. Besides I am still kinda the new guy.
+0,121,22,CARTER,"Youre part of the team now and you deserve our respect. Youve earned it. Jonas, youre doing a great job."
+0,121,22,JONAS,Thanks.
+0,121,22,CARTER,"Now, figure out what else this thing says."
+0,121,22,JONAS,Right.
+0,121,23,HAMMOND,"Colonel ONeill is going to remain in Colorado Springs and co ordinate the quarantine. The National Guard is standing by. The President is prepared to declare a state of emergency. Hopefully these things, whatever they are, havent got too far."
+0,121,23,CARTER,"Sir, were not sure were going to be able to contain them."
+0,121,23,HAMMOND,You had the transfer of the device halted.
+0,121,23,CARTER,"Yes, sir. And we learned more."
+0,121,23,JONAS,I think Ive translated enough of the writings to figure out its purpose.
+0,121,23,CARTER,"Its broadcasting a wave of energy particles. Now while were not exactly sure what these particles are made of, we think theyre somehow triggering an ability to see these creatures. Hopefully only those exposed to these particles will develop this second sight."
+0,121,23,JONAS,None of the ciphers we have fit perfectly but near as I can understand the device is meant to allow us to observe beings that exist in a dimension parallel to ours.
+0,121,23,CARTER,We think the energy particles the device is emitting create a kind of bleed through effect. Giving anyone whos been exposed to them an ability to see into this parallel dimension.
+0,121,23,HAMMOND,So we cant contain them because they arent actually here?
+0,121,23,CARTER,"In a manner of speaking. They do exist, just not in any way that allows us to actually interact with them."
+0,121,23,JONAS,"And, if Im right, they didnt follow us through the Gate."
+0,121,23,HAMMOND,Where did they come from?
+0,121,23,CARTER,"The ones were seeing are from Earth. Theoretically, these creatures could exist anywhere. Weve just been previously unaware of them."
+0,121,23,HAMMOND,What is your threat assessment Major?
+0,121,23,CARTER,"Well, I cant say for sure, Sir, but with regards to the creatures, none. If they only exist in their dimension, they cant really do anything to us."
+0,121,23,FRAISER,"As far as I can tell, theres no physiological interaction beyond our ability to see them."
+0,121,23,HAMMOND,"However, while the personnel at this facility might be able to deal with seeing interdimensional beings..."
+0,121,23,CARTER,If the effect of this spreads to the general public we could have a massive disaster on our hands. People just arent used to seeing unusual things the way we are and we cant control when or where a sighting might occur.
+0,121,23,FRAISER,"I mean, imagine on a small scale, a surgeon doing delicate surgery and hes distracted."
+0,121,23,CARTER,Or an air traffic controller.
+0,121,23,FRAISER,"Even something as simple as driving a car. I mean, people might eventually be able to deal with it but not before it turns the world upside down."
+0,121,23,JONAS,And not to mention the potential exposure of the Stargate program in trying to explain the situation.
+0,121,23,HAMMOND,Shut off that device.
+0,121,23,CARTER,"Weve tried, Sir."
+0,121,23,HAMMOND,Find a way.
+0,121,23,HAMMOND,Colonel ONeill says there havent been any further reports of sightings outside the base as of yet.
+0,121,23,CARTER,"Weve triangulated the most of the sightings to a five hundred metre radius around the device. It seems to attract the creatures to it, most likely part of its design."
+0,121,23,JONAS,"So the closer that we get to the machine, the more frequently well be seeing our new friends."
+0,121,23,CARTER,Weve been unable to find any types of controls or switches. The last resort is separating the main crystal core from the unit itself. Hopefully that will cut the power supply and stop the device from functioning.
+0,121,23,HAMMOND,What are you waiting for?
+0,121,23,CARTER,"Well, sir, this is a very advanced piece of alien technology. I have no idea what effect pulling the plug will have."
+0,121,23,HAMMOND,"Major, if this effect continues to spread...."
+0,121,23,CARTER,Attempting to remove crystal core.
+0,121,24,CARTER,My scans are no longer detecting any particle emissions coming from the device.
+0,121,24,JONAS,Anyone see anything?
+0,121,26,TEALC,Major Carter.
+0,121,26,CARTER,Any sightings?
+0,121,26,JONAS,Not me.
+0,121,26,TEALC,My kelnoreem was undisturbed.
+0,121,26,CARTER,I think we may have just solved the problem.
+0,121,26,JONAS,Tealc thinks we should take the device back.
+0,121,26,CARTER,Take it back? Weve barely scratched the surface of what it can do.
+0,121,26,JONAS,"Thats what I was saying. I mean, now that its shut off, its perfectly safe to study."
+0,121,26,TEALC,To what end?
+0,121,26,CARTER,The effect that device had was groundbreaking Tealc. Once we figure out exactly how to use it...
+0,121,26,JONAS,Eventually.
+0,121,26,CARTER,These interdimensional creatures are well worth study.
+0,121,26,JONAS,The Ancients certainly thought so.
+0,121,26,CARTER,Theyre obviously aware of matter in our dimension on some level or they wouldnt come to rest on objects we perceive as solid.
+0,121,26,JONAS,Plus they have the ability to pass through solid matter at will.
+0,121,26,CARTER,Also the ones weve encountered seem to lack a behaviour that demonstrates a higher intelligence. But that doesnt mean we cant...
+0,121,26,WOMAN,Argghhhh!
+0,121,28,HAMMOND,Sergeant?
+0,121,28,DAVIS,Mission time was 24 minutes 3 seconds. MALP AV link to P9X 391 is up and running.
+0,121,28,HAMMOND,
+0,121,28,CARTER,"Sir, were in the ruins. Were about to enter the ante chamber where we found the device. Are you picking up anything coming through the wormhole?"
+0,121,28,DAVIS,Negative. No unidentified energy patterns are being detected from your position.
+0,121,28,HAMMOND,Does that mean were free and clear?
+0,121,28,CARTER,Even if we were able to shut the device off its possible there was residual particle radiation that my instruments just couldnt detect. Hopefully this will take care of that.
+0,121,28,JONAS,Its back where we found it. There doesnt seem to be anything else here that would explain what happened with the device.
+0,121,28,CARTER,Once the Gate has shut down it should cut off any energy patterns being broadcast back to Earth.
+0,121,28,HAMMOND,Affirmative. Well re establish contact in one hour. Shut it down.
+0,121,28,DAVIS,"Yes, Sir. Deactivating wormhole."
+0,121,28,HAMMOND,Im in my office.
+0,121,28,DAVIS,Ah Sir?
+0,121,29,HAMMOND,Are you certain bringing the device back here was the right decision?
+0,121,29,CARTER,Its the only way were gonna solve this Sir. Returning the device to P9X 391 should have worked. Theres no way it could have been projecting an effect from offworld without the Stargate being active.
+0,121,29,TEALC,Then why do we all still possess the ability to see these creatures?
+0,121,29,CARTER,"Whatever effect the particles have on us must be persistent. Hopefully, its not permanent."
+0,121,29,HAMMOND,The problem is several new sightings have been reported on base by personnel not previously affected. The situation is getting worse despite your efforts.
+0,121,29,CARTER,It doesnt make any sense. Without exposure to the particles...
+0,121,29,JONAS,What if this has nothing to do with the particles?
+0,121,29,CARTER,How can that be?
+0,121,29,JONAS,"We know that one of the functions of the device was to attract the creatures. Now when we shut that down, or as least thought we shut it down, they seemed to go away."
+0,121,29,CARTER,I get it. What if the particles being emitted were only what was attracting the creatures?
+0,121,29,JONAS,"Sure, like food. Now shutting down that part of the device just made the creatures leave the area. Whatevers giving us the ability to see these things is something completely different."
+0,121,29,HAMMOND,Something unrelated to the device?
+0,121,29,CARTER,"No Sir, that seems unlikely. But it could be something weve missed."
+0,121,29,JONAS,"Okay, I was the first one to see the creatures, right? I was also the first one to touch the device. Tealc was next."
+0,121,29,CARTER,Touching the device could have imparted some kind of charge that would alter our bodys electrical field enough to cause the interdimensional bleedthrough effect.
+0,121,29,HAMMOND,But that doesnt explain the people who had no direct contact with the device.
+0,121,29,CARTER,Unless the charge can be passed on person to person.
+0,121,29,JONAS,Like a contagion.
+0,121,29,HAMMOND,Im ordering the immediate containment of Colorado Springs and the surrounding area.
+0,121,29,CARTER,Well also need to isolate anyone who could have come into physical contact with any SGC personnel.
+0,121,32,HAMMOND,Thank you. Yes. Keep me apprised.
+0,121,33,HAMMOND,Were getting sporadic reports of sightings. Thankfully no ones been hurt so far but a local news station has already picked up the story. Colonel ONeill is retracing his steps trying to round up anyone he may have come into contact with. Quarantines otherwise in place.
+0,121,33,CARTER,Whats our cover story?
+0,121,33,HAMMOND,An accidental spill of an experimental chemical that can have an hallucinogenic effect. So far people are buying it.
+0,121,33,CARTER,But that wont work for long.
+0,121,33,HAMMOND,"This may be our only chance to contain this problem, if we cant...."
+0,121,33,CARTER,Mass hysteria.
+0,121,33,HAMMOND,This is our mistake Major and we need to fix it.
+0,121,33,CARTER,Yes Sir.
+0,121,34,CARTER,Careful.
+0,121,34,JONAS,Interesting.
+0,121,34,CARTER,What?
+0,121,34,JONAS,Do you think that the configuration has anything to do with the nature of the charge the device emits?
+0,121,34,CARTER,"So we re order the crystals, we change what the device does."
+0,121,34,JONAS,Why else would they be arranged this way?
+0,121,34,CARTER,"Well, there are a number of configurations to choose from. How do we know which one will elicit the right effect?"
+0,121,34,JONAS,This could take a while.
+0,121,35,SOLDIER,"Theres no one here, Sir."
+0,121,35,ONEILL,"All right, leave someone here in case he comes back."
+0,121,35,SOLDIER,Yes Sir.
+0,121,36,ONEILL,Vernon!
+0,121,37,MAN,"There was a huge bug on my car. No, I swear, did anyone see that? Huge bug."
+0,121,38,ONEILL,Vernon?
+0,121,39,HAMMOND,Youre certain youve reprogrammed the device properly?
+0,121,39,CARTER,"To be honest Sir, were not sure. But this is one of the last few configurations to try."
+0,121,40,CARTER,Were hoping this means its now programmed to emit a charge that will essentially reverse the effect on us.
+0,121,40,JONAS,"Okay, here goes."
+0,121,41,CARTER,You feel anything?
+0,121,41,JONAS,Not really.
+0,121,41,HAMMOND,Do you see anything?
+0,121,41,JONAS,No. Do you?
+0,121,41,CARTER,No.
+0,121,41,JONAS,When you want to see one...
+0,121,42,HAMMOND,There!
+0,121,42,JONAS,Where?
+0,121,42,CARTER,Right there on the device.
+0,121,42,JONAS,"If theres a creature right there, then Im not seeing it."
+0,121,43,CARTER,Jonas?
+0,121,44,CARTER,"I think it worked, Sir. Im not seeing it anymore."
+0,121,45,HAMMOND,"Well done, Major."
+0,121,46,FRAISER,"Well, Sir, from what I can gather, the antidote seems to be working. There have been no new sightings and everyone previously affected is no longer seeing the creatures."
+0,121,46,HAMMOND,"Good, now all we need to do is spread the cure to Colonel ONeill and the containment teams so they can spread it through the exposed area."
+0,121,46,FRAISER,I recommend using a placebo pill to sell it to the public and providing the containment holds we should eventually be able to undo the damage.
+0,121,47,HAMMOND,Hammond.
+0,121,47,ONEILL,"Sir, I have reason to believe an individual I came in contact with has breached the quarantine."
+0,121,47,HAMMOND,Is there anything we can do?
+0,121,47,ONEILL,Well get Carter and Jonas on this. The mans name is Vernon Sharpe. Hes a non-com. Served in the motor pool in the Gulf. See what they come up with.
+0,121,47,HAMMOND,Right away.
+0,121,48,HAMMOND,We have an exposed man on the run.
+0,121,49,MAN,How far are you headed?
+0,121,49,VERNON,As far as you can take me.
+0,121,49,MAN,Well Im picking up a cousin in Hawthorne County. Hows that?
+0,121,49,VERNON,Thats fine.
+0,121,49,MAN,Hop in.
+0,121,49,RADIO,We have a situation in Colorado. As you may have already heard the National Guard continues to maintain its quarantine on the city of Colorado Springs after a dangerous chemical spill may have had an adverse effect on some residents in the area.
+0,121,49,MAN,You hear about that? People are saying theyre seeing monsters.
+0,121,49,VERNON,"Yeah, I know. Crazy."
+0,121,50,CARTER,"According to his bank records, Vernon Sharpe drained all the money from his account several hours ago."
+0,121,50,JONAS,You can get this kind of information on someone this easily?
+0,121,50,CARTER,Well we only use the privilege in certain circumstances.
+0,121,50,JONAS,So he could be anywhere by now?
+0,121,50,CARTER,Weve frozen his credit cards but since hes using cash itll be harder to trace his movements.
+0,121,50,JONAS,So hes just gonna vanish. That makes no sense.
+0,121,50,CARTER,What do you mean?
+0,121,50,JONAS,"Well hes ex-military, cant simply be fear of these creatures hes seeing. Whats he running for."
+0,121,50,CARTER,He doesnt buy the cover story.
+0,121,50,JONAS,The only way were gonna figure out where hes going is by learning more about more about him. Can we find out if he has any friends or family in the area?
+0,121,52,MRS SHARPE,Whats he gone and done now?
+0,121,52,CARTER,"Oh he hasnt done anything, Mrs Sharpe. Were actually just very worried about Vernon."
+0,121,52,MRS SHARPE,Cookie?
+0,121,52,CARTER,Thank you.
+0,121,52,MRS SHARPE,"I know how you feel dear; Ive been worried about Vernon since he was a boy. I was the one who raised him after his mother ran of, you know."
+0,121,52,CARTER,Im sure you did a fine job.
+0,121,52,MRS SHARPE,"She was a real floozy, that one. My Roger never had much taste in women."
+0,121,52,JONAS,"Mrs Sharpe, were afraid that your grandson may suspect the Government is after him for the wrong reasons."
+0,121,52,MRS SHARPE,Why are you after him?
+0,121,52,CARTER,Vernon may have been accidentally exposed to a chemical that could be causing him to see things that arent really there.
+0,121,52,MRS SHARPE,Like when he was in the war.
+0,121,52,JONAS,What do you mean?
+0,121,52,MRS SHARPE,The military! They did all kinds of things to those boys while they were over there. Experiments with chemical weapons and such. Messed with their heads good. My Vernons never been the same.
+0,121,52,CARTER,We dont really know anything about that.
+0,121,52,MRS SHARPE,"Im sure you dont, honey."
+0,121,52,JONAS,"Its very, very important that we find your grandson. He could be putting other peoples lives in danger, maam."
+0,121,52,MRS SHARPE,Vernon wouldnt hurt a fly!
+0,121,52,JONAS,"Unintentionally, of course."
+0,121,52,CARTER,"The truth is, Vernons exposure to this chemical wasnt an accident. In fact, it wasnt even a chemical. It was a highly contagious experimental germ developed by the military."
+0,121,52,MRS SHARPE,Really?
+0,121,52,CARTER,"But the thing is, it was created to try and undo what happened to your grandson while he was in the Gulf."
+0,121,52,MRS SHARPE,I find that hard to believe.
+0,121,52,CARTER,"I swear, I wouldnt lie to you. Unfortunately there were some unexpected side effects to this antidote."
+0,121,52,MRS SHARPE,Those doctors will be the death of us all. See all those pills Im supposed to take? I never take any of them.
+0,121,52,CARTER,"We really want to make this right, Mrs Sharpe. And its not just your grandsons life thats at stake. There could be a lot of other people in danger. I promise, nothing bad will happen to Vernon."
+0,121,52,MRS SHARPE,"Well, you seem like a nice enough couple."
+0,121,52,JONAS,Oh were not...
+0,121,53,CARTER,"Please, we really want to help."
+0,121,54,MRS SHARPE,"Well, Lord knows Vernon needs help; hes not right in the head, that boy."
+0,121,54,CARTER,Well do our best.
+0,121,54,JONAS,Do you have any idea where he might be?
+0,121,54,MRS SHARPE,"Well if hes off anywhere, its to see that Chuck fellow."
+0,121,54,CARTER,Chuck?
+0,121,54,MRS SHARPE,"Hes trouble. Always has been, always will. I told Vernon straight away that Chuck will lead you to no good."
+0,121,54,JONAS,Does Chuck have a last name?
+0,121,54,MR SHARPE,Im sure he does.... I just dont know it.
+0,121,54,CARTER,Do you know where he lives?
+0,121,55,VERNON,Thanks for the lift.
+0,121,55,MAN,Good luck Vernon.
+0,121,56,VERNON,Hi. I need a one way ticket to Las Vegas
+0,121,57,CARTER,"Just what we need, a conspiracy theorist."
+0,121,57,JONAS,But who happens to be right about there being a conspiracy.
+0,121,57,TEALC,There has been another sighting.
+0,121,57,CARTER,Where?
+0,121,57,TEALC,A place called Hawthorne County.
+0,121,57,CARTER,Any word on Vernon?
+0,121,57,TEALC,The infected person in question says he picked up a hitchhiker matching the description of Vernon Sharpe.
+0,121,58,ONEILL,ONeill.
+0,121,58,CARTER,Its me Sir. We have reason to believe Vernon may be at Piedmont Hawthorne Airfield on his way to Las Vegas.
+0,121,58,ONEILL,"All right, have Hammond ground all flights out. Containment team is en route. ETAs about 40 minutes."
+0,121,58,CARTER,"Have you been cleared, Sir?"
+0,121,58,ONEILL,"Yeah, they got somebody down from the SGC to shake our hands."
+0,121,58,CARTER,"Sir, you should know that Vernon could be extremely paranoid. Given his military background, Id use extreme caution in apprehending him."
+0,121,58,ONEILL,Ill keep that I mind. Good job Carter.
+0,121,58,CARTER,Thank you Sir.
+0,121,60,MAN,"They cancelled my flight, can you believe it? What did they think of the script? What? The second act was totally clear.."
+0,121,63,STEWARDESS,Im sorry ladies and gentlemen; weve just been told the flight is cancelled. Please return to the terminal where more information will be provided.
+0,121,64,ONEILL,Vernon!
+0,121,65,ONEILL,You guys cover the exits.
+0,121,66,ONEILL,"Vernon? You cant get away. Hey Vernon, Jack ONeill. Colonel ONeill. The Air Force? Look, I know this is a massive cliché, but the place is surrounded."
+0,121,66,VERNON,"Yeah, youre telling me, those monsters are everywhere."
+0,121,66,ONEILL,"Hey, I know youre seeing things. Its got to be a little confusing."
+0,121,66,VERNON,"Youre going to kill me for what I know, arent you?"
+0,121,66,ONEILL,Nobodys gonna kill you.
+0,121,66,VERNON,"Its the Gulf all over again. Only this time its innocent civilians too. Youre doing scientific research on us against our will. You know, youre never gonna get away with it. The truth will get out."
+0,121,66,ONEILL,"You know, youre right. Our cover story is bogus."
+0,121,66,VERNON,It is?
+0,121,66,ONEILL,Yeah. But the truth isnt what you think. Those creatures youre seeing? Theyre aliens.
+0,121,66,VERNON,Come on.
+0,121,66,ONEILL,"Hey, you wanted the truth. Thats it. I work for a top secret branch of the military that deals with extra-terrestrials. Thats what you were seeing."
+0,121,66,VERNON,Youre serious?
+0,121,66,ONEILL,"Yes. Very serious. But the thing is, those things, theyre no threat to us. In fact if you couldnt see them, you wouldnt even know they were there."
+0,121,66,VERNON,"No, but I am seeing them. In fact Im seeing one right now."
+0,121,66,ONEILL,Well we can make it so you dont.
+0,121,66,VERNON,Then what?
+0,121,66,ONEILL,"Look, Vernon, this cant get out, not yet. The world is not ready to know"
+0,121,66,VERNON,You just want me to keep it quiet?
+0,121,66,ONEILL,"Well, think about it. Whos gonna believe you? I mean, Government experiments are one thing but were talking alien here."
+0,121,66,VERNON,"Yeah, but other people have seen them."
+0,121,66,ONEILL,"Not for long, besides theyre all buying our cover story. Vernon your country needs you. Im asking you, one soldier to another, play ball on this."
+0,121,66,VERNON,"Okay, but Im not taking any pills or needles or anything."
+0,121,66,ONEILL,You wont have to.
+0,121,66,ONEILL,Were all clear
+0,121,67,ONEILL,We good?
+0,121,67,VERNON,"Yes, Sir."
+0,121,68,VERNON,So what planet are they from?
+0,121,68,ONEILL,Who?
+0,121,68,VERNON,The aliens.
+0,121,68,ONEILL,"Oh, a place called Melmac."
+0,121,68,VERNON,Isnt that where ALF was from?
+0,121,68,ONEILL,Who?
+0,121,68,VERNON,
+0,121,68,ONEILL,Never saw it.
+0,121,68,VERNON,No kidding.

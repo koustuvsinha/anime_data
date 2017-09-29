@@ -1,0 +1,371 @@
+Season,Episode,Scene,Character,Line
+0,96,0,STARGATE SG1,Episode 510
+0,96,0,"""2001""",By Brad Wright
+0,96,1,HAMMOND,What is it?
+0,96,1,JACK,You tell me.
+0,96,1,DANNY,"Under no circumstances, go to P4C-970 ... Colonel Jack ONeill. This looks like your handwriting."
+0,96,1,JACK,That IS my handwriting. And its my signature.
+0,96,1,JANET,"That looks like blood, Sir."
+0,96,1,HAMMOND,I want P4C-970 removed from the dialing computer immediately.
+0,96,1,SAM,I wonder why you sent it ... I wonder
+0,96,2,HAMMOND,"Welcome back, SG-1."
+0,96,2,JACK,"Break out the fishin gear, General ... our work is DONE!"
+0,96,2,HAMMOND,I take it your mission was successful?
+0,96,2,SAM,"In a word, Sir ... yes!"
+0,96,2,JACK,"In 2 words ... yes, Sir!"
+0,96,2,HAMMOND,Your initial report said the Volien were a simple agrarian society.
+0,96,2,JACK,That they are.
+0,96,2,DANNY,"The Voliens introduced us to another race, friends of theirs."
+0,96,2,JACK,"Who, while lacking a sense of humor, make up for it with advanced technology."
+0,96,2,SAM,They just wanted to make sure we were trustworthy first.
+0,96,2,JACK,"Long story short ... I think we just carried out our standing orders, Sir."
+0,96,2,TEALC,Indeed . We may have found a race both willing and capable of defending this world against the GoaUld.
+0,96,2,JACK,And if THAT little outburst didnt convince you ...
+0,96,2,HAMMOND,Im convinced!
+0,96,2,JACK,We just wrapped up several hours of talks with a guy named ...
+0,96,2,DANNY,Borren.
+0,96,2,JACK,"Borren, who REALLY lacks a sense of humor. But he wants the negotiations to move up to state level."
+0,96,2,HAMMOND,"Well done people. Perhaps while I inform the President, you could prepare a mission briefing."
+0,96,2,JACK,"Yes, Sir!"
+0,96,2,HAMMOND,By the way ... what do our new friends call themselves?
+0,96,2,SAM,"The Ashen, Sir. Theyre called the Ashen."
+0,96,3,SAM,"So, out of security concerns, The Ashen wish NOT to reveal the location of their home world until we have an agreement."
+0,96,4,JACK,Theyre a little paranoid.
+0,96,4,DANNY,It seems appropriate since they dont have an Iris like ours.
+0,96,4,SAM,We do know that theyve created a secondary star in the Volien system by igniting a gas giant thereby doubling the Voliens growing season.
+0,96,5,JOE,They MADE a star?! How?
+0,96,5,WARNING,Techno babble mode coming up! Maybe Joe should have talked to General Vadrine from Tangent. ;)
+0,96,5,SAM,"Well, theoretically, by increasing the density of a sufficiently massive gas giant until a thermonuclear reaction can take place. In fact, Arthur C. Clark pasi ..."
+0,96,5,JACK,"Ambassador, you gotta be careful about the use of the word How unless you really wanna know."
+0,96,5,JOE,"My mistake, Colonel."
+0,96,5,SAM,I guess my point is: the achievement its self goes a long way to prove the Ashen are advanced enough to take on the GoaUld.
+0,96,5,TEALC,The Ashen could be formidable allies.
+0,96,5,HAMMOND,"If they a re Stargate capable, why is this the first weve heard of them?"
+0,96,5,DANNY,"Thats a good question. They have ships, but they only use them to travel to the planets within the confederation."
+0,96,5,HAMMOND,Of which the Volien system is apart.
+0,96,5,DANNY,"Right. Uh ... Borren said that both the Ashen and Volien gates were discovered buried like ours was, and no DHD was ever recovered."
+0,96,5,SAM,"Naturally, the Ashen tried dialing numerous dialing combinations, but without a DHD to compensate for stellar drift, they were stuck like we were."
+0,96,5,HAMMOND,We could only go to Abydos.
+0,96,5,SAM,"Exactly. It was only AFTER Daniels discovery of the cartouche on Abydos that we were able to make the drift calculation to successfully dial out to other planets. Add to that the database that Colonel ONeill retrieved from the ancients, we could offer a whole galaxy of worlds the Ashen never knew existed!"
+0,96,5,HAMMOND,The news must have come as a shock to them.
+0,96,5,JACK,"Oh, not really."
+0,96,5,DANNY,"What Jack is trying to say is that if they WERE surprised, theyd never show it."
+0,96,5,JACK,They dont get excited in general General. Its like an entire planet of accountants.
+0,96,6,TEALC,Colonel ONeill mistrusts the Ashen.
+0,96,6,JACK,I never said that.
+0,96,6,TEALC,Indeed you did ... on several accounts.
+0,96,6,JACK,No! I didnt. What I said was : I didnt trust people without a sense of humor. Especially that *BORING* guy.
+0,96,6,*BORREN.*,
+0,96,6,JACK,
+0,96,6,HAMMOND,"The Ashen have agreed to meet our representative on P3A-194 tomorrow. Colonel ONeill, both you and Major Carter are to make yourselves available to the Ambassador as consultants."
+0,96,6,JACK,"Yes, Sir."
+0,96,6,HAMMOND,"Doctor Jackson, in the meantime, Id like you and TealC to confer with the Voliens, find out how they feel about the Ashen."
+0,96,6,DANNY,"I could tell you their feelings right now, Sir."
+0,96,6,HAMMOND,Dig a little deeper. Find out if the Ashen is the good neighbors they seem to be. You embark at 0700. Gentlemen?
+0,96,7,JOE,"Major Carter? Since were trading knowledge of the Stargate, I, uh ... could use a little more of that knowledge myself."
+0,96,7,SAM,"After you, Ambassador."
+0,96,8,JOE,This place never ceases to amaze me.
+0,96,8,SAM,Anything yet?
+0,96,8,DAVIS,"Uh, the computer should have it down to a handful of candidates by tomorrow."
+0,96,8,JOE,Candidates?
+0,96,8,SAM,Yeah. Were trying to locate the position of the Ashen home planet.
+0,96,8,JOE,How can you do that without the coordinates. )
+0,96,8,SAM,How?
+0,96,8,JOE,"Oops, I asked that question again."
+0,96,8,SAM,"In my earlier work with the Stargate program, I theorized that all things being equal, the outside per lock between 2 planets without a DHD is 300 light years. The computer is searching for viable coordinates within that radius of the Volien system,"
+0,96,8,JOE,Because the Ashen Homeworld is somewhere within this area?
+0,96,8,SAM,Theres a 70% probability.
+0,96,8,JOE,"Well, if the Ashen are so powerful, why dont they want us to know?"
+0,96,8,SAM,"Well, until we share our database with them, they have only our word of whats out there. Theyre vulnerable. If we didnt have an Iris, I think wed do the same."
+0,96,8,JOE,"Uh, you know what? I have not eaten since ... ooh ... today!"
+0,96,9,SAM,"Uh, the mess is this way, if youd like, we can talk more there."
+0,96,9,JOE,Id like that very much.
+0,96,13,DAVIS,Chevron 3 encoded.
+0,96,15,JOE,Morning.
+0,96,16,JACK,
+0,96,16,JOE,Whats wrong with it?
+0,96,16,TEALC,Nothing.
+0,96,16,DAVIS,Chevron 4 encoded.
+0,96,16,SAM,) You look fine.
+0,96,16,JOE,"Right. They said I didnt have to wear a uniform, and I just wanted to make a good impression."
+0,96,16,DAVIS,Chevron 5 encoded!
+0,96,16,DANNY,Uh ... you look great. Very sharp. (Gives him a Thumbs-up.
+0,96,16,JOE,Thank you.
+0,96,16,DAVIS,Chevron 6 encoded.
+0,96,16,JACK,Its the shoes ... Theyre gonna get ruined. Its a ... farm ... planet.
+0,96,17,DAVIS,Chevron 7 ... locked!
+0,96,18,HAMMOND,"Enjoy the ride, Ambassador. We look forward to your return."
+0,96,18,SAM,After you.
+0,96,18,JOE,Thank you.
+0,96,19,JOE,"Hey, it looks just like uh ..."
+0,96,19,JACK,"Oh, yeah! Just when you think youre not in Kansas anymore ... turns out you are."
+0,96,19,DANNY,Well ... see what we can dig up.
+0,96,19,JACK,Have fun.
+0,96,19,JOE,"Uh ... you said the Volien and Ashen enjoy a long trade relationship, but theres arent any ... signs of trade infrastructure around the stargate. WHAT is that sound?"
+0,96,19,JACK,Have a look.
+0,96,20,SAM,"Its called a Harvester. The Ashen has provided hundreds of them all over the planet. When the field is ready, the machine harvests the crop, then brings it to the stargate to send to the Ashen Homeworld."
+0,96,21,JACK,Were gonna want a few of those.
+0,96,21,MAN,"Im sure that can be arranged, Colonel."
+0,96,21,JACK,Borren!
+0,96,21,BORREN,"Colonel, I thought I made it clear your weapons werent necessary here."
+0,96,21,JACK,"Oh, I though you were joking around. You know, like ... you always do?"
+0,96,21,SAM,"Borren, may I introduce our official representative ... Ambassador Joseph Faxon of the United States?"
+0,96,21,JOE,I bring you greetings from ...
+0,96,21,BORREN,I am not your counterpart. The harvester possesses a suitable compartment.
+0,96,24,HAMMOND,"Sergeant, you have something?"
+0,96,24,DAVIS,"Yes, Sir. Let me show you on the Star Map ... we calculated a total of 5 possible Stargate coordinates within a 300 light year radius of P3A-194, the Volien System."
+0,96,24,HAMMOND,And theres a good chance one of them is the Ashen Homeworld?
+0,96,24,DAVIS,"Well, of the 5, These 3 were just calculated, so theyre unexplored ... This one was determined uninhabitable by a MALP probe 3 years ago ... But, Sir, this one ... This gate was blocked out of our dialing computer by YOUR order, 7 months ago."
+0,96,24,HAMMOND,Youre telling me that theres a 1 in 4 chance that the Ashen home world is a planet that I ordered off limits ?
+0,96,24,DAVIS,"Yes, Sir."
+0,96,24,HAMMOND,"Sergeant, have SG teams 3, 12, and 15 report for to the briefing room as soon as possible."
+0,96,24,DAVIS,"Yes, Sir."
+0,96,25,DANNY,"Kehl? Its uh ... Daniel Jackson, and TealC."
+0,96,25,KEHL,You said youd not likely be this way again.
+0,96,25,DANNY,"Yeah, we wanted to learn more about your relationship with the Ashen."
+0,96,25,KEHL,What would you like to know?
+0,96,25,TEALC,If they are honorable.
+0,96,25,DANNY,"Yeah. I wouldnt have put it quite that way, but ..."
+0,96,25,KEHL,Theyve been friends to us for a long as I can remember. I was raised by an Ashen family. Orphan. They give medicine freely ... machines freely ... light and heat for our homes.
+0,96,25,DANNY,"Really? So, theyve never been ... unreasonable with your people in any way?"
+0,96,25,KEHL,"They just float around in their harvesters mostly, what few of them there are."
+0,96,25,TEALC,Then you maintain freedom from their world?
+0,96,25,KEHL,If freedom is being left alone ... we have it.
+0,96,25,DANNY,
+0,96,25,KEHL,Uh ... when next you speak to one ... tell him I got  iron root  in my south field. I cant remove it myself ... need one of those machines.
+0,96,25,DANNY," Iron Root.  Well, maybe we can help."
+0,96,25,BORREN,Stand here.
+0,96,27,BORREN,"Ambassador, allow me to introduce your counterpart from our federation ... Mellon."
+0,96,27,JOE,I offer greetings from our President and hope that we can forge a friendship that can enrich both our people.
+0,96,27,MELLON,This seating arrangement is suitable for our negotiations. Please ...
+0,96,27,JACK,I assume there are facilities
+0,96,27,BORREN,In the next compartment.
+0,96,27,JACK,Just wanted to make sure before we flew off somewhere.
+0,96,27,BORREN,The harvester will remain in the vicinity of the Stargate during the negotiations.
+0,96,27,JACK,
+0,96,27,DANNY,Copy that. And uh ... good luck!
+0,96,28,KEHL,"Here it is. And it goes deep, I tell you that."
+0,96,28,DANNY,"Kehl, we can ... ... probably take care of that with TealCs staff weapon."
+0,96,28,TEALC,General Hammonds request was to gather information.
+0,96,28,DANNY,"Well, he also said we should ... Dig a little deeper. )"
+0,96,29,KEHL,Theres a jug of my best sweet water in it for ya if ya manage.
+0,96,30,TEALC,"Have you discovered something, DanielJackson?"
+0,96,30,DANNY,"Oh, God! I hope not! ) Probably, though."
+0,96,30,MELLON,"Our position is straightforward. ) You have discovered the means to travel between Stargates throughout the galaxy ... several hundred worlds, Im told?"
+0,96,30,JOE,Yes.
+0,96,30,MELLON,And you seek technologies for the purposes of defense against hostile races you have encountered on these travels?
+0,96,30,JOE,"Yes, we do!"
+0,96,30,MELLON,We agree in principle to provide you with these defense technologies ... and much more ... in exchange for your full disclosure of this Stargate network.
+0,96,30,JOE,And we also agree ... in principle.
+0,96,31,TEALC,An ancient city once stood here.
+0,96,31,DANNY,"I dont know about ancient, certainly extinct. Im not one to cough up semantics here, but even if there was a city here just a few hundred years ago ... what happened?!"
+0,96,31,MELLON,What is the current population ... of Earth?
+0,96,31,JOE,"Well, if you can forgive me, I dont know the EXACT number ... uh ... somewhere in the neighborhood of 6 billion."
+0,96,31,SAM,Growing at a rate of several million a year.
+0,96,31,MELLON,That growth rate is unsustainable.
+0,96,31,JOE,We agree.
+0,96,31,MELLON,You represent the dominant nation?
+0,96,31,JOE,That is a fair assessment.
+0,96,31,MELLON,"And, so, are you taking military action to curtail this growth?"
+0,96,31,JOE,"No, we respect the sovereignty of our neighbors."
+0,96,31,MELLON,We are pleased to hear that. The worlds of the Confederation are a partnership of equals.
+0,96,32,BORREN,Do not be alarmed. The harvester is continuing its normal operations.
+0,96,32,MELLON,While you may ... Respect ... these neighbors ... you have not yet revealed to them the existence of your Stargate.
+0,96,32,JOE,Not to all.
+0,96,32,MELLON,Any treaty with the people of Earth ... must be with ALL ... the people of Earth.
+0,96,33,JOE,I think we can agree to that.
+0,96,33,DANNY,"The level of technology appears to be similar to early 20th century Earth, Id say circa 1910."
+0,96,33,TEALC,"There appear to be no sign of a battle, DanielJackson."
+0,96,33,DANNY,"I can tell you that barring natural disaster, you know it takes the forces of nature several centuries to bury a city ... this place just looks like its been ... plowed over recently."
+0,96,33,TEALC,Perhaps to create farmland.
+0,96,33,DANNY,"Maybe the Voliens have their version of a leg movement. Whoever did this, either the Voliens or Ashen, probably did it long after the city was already abandoned."
+0,96,33,TEALC,There are no human remains.
+0,96,33,DANNY,"Exactly. So, the question is ... Why? Looks like the public building just kinda go into the ground."
+0,96,33,TEALC,It may be extremely dangerous.
+0,96,33,DANNY,"Yes, it may. Im gonna go inside ... take a look around."
+0,96,34,HAMMOND,"Several months ago, we received a message thru the Stargate, that simply stated: Under no circumstances, go to P4C-970."
+0,96,34,STAN????,The one from the future?
+0,96,34,HAMMOND,"Thats the theory, Major. We dont know the circumstances in which it was written, only that the signature and the blood found on the note match Colonel ONeills. We just determined that the race of people were negotiating with, The Ashen, may be from one of these 4 planets."
+0,96,34,HAMMOND,Thats your mission. Have your teams ready to embark once the MALPs have determined youre good to go.
+0,96,35,JACK,Just ... out of curiosity ... what kind of defense technologies are we talking about? Space guns? Force fields? ... Motherships??
+0,96,35,MELLON,"This is an example of a bio-weapon. We can make available to you. A living, radioactive, genetic material that may be designed to attack only the specific DNA of your enemy. We have a number of efficient delivery systems."
+0,96,36,JOE,"Well, wed want efficient assurances ..."
+0,96,36,MELLON,... That wed take military action only against your enemies ... and not your friends ... of course. The question arises ...  Why have these friends of Earth not yet provided you with the defense technologies that you seek from us? 
+0,96,36,SAM,Most of the advanced races that we have befriended have hesitated to share their technologies with us for fear that we will use it to destroy ourselves.
+0,96,36,MELLON,"True friends would endeavor to prevent that. You have changed the way in which we view the universe. Do not underestimate what we offer in return for that gift. We can put an end to disease, double the human lifespan, provide the means to cross entire continents in a single step, much more than simply a means to defend yourself against your enemies. We offer Earth membership within the Ashen Confederation."
+0,96,36,DAVIS,Chevron 1 encoded ...
+0,96,36,MAN,"Hammond, Line 1."
+0,96,36,HAMMOND,"This is Hammond. Yes, Sir. Weve just ..."
+0,96,36,DAVIS,Chevron 2 encoded.
+0,96,36,HAMMOND,"May I ask why?! Understood. Sergeant, abort the dialing sequence."
+0,96,36,DAVIS,"Yes, Sir. Aborting dialing sequence."
+0,96,36,HAMMOND,
+0,96,36,DAVIS,Sir? Whats going on?
+0,96,36,HAMMOND,Thats what I aim to find out.
+0,96,37,TEALC,"It would not be wise to attempt that again, DanielJackson!"
+0,96,37,DANNY,
+0,96,37,TEALC,It seems to be faint pictures.
+0,96,37,DANNY,"Yes, and hopefully theyll say 1,000 words ... it seems to be similar to ancient Celtic text I found in Wales. I should be able to make some of this out. We need to go thru all of these, were looking for a big headline."
+0,96,37,TEALC,This cavern may be unstable. I believe it would be best if we returned to the surface.
+0,96,37,DANNY,"I dont think so ... if this doesnt serve our purpose, well have to take another look around. If the Ashen really do have something to hide, I dont think were gonna get a second chance."
+0,96,37,MELLON,Colonel ... you seem pensive.
+0,96,37,JACK,"No, I was just thinking. Youre offering a lot more than we asked for."
+0,96,37,MELLON,Our motives are not selfless. Perhaps you offer more than you give yourself credit for.
+0,96,37,SAM,Access to the Stargate network?
+0,96,37,MELLON,"And a promise of much more, Major Carter. An introduction to the advanced races that you have befriended just as the Volien have introduced you to us. Your ways and culture will enrich ours. The Ashen are not the natural explorers that you so obviously are. Fortified by our technology, you can continue your exploration ... share with us what youve learned."
+0,96,37,JOE,"You understand, I have to present your offer to our leaders?"
+0,96,37,MELLON,"Youll find we are a very patient people, Ambassador. In the meantime, I will also confer with MY leadership, and recommend to them the immediate commencement of trade between our worlds. I look forward to our future together."
+0,96,37,JOE,So do I.
+0,96,37,JACK,"Well, that was ... easy"
+0,96,37,JOE,"This was just the first stage. If you thought this was easy, believe me, you wont feel that way when were done."
+0,96,37,JACK,Am I the only one who has a BAD feeling about this?
+0,96,37,JOE,Yes.
+0,96,37,JACK,Just checkin.
+0,96,37,DANNY,"Heres something. The headline says something about Pandemic, some sort of ... I cant translate that ... maybe Fever. Now, assuming the Ashen are the newcomers in this article, they provided a ... cant translate that word ... I dont know ... appears to be some sort of ... Vaccine. And the Volien people were immensely grateful."
+0,96,37,TEALC,What serves to prove the Ashen people are honorable?
+0,96,37,DANNY,"Actually, all it proves is that the city was abandoned sometime after they made contact with the Ashen. Cities are usually abandoned when civilizations fall."
+0,96,37,TEALC,Perhaps they relocated elsewhere within the Ashen Confederation.
+0,96,37,DANNY,I just dont like the sound of that either ... Kehl said hed never been anywhere else.
+0,96,37,TEALC,This city has been abandoned for many years.
+0,96,37,DANNY,"Yes, but. Long enough for Kehl to have absolutely NO idea it was ever here?"
+0,96,37,HAMMOND,"Welcome back. As per your instructions, Ambassador, an Air Force Jet is standing by at Peterson to take you back to Washington just as soon as youre cleared by our doctors."
+0,96,37,JOE,"Thank you, General. History will remember your contribution to this."
+0,96,37,JACK,ONeill! 2 Ls.
+0,96,37,JOE,"And Major, next time Im in the neighborhood, I know a restaurant that beats your Mess hands down."
+0,96,37,SAM,Id like that.
+0,96,37,JACK,"Well, General. I think it might be time to reconsider this retirement thing."
+0,96,37,HAMMOND,"Not yet, Colonel. Come with me. The President doesnt want to risk such a potentially rewarding alliance on the bases of a note that may or may not have be a warning from the future."
+0,96,37,JACK,I knew that thing was gonna come back to haunt me.
+0,96,37,SAM,"General, to confirm the Ashen are from a world other than 970 is only prudent."
+0,96,37,HAMMOND,And if we encounter the Ashen on one of those other worlds?
+0,96,37,SAM,They wouldnt be too happy about it.
+0,96,37,HAMMOND,It could jeopardize the treaty.
+0,96,37,JACK,Send a probe!
+0,96,37,HAMMOND,"For all we know, sending a Probe is what caused the problem you were trying to avoid by sending the note."
+0,96,37,JACK,"Well, technically, I havent sent it yet. If I get a chance again, Im sure gonna fill it with a lot more detail."
+0,96,37,SAM,We you were probably trying to limit the causality violation by keeping it simple.
+0,96,37,JACK,"I wonder whose Idea THAT was. Sir, you know me! I wouldnt have sent the note without a damn good reason! The President should know that!"
+0,96,37,HAMMOND,Hes under a lot of pressure to present a concrete benefit of the Stargate program before the next election.
+0,96,37,JACK,Ooohhh ... here we go!
+0,96,37,HAMMOND,"The bottom line is, he wants us out of it. From now on, this treaty is a State matter."
+0,96,37,SAM,"Well, what did Daniel and TealC find out?"
+0,96,37,HAMMOND,They havent returned yet.
+0,96,37,DANNY,"The Ashen vaccine had a side effect. I dont know what. Well, if the Ashen wrote about it, I know its big news around here."
+0,96,37,TEALC,How would you know this DanielJackson?
+0,96,37,DANNY,"Well, its in big, black letters ... Ashen Vaccine Causes ... something ... I dont know what it is, but I dont think its a good thing."
+0,96,37,TEALC,These picture appear to be much like those we saw of people celebrating.
+0,96,37,DANNY,Ah ... I dont think theyre celebrating ... I think theyre rioting.
+0,96,37,JACK,Daniel? TealC?
+0,96,37,DANNY,Were in an underground cavern. The Ashen know were down here?
+0,96,37,JACK,Negative. Kehl said you were digging a hole around here?
+0,96,37,DANNY,Yeah. Um ... stay put. Well come meet you.
+0,96,37,JACK,"Boy, when they dig a hole ..."
+0,96,37,SAM,"Daniel, where exactly ARE you?"
+0,96,37,DANNY,"Were in the ... buried ruins of the Volien Unions Capital City. By all accounts, a thriving Metropolis, I guess ... I think, until the Ashen wiped them out."
+0,96,37,DANNY,
+0,96,37,SAM,That wasnt very long ago.
+0,96,37,DANNY,"No, it wasnt."
+0,96,37,HAMMOND,What happened to them?
+0,96,37,DANNY,"Well, all we know is that there was a flu pandemic similar to the one on Earth in 1918, that killed over 20 million people. Now, THAT ... is when the Ashen came."
+0,96,37,JACK,Thru the Stargate?
+0,96,37,DANNY,"Actually in ships. You See? The Volien gate wasnt discover until years later. The befriended the Voliens, offered them a vaccine for their epidemic , and saved their world. Now, by all accounts, the Ashen were heroes to the Volien, and the friendship lasted for years. But, then, something happened."
+0,96,37,JACK,What?
+0,96,37,DANNY,I dont know.
+0,96,37,TEALC,We found no evidence of a battle.
+0,96,37,DANNY,"I found one clue ... here. Uh ... this word loosely translates as Medicine/vaccine/drug ... from the newcomers , followed by causes, followed by ... some word I cant translate. Now, this was the LATEST issue of the paper we could find, which most likely indicates the paper shut down or WAS shut down the very next day."
+0,96,37,SAM,Vaccine causes ... what?!
+0,96,37,DANNY,"I dont know. But it caused something cause in the span of 200 years, the Voliens went from an urban civilization of millions to an Agrarian civilization of thousands AFTER they were Saved by the Ashen."
+0,96,37,SAM,"General, you have to speak to the President."
+0,96,37,HAMMOND,"I just tried. Hes being briefed by the Ambassador, and wont take my calls."
+0,96,37,JACK,"General, I never did cash in on that open invitation to visit the White House. Remember? Last time we saved the world?"
+0,96,38,JACK,Driver? Pennsylvania Avenue is that way.
+0,96,38,DRIVER,"Were picking up another passenger, Sir."
+0,96,39,KINSEY,Colonel Starsky! Or is it Hutch? I could never remember which one you are.
+0,96,39,JACK,Kinsey! What the hell are you doing here?
+0,96,39,KINSEY,I know this is a little more upscale than youre used to ... but I wanted a comfortable place to talk. ) Uh ... drink?
+0,96,39,JACK,I have an appointment.
+0,96,39,KINSEY,"No ... you dont. You should have heard the President when he heard you were coming to change his mind, man, oh, man, he can be cool."
+0,96,39,JACK,The treatys a mistake.
+0,96,39,KINSEY,You were the one who recommended it in the first place.
+0,96,39,JACK,I was WRONG!
+0,96,39,KINSEY,"Hell, this was worth it just to hear THAT! Let me tell you what it comes down to, Colonel. Those of us who have actually been voted into office would like the opportunity to make the damn decisions about the governments we make treaties with."
+0,96,39,JACK,You dont have all the information!
+0,96,39,KINSEY,I know all about the note.
+0,96,39,JACK,Which is why you should take it seriously.
+0,96,39,KINSEY,"Weve got these experts who know these things. And they tell me that he ink on your note was a new, biodegradable something or other that hasnt QUITE been invented yet."
+0,96,39,JACK,Whats your point?
+0,96,39,KINSEY,"Whats the future really like, Colonel. You can tell me."
+0,96,39,JACK,"As far as I know, it hasnt happened yet."
+0,96,39,KINSEY,"But it has for you. Hell, youve been back in time, forward in time ... youve seen it all. I just wonder how things turn out. You know ... without you being a hero anymore."
+0,96,39,JACK,This has nothing to do with me.
+0,96,39,KINSEY,And I wonder how far youd go in stopping me from becoming President of the United States.
+0,96,39,JACK,"You think this is about YOU?! Oh, of all the self-centered, egotistical ..."
+0,96,39,KINSEY,"Egotistical ?! YOURE the one who cant stop playing *GOD* with our future! The minute we try to make a DEAL for Alien Technology, YOU decide that theyre the wrong KIND of Aliens. Even our Current Presidents begun to see the Pattern, and Boy, he used to LOVE you! Rest assured, we know all about the 70% probabilities, the 1 in 4 chances ..."
+0,96,39,JACK,"Kinsey, Youre in WAY over your head!"
+0,96,39,KINSEY,"Am I? This is really a Political Matter, Colonel, which will require bi-lateral approval, and thats why the President put *ME* ... in charge of the next stage of negotiations. Driver, Stop at the Athletic Club, please. Oh, youll get your invitation to the White House soon enough, Colonel ... just not tonight. Uh, Jonathan, when we get to the Athletic Club, Ill step out. You go on and take our guest ... back to Andrews."
+0,96,40,HAMMOND,"Apparently, we have agreed to make a token gesture of our good faith. Ambassador Faxon will deliver it personally, and return with an Ashen Delegation to meet Senator Kinsey."
+0,96,40,SAM,Were actually going ahead with this?
+0,96,40,HAMMOND,Im told were proceeding with caution.
+0,96,40,DANNY,What are we offering?
+0,96,40,HAMMOND,A number of gate coordinates.
+0,96,40,JACK,There goes the neighborhood.
+0,96,40,HAMMOND,Ambassador Faxon has asked that Colonel ONeill and Major Carter accompany him again.
+0,96,40,JACK,I thought we were out of it?
+0,96,40,HAMMOND,"Apparently, hes insisted. Senator Kinseys agreed, but only to Major Carter, which presents us with a window of opportunity."
+0,96,40,SAM,What can I do?
+0,96,40,HAMMOND,Force their hand somehow.
+0,96,40,TEALC,"If we accuse them directly, they may simply lie."
+0,96,40,DANNY,We may not have to. I have an idea.
+0,96,40,HAMMOND,"Major, I cant ORDER you to do this."
+0,96,40,SAM,"I know, Sir ... when do we leave?"
+0,96,41,DAVIS,Chevron 1 encoded.
+0,96,41,KINSEY,"Historic day, General."
+0,96,41,HAMMOND,Lets hope so. Senator.
+0,96,41,KINSEY,I was referring to your retirement.
+0,96,41,DAVIS,Chevron 2 encoded.
+0,96,42,JOE,Major? Is that what youre wearing?
+0,96,42,SAM,"Sir, I have a lot to tell you and not a lot of time to do it, so please, listen carefully."
+0,96,42,JOE,All right.
+0,96,43,JOE,"Mellon, Borren ..."
+0,96,43,MELLON,"Ambassador, Major Carter ..."
+0,96,43,BORREN,Colonel ONeill has not accompanied you?
+0,96,43,JOE,"His duties require him elsewhere. Of course, it is my pleasure to offer a gesture of our own ... coordinates and Stargate symbols to several new world."
+0,96,43,MELLON,It ... is ... our ... honor to ... receive such a gift.
+0,96,44,SAM,"Oh, let me ... the coordinates are on a hard drive in the laptop. Itll just take a moment to display."
+0,96,45,JOE,Our leaders would also like to extend an invitation to Earth ... to formalize our treaty.
+0,96,45,MELLON,All in time.
+0,96,45,SAM,"By the way, Borren, could you read this aloud for me? I couldnt quite translate it."
+0,96,45,BORREN,Of course ... Sterility.
+0,96,46,SAM,"We knew what you were planning, Mellon, this just confirms it."
+0,96,46,BORREN,What are you talking about?
+0,96,46,SAM,"Vaccine causes Sterility ... that was the headline. You wiped out most of the Volien population, and turned their entire world into farmland. Youll do the same to Earth."
+0,96,46,MELLON,"Lock them in here, we have a treaty to conclude."
+0,96,46,SAM,"If we dont come back alive, the treaty is off!"
+0,96,46,MELLON,"Well, thatll be your loss ... we have what we wanted."
+0,96,46,SAM,Im sorry.
+0,96,46,JOE,What do you think theyll do?
+0,96,46,SAM,I dont know.
+0,96,46,JOE,ONeill sent the note to prevent this from happening. We were so sure.
+0,96,46,SAM,Listen ... Theyre opening the Stargate! Theyre dialing Earth!
+0,96,46,JOE,What is that?!
+0,96,46,SAM,I dont know. But we gotta find out. When I get to the bottom ... follow me down. Well only have a few seconds over the gate.
+0,96,46,JOE,What?!
+0,96,46,SAM,"Just do what I tell you, when I tell you. Trust me."
+0,96,46,JOE,Ok.
+0,96,47,BORREN,Wheres Major Carter?!
+0,96,48,SAM,
+0,96,50,SAM,
+0,96,51,KINSEY,
+0,96,51,SAM,"When they knew we were on to them, they launched a bio-weapon."
+0,96,51,SAM,"I had to warn you, I couldnt wait for the ambassador. Im sorry, Sir."
+0,96,51,KINSEY,Colonel! I asked you a question!
+0,96,51,JACK,"You did good, Major."
+0,96,51,SAM,"Thank you , Sir."
+0,96,51,HAMMOND,Lets get her to the infirmary NOW!
+0,96,51,KINSEY,
+0,96,51,JACK,Thatd be fine! ONeill 2 Ls!
+0,96,51,DANNY,"I guess we dodged the bullet there, huh?"
+0,96,51,TEALC,Senator Kinsley seem most displeased.
+0,96,51,JACK,"Yeah, thats a crying shame, isnt it?"
+0,96,51,DANNY,I just hope we dont regret giving them those gate addresses.
+0,96,51,JACK,I dont think we will ... the first one being a black hole and all ... they get progressively darker from there. Carter? You all right?

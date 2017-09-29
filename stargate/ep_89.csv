@@ -1,0 +1,381 @@
+Season,Episode,Scene,Character,Line
+0,89,0,STARGATE SG1,Episode 503
+0,89,0,"""ASCENSION""",By Robert C. Cooper
+0,89,1,CARTER,Next thing you know Im waking up with Colonel ONEILL looking down at me. I suppose its possible I touched something inside the device.
+0,89,1,FRASIER,No contact burns.
+0,89,1,CARTER,So what do you think it was?
+0,89,1,FRASIER,"Well, people have been known to black out from fatigue."
+0,89,1,CARTER,Come on Janet. I was a little tired but...
+0,89,1,FRASIER,Your pre-mission blood test did show slight anaemia.
+0,89,1,CARTER,You gave me clearance to go.
+0,89,1,FRASIER,And Im starting to question that judgement.
+0,89,1,CARTER,There is nothing wrong with me.
+0,89,1,FRASIER,"Ok. At least consider what youve been through the last few years. Youve had a Tokra symbiote die in your brain, your memory has been stamped, and your entire consciousness has been transferred out of your body and into a computer and then back again and that is just for starters. Eventually it has to take its toll."
+0,89,1,CARTER,Are we done?
+0,89,1,FRASIER,Yes.
+0,89,2,FRASIER,Make sure you come back if you start speaking in an alien language.
+0,89,2,CARTER,Im sure Ill have no choice.
+0,89,4,DANIEL,"Oddly the structure was built about four hundred years ago, whereas the civilisation may date back as far as three thousand."
+0,89,4,REYNOLDS,Why is that significant?
+0,89,4,DANIEL,"Well, it may indicate the society developed in relative isolation and was only later influenced by something that suddenly led it to leap to a more advanced technology."
+0,89,4,A STARGATE.,
+0,89,4,DANIEL,Exactly. Which means its likely they either discovered it or figured out how to use it just prior to building the device. It would seem to me that these events led to the cataclysm which ended their society.
+0,89,4,ONEILL,Somehow.
+0,89,4,DANIEL,"Well, from what we know of the Goauld, theyll often attack a planet thats threatening technological advancement."
+0,89,4,HAMMOND,"Im sorry, but I havent heard anyone say exactly what the device is."
+0,89,4,DANIEL,"Uh, well, were still just speculating. I mean, it could be a deep space observatory for all I know."
+0,89,4,ONEILL,Or a big honkin space gun Sir.
+0,89,4,DANIEL,Its likely the Goauld would have taken that.
+0,89,5,CARTER,"Well whatever it is, the power core is missing. I was able to determine that much before I uh..."
+0,89,5,ONEILL,Dozed off?
+0,89,5,CARTER,The engineering of the device is extremely advanced. Its gonna take some time to decipher.
+0,89,5,REYNOLDS,Youre saying that the power core to the device is missing?
+0,89,5,HAMMOND,"Major, you know Colonel REYNOLDS."
+0,89,5,CARTER,Of course.
+0,89,5,HAMMOND,Hes been transferred from Area 51 and will be leading SG16 during its long-term analysis of the planet.
+0,89,5,CARTER,"Oh. Well, as I was saying, I believe that a naquada generator could be modified to interface with the..."
+0,89,5,ONEILL,
+0,89,5,HAMMOND,"Once Ive heard someone conclusively tell me what the device is, I will decide whether we should try to find a way to turn it on."
+0,89,5,CARTER,"Of course. Request permission to join SG16s assignment, Sir."
+0,89,5,HAMMOND,"Denied. Dr Jackson will be assisting in the translation of the alien language until SG1s next mission. Otherwise, youre all free to take some time off. Dismissed."
+0,89,6,CARTER,Sir. With all due respect I feel fine. Theres absolutely no reason why I shouldnt be allowed to help.
+0,89,6,HAMMOND,"Major, I have no doubt that your technical expertise will be required at some point down the line. But until Dr FRASIER advises otherwise, Im ordering you to take it easy."
+0,89,7,CARTER,Take it easy?
+0,89,7,ONEILL,Yeah. Youve been a little tense.
+0,89,7,CARTER,Tense? Me? Im not tense. Am I? When did you first notice?
+0,89,7,ONEILL,As we met.
+0,89,7,CARTER,Ive always just thought of myself as very focussed.
+0,89,7,ONEILL,Its called working too hard. Youre gonna crash and burn.
+0,89,7,CARTER,"I really dont have that much else to do, Sir."
+0,89,7,ONEILL,"Well find something. Take up...golf. Fly a kite, knit something."
+0,89,8,CARTER,
+0,89,10,ANSWERING MACHINE,You have no new messages.
+0,89,14,MAN,Hi.
+0,89,14,CARTER,Hi.
+0,89,14,MAN,How are you?
+0,89,14,CARTER,Fine. How are you?
+0,89,14,MAN,Good. Nice to meet you.
+0,89,14,CARTER,"Yeah, uh, are you from around here?"
+0,89,14,MAN,No. But this is where you live.
+0,89,14,CARTER,Yes it is. Im gonna go back inside now.
+0,89,14,MAN,See you again.
+0,89,14,CARTER,Bye.
+0,89,17,DANIEL,
+0,89,17,CARTER,"Hey DANIEL, its me."
+0,89,17,DANIEL,Hi Sam.
+0,89,17,CARTER,I was just wondering how far youd got on the 636 translation.
+0,89,17,DANIEL,"Oh yes, Im almost done. It miraculously seems to hold the key to all the mysteries of the universe."
+0,89,17,CARTER,"You just got there, you havent started and I should leave you alone."
+0,89,17,DANIEL,I thought you were supposed to be taking it easy.
+0,89,17,CARTER,"Yeah, its not so easy."
+0,89,17,DANIEL,"Yeah, I know. Yeah, I promise Ill call you when I have something."
+0,89,17,CARTER,"Ok, thanks."
+0,89,18,CARTER,How did you get in here?
+0,89,18,MAN,I wont hurt you.
+0,89,18,CARTER,"No, Ill hurt you if you come any closer."
+0,89,19,MAN,Please dont. I just wanna talk to you.
+0,89,19,CARTER,About what?
+0,89,19,MAN,Its complicated.
+0,89,19,CARTER,Lets start with how you got into my house?
+0,89,19,MAN,I followed you home last night.
+0,89,19,CARTER,Youve been here all night?
+0,89,19,MAN,I read some of your books and watched the television so I could learn how to speak and what to wear. Is this ok?
+0,89,19,CARTER,Youve been in my house all night?
+0,89,19,MAN,"Yes. But you couldnt see me. I just took this form now so we could relate. Actually, I used to look this way before my ascension."
+0,89,20,MAN,"Please, Im not crazy."
+0,89,21,CARTER,Who are you?
+0,89,21,MAN,My name is ORLIN. Im from the planet you just visited. I followed you back through the STARGATE.
+0,89,21,CARTER,"See, thats impossible."
+0,89,22,ORLIN,"I can become invisible in my natural, non-corporeal state."
+0,89,22,CARTER,What do you want?
+0,89,22,ORLIN,"Im sorry if I scared you, I just wanted to talk to you. Its been so long since I...I...I know this is going to seem...ok, Ill jut come out and say it and then move on from there. I have these, I guess you could call them feelings."
+0,89,23,ORLIN,But the truth is...I love you.
+0,89,26,ONEILL,Looked like an ordinary guy?
+0,89,26,CARTER,Pretty much.
+0,89,26,ONEILL,What was he wearing?
+0,89,26,CARTER,"Average, normal clothes."
+0,89,26,ONEILL,Where do you think he got em?
+0,89,26,CARTER,"Come on, Sir, weve seen lots of aliens before."
+0,89,26,ONEILL,
+0,89,26,CARTER,The alien said he could become completely invisible.
+0,89,26,ONEILL,What else did he say?
+0,89,26,CARTER,"He just said who he was and where he was from. Believe me, Sir, at first I thought he was just some crazy guy off the street and then he starts walking through solid objects. I knew there was no way I was gonna be able to contain him if I tried. My phone line was dead and I decided the best thing to do would be to bring a Code 3 team in here as fast a possible."
+0,89,26,ONEILL,
+0,89,26,ENGINEER,"Colonel, were done. Im ordering my men to evacuate the premises."
+0,89,26,ONEILL,"Alright, notify the local authorities and tell them the gas leak is fixed."
+0,89,26,ENGINEER,"Yes, Sir. Our remote surveillance system is set up and can be monitored from down the street. Well watch the place as long as you want, Sir."
+0,89,26,ONEILL,"Thanks. Uh, I could hang out for a while."
+0,89,26,CARTER,So far hes only shown himself to me.
+0,89,26,ONEILL,Maybe hes shy.
+0,89,26,CARTER,Please dont say take it easy.
+0,89,26,ONEILL,Take care?
+0,89,29,DANIEL,Hows Sam?
+0,89,29,ONEILL,Absolutely no evidence of her secret friend.
+0,89,30,DANIEL,Hows Sam?
+0,89,30,ONEILL,
+0,89,30,TEALC,Do you believe Major CARTER has become mentally unstable?
+0,89,30,ONEILL,No more than the rest of us. What have you guys got?
+0,89,30,DANIEL,"Well, it looks like that thing on 636 is a weapon."
+0,89,30,ONEILL,I was right?
+0,89,30,TEALC,It is a weapon of great power ONEILL.
+0,89,30,ONEILL,Big and honkin.
+0,89,30,DANIEL,From what Ive been able to decipher the people on 636 were developing along a similar technological time line to Earth. They had just discovered their STARGATE when what they called the threat from the skies came.
+0,89,30,ONEILL,Goaulds.
+0,89,30,DANIEL,Yet somehow they suddenly managed to build themselves an incredibly advanced weapon to defend themselves.
+0,89,30,ONEILL,"Couldnt have been so advanced. The place was a disaster, it obviously didnt work."
+0,89,30,DANIEL,Well actually it did. The monument outside the device tells the story of how they destroyed the threat from the skies and the men who built the weapon were heroes.
+0,89,30,TEALC,Which would explain why the Goauld did not take the weapon.
+0,89,30,ONEILL,"Hey, I saw that planet. If the Goauld didnt get them, who did?"
+0,89,30,DANIEL,Were not sure.
+0,89,31,ORLIN,I understand why you did it.
+0,89,31,CARTER,Of course you wait until they took the cameras away.
+0,89,31,ORLIN,Military protocol. You would have jeopardised your job if you didnt report me.
+0,89,31,CARTER,I just came from a psychological evaluation. Do you understand what that means?
+0,89,31,ORLIN,They think youre crazy.
+0,89,31,CARTER,Am I?
+0,89,31,ORLIN,There were times on Velona where I thought I might be losing my mind.
+0,89,31,CARTER,Velona.
+0,89,31,ORLIN,Your planet refers to it as 636. I was there for hundreds of years by myself. The first time I saw you...
+0,89,31,CARTER,Look...
+0,89,31,ORLIN,Please. Let me finish. My kind are capable of a level of communication that shares our innermost essence.
+0,89,31,CARTER,Telepathy.
+0,89,31,ORLIN,Reading someones mind is an invasion of privacy. Its not about specific thoughts or memory. Its a sort of...exchange of spirit.
+0,89,31,CARTER,So you did this sharing thing on me.
+0,89,31,ORLIN,"Unfortunately, you passed out. I guess you werent prepared. But I did learn about you."
+0,89,31,CARTER,What did you learn?
+0,89,31,ORLIN,"That youre a good person, that your heart is pure, that on the inside your spirit is as beautiful as you are on the outside."
+0,89,31,CARTER,Alright.
+0,89,32,ORLIN,Where are you going?
+0,89,32,CARTER,To get the Code 3 team back in here.
+0,89,32,ORLIN,Ill just hide again.
+0,89,32,CARTER,So what are you gonna do? Stalk me for the rest of my life?
+0,89,32,ORLIN,"Actually, I just wanted you to let me try again. I think a human can handle it. I think you have to just be...well, receptive."
+0,89,32,CARTER,Then will you go to the SGC and turn yourself in?
+0,89,32,ORLIN,No. But Ill leave if you want.
+0,89,32,CARTER,Will you actually be gone?
+0,89,32,ORLIN,I promise.
+0,89,32,CARTER,Ok. What do I do?
+0,89,32,ORLIN (RISING),Stand there. Open your mind to the possibility of an existence not governed by the rules of science which you hold so dear.
+0,89,32,CARTER,How do I do that?
+0,89,32,ORLIN,Just close your eyes and...
+0,89,32,CARTER,Dont say take it easy.
+0,89,32,ORLIN,Relax.
+0,89,35,CARTER,Oh my god.
+0,89,36,CARTER,Colonel!
+0,89,36,ONEILL,Yep?
+0,89,36,CARTER,"Sir, look at this."
+0,89,37,ONEILL,So?
+0,89,37,CARTER,"So, it was in my house. The Code3 team were supposed to take away all their equipment when they left, no more cameras, no more listening devices."
+0,89,37,ONEILL,So they forgot one CARTER.
+0,89,37,CARTER,Are you sure?
+0,89,37,ONEILL,No.
+0,89,38,CARTER,Sir. Is the SGC secretly keeping tabs on me?
+0,89,38,ONEILL,Secretly?
+0,89,38,CARTER,"Colonel, I did my duty in reporting the alien encounter and now everyone thinks Im crazy."
+0,89,38,ONEILL,"Look, CARTER, heres the bottom line. No one has seen what youve seen and until that happens were all going to think youre nuts."
+0,89,38,CARTER,"Sir, purely hypothetically, as my superior office, if this alien did show himself to me again..."
+0,89,38,ONEILL,Did it?
+0,89,38,CARTER,"Im just saying if the alien had the ability and desire to show himself only to me, it would probably be better if I gathered as much information as I could, possibly even found a way of isolating it, before I officially mentioned it again. Right?"
+0,89,38,ONEILL,Probably. Yes. I gotta pee.
+0,89,39,CARTER,Yes Sir.
+0,89,40,DANIEL,Thats the last of it.
+0,89,40,CARTER,Thanks.
+0,89,40,DANIEL,What are you working on?
+0,89,40,CARTER,"Well, based on your translation and SG16s latest report, the Pentagon has started putting pressure on General HAMMOND to try to find a way to activate the weapon."
+0,89,40,DANIEL,You think thats gonna be possible?
+0,89,40,CARTER,Well yeah. A naquada reactor can be interfaced easily enough. The problem is the burst of energy thats required makes the whole thing pretty dangerous.
+0,89,40,DANIEL,How?
+0,89,40,CARTER,"Well, basically you have to start an overload in the reactor and then release it into the device. The problem is, once the overload is started, you have no choice but to release the energy or the reactor will explode."
+0,89,40,DANIEL,So youd better be sure you want the weapon to fire.
+0,89,40,CARTER,Yep. Im working on a way to try to buffer the energy in a safer environment prior to the release but General HAMMOND hasnt given me much time.
+0,89,40,DANIEL,"By all accounts, this device on 636 is a pretty powerful weapon."
+0,89,40,CARTER,You think we should just leave it alone?
+0,89,40,DANIEL,"Well, lets just say Id feel better if there was someone left to explain how to use it."
+0,89,41,ORLIN,Youre late.
+0,89,41,CARTER,What do you mean?
+0,89,41,ORLIN,You said youd be home an hour ago. I was worried.
+0,89,41,CARTER,"Hey, this is not a relationship we have going here. I dont even know what it is."
+0,89,41,ORLIN,You still could have called.
+0,89,41,CARTER,What are you talking about? You couldnt even answer the phone if I did.
+0,89,41,ORLIN,Maybe I could have.
+0,89,42,CARTER,"How did...? I mean, I thought."
+0,89,43,ORLIN,Surprise.
+0,89,43,CARTER,How?
+0,89,43,ORLIN,"Things have been going well between us, right?"
+0,89,43,CARTER,"There is no us, ORLIN. I dont see how there ever could be."
+0,89,43,ORLIN,That was just because we used to live on different planes of existence.
+0,89,43,CARTER,Used to?
+0,89,43,ORLIN,"Its possible for my kind to take human form. Actually, re-take human form, considering this is the way we started."
+0,89,44,CARTER,Oh boy.
+0,89,44,CARTER!,
+0,89,44,CARTER,Its Colonel ONEILL. Disappear.
+0,89,45,ORLIN,Thats what I was trying to tell you. I cant anymore.
+0,89,47,CARTER,"Hey guys, what are you doing here?"
+0,89,47,ONEILL,We brought pizzas and a movie.
+0,89,47,TEALC,Star Wars.
+0,89,47,ONEILL,"Hes seen it, what eight times?"
+0,89,47,TEALC,Nine.
+0,89,47,ONEILL,"Nine times. If TEALC likes it, its gotta be ok."
+0,89,47,CARTER,Youve never seen Star Wars?
+0,89,47,ONEILL,"Well, you know me and sci-fi. Come on, we never just get to hang out, so I thought wed..."
+0,89,47,CARTER,"Uh, Sir, as much as I, ah..."
+0,89,48,ONEILL,
+0,89,48,CARTER,Kind of.
+0,89,48,ONEILL,A date?
+0,89,48,CARTER,I can understand why you might assume that I didnt have plans.
+0,89,48,ONEILL,Dont worry about it. Well find something else to do.
+0,89,48,CARTER,"Im really sorry, I mean this is a surprise, very unexpected."
+0,89,48,ONEILL,Well good for you. Have fun.
+0,89,48,CARTER,Thank you.
+0,89,48,ONEILL,Have a pizza...and fun.
+0,89,50,ORLIN,"As I was saying, once my kind chooses to take human form, we cant ascend again without the help of the others."
+0,89,51,ONEILL,"So, now what?"
+0,89,51,TEALC,I have read of a place where humans do battle in a ring of Jell-O.
+0,89,51,ONEILL,Call DANIEL.
+0,89,53,ORLIN,I dont know where the rest of my kind are.
+0,89,53,CARTER,"Well, believe it or not, we met one of them. Her name was Oma Desala."
+0,89,53,ORLIN,Really. Never heard of her.
+0,89,53,CARTER,She could do the same glowy kind of things that you can and she controlled the forces of Nature.
+0,89,53,ORLIN,"Yeah, thats easy. At least it used to be."
+0,89,53,CARTER,Well she lived on a planet called Kheb and she helped people ascend to a higher plane of existence.
+0,89,53,ORLIN,"Thats why Ive never heard of her. She was probably banished, like me."
+0,89,53,CARTER,What for?
+0,89,53,ORLIN,"Breaking one of the most sacred rules of our kind: Do not accelerate the natural ascension process of those beneath. The humans of Velona were under attack from the Goauld. I was prohibited from interfering, but I couldnt just watch them die."
+0,89,53,CARTER,You told them how to build the weapon.
+0,89,53,ORLIN,"Communicated the knowledge, yes. They saved themselves."
+0,89,53,CARTER,But not for long.
+0,89,53,ORLIN,No.
+0,89,53,CARTER,"Well, you were right to try."
+0,89,53,ORLIN,"Youre wrong. It was a horrible mistake. Shortly after they used the weapon to defend themselves, they started to plan the conquest of other planets using the technology that I gave them."
+0,89,53,CARTER,So what happened?
+0,89,53,ORLIN,The others.
+0,89,53,CARTER,"The others of your kind destroyed the planet? Well, they interfered too, isnt that breaking their own rule."
+0,89,53,ORLIN,"As a collective, they decided it was necessary to prevent a disaster that I was responsible for. I was forced to live on Velona after that as my punishment."
+0,89,53,CARTER,You couldnt have known.
+0,89,53,ORLIN,Thats why the rule exists.
+0,89,53,CARTER,So. What now?
+0,89,53,ORLIN,"Im human. Mortal, like you. I can never go back to the way I was without the others."
+0,89,53,CARTER,Why would you do this?
+0,89,53,ORLIN,I did it as much for myself as for you.
+0,89,54,ORLIN,"If nothing develops between us, Ill accept it. I just couldnt go on any other way. I just had to know."
+0,89,54,REYNOLDS,One week should be more than enough time to run the proper pre-test simulation.
+0,89,55,CARTER,"Sirs, if I may. I think we should wait."
+0,89,55,SIMMONS,"You think we should wait? Major, youre the one who figured out how to use the naquada reactor to power this device."
+0,89,55,CARTER,"Because General HAMMOND ordered me to. And if you read my recommendations, youll see I also said its extremely dangerous."
+0,89,55,SIMMONS,Well I did read your recommendation and the Pentagon feels the risks are worth the reward.
+0,89,55,REYNOLDS,Going through the STARGATE is extremely dangerous and you do that everyday.
+0,89,55,DANIEL,"I agree with Sam, we dont know enough about what happened on that planet yet."
+0,89,55,SIMMONS,"Need I remind you, Dr Jackson, of the dangers that were trying to defend Earth against."
+0,89,55,DANIEL,"Oh, could you? Go slow."
+0,89,55,CARTER,"General, I believe that using the device caused an atmospheric weather anomaly big enough to destroy the civilisation on 636."
+0,89,55,DANIEL,You do?
+0,89,55,SIMMONS,That wasnt in your report.
+0,89,55,HAMMOND,Do you have any evidence Major?
+0,89,55,CARTER,Not exactly. But I think that we need to perform a proper forensic environmental analysis.
+0,89,55,REYNOLDS,Were going to. After the first test firing of the weapon which is when well be able to gather the most accurate information.
+0,89,55,CARTER,Not if youre dead.
+0,89,55,REYNOLDS,There is nothing to show...
+0,89,55,HAMMOND,"Major, you have two weeks to bring in any relevant evidence. If you can present a good reason to stop the test, I will. Dismissed."
+0,89,56,SIMMONS,"General. Need I remind you, that ultimately the decision rests with the Pentagon."
+0,89,56,HAMMOND,"Colonel, theres a red phone in my office that only takes calls from one man. The last time I checked, hes the boss of your boss. Or do I need to remind you?"
+0,89,57,ORLIN?,
+0,89,57,ORLIN,"Sam, Im glad youre home. I made something for you."
+0,89,58,CARTER,Is this real?
+0,89,58,ORLIN,I read about how humans associate certain materials with their birth month. Yours is emerald right?
+0,89,58,CARTER,Its huge.
+0,89,58,ORLIN,Oh. Is it? It was difficult to tell the common size from the pictures in the book.
+0,89,58,CARTER,You made it?
+0,89,58,ORLIN,"You wouldnt believe the things that you can make from the common, simple items lying around your planet. Which reminds me, youre going to need a new microwave."
+0,89,58,CARTER,
+0,89,58,ORLIN,Ok.
+0,89,58,CARTER,Lets take a walk.
+0,89,59,ORLIN,The others will know if the weapon is activated.
+0,89,59,CARTER,You think theyll try to stop us?
+0,89,59,ORLIN,Its possible.
+0,89,59,CARTER,"What, even if we only intend to use the weapon to defend ourselves?"
+0,89,59,ORLIN,How can you be sure of your peoples intentions? You obviously cant trust them if you think that they would spy on you inside of your own house.
+0,89,59,CARTER,"Yeah, I guess I cant trust all of them."
+0,89,59,ORLIN,Ive read some of your recent history.
+0,89,59,CARTER,And?
+0,89,59,ORLIN,Many of the creators of the first atom bomb honestly believed it would only be used to maintain peace. I cant take the chance Sam. I wont be responsible for the demise of another civilisation.
+0,89,59,CARTER,"Well if you thought it might come to that, why didnt you just destroy the weapon?"
+0,89,59,ORLIN,I thought I had. I never expected you to be able to replace the power core. You really are brilliant.
+0,89,59,CARTER,"I think your point is, we have to find a way to stop the test."
+0,89,59,ORLIN,How? You have no proof without exposing me.
+0,89,59,CARTER,I know.
+0,89,60,CARTER,What?
+0,89,60,ORLIN,"Im sorry. If you havent turned me in by now, there must be a reason."
+0,89,60,CARTER,"Id feel bad betraying you. Thats all, nothing more."
+0,89,60,ORLIN,You like me.
+0,89,60,ORLIN.,
+0,89,60,ORLIN,You like me. I can tell. You like me a lot.
+0,89,62,ONEILL,Theyre testing the weapon.
+0,89,62,HAMMOND,"I received an order directly from the President. Colonel REYNOLDS and SG16 are on P4X 636, setting up the naquada reactor as we speak."
+0,89,62,CARTER,"But, Sir, you said I would have two weeks, its only been..."
+0,89,62,SIMMONS,"Nine days, Major. And I dare say you havent spent a single minute of it working on atmospheric weather anomalies."
+0,89,62,CARTER,Whats that supposed to mean?
+0,89,62,SIMMONS,Would you like to explain these deliveries?
+0,89,62,CARTER,What deliveries?
+0,89,62,SIMMONS,"100 pounds of raw titanium. 200 feet of fibre optic cable. Seven 100, 000 watt industrial strength capacitors. The list goes on. All ordered on line from your home computer."
+0,89,63,CARTER,"I have no idea what youre talking about, Ive been here on the base everyday."
+0,89,63,SIMMONS,"Oh, well then maybe youd like to explain whos been excepting these deliveries."
+0,89,64,CARTER,You have been watching me.
+0,89,64,HAMMOND,Not us. The Pentagon. Im sorry Major. Ive expressed my anger and disappointment to the President regarding the investigation of one of my officers without my knowledge.
+0,89,64,SIMMONS,We have tapes of your conversation with the alien.
+0,89,64,ONEILL,At least we know there is one now for sure.
+0,89,64,SIMMONS,Would you like to tell us whats going on Major?
+0,89,64,ONEILL,She doesnt have to tell you squat. Major CARTER was working with the approval of her superior officer. She told me he was there. I authorised her to collect as much information as possible.
+0,89,64,SIMMONS,"Im not here to lay blame, Colonel. Im here as a courtesy. As we speak a team of Special Forces are surrounding your house and on my command, theyre gonna go in and take that alien into custody."
+0,89,65,SIMMONS,Whats going on?
+0,89,65,SOLDIER,"Well the suspect is in there, but hes failing to respond to our call to surrender."
+0,89,65,ONEILL,"Let CARTER go in. Hes worth more to you alive, right?"
+0,89,65,SIMMONS,Yeah.
+0,89,65,ONEILL,"Youve got the place sealed off, hes not going anywhere. Let CARTER go in and try to bring him out."
+0,89,65,SIMMONS,Alright. Give her a radio.
+0,89,67,ORLIN? ORLIN?,
+0,89,67,ORLIN,Sam? Come on down.
+0,89,68,CARTER,
+0,89,68,ORLIN,"Ok, just a minute."
+0,89,68,CARTER,Theres a team of Special Forces outside.
+0,89,68,ORLIN,I know.
+0,89,68,CARTER,They wanna take you into custody.
+0,89,68,ORLIN,I know. Its ok.
+0,89,68,CARTER,
+0,89,68,ORLIN,I didnt think you did.
+0,89,69,ORLIN,Come on.
+0,89,70,CARTER,Whoa. Youve been busy.
+0,89,70,ORLIN,I didnt think theyd let me go back to Velona through their STARGATE.
+0,89,70,CARTER,So you built one?
+0,89,70,ORLIN,Sort of. This wont dial multiple addresses and will only create a wormhole once and probably burn out.
+0,89,70,CARTER,And you ordered the materials on line.
+0,89,70,ORLIN,"Mostly. Sorry, but youre gonna have a pretty big credit card bill this month. Oh, and youre going to need a new toaster. I tapped into the main power line. Hopefully well be able to draw enough energy."
+0,89,70,CARTER,And then what?
+0,89,70,ORLIN,I go to Velona to stop your people from using the weapon.
+0,89,70,CARTER,You know they wont listen to you. They have orders.
+0,89,70,ORLIN,Then Ill have to make them listen.
+0,89,70,CARTER,They could kill you.
+0,89,70,SIMMONS,Major CARTER. Major CARTER report. Major CARTER respond immediately.
+0,89,71,CARTER.,
+0,89,71,ONEILL,
+0,89,71,SIMMONS,Move in.
+0,89,71,SOLDIER,"All teams, all teams, we have a Code Red."
+0,89,71,ONEILL,Were coming in.
+0,89,72,SOLDIER,"Go, go, go."
+0,89,72,ORLIN,I was really hoping that there would be another way.
+0,89,74,ORLIN,You know how I feel about you. I hope this isnt goodbye.
+0,89,78,ORLIN!,
+0,89,81,REYNOLDS,Dont move!
+0,89,82,CARTER,Hold your fire! I know this man.
+0,89,83,REYNOLDS,He attacked us.
+0,89,84,CARTER,Colonel please. Lower your weapon. He has good reason to wanna stop this test.
+0,89,84,REYNOLDS,
+0,89,84,CARTER,I know. Lets just dial out and talk to the General about it.
+0,89,84,REYNOLDS,"Cant do that. Your instructions specifically said that once we started the energy build up, we couldnt abort or the reactor will blow."
+0,89,84,CARTER,"Hes right. If we disconnect the reactor now, it will explode."
+0,89,84,ORLIN,Good. The weapon will be destroyed.
+0,89,84,REYNOLDS,"I cant let that happen, Major."
+0,89,87,ORLIN,I can believe how much this hurts.
+0,89,87,CARTER,Just hang on.
+0,89,87,REYNOLDS,"Major, we gotta get out of here."
+0,89,87,CARTER,We can dial out. We cant risk the blast translating through the wormhole.
+0,89,87,ORLIN,I have to go Sam. Theyve given me another chance. Its the only way I can save you.

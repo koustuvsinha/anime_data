@@ -1,0 +1,270 @@
+Season,Episode,Scene,Character,Line
+0,20,0,STARGATE SG1,Episode 121
+0,20,0,"""WITHIN THE SERPENTS GRASP""","By Brad Wright Hammond is in his office, shredding some paperwork"
+0,20,0,JACK,"Got a minute, sir?"
+0,20,0,HAMMOND,"Come on in, Jack, have a seat.I never anticipated, how much paperwork is involved in shutting down a facility.Not exactly the last brave act I wanted to do before retiring."
+0,20,0,JACK,"So your still just going to throw it in, huh?"
+0,20,0,HAMMOND,"Well I was a month away from retiring, before we started the SGC, the only thing that kept me here was, well lets face it, it was a pretty wild ride."
+0,20,0,JACK,"Yes sir. Personally I don't think we should be getting off that ride, just yet."
+0,20,0,HAMMOND,"Colonel, we have been through this, I agree with you, but we have our orders."
+0,20,0,JACK,"They're ill-conceived orders, sir."
+0,20,0,HAMMOND,"I agree, but there orders just the same, and I for one follow orders."
+0,20,0,JACK,Even though we are the only line of defense protecting this planet?
+0,20,0,HAMMOND,I know that.
+0,20,0,JACK,"I know you know that, sir. Your still just gonna, chuck it, huh?"
+0,20,0,HAMMOND,"You don't think I tried everything to prevent this shutdown? I went back to Senator Kinsey, twice. The second time, he had me forcibly removed from his office! I went to the secretary of defense, the joint chiefs, Hell I finally called the President myself!"
+0,20,0,JACK,What did he say?
+0,20,0,HAMMOND,"He said that to override the Senate committee on this one would be political suicide for him. It's over, Jack. No extensions, no reversals, no new hearings. The Stargate will be buried, literally and figuratively."
+0,20,2,JACK,"Hammond's given up, they're going to bury the gate, day after tomorrow."
+0,20,2,TEAL'C,Then I must return through the gate as soon as possible.
+0,20,2,DANIEL,Guess we all should go through the gate as soon as possible.
+0,20,2,SAM,"Whoa! Go through, to where?"
+0,20,2,DANIEL,The co-ordinates I got in the other reality.
+0,20,2,JACK,Daniel! Damn it!
+0,20,2,DANIEL,Jack it was real!
+0,20,2,SAM,"Okay, even if it was, how do we know that, that address, correlates with this reality?"
+0,20,2,DANIEL,"Well there's only one way to find out, now isn't there."
+0,20,2,TEAL'C,"We should enter the co-ordinates, and attempt to open the gate."
+0,20,2,SAM,"Okay, hold on. Has anyone considered that we would be in gross violation of orders? Sir, we would be court marshaled, the second we got back!"
+0,20,2,JACK,If we got back.
+0,20,2,DANIEL,"Jack, if we don't go through, what I saw in the other reality could happen here. This whole planet could be wiped out. Now in the other reality, by the time I left, Sara was dead. Carter your whole family was dead, hell I was dead, everyone was dead!"
+0,20,2,JACK,"Daniel, I got it!"
+0,20,2,DANIEL,"Okay, well don't you think we should see if we can stop the same slaughter from happening here? Let me ask you something Jack, If we don't go through now, and the Goa'uld do attack later, how are you going to feel?"
+0,20,2,SAM,"How are just the four of us going to stop the attack, even if we do go through?"
+0,20,2,DANIEL,"Well we would have a lot of a better chance now, then we would trying to stop an on slot later. Trust me, I have seen it."
+0,20,2,TEAL'C,"If the co-ordinates are of a Goa'uld world, which is not on the Abydos, cartouche, the Goa'uld will most likely not expect us. I believe a medical attack could be successful."
+0,20,2,JACK,"Surgical attack, Teal'c. It's called a surgical attack, and I would feel like an idiot."
+0,20,2,SAM,Sir?
+0,20,2,JACK,"I was answering Daniel's question. If we don't do something now, and they do attack later, I would feel like an idiot. We go."
+0,20,2,TEAL'C,I too will go.
+0,20,2,JACK,"It's not an order, Captain."
+0,20,2,SAM,"I understand that, Colonel. Thank you, I'm going."
+0,20,5,JACK,"Carter, close the blast doors in corridors Alpha and Charlie. Disable them."
+0,20,5,SAM,I need an authorized officer's security code to disable them.
+0,20,5,JACK,There you go.
+0,20,6,AIRMAN,Go! Go! Go!
+0,20,7,FERRETTI,"It's on security lockout, sir."
+0,20,7,HAMMOND,"Well get it open, Major, now!Try going around to corridor C."
+0,20,7,AIRMAN,Yes sir!Move out! Corridor C!
+0,20,8,JACK,"Alright, MALP's on it's way."
+0,20,8,SAM,"It should reach it's destination in,"
+0,20,8,JACK,"What happened, we lose signal?"
+0,20,8,SAM,"No, sir, we are receiving video. The point of arrival is dark, we are switching to inferred."
+0,20,8,DANIEL,Looks ancient Egyptian.
+0,20,8,TEAL'C,Possible Goa'uld.
+0,20,8,SAM,No signs of life in the immediate facility of the probe.
+0,20,9,DANIEL,They have got corridor C-9 opened.
+0,20,9,JACK,"Alright, let's go!"
+0,20,12,JACK,"Daniel, send back the MALP."
+0,20,12,SAM,It doesn't look like there are any doors or windows.
+0,20,12,TEAL'C,"Many Goa'uld facilities, disguise doors within their structure."
+0,20,12,JACK,"Teal'c, what are these things?"
+0,20,12,TEAL'C,"Transport containers, much like your shipping creates."
+0,20,12,SAM,So they're shipping something through the gate?
+0,20,12,TEAL'C,Or receiving.
+0,20,12,JACK,"Let's have a look inside, shall we?"
+0,20,13,JACK,"Cool, what are these things?"
+0,20,13,TEAL'C,"This is a Goa'uld, Zat' nic''ktel, A weapon using a different form of energy, less powerful then that of a staff weapon. Less destructive, but still quite deadly."
+0,20,13,JACK,Sweet. Pass them out. What you call it?
+0,20,13,TEAL'C,Zat'nic'ktel.
+0,20,13,JACK,Right. Let's call it a Zat gun. How do you fire it.
+0,20,13,TEAL'C,"One need only to squeeze it hear to fire. The Goa'uld take great pleasure in discharging the weapon only once on a subject. Causing great pain, disabling them, but not killing them. The second shot will kill most subjects."
+0,20,13,SAM,Nice.
+0,20,13,JACK,What the hell is that?
+0,20,13,SAM,What's happening?
+0,20,13,TEAL'C,I am not sure.
+0,20,14,JACK,Everybody okay?
+0,20,14,DANIEL,Yeah what was that?
+0,20,14,SAM,It was like some kind of weird planetary shift.
+0,20,14,TEAL'C,We should dial home immediately.
+0,20,14,JACK,Do it Daniel.
+0,20,15,JACK,Daniel?
+0,20,15,DANIEL,"What? I dialed home just like I did a minute ago, just like I did a million times before."
+0,20,15,JACK,Well do it again.
+0,20,15,DANIEL,Uh-oh!
+0,20,16,JACK,"I always get a happy, tingling feeling when I see those guys."
+0,20,17,DANIEL,"Teal'c, what is this?"
+0,20,17,TEAL'C,"It is a long range visual, communication device. Somewhat like your television. Only much further advanced."
+0,20,17,JACK,Think it gets ShowTime? Can you open that door?
+0,20,17,TEAL'C,"Now that I know its location, I believe I can."
+0,20,18,HARRIMAN,"Sir, we've confirmed that is was SG-1. They went to the co-ordinates Dr. Jackson brought back with him form that other place."
+0,20,18,HAMMOND,"If what he saw was indeed real, then that's the origination point of the Goa'uld military attack on Earth."
+0,20,18,HARRIMAN,"Pretty hostile place to go, wouldn't it sir?"
+0,20,18,FERRETTI,"You want SG-2, to go get them, bring them back, sir?"
+0,20,18,HAMMOND,You'd only be bring them back for court-martial.
+0,20,18,FERRETTI,"Permission to speak freely, sir."
+0,20,18,HAMMOND,Go ahead.
+0,20,18,FERRETTI,"Sir, Colonel O'Neill, saved my butt more then once, I would like to go in and back him up."
+0,20,18,HAMMOND,I can't send your unit.
+0,20,18,FERRETTI,My men are willing to take the risk sir.
+0,20,18,HAMMOND,"I'll take that under advisement, Major."
+0,20,20,DANIEL,A Sarcophagus.
+0,20,20,JACK,"Oh, great. More snake heads. Teal'c any idea which one's in here?Teal'c?"
+0,20,20,SAM,We're not on a planet are we?
+0,20,20,TEAL'C,That is correct.It appears we are aboard a Goa'uld transport vessel.
+0,20,20,SAM,And that jolt was..
+0,20,21,VOICE,Chevron 4 encoded!
+0,20,22,HAMMOND,"You will proceed much like SG-1 did, we'll send a MALP through first, if it's clear you'll go through immediately."
+0,20,22,ML,Yes sir.
+0,20,22,HAMMOND,"I would like to re-emphasize, Major, that officially your job is to bring back SG-1 for court-martial."
+0,20,22,VOICE,Chevron 5 encoded!
+0,20,22,ML,Yes sir.
+0,20,23,HAMMOND,"Major, bring them back alive and well."
+0,20,23,FERRETTI,"That's my plan, sir."
+0,20,24,HAMMOND,What happened Sergeant?
+0,20,24,HARRIMAN,"I'm sorry sir, I don't know!"
+0,20,24,HAMMOND,Well find out!
+0,20,25,JACK,"Teal'c, why didn't you tell us we were on a ship?"
+0,20,25,TEAL'C,I was not sure. I have never been onboard a Goa'uld vessel such as this. Most accelerate very differently. Most do not contain Stargate.
+0,20,26,JAFFA,Kel'to'nak!
+0,20,26,JACK,Hey! How you doing?Seen a bathroom around here?
+0,20,27,JACK,"Okay, one shot, hurt's him, two shots kills him, the third shot."
+0,20,27,TEAL'C,Disintegrates him.
+0,20,27,JACK,"Oh, great, you didn't feel this worth of mention, I take it."
+0,20,27,SAM,The blast spread across this area like there was glass here. This is a force field of some sort.
+0,20,27,TEAL'C,That is correct. There is no transparent material capable of withstanding this velocity.
+0,20,27,SAM,Or temporal displacement. Were traveling faster then light right?
+0,20,27,TEAL'C,That is correct.
+0,20,27,SAM,"So the ship must have been in orbit around a planet when we gated here. Then it launched, or left orbit, which explains why we can't gate home."
+0,20,27,DANIEL,The point of origin isn't valid anymore.
+0,20,27,SAM,Right!
+0,20,27,JACK,Well I suggest the two of you figure out how to get us back home.
+0,20,27,SAM,The only way to do that is to turn us around and go back to we're we started.
+0,20,27,DANIEL,"Right, I will just go tell the pilot."
+0,20,27,JACK,"Teal'c, you know how to fly one of these things?"
+0,20,27,TEAL'C,Of this I am unsure. It appears to be of a new technology.
+0,20,27,JACK,"So you couldn't turn this tub around, I take it."
+0,20,27,TEAL'C,"I an qualified only to pilot the Goa'uld Death gliders. I suggest we relocate to another chamber as soon as possible. The royal sarcophagi, are rarely left unattended for long."
+0,20,28,DANIEL,Jack? It's happening.
+0,20,28,DANIEL,"We're on a attack ship, headed to Earth."
+0,20,28,JACK,Okay. Well we've got some problems then.
+0,20,28,SAM,"Teal'c, how fast can this ship go?"
+0,20,28,TEAL'C,The Goa'uld Ha'tak vessel can travel at 10 times the speed of light.
+0,20,28,SAM,"Okay, if we are heading to Earth, then we have along time."
+0,20,28,JACK,Based on what?
+0,20,28,SAM,Based on the co-ordinates of the planets we gated to.
+0,20,28,JACK,"We didn't gate to a planet, we gated to a ship!"
+0,20,28,SAM,"But that ship had to be in orbit around, or on the surface of a planet, in order for those gate coordinates to work. So based on the location of those co-ordinates, even if we were traveling at 10 times the speed of light, it would take at least a year to get to Earth. Probably more."
+0,20,28,DANIEL,They're being summoned to some sort of gathering.
+0,20,28,JACK,"Okay, let's go."
+0,20,28,DANIEL,Wait a minute? Go where?
+0,20,28,JACK,Wherever they are going.
+0,20,29,APOPHIS,"Chel'hol, Jaffa.The end of a dark moment in Goa'uld history approaches. Soon we will wipe out the scourge that pelages us. I will rejoin you as we come out of the shadows. Until then, you are to follow all orders of my son as if they were my own."
+0,20,29,APOPHIS,"Bow down now, Show your reverence to my son. The mighty warrior, Klorel."
+0,20,30,KLOREL,"Tel'kol, Jaffa.Kel, Apophis. Ree'nek Klorel."
+0,20,30,APOPHIS,"Ree'nek, Klorel."
+0,20,31,JACK,He called him his son! That's sick.
+0,20,31,SAM,Not exactly a chip off the old block.
+0,20,31,DANIEL,The Goa'uld inside Skarra is probably the son of Apophis.
+0,20,31,JACK,"Thank you Daniel, that's encouraging."
+0,20,31,DANIEL,I'm just trying to help.
+0,20,31,TEAL'C,"O'Neill, what is our plan of attack?"
+0,20,31,JACK,"Were gonna split up. Carter, you and Daniel, start planting C- 4 all over this ship."
+0,20,31,DANIEL,And what are you and Teal'c going to do?
+0,20,31,JACK,Were gonna try and grab Skarra.
+0,20,31,SAM,"Sir, are you sure? It would be like trying to take Apophis!"
+0,20,31,TEAL'C,They do not know we are on board. There'd be little to keep him under heavy guard.
+0,20,31,SAM,"Okay, but with respect, sir, I think your making an emotional decision here."
+0,20,31,JACK,"Maybe, but it's also the best strategic decision."
+0,20,31,SAM,Is it?
+0,20,31,DANIEL,"Jack has a point. If we can capture him, maybe we can get through to the old Skarra. Kendra said that she could fight the Symbiote Goa'uld when it was still inside of her."
+0,20,31,JACK,Let's go.
+0,20,31,SAM,"Sir, contingency plan."
+0,20,31,C-4,
+0,20,32,KLOREL,"Chel'nok, ma'kor."
+0,20,32,TEAL'C,Ree'nok!
+0,20,32,KLOREL,"You dare to do this to Klorel? You will die, a painful death."
+0,20,32,JACK,"Yeah, yeah, whatever."
+0,20,32,TEAL'C,"There's a raised hieroglyphs on the wall next to the door. It resembles a coiled serpent, push then turn it.Stand aside.They will not be able to access this room for sometime."
+0,20,32,JACK,Hey Skarra. Long time no see.
+0,20,33,SAM,"Alright, those things have to be fueled by something, and fuel is usually combustible, so."
+0,20,33,DANIEL,"So if we blow up one, we will probably start a chain reaction."
+0,20,33,SAM,Right.
+0,20,34,JACK,"Come on Skarra, think. Try to remember me, I'm Jack O'Neill, this is Teal'c!"
+0,20,34,KLOREL,"AhTeal'c! The traitor, I will take great pleasure, in delivering his head to my father."
+0,20,34,JACK,He is not your father!
+0,20,34,KLOREL,He is my father. He seeded the queen mother. He chose the host I will live out eternity with. Apophis gave me life.
+0,20,34,JACK,"Alright, I'm not talking to that thing in your head. I'm talking to Skarra."
+0,20,34,KLOREL,Nothing of the host survives.
+0,20,34,JACK,That's bullshit! Now let him talk to me.
+0,20,34,KLOREL,"Your friend had a feeble mind, it suffered greatly. And gave in easily."
+0,20,34,JACK,"Come on Skarra, look at me, try!"
+0,20,34,KLOREL,Perhaps I will not kill you. Perhaps you will make a good host yourself.
+0,20,34,JACK,"Alright, promise me this thing won't kill him."
+0,20,34,TEAL'C,"Two shots will, one shot will only cause him great pain."
+0,20,34,JACK,"So hears the deal, Let him out, let him talk to me, or you get the whole load."
+0,20,34,KLOREL,You will only hurt your friend.
+0,20,34,JACK,He's a tough kid.
+0,20,34,KLOREL,Your friend is to afraid to come forward. He enjoys my protection. He really does not wish to speak to you.
+0,20,34,JACK,"Is that right? Let him go, Teal'c. Let him go!"
+0,20,35,SKAARA,Sha're! Danyel!
+0,20,35,JACK,Skarra! Hey there!
+0,20,35,SKAARA,"O'Neill, it hurts!"
+0,20,35,JACK,"I know kid, I'm sorry."
+0,20,35,SKAARA,"O'Neill, are you still my friend?"
+0,20,35,JACK,Yes I am.
+0,20,35,SKAARA,"Can you forgive me, for what we are about to do?"
+0,20,35,JACK,"What are you about to do? Skaara! Skaara, what are you about to do?"
+0,20,35,SKAARA,Please forgive us.
+0,20,35,JACK,"Hang in there kid, come on, hang on! What are you about to do?"
+0,20,35,KLOREL,Jaffa! Nok'kree tol!
+0,20,36,JAFFA,"Drop the weapon! Release Klorel, now!"
+0,20,36,JACK,"Come on Skarra, help us."
+0,20,36,JAFFA,Release him. Or we will kill the human.
+0,20,36,TEAL'C,"If you kill the human, then I will kill Klorel."
+0,20,36,JAFFA,And the host in which he resides?
+0,20,37,KLOREL,"Jaffa, nok! The traitor and his recruiter, my father will be pleased."
+0,20,38,SAM,The Naquadah in the gate will magnify the explosion.
+0,20,38,DANIEL,I'm just hoping they can't see us through this thing.
+0,20,39,APOPHIS,"Shan'tel, Klorel."
+0,20,39,KLOREL,"Father, I wish to present to you a great gift. The traitor, Teal'c.And I present the human, that recruited him."
+0,20,39,JACK,Hey pops!
+0,20,39,APOPHIS,"Silence! Klorel, where did they come from?"
+0,20,39,KLOREL,We do not know. We found them after departure.
+0,20,39,APOPHIS,How many more came with you?
+0,20,39,JACK,Thousands! We brought a whole army!
+0,20,39,KLOREL,"I assure you father, there could be no more."
+0,20,39,APOPHIS,You have made me proud my son.
+0,20,39,KLOREL,Do you wish that I keep them until our rejoining?
+0,20,39,APOPHIS,"No, Teal'c must suffer the most painful death, a Jaffa can know. Removal of his Prim'ta. Let his new master watch his suffer and die."
+0,20,39,KLOREL,What about the human?
+0,20,39,APOPHIS,You may choose his method of death. But do it soon. It is almost time for remoc.
+0,20,39,KLOREL,"Yes, father."
+0,20,39,APOPHIS,I look forward to seeing you at our destination. Lek tol.
+0,20,40,JACK,"Skarra, don't let this happen. Don't let them do this."
+0,20,40,KLOREL,Nanay!Take them to the Peltak.
+0,20,41,SAM,We're going to go after them.
+0,20,41,DANIEL,"Wait a minute, when are we going to blow up the ship?"
+0,20,41,SAM,We'll detonate only as a last resort.
+0,20,41,DANIEL,"Listen, I want to save them as much as you do, but if we get captured or killed, there's nobody left to blow the ship before it gets to Earth."
+0,20,41,SAM,That's why I'm setting a timer. If we don't deactivate in 24 hours it will go automatically. Okay?
+0,20,41,DANIEL,Okay.
+0,20,42,KLOREL,You wish to go home to your planet?
+0,20,42,JACK,Of course.
+0,20,42,KLOREL,Jaffa! Rel'toc remoc!
+0,20,42,TEAL'C,"O'Neill, prepare your self for..."
+0,20,43,TEAL'C,Extreme deceleration.
+0,20,43,JACK,"Yeah, thanks Teal'c."
+0,20,44,JACK,"Oh, my God!"
+0,20,44,KLOREL,"You will get to see your home, one last time. Before you, and everyone on your planet, are destroyed. And your kind, will disturb the Goa'uld, no more."
+0,20,45,HARRIMAN,"Sir, I think we may have another situation. We just spoke with Cairn Deep Space Radar, they picked up two large blips passing Saturn, there heading towards Earth."
+0,20,45,HAMMOND,Any identification yet?
+0,20,45,HARRIMAN,"No, not yet sir. NASA is just repositioning Hubbell right now. We should be able to get a closer look."
+0,20,45,HAMMOND,"Guess, Dr. Jackson is lucky."
+0,20,45,HARRIMAN,"How so, sir?"
+0,20,45,HAMMOND,"Well, he won't have to be around to watch his nightmare come true for a second time."
+0,20,46,HAMMOND,"This is Major General Hammond, let me speak to the president."
+0,20,48,HAMMOND,"The President is mobilizing every breach, including the guard and reserve. The Air Force efforts will be coordinated through this facility. I need this room converted to a command and control center, ASAP. Make sure we have a link to AF-Sat Com, for encrypted communications to all Air force bases, and to NASA.Any more details to what were facing?"
+0,20,48,HARRIMAN,Not yet sir.
+0,20,49,JACK,"Skaara!Skaara, don't!"
+0,20,49,TEAL'C,"O'Neill, you must take action!"
+0,20,49,JACK,Skaara!
+0,20,50,SAM,Daniel? You okay?
+0,20,50,SKAARA,O'Neer...
+0,20,50,JACK,"Skaara, I'm sorry."
+0,20,51,TEAL'C,"Colonel, O'Neill!"
+0,20,51,JACK,"Yeah, give me a second, here."
+0,20,51,TEAL'C,I cannot.
+0,20,52,SAM,Earth.
+0,20,52,DANIEL,I thought you said we couldn't be there for at least a year.
+0,20,52,SAM,"I guess this ship can go way faster then 10 times the speed of light. Colonel, we saw the Death gliders. They're preparing for launch, sir."

@@ -1,0 +1,359 @@
+Season,Episode,Scene,Character,Line
+0,41,0,STARGATE SG1,Episode 221
+0,41,0,"""1969""","By Brad Wright Jack, Daniel and Teal'c are in the gateroom preparing to go offworld. Sam is in the control room"
+0,41,0,JACK,What is she doing?
+0,41,0,DANIEL,"Uh, she said something about having to time the calculations exactly right this time of year."
+0,41,0,JACK,This time of year? What difference does it make?
+0,41,0,DANIEL,"Oh, she said something about solar, uh, well, to be honest with you, I wasn't really paying attention."
+0,41,0,JACK,Really? Carter?
+0,41,0,SAM,"Almost there, sir. At this time of year, the direct line between P2X-555 and the Earth takes us within 70,000 miles of the sun. I have to update the computer's drift calculation to include gravitational space/time warping."
+0,41,0,JACK,We know that! Let's go.
+0,41,0,SAM,"Yes, sir."
+0,41,1,SAM,You can start the dialing procedure. Sir?
+0,41,1,HAMMOND,How's the hand?
+0,41,2,SAM,"It's a little sore, but it'll be all right. Thank you."
+0,41,2,TECH,"Chevron one, encoded."
+0,41,3,HAMMOND,I'd like you to take this note along with you. Keep it in your vest pocket until you get on the other side. It's fairly self-explanatory.
+0,41,3,TECH,"Chevron two, encoded."
+0,41,3,SAM,"Sir, is everything all right?"
+0,41,3,HAMMOND,Everything's fine.
+0,41,3,TECH,"Chevron three, encoded."
+0,41,3,HAMMOND,"Time to ship out, Captain."
+0,41,3,SAM,"Yes, sir."
+0,41,3,TECH,"Chevron four, encoded."
+0,41,4,TECH,"Chevron five, encoded."
+0,41,4,JACK,Ah! Done already?
+0,41,5,TECH,"Chevron six, encoded. Chevron seven, locked."
+0,41,7,JACK,Whoa!Did you see that?
+0,41,7,DANIEL,"Uh, Jack, do you see this?"
+0,41,8,JACK,"Captain Carter, where are we?"
+0,41,8,SAM,"I don't know, sir. For a minute there, we were back in the Gate room."
+0,41,8,JACK,"You know, this looks suspiciously like the butt end of a Titan missile."
+0,41,9,TEAL'C,What is a test burn?
+0,41,9,JACK,Just what it sounds like. Any ideas here?
+0,41,10,JACK,Abort! Abort!
+0,41,11,JACK,Abort!
+0,41,13,JACK,Abort!
+0,41,13,10... 9... 8... 7... 6... 5...,
+0,41,14,4... 3..,
+0,41,17,JACK,How'd you know that would work?
+0,41,17,TEAL'C,I did not.
+0,41,18,SOLDIER,Hands on your heads! Get on your knees!
+0,41,19,SGT,Who are you and how did you get into this facility?
+0,41,19,JACK,What facility?
+0,41,19,SGT,Answer the question.
+0,41,19,SAM,"Sir, don't say anything. This is the Gate room."
+0,41,19,SGT,Shut up!
+0,41,19,SAM,"Sir, we're still in Cheyenne Mountain."
+0,41,19,SGT,"The next person who shoots his mouth off gets this, is that clear?"
+0,41,19,MAN,Take them to the holding room.
+0,41,19,SGT,"Yes, sir."
+0,41,19,JACK,"No, take me to your C.O."
+0,41,21,SGT,"The Major wants all this stowed for transport, sir."
+0,41,21,LIEUTENANT,What is it?
+0,41,21,SGT,"My orders are to forget I ever saw it, sir, so I'm afraid I don't know what you're talking about."
+0,41,21,LIEUTENANT,"Thank you, sergeant."
+0,41,22,"15 AM AUGUST 11TH 6:03 PM""",
+0,41,23,SAM,"I'm fairly certain that we've traveled back in time, roughly about thirty years. For a second or two, I think we were in both time-frames simultaneously, which is why the Stargate seemed to be there one minute and was gone the next."
+0,41,23,JACK,"Little bump in the calculations, Captain?"
+0,41,23,SAM,"I'm sorry, sir. I don't know what to say."
+0,41,23,JACK,"Well, I'll tell you what. Get us back home and we'll say it never happened."
+0,41,23,DANIEL,Or get us back before we left and it won't happen.
+0,41,24,DANIEL,"Well, think about it. We're the first people in human history to go back in time, well, for all we know. If we could figure out how to do this again, just think of what we could do. We could actually visit Babylon, we could. We could see the Great Wall of China being built."
+0,41,24,TEAL'C,Or prevent regrettable events in your history from ever occurring.
+0,41,24,SAM,No! That's exactly what we can't do.
+0,41,24,JACK,Why not?
+0,41,24,SAM,"Because of the grandfather paradox. If you went back fifty years and murdered your own grandfather, your own father would have never been born."
+0,41,24,DANIEL,So you're saying that if we change our own past....
+0,41,24,SAM,"We could change our world in ways that we can't possibly imagine. We might even cease to exist, along with everything and everyone we know."
+0,41,24,TEAL'C,I myself have no part in the history of your world.
+0,41,24,SAM,"But, when they find out about the Goa'uld threat, they might have second thoughts about opening the Stargate in the first place. In which case, we never meet, and you're back to being First Prime of Apophis."
+0,41,24,TEAL'C,I see.
+0,41,24,DANIEL,So we don't tell them about the Goa'uld.
+0,41,24,SAM,"How do we explain the larval Goa'uld that Teal'c is carrying? Our advanced weapons, our G.D.O's?"
+0,41,24,JACK,"Correct me if I'm wrong, Captain, but haven't we altered history already just by being here?"
+0,41,24,SAM,"We have to concentrate on damage control. At the very least, destroy our advanced weapons and technology."
+0,41,24,JACK,That's gonna be a little tough.
+0,41,24,SAM,We also cannot tell anyone anything about who we are or where we're from.
+0,41,24,JACK,This is a top secret facility. Anonymity does not go over big here.
+0,41,24,SAM,"We cannot tell them we're from the future, sir. Even if it means...."
+0,41,25,DANIEL,Niet.
+0,41,25,JACK,Daniel?
+0,41,25,DANIEL,He just asked if we were Soviet spies. I just...
+0,41,25,SOLDIER,Come with me.
+0,41,25,JACK,"Sure. You bet. ""Niet?"""
+0,41,26,THORNBIRD,I'm Major Robert Thornbird. And you are?
+0,41,26,JACK,"Captain James T Kirk, of the starship Enterprise."
+0,41,26,THORNBIRD,And your dog tags say otherwise.
+0,41,26,JACK,They're lying.
+0,41,26,THORNBIRD,"Your American accent is very impressive, Mr. Kirk. Before we ship you out and hand you over to wherever it is they take spies such as yourself, I wanted a word. Your little incursion into our training facility is going to leave an embarrassing mark on my record."
+0,41,26,JACK,Training facility?
+0,41,26,THORNBIRD,"You don't think we'd test fire a real missile twenty-eight floors inside a mountain, do you?"
+0,41,26,JACK,"Listen, you don't have the exact date"
+0,41,26,THORNBIRD,What was the weapon you used?
+0,41,26,JACK,(Weapon?
+0,41,26,THORNBIRD,Our cameras showed some sort of weapon.
+0,41,26,JACK,"Oh. Well, it's hard to say."
+0,41,26,THORNBIRD,Some sort of state secret?
+0,41,26,JACK,"No, just difficult to pronounce."
+0,41,26,THORNBIRD,"Mister, my government doesn't take kindly to Soviet spies in its highest security facilities. Neither do I."
+0,41,26,JACK,Bob. Can I call you Bob?
+0,41,26,THORNBIRD,Even though you achieve nothing.
+0,41,26,JACK,Unless that's exactly what we were trying to achieve.
+0,41,26,THORNBIRD,"Kirk, you can talk to me, or you can talk to the C.I.A."
+0,41,26,JACK,"Ooh. All right. I'll be honest with you, Bob. My name's not Kirk. It's Skywalker. Luke Skywalker."
+0,41,27,TECH,"Still no sign of SG1, sir. They never made it to P2X-555."
+0,41,27,HAMMOND,Very well. SG5 will have to complete their mission.
+0,41,27,TECH,"If I may ask, sir.What are we going to do about SG-1?"
+0,41,27,HAMMOND,"They're out there somewhere. Hopefully, they'll find their way back."
+0,41,27,TECH,Shouldn't we start a search?
+0,41,27,HAMMOND,I'm afraid this is one mission they're on their own.
+0,41,27,TECH,"Yes, sir."
+0,41,29,JACK,"Listen. I don't know where we're headed, but they'll probably try to split us up. So we're not going to have much time to.."
+0,41,29,SAM,..Escape and hopefully live out the rest of our lives without affecting history.
+0,41,29,JACK,Or...
+0,41,29,SAM,"I can't think of an or at the moment, sir."
+0,41,29,DANIEL,No or?
+0,41,29,JACK,There's an or.
+0,41,29,DANIEL,There's an or?
+0,41,29,SAM,"Sir, you can't just will something to happen because you want it to be a certain way."
+0,41,29,JACK,"Captain, where there's a will, there's an or...way."
+0,41,29,TEAL'C,"If I remain on this planet, I will eventually be taken over by my mature symbiote."
+0,41,30,LIEUTENANT,I'll keep an eye on them. You help the driver.
+0,41,31,JACK,Flat tire?
+0,41,31,LIEUTENANT,"I'm the one who arranged it. Before I can even think of doing what's asked in the note, I need to know who you are and who gave it to you."
+0,41,32,SAM,"Oh, my God. My name is Samantha Carter, and you gave me the note, sir. Sir, before we left, General Hammond gave me a note and told me to keep it in my vest pocket until I got to the other side."
+0,41,32,LT. HAMMOND,It's addressed to me. In my handwriting.
+0,41,32,JACK,What's it say?
+0,41,32,LT. HAMMOND,"Help them.And seeing as helping you will undoubtedly lead to courtmartial, I'd like to know why I would do that."
+0,41,32,SAM,Because it's your idea.
+0,41,32,JACK,Albeit one you won't have for thirty years.
+0,41,32,LT. HAMMOND,What?
+0,41,32,SAM,"I know this is kind of hard to understand, but that's roughly how far back in time we've traveled."
+0,41,32,LT. HAMMOND,I'm sorry. I can't help you.
+0,41,32,DANIEL,"Wait, wait! We can, we can prove it."
+0,41,32,JACK,The date. What's the date?
+0,41,32,LT. HAMMOND,August 4th. 1969.
+0,41,32,JACK,'69.What happened in '69?
+0,41,32,DANIEL,"The moon landing. That was just a couple of weeks ago, right?"
+0,41,32,LT. HAMMOND,The entire world knows that.
+0,41,32,JACK,"But not too many people know you watched it from your father's bedside in his hospital room, just two days after his first heart attack."
+0,41,32,LT. HAMMOND,How did you know?
+0,41,32,JACK,"Because we know you. We will know you. And for some reason, thirty years ago, you decided we were gonna need help. Otherwise, you wouldn't be standing there with a note. Now are you gonna listen to yourself? Or not?"
+0,41,33,LT. HAMMOND,"There are two other men, including the driver."
+0,41,33,JACK,"Thank you, thank you."
+0,41,34,SAM,Ow.
+0,41,34,LT. HAMMOND,"I'm sorry, miss. Did I hurt you?"
+0,41,34,SAM,"It's ""Captain.And it's all right Lieutenant. May I see the note?"
+0,41,34,JACK,"Look, we don't want to hurt anybody, but we are going to have to knock those guys out somehow."
+0,41,34,LT. HAMMOND,Will this do?
+0,41,35,JACK,"All right, call for help."
+0,41,35,TEAL'C,The dangerous foreign agents you now guard have inexplicably freed themselves.
+0,41,36,LT. HAMMOND,Help!
+0,41,37,JACK,Where's the rest of our gear?
+0,41,37,LT. HAMMOND,The Major ordered it shipped in a separate truck for security reasons. They should be right behind.
+0,41,37,JACK,"All right, good. Get down on the ground. Go."
+0,41,38,JACK,"All right, everything you confiscated from us is in these two boxes?"
+0,41,38,HAMMOND,"Except for your ray gun, yes."
+0,41,38,JACK,Right.Watch yourself.
+0,41,39,JACK,"All right, your Major What's His Name had videotapes of this thing in action."
+0,41,39,HAMMOND,Yes. It was in those boxes along with everything else.
+0,41,39,JACK,Good. Any cash?
+0,41,39,HAMMOND,"Uh, yeah, I might have some."
+0,41,39,JACK,"That's good. I'll pay you back, with interest."
+0,41,39,SAM,"One more thing. You have to keep everything you've seen and everything we've told you a secret, and I mean for the rest of your life."
+0,41,39,HAMMOND,General Hammond. I like the sound of that. What are you going to do now?
+0,41,39,JACK,"Well, you're better off not knowing. But I do want you to know that what I'm about to do keeps you from getting court-martialed."
+0,41,40,JACK,We should get off this road. Find the interstate.
+0,41,41,DANIEL,So what's the plan?
+0,41,41,JACK,Find the Stargate.
+0,41,41,DANIEL,"Find the Stargate? That's, that's the plan?"
+0,41,41,JACK,"Elegant in its simplicity, don't you think?"
+0,41,41,DANIEL,And if we don't find the Stargate?
+0,41,41,JACK,There's one in Antarctica.
+0,41,41,DANIEL,"There's one in Antarctica. That's, that's a fabulous plan."
+0,41,41,TEAL'C,"Assuming we locate the Stargate, how then do we get back to the future?"
+0,41,41,JACK,"Well, now, that's all in the note."
+0,41,41,JACK,Right?
+0,41,41,SAM,"Uh, no, sir."
+0,41,41,JACK,"No, sir."
+0,41,41,SAM,"Well, it doesn't explain how to get back, at least not explicitly."
+0,41,41,JACK,"Help them. August 10th, 9:15 A.M., August 11th, 6:03 P.M That's helpful."
+0,41,42,SAM,"Well, I suppose he had to be intentionally cryptic so as not to risk changing his own history."
+0,41,42,JACK,August 10th.That's cryptic.
+0,41,42,DANIEL,"Well, wait a second, it just means that on August 10th at 9:15 A.M, something is going to happen."
+0,41,42,SAM,And happen again the next day at 6.03. We just have to figure out what that something is.
+0,41,42,JACK,Right.
+0,41,43,JACK,"You know, the Vette blew it when they went with that body style. They used to be so cool."
+0,41,43,DANIEL,"Actually, I was about four and a half years old in '69."
+0,41,43,JACK,"Carter, stick your thumb out."
+0,41,44,DANIEL,We should go to New York.
+0,41,44,JACK,Why?
+0,41,44,DANIEL,"Well, that's where Catherine used to live, or lives. She's the only person outside of the military who has the slightest idea where the Stargate might be. I really don't think she's going to tell us over the phone."
+0,41,44,SAM,"Daniel, you can't. In order to preserve our past, Catherine has to meet you for the first time years from now."
+0,41,44,DANIEL,"So, we go in disguise. Pretend to be foreigners."
+0,41,44,JACK,How are you gonna do that?
+0,41,44,DANIEL,"Well, I speak 23 different languages. Pick one."
+0,41,45,DANIEL,"Catherine said herself she began her research in the late sixties. I mean, who knows, maybe we're the ones who gave her the idea in the first place."
+0,41,45,TEAL'C,This method appears to be ineffective.
+0,41,46,JACK,Teal'c? Teal'c!
+0,41,47,JACK,What are you thinking?
+0,41,47,TEAL'C,"That is effective, O'Neill."
+0,41,48,MAN,"Hey. We would've stopped, man."
+0,41,48,JACK,"Hi. Listen, we've got gas money. Where are you headed?"
+0,41,48,MAN,"Upstate New York, some big concert. Where you headed?"
+0,41,48,JACK,New York.Back East.
+0,41,48,MAN,Hop in!
+0,41,49,MAN,"Come on, ride up front with me, brother. It's cool."
+0,41,50,MAN,I'm Michael.
+0,41,50,TEAL'C,I am not at liberty to reveal my identity.
+0,41,50,MICHAEL,Far out.
+0,41,51,DANIEL,Hello.
+0,41,51,GIRL,Hi. So what'd you do?
+0,41,51,DANIEL,"We didn't, we didn't do anything."
+0,41,51,JACK,We've got a little problem withthe establishment.
+0,41,51,GIRL,I so relate to that.
+0,41,51,SAM,"So if you could take us as far as New York, we'd...."
+0,41,51,GIRL,I really love your hair.
+0,41,51,SAM,Thanks.
+0,41,51,JACK,"Listen, we could really use some cheap clothes. So if you see a cheap clothes place around, we'd appreciate it."
+0,41,51,MICHAEL,"No sweat. So, your thing, that thing.What's it symbolise? Peace?"
+0,41,51,TEAL'C,Slavery. To false gods.
+0,41,51,MICHAEL,"Right on! So, it's made out of..."
+0,41,51,TEAL'C,Do not discuss it further.
+0,41,51,MICHAEL,"I dig. Cool. So you just go AWOL? Hey, we're cool. After the concert, me and Jenny, we're even thinking of crossing the border up to Canada."
+0,41,51,TEAL'C,For what reason?
+0,41,51,MICHAEL,"You know, man the war."
+0,41,51,TEAL'C,The war with Canada.
+0,41,51,MICHAEL,No.
+0,41,54,SAM,A flare.
+0,41,54,JACK,What?
+0,41,54,SAM,That's the only explanation. We had to have been sent back because of a solar flare.
+0,41,54,TEAL'C,Was there not an error in your calculations?
+0,41,54,SAM,"I don't think so, Teal'c. But after the Abydos mission, when we couldn't figure out a way to make the Gate work again, I was asked to research alternative applications for the Gate. Including time travel."
+0,41,54,JACK,What'd you come up with?
+0,41,54,SAM,"Well, just this. What if a massive solar flare just happened to occur at the exact moment that we were traveling between Earth and another Stargate? If the wormhole itself was redirected closer to the sun because of the Earth's magnetic field, the increased gravity could slingshot us back to Earth."
+0,41,54,DANIEL,Why haven't we tried this before?
+0,41,54,SAM,"Because flares are impossible to predict. Light takes several minutes to travel between the Earth and the sun, so by the time a flare of sufficient magnitude has been confirmed, it's already too late."
+0,41,54,DANIEL,"Okay, if they're impossible to predict, how do we get ourselves home?"
+0,41,54,SAM,"August 10th, 9:15 A.M. It's in the note."
+0,41,54,JACK,The time and date of the next flare?
+0,41,54,SAM,Yeah. General Hammond must have used my own research to figure out what we needed.
+0,41,54,DANIEL,Or maybe that's the reason he asked you to do the research in the first place.
+0,41,54,SAM,And he looked up two flares in August of 1969 that could send us home.
+0,41,54,JACK,"General Hammond, you old son of a--"
+0,41,55,JACK,Hello. Soup?
+0,41,55,MICHAEL,Who are you guys?
+0,41,55,JACK,Come on. Have something to eat.
+0,41,55,MICHAEL,"I mean, traveling between the Earth and where? What's that about?"
+0,41,55,SAM,"When I said that, I was just imagining...."
+0,41,55,MICHAEL,"Oh, I don't think so, man."
+0,41,55,JENNY,You said that you were in trouble with the establishment.
+0,41,55,JACK,And we are.
+0,41,55,DANIEL,We are.
+0,41,55,JACK,"Just not the establishment of this planet. No, it's true, Michael. We came to Earth to hide among your people, a long, long time ago."
+0,41,55,DANIEL,"From a galaxy far, far away."
+0,41,55,JACK,"But now it's time to go home, and we need your help."
+0,41,55,JENNY,How?
+0,41,55,DANIEL,We need to be in a place called New York by tomorrow.
+0,41,55,MICHAEL,"I don't know, man."
+0,41,56,JACK,It's all right.
+0,41,57,MICHAEL,Whoa! That was unreal!
+0,41,57,TEAL'C,It is in fact extremely real. As is our need for assistance.
+0,41,57,JENNY,"We have to help them get home, Michael."
+0,41,57,MICHAEL,Okay. We'll do it.
+0,41,59,SAM,Sir. Remember to use the hydrogen-alpha solar filter.
+0,41,59,JACK,Or I'll burn my eyes out I know.
+0,41,59,SAM,Good luck.
+0,41,60,JACK,"Yes! All right, we got one shot to prove Carter's theory. Don't screw it up, Jack."
+0,41,60,TEAL'C,"Is not astronomy one of your hobbies, O'Neill?"
+0,41,60,JACK,Not quite on this scale. Let's get that dome open.
+0,41,61,CATHERINE,Father never told me Andrec Gruber had a son.
+0,41,62,DANIEL,"Well, I was but a small boy when they were still working together, but mein father often spoke of dein father as one of the few people in zis world he could trust."
+0,41,62,CATHERINE,"Before we continue, I must ask: What was so important it couldn't be discussed over the telephone?"
+0,41,62,DANIEL,Mein father believed there must have been a second artifact near that vich dein father discovered in 1928.
+0,41,63,CATHERINE,Was weisst du davon?
+0,41,63,DANIEL,He referred to it in his notes as the doorway to heaven
+0,41,64,DANIEL,"We have found a fragment of a coverstone with some of the markings as the one uncovered all those years ago, but there was nothing underneath it."
+0,41,64,CATHERINE,You found only a fragment? Nothing beneath?
+0,41,64,DANIEL,The artifact had already been removed.
+0,41,64,CATHERINE,Oh.We always knew there had to be a second device with which to control the ring.
+0,41,65,DANIEL,"I realise thesematters require the utmost propriety, but...."
+0,41,65,CATHERINE,Did your father ever explain to you the nature of the work he was doing in 1945?
+0,41,65,DANIEL,"Only that the American military was under the mistaken impression that the device dein father discoverd might hold some dark military purpose. Even that much, I was sworn to secrecy."
+0,41,65,CATHERINE,There was an accident.
+0,41,65,DANIEL,Earnest Littlefeld.
+0,41,65,CATHERINE,"When the war ended, my father and I were told never to speak of it again. It is simply locked away."
+0,41,65,DANIEL,And you cannot tell me vhere?
+0,41,65,CATHERINE,"Some old armoury in Washington, D.C, gathering dust. But it's pointless. The military won't even acknowledge its existence."
+0,41,65,DANIEL,Would you know which armory?
+0,41,66,JACK,"All right. In a few seconds, we'll know whether or not we can go back."
+0,41,66,TEAL'C,"And if we cannot, O'Neill?"
+0,41,66,JACK,"Guess we stay.All right, it's showtime."
+0,41,67,JACK,"Brother Teal'c, at precisely 6:03 P.M. tomorrow, we're going home."
+0,41,68,SAM,Well?
+0,41,68,TEAL'C,Your theory is confirmed.
+0,41,68,JACK,Where do we have to be for tomorrow's flare?
+0,41,68,DANIEL,"Washington, D.C."
+0,41,68,SAM,"We're almost there, sir. It's going to be close if we don't find a power source right away."
+0,41,68,JACK,"We will. Listen, I really have to say this. The two of you have been unbelievably."
+0,41,68,DANIEL,Groovy.
+0,41,68,JACK,"Groovy, I think, is the word"
+0,41,68,DANIEL,The people of our world will be extremely grateful.
+0,41,68,JACK,Not the establishment.
+0,41,68,DANIEL,"No. Not, not them."
+0,41,68,JACK,I think what we're trying to say is that we have to go the rest of the way alone.
+0,41,68,JENNY,Why?
+0,41,68,JACK,Because it's dangerous.
+0,41,68,MICHAEL,We want you to take us with you.
+0,41,68,JACK,We can't do that.
+0,41,68,MICHAEL,But you owe us.
+0,41,68,JACK,"Yes, we do. We owe you a lot. But you belong here. You have to trust me on this. This is a great time."
+0,41,68,JENNY,Michael got drafted.
+0,41,68,MICHAEL,"We're just going to the concert first. You know, one last blast. But if we went with you.I don't wanna - kill anybody."
+0,41,68,JACK,Michael...
+0,41,68,SAM,"Sir, you can't say anything. He has to make up his own mind. We can walk the rest of the way from here."
+0,41,68,JACK,We've got to go. I'm sorry.
+0,41,69,JENNY,Your secret's safe with us.
+0,41,69,SAM,We know that. Thank you. Take care.
+0,41,71,JACK,Where to?
+0,41,71,SAM,"Back the way we came, via P2X-555."
+0,41,71,DANIEL,"Wait a minute, how do you know we'll go forward in time instead of back?"
+0,41,71,SAM,"Well, General Hammond must have chosen flares on the opposite side of the sun this time, so the sun's rotational differential will send us forward instead of back. Look, we just have to trust General Hammond. I mean, the point is, we are fifteen minutes away from the only chance we are going to get at this, and we still haven't found a power source to fre..."
+0,41,71,JACK,How much power?
+0,41,72,SAM,Keep it going!
+0,41,73,GUARD,You! Stop!
+0,41,73,JACK,We have got to go.
+0,41,74,SAM,"Sir, the timing has to be exact. Just a few more seconds."
+0,41,74,JACK,It's going to have to be close enough. Go!
+0,41,76,JACK,Auntie Em? Auntie Em?
+0,41,76,SAM,Where is everyone?
+0,41,77,WOMAN,"Hello, Jack.Teal'c? Daniel? I hardly recognized you with hair."
+0,41,77,JACK,Do we know you?
+0,41,77,WOMAN,Sam will recognize me. Come closer.
+0,41,77,SAM,Oh my God. Cassandra!
+0,41,77,CASSIE,(Dear Sam.
+0,41,77,JACK,Excuse me. Who is this?
+0,41,77,SAM,Cassandra.
+0,41,77,JACK,Cassie's thirteen years old.
+0,41,77,CASSIE,"Not anymore, Jack. I've been expecting you, my whole life, in fact. You entered the Stargate a few seconds too soon, so the flare threw you far into the future. I've come to send you back where you belong."
+0,41,77,DANIEL,How did you know we'd come here?
+0,41,77,CASSIE,"When I was old enough to understand, Sam explained what happened, and that I'd be the one to send you home."
+0,41,77,SAM,Like a self-fulfilling prophecy.
+0,41,77,CASSIE,"As much as I would love to spend more time with you, the timing must be precise. You have to go."
+0,41,77,SAM,Already? But there's so much that you....
+0,41,77,CASSIE,You of all people know I can't.
+0,41,78,CASSIE,I will tell you this.Your journey's just beginning.
+0,41,79,TECH,"Incoming traveler, sir. It's SG-1."
+0,41,79,HAMMOND,Open the iris.
+0,41,79,JACK,"Yes!We're home, thanks to one sparky young Lieutenant Hammond."
+0,41,79,SAM,"How did you know, sir?"
+0,41,79,HAMMOND,"When I was a young lieutenant, I was ordered to escort four people out of Cheyenne Mountain. In the vest pocket of one I found a note with my name on it. Needless to say, I followed its instructions.Sam: But you couldn't have known when to give it to me."
+0,41,79,HAMMOND,"No, not until I saw the cut on your hand. Remember when I took your cuffs off."
+0,41,79,SAM,Then you've been waiting for this to happen.
+0,41,79,HAMMOND,Ever since we met. I almost didn't let you go.
+0,41,79,SAM,"But if you didn't, you would have changed your own history."
+0,41,79,HAMMOND,"It's going to be a long debriefing, people. We'll start in one hour."
+0,41,79,JACK,"Yes, sir."
+0,41,79,HAMMOND,"Oh, by the way, Colonel, with interest, you owe me five hundred and thirty nine dollars and fifty cents."
+0,41,79,JACK,"Yes, sir."

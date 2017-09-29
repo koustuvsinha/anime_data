@@ -1,0 +1,391 @@
+Season,Episode,Scene,Character,Line
+0,136,0,STARGATE SG1,Episode 706
+0,136,0,"""LIFEBOAT""",By Brad Wright
+0,136,1,CARTER,"Sir, it's possible the beacon we detected with the MALP was activated remotely upon impact. If there was anyone left in those forward sections, I doubt they could have survived, Sir."
+0,136,1,JACSKON,"There should be an indication, somewhere, about how long ago they crashed."
+0,136,2,CARTER,"Sir...these people are alive. A-at least they're in some form of cryogenic sleep. Any civilization without faster-than-light technology would have to resort to something like this in order to cross the vast distances between stars. Otherwise, it would take an entire generation, or more, and given the effects of relativity..."
+0,136,2,O'NEILL,We've got a ship load of frozen people.
+0,136,2,CARTER,"That would be the more succinct way of putting it. Yes, Sir."
+0,136,2,TEAL'C,They're current states probably protected them from the impact.
+0,136,2,JACSKON,How many of them do you think there are?
+0,136,2,TEAL'C,"From the configuration of the ship's exterior, I would say four compartments of varying size."
+0,136,2,O'NEILL,"All right, we'll do a quick head count, see what we're dealing with, then call for support. Carter, Teal'c, you pair up. Daniel and I'll start in this compartment."
+0,136,2,CARTER,"Yes, Sir."
+0,136,3,O'NEILL,"...five, six..."
+0,136,4,105.,
+0,136,5,JACSKON,Jack!
+0,136,7,TEAL'C,"O'Neill? Major Carter? Daniel Jackson, respond."
+0,136,8,TEAL'C,O'Neill?
+0,136,9,TEAL'C,Major Carter?
+0,136,10,TEAL'C,Daniel Jackson?
+0,136,11,JACSKON,Ahhh!
+0,136,12,D,"It's SG-4's IDC, Sir. They're signaling that they've got SG-1."
+0,136,12,HAMMOND,"Defense and medical teams, stand by. Open the iris."
+0,136,13,FRAISER,What've we got?
+0,136,13,SG-4 MAN,They're both unconscious. Vital signs are otherwise stable.
+0,136,13,FRAISER,"All right, get them to the infirmary and maintain security protocols."
+0,136,13,SG-4 MAN,"Yes, Ma'am."
+0,136,14,FRAISER,Daniel?
+0,136,14,JACSKON,I have to go back...I have to go back... I have to go back! I have to go back!
+0,136,15,JACSKON,No!
+0,136,16,FRAISER,Daniel?
+0,136,17,NO!,
+0,136,17,FRAISER,Daniel...it's okay. Don't be afraid.
+0,136,18,FRAISER,Sergeants!
+0,136,19,FRAISER,It's okay.
+0,136,20,JACSKON,Who are you? What is this place?
+0,136,22,HAMMOND,Notify me the moment they regain consciousness.
+0,136,22,NURSE,"Yes, Sir."
+0,136,23,JACSKON,Who is responsible for this! I demand to know why this has happened! Why am I a prisoner?!
+0,136,23,FRAISER,Those may be removed when you decide to calm down.
+0,136,23,JACSKON,Calm? How do you expect me to be calm? I was made promises that nothing like this could happen! That nothing could go wrong!
+0,136,23,FRAISER,"All right, let's start there. Can you tell me what has gone wrong?"
+0,136,23,JACSKON,"What has gone wrong? What has gone wrong? Well, this is not the Stromos, you are not a member of my staff, and... that is not me!"
+0,136,23,FRAISER,"All right, listen carefully. We did not do this. In fact, we're in the dark about what has happened, as much as you apparently are. Now if you cooperate..."
+0,136,23,JACSKON,I will undergo no more of your tests.
+0,136,24,FRAISER,Are you in pain?
+0,136,24,JACSKON,"Yes! Yes, a great deal."
+0,136,24,FRAISER,"All right, I'll get something. But in the meantime, try to stay calm or you'll be restrained further."
+0,136,24,JACSKON,"You have no idea who I am, do you?"
+0,136,25,TEAL'C,That is not Daniel Jackson.
+0,136,25,HAMMOND,But is he a Goa'uld?
+0,136,26,FRAISER,"No, Sir. Although at the moment, he's every bit as arrogant."
+0,136,26,HAMMOND,"Then, is Dr. Jackson suffering from some sort of mental illness?"
+0,136,26,FRAISER,"I honestly don't know yet, Sir. His preliminary E.E.G. reading are like nothing I've ever seen. On one hand, there's indication of coma, but at the same time we're seeing readings like those of a dozen people all jumbled together."
+0,136,26,HAMMOND,Is his condition life threatening?
+0,136,26,FRAISER,I couldn't even guess.
+0,136,26,TEAL'C,He is claiming to be a passenger from the crashed alien vessel we discovered on the planet.
+0,136,26,HAMMOND,How's that possible?
+0,136,26,FRAISER,"I have no idea, Sir, but Teal'c is right. And I think we're dealing with more than one passenger. By that I mean, Daniel's behavior in the 'gate room and throughout the preliminary testing was distinctly different than his current behavior. I'd say we've witnessed at least two, maybe even three separate personalities."
+0,136,26,HAMMOND,Could there be more?
+0,136,26,TEAL'C,We discovered several hundred passengers in cryogenic suspension.
+0,136,27,TEAL'C,"Colonel O'Neill had requested an enumeration of the cryogenic chambers. While we were separated, I lost consciousness momentarily. For what reason, I am unsure. When I returned, I found Daniel Jackson, Colonel O'Neill and Major Carter and in their current states."
+0,136,27,FRAISER,"Speaking of which, Sir, I'd like to check in on the Colonel and Sam."
+0,136,27,HAMMOND,Keep me apprised.
+0,136,27,FRAISER,"Yes, Sir."
+0,136,28,HAMMOND,"Teal'c, maybe you should head down to the infirmary yourself."
+0,136,28,TEAL'C,I intend to remain here.
+0,136,28,HAMMOND,Very well.
+0,136,29,JACSKON,"I am, ordinarily, a very rational man."
+0,136,29,MP1,"Of course you are, Dr. Jackson."
+0,136,29,JACSKON,I am a sovereign of Talthus. My name is Martice.
+0,136,29,MP1,"I beg your pardon, Sir."
+0,136,29,JACSKON,"Oh, Sir...well that's a start."
+0,136,30,FRAISER,Pupils are still a little dilated. It's as though they were struck with some sort of powerful Zat weapon. At least their E.E.G.s are still normal.
+0,136,31,O'NEILL,Oy!
+0,136,31,NURSE,Doctor?
+0,136,31,FRAISER,Inform General Hammond the Colonel's awake.
+0,136,31,NURSE,"Yes, Ma'am."
+0,136,31,O'NEILL,"Hey, Doc."
+0,136,31,FRAISER,"How're you feeling, Sir?"
+0,136,31,O'NEILL,Headache. Bad.
+0,136,31,FRAISER,"Well, I can take care of that, but first I need to know if you're feeling...yourself."
+0,136,31,O'NEILL,"Well, other than this...nail through my head...fine. Why?"
+0,136,31,FRAISER,I'll explain later. Teal'c managed to get the three of you back through the Stargate from the ship. My team took it from there.
+0,136,31,O'NEILL,Carter and Daniel?
+0,136,31,FRAISER,"Major Carter is suffering the same after effects as you, Sir."
+0,136,32,CARTER,Janet?
+0,136,32,FRAISER,Sam...
+0,136,33,FRAISER,"Hey, it's gonna be fine. You've both suffered some sort of neural shock."
+0,136,34,HAMMOND,Colonel? Major? How are you feeling?
+0,136,34,O'NEILL,"Got a nail in my head, Sir."
+0,136,34,HAMMOND,That sounds like our Colonel O'Neill.
+0,136,34,FRAISER,"Their E.E.G.s show normal brain activity, Sir. They appear to be unaffected."
+0,136,34,O'NEILL,Unaffected by what? Where's Daniel?
+0,136,35,FRAISER,"Sir, I need you to stay right where you are, at least until you're strong enough..."
+0,136,35,O'NEILL,I'm fine.
+0,136,35,FRAISER,"No, you're not, Sir."
+0,136,36,O'NEILL,"Ow...no, I'm not."
+0,136,37,MARTICE IN JACSKON,Just find the small woman and tell her that what she gave me is not good enough. It isn't working!
+0,136,38,MARTICE IN JACSKON,Do you speak?
+0,136,39,FRAISER,How are you feeling now?
+0,136,39,MARTICE IN JACSKON,Your medicine is worthless.
+0,136,39,FRAISER,You're still in pain?
+0,136,39,MARTICE IN JACSKON,This body must be damaged.
+0,136,39,FRAISER,I doubt that. Dr. Jackson was in perfect health.
+0,136,40,MARTICE IN JACSKON,"I assume Dr. Jackson was the former...Not that I have anything against it, mind you. He looks at himself in the mirror again. It's younger and stronger than my own. Did something happen to my own body?"
+0,136,41,MARTICE IN JACSKON,"In times of disaster, people need their sovereign to look up to. How will they recognize me now?"
+0,136,41,FRAISER,"I've already told you, we didn't do this."
+0,136,42,FRAISER,We don't know.
+0,136,43,MARTICE IN JACSKON,How useful you are. What is this place?
+0,136,43,FRAISER,It's one of our medical isolation rooms.
+0,136,43,MARTICE IN JACSKON,Could you be less specific?
+0,136,43,FRAISER,In a military facility on a planet called Earth.
+0,136,43,MARTICE IN JACSKON,Earth...the ship was bound for Ardena. How far are we from Ardena?
+0,136,43,FRAISER,I don't know.
+0,136,43,MARTICE IN JACSKON,"The other passengers...they will be concerned for me. As I am for them, of course."
+0,136,43,FRAISER,Most of them are still on board the ship. But we think it's possible that several of them may be here with us right now.
+0,136,43,MARTICE IN JACSKON,As prisoners?
+0,136,43,FRAISER,"No. We think they may be right here in this room. We don't know the reason, but somehow several of the passengers who were in cryogenic sleep have..."
+0,136,44,JACSKON,What's happening?
+0,136,45,FRAISER,Martice?
+0,136,45,JACSKON,"Uh, no, M-Martice is a sovereign. I'm...I'm just a crew member."
+0,136,46,JACSKON,Is that...
+0,136,47,JACSKON,How can this be?
+0,136,47,FRAISER,It's all right. I'm here to help you.
+0,136,47,JACSKON,"No, no. This is, this is wrong. This is a mistake."
+0,136,47,FRAISER,Yes it is. One that we want to correct. I'm Dr. Fraiser.
+0,136,47,TRYAN IN JACSKON,"I am Tryan, Engineer, second rank."
+0,136,47,FRAISER,"All right, Tryan. Why don't we start again?"
+0,136,48,TRYAN IN JACSKON,Again?
+0,136,49,TRYAN IN JACSKON,"I don't recognize this man...or rather, myself."
+0,136,49,FRAISER,His name is Daniel Jackson. The body you're inhabiting belongs to him.
+0,136,49,TRYAN IN JACSKON,He wasn't aboard the Stromos.
+0,136,49,FRAISER,No.
+0,136,49,TRYAN IN JACSKON,Then how could I have ended up in his body?
+0,136,49,FRAISER,"Your ship crashed on a planet that we call P2A347. We don't know how or why the crash occurred, only that the only survivors were those in cryogenic sleep. When Daniel Jackson and the other members of his team boarded your ship...this happened."
+0,136,49,TRYAN IN JACSKON,I have no memory of coming here.
+0,136,49,FRAISER,What do you remember?
+0,136,50,PHARRIN,Brace for acceleration! Tryan?
+0,136,50,TRYAN,"Compartment is secure, Sir."
+0,136,50,PHARRIN,Very well.
+0,136,52,TRYAN IN JACSKON,"Leaving Talthus, entering my sleep chamber, and then...then seeing your face, here. Why am I restrained?"
+0,136,52,FRAISER,It wasn't you. You're the fourth personality to emerge since being brought back. We believe that there are others from your ship in there along with you.
+0,136,52,TRYAN IN JACSKON,In one body?
+0,136,52,FRAISER,"Plus, Dr. Jackson."
+0,136,52,TRYAN IN JACSKON,"No, the strain on the body would be too great. I-it wouldn't survive."
+0,136,52,FRAISER,Do you know that for certain?
+0,136,52,TRYAN IN JACSKON,It couldn't happen. The only conceivable result would be insanity.
+0,136,52,FRAISER,Then we should both hope you're wrong.
+0,136,52,TRYAN IN JACSKON,"Dr. Fraiser, you don't appreciate that what's happened is technically impossible. This can't happen. One cannot return to any other body, than one's own. There are failsafes to prevent exactly that from happening."
+0,136,52,FRAISER,"Tryan, it has happened. All you need to do is look in the mirror to prove it to yourself."
+0,136,53,FRAISER,"Now, we don't have a lot of time. And you're the first personality to emerge, so far, that's been helpful. So, I need you to think, all right? How could this happen?"
+0,136,53,TRYAN IN JACSKON,"A cryosleeper's consciousness is stored in the same memory module that maintains the sleeper's body. There is simply no way to separate them or...send the consciousness to any other than it's corresponding body unless...Oh, no...unless the sleeper's bodies are dead."
+0,136,54,TEAL'C,O'Neill...Major Carter. I am pleased to see you have recovered.
+0,136,54,CARTER,How is he?
+0,136,54,TEAL'C,Yet another personality has emerged. Dr. Fraiser appears to be making progress.
+0,136,54,O'NEILL,How'd he get stuck in here?
+0,136,54,TEAL'C,Daniel Jackson's preliminary electroencephalogram proved anomalous.
+0,136,54,O'NEILL,I dare you to say that again.
+0,136,55,HAMMOND,Dr. Fraiser declared a code 17. Dr. Jackson has been under constant guard and only she and a few of her staff have had any direct contact as a precautionary measure.
+0,136,55,CARTER,She thought he was a Goa'uld?
+0,136,55,HAMMOND,"We've since ruled that out, but I'm not taking any chances until we can determine the means by which these additional persons have found their way into Dr. Jackson."
+0,136,55,CARTER,"To do that, I'd have to have another look at their cryogenic systems."
+0,136,55,HAMMOND,Schedule a mission briefing with Dr. Frasier as soon as possible.
+0,136,55,O'NEILL,"With your permission, Sir, I'd like to stick it out here with Daniel."
+0,136,55,HAMMOND,You realize only medical personnel are allowed access?
+0,136,55,O'NEILL,"Yes, Sir."
+0,136,55,HAMMOND,Very well.
+0,136,56,FRAISER,"All right, Tryan. Look, let's not jump to conclusions here."
+0,136,56,TRYAN IN JACSKON,I'm sorry. There's simply no other way this could've happened. Only then can the failsafes be overridden and the consciousness purged from the system. I am dead. As are the others who may reside in this body.
+0,136,56,FRAISER,We can't be sure of that until we go back to the planet.
+0,136,56,TRYAN IN JACSKON,Then you will see.
+0,136,56,FRAISER,"Okay, look, just...help me out with something here. Why do you separate the consciousness from the body in the cryosleep process?"
+0,136,56,TRYAN IN JACSKON,A consciousness cannot survive the restoration process without significant loss of memory and intellect. A person undertaking such a long journey without proper storage of their consciousness would arrive at their destination as a mere fraction of themselves. The very essence of that person would be lost.
+0,136,56,FRAISER,So the memory requirement must be enormous.
+0,136,56,TRYAN IN JACSKON,Each cryogenic capsule contains an active matrix memory module sufficient to sustain one single mind. Its systems are connected with those that regulate and sustain the corresponding sleeper's body.
+0,136,56,FRAISER,"Well, then, it may be possible to upload your consciousness back into that memory."
+0,136,56,TRYAN IN JACSKON,Each module can store only one consciousness.
+0,136,56,FRAISER,Then do it one at a time.
+0,136,56,TRYAN IN JACSKON,"No. That's not possible. Here... Could these same water molecules ever be returned to this glass, just as they were before? No more, no less? In precisely the same configuration?"
+0,136,57,FRAISER,No.
+0,136,57,TRYAN IN JACSKON,"Our minds have been blended together. Poured into one vessel, ill-equipped to sustain our volume."
+0,136,57,FRAISER,"Yeah, but if the computers on board your ship can separate the human consciousness from the body, then surely they can isolate the..."
+0,136,57,TRYAN IN JACSKON,Can you hear that?
+0,136,57,FRAISER,"No, I can't hear anything."
+0,136,57,TRYAN IN JACSKON,"The others...their voices, I can hear them. They're getting louder."
+0,136,57,FRAISER,"Tryan, I need you to stay with me, all right? We need to work together on this."
+0,136,57,TRYAN IN JACSKON,It's the most incredible feeling...
+0,136,57,FRAISER,I doubt the others can help as much as you
+0,136,57,TRYAN IN JACSKON,No one can help.
+0,136,57,FRAISER,D-don't say that.
+0,136,57,TRYAN IN JACSKON,They're pulling at me now. I don't - I don't know how...
+0,136,57,JACSKON,Janet?
+0,136,57,FRAISER,Daniel?
+0,136,57,JACSKON,What's goin' on?
+0,136,57,FRAISER,"Look, something has happened. I need you to just..."
+0,136,58,FRAISER,I need you to just hang in there.
+0,136,59,FRAISER,"That was it. A moment later, another person emerged, but we didn't learn anything from her. So, he only surfaced for a moment, but it was definitely Daniel."
+0,136,59,CARTER,At least we know he's still in there.
+0,136,59,FRAISER,"Mm-hmm. Dr. McKenzie just did a detailed analysis of his E.E.G. and M.R.I. readings. We think that Daniel, himself, is in a sort of coma, having been suppressed by the others. It's as though his own consciousness has retreated, protecting itself. That's why he could only surface for such a short time. The other signals are a jumbled mess."
+0,136,59,HAMMOND,How many others are there?
+0,136,59,FRAISER,"It's only a guess, but Dr. McKenzie believes Daniel could be carrying the minds of as many as a dozen of the ship's passengers."
+0,136,59,CARTER,"Sir, it's possible I could reconfigure the ship's systems to separate Daniel."
+0,136,59,HAMMOND,"The last time you went on that ship, you were attacked."
+0,136,59,CARTER,It may have been automated defenses.
+0,136,59,TEAL'C,"I think not, Major Carter. I discovered Daniel Jackson at the base of one of the sleep chambers. The door was open."
+0,136,59,CARTER,There's on way Daniel would have stepped into one of those things on his own.
+0,136,59,TEAL'C,Then someone else must have done so. Perhaps I regained consciousness before Daniel Jackson's assailant was able to do the same to us.
+0,136,59,CARTER,The question is why?
+0,136,59,FRAISER,Tryan seemed absolutely sure that his physical body was dead.
+0,136,59,HAMMOND,So?
+0,136,59,FRAISER,"So, what if this was a desperate attempt to preserve these people? What if the person who attacked you was simply trying to keep these people alive the only way he could?"
+0,136,59,TEAL'C,The ship could not have sustained them indefinitely.
+0,136,59,CARTER,"So, Daniel's a - a lifeboat?"
+0,136,59,FRAISER,"Yeah, it's possible."
+0,136,59,CARTER,"Sir, I recommend that SG-12 accompany us back to the planet. They can search the ship for whoever did this while I study the cryogenic systems."
+0,136,59,HAMMOND,You have a go. Dismissed.
+0,136,60,FRAISER,I don't believe we've had a chance to meet.
+0,136,60,JACSKON,Where's my father?
+0,136,60,FRAISER,"I'm sorry, I-I don't know. Do you mind if I sit down beside you?"
+0,136,61,FRAISER,Okay...there.
+0,136,61,JACSKON,What about them? .
+0,136,61,FRAISER,"Oh no, they won't hurt you. Tell you what, why don't I tell you everything I know and then we'll just take it from there...okay? What's your name?"
+0,136,61,KEENIN IN JACSKON,Keenin.
+0,136,61,FRAISER,Keenin? That's a very nice name. I'm Dr. Fraiser.
+0,136,63,HAMMOND,
+0,136,64,HAMMOND,"I know you'll do anything to save Dr. Jackson, but the last thing we need is for this to happen to both of you."
+0,136,64,CARTER,"We have every intention of avoiding that, Sir."
+0,136,64,HAMMOND,Good luck.
+0,136,66,FRAISER,"Keenin, we're trying to figure out everything we can about how this happened. What's the last thing you remember?"
+0,136,66,KEENIN IN JACSKON,My father...
+0,136,68,KEENIN,Why can't I wait with you?
+0,136,68,PHARRIN,"The ship must accelerate to escape the flare's radiation. You'll be safer here. You will dream sweet dreams...and when you awaken, we'll be in orbit around Ardena, and I will be right here."
+0,136,68,KEENIN,Talthus will be gone.
+0,136,68,PHARRIN,"Hundreds of years will have passed, Keenin, and all of this hardship will be part of our distant history. Do you understand?"
+0,136,69,PHARRIN,Now... Close your eyes. He closes his eyes.
+0,136,71,KEENIN IN JACSKON,
+0,136,71,FRAISER,"So, you had to leave."
+0,136,71,KEENIN IN JACSKON,They knew it was going to happen since a long time before I was born. Do you know what a dark star is?
+0,136,71,FRAISER,Mm-hmm...one that's burned out it's fuel.
+0,136,71,KEENIN IN JACSKON,They said it would pass close enough to our sun to make it flare and that it would engulf Talthus. I knew my whole life that the world was gonna to end.
+0,136,71,FRAISER,"So, you're people built the Stromos?"
+0,136,71,KEENIN IN JACSKON,"They built three ships, including the Stromos. But it wasn't enough. They had a lottery and they said that was the only fair way, but my father was an officer on the Stromos...he was allowed to pick one person from his family. M- my mother made him chose me."
+0,136,71,FRAISER,It's all right.
+0,136,71,KEENIN IN JACSKON,"My mother said she would take her chance with the lottery, but she wasn't chosen. The sovereigns were chosen, but she wasn't chosen. No one I knew was chosen. I wanted to stay with her."
+0,136,72,FRAISER,"It's okay...shhh. It's all right. It's all right, shhh...it's okay."
+0,136,73,MARTICE IN JACSKON,What are you doing?
+0,136,73,FRAISER,Martice?
+0,136,74,MARTICE IN JACSKON,"You may address me as sovereign. And I will ask you never to do that again. Now, what have you done to resolve this?"
+0,136,76,CARTER,
+0,136,76,SG-12 MAN,This is SG-12. We've just begun our search.
+0,136,76,CARTER,Stay in radio contact. Carter out. These power lever readings are extremely low. I don't know how it could still be working.
+0,136,76,TEAL'C,"Perhaps if we revived one of them, they may be of some assistance."
+0,136,76,CARTER,I don't think there's even enough power to do that.
+0,136,77,MARTICE IN JACSKON,I demand to speak to someone in authority.
+0,136,77,FRAISER,"Well, I'm sorry. You're stuck with me."
+0,136,77,MARTICE IN JACSKON,Why have you involved the boy in this?
+0,136,78,FRAISER,What boy?
+0,136,78,MARTICE IN JACSKON,The boy. You were just talking to him. Where is he?
+0,136,80,CARTER,"If we don't get these systems hooked up to another power source soon, these people are gonna die. We'll need a naquadah generator and I'll have to build some..."
+0,136,81,CARTER,...One generator should be enough.
+0,136,82,PHARRIN,"Please, don't hurt us."
+0,136,83,MARTICE IN JACSKON,Tell them to stop shouting! It is unendurable!
+0,136,83,FRAISER,I can't hear them.
+0,136,83,MARTICE IN JACSKON,Be silent!
+0,136,83,FRAISER,"They're in your mind, Martice."
+0,136,83,MARTICE IN JACSKON,"No...no. No, no, no, no, no, what you say cannot be so. Uh...I have responsibilities to attend to. I, uh, cannot remain here."
+0,136,83,FRAISER,You cannot leave.
+0,136,83,MARTICE IN JACSKON,3000 of our people depend on me to lead them. I am their sovereign. They have sworn an oath to me.
+0,136,83,FRAISER,I'm sorry...
+0,136,83,MARTICE IN JACSKON,It is my destiny to rule over Ardena!
+0,136,83,FRAISER,"No, listen. You don't understand the seriousness of your condition."
+0,136,83,MARTICE IN JACSKON,And you still don't realize who you are talking to!
+0,136,83,FRAISER,I don't give a damn! You don't belong in that man's body and I intend to take it back!
+0,136,85,TEAL'C,Are there other conscious people aboard this ship?
+0,136,85,PHARRIN,No...the others still sleep. Why have you come back?
+0,136,85,CARTER,You've done something to one of our people.
+0,136,85,PHARRIN,Is he here with you?
+0,136,85,TEAL'C,He is not.
+0,136,85,CARTER,Are you the one responsible?
+0,136,85,PHARRIN,There was...no choice...no...other way. You must do the same.
+0,136,85,CARTER,I don't think so.
+0,136,85,PHARRIN,The ship's power is failing. It is the only way we can save them. Pharrin figured out a way to override the failsafes. It can be done. Don't you see? These souls are the last of an entire world. They cannot be allowed to end like this.
+0,136,85,CARTER,Maybe there's another way.
+0,136,85,PHARRIN,"No. No, the power is fading even now in every compartment. If the two of you carry but a handful of souls, we could route the remaining power back to the others..."
+0,136,85,CARTER,That's not going to happen.
+0,136,85,PHARRIN,We do not know how many more we can accommodate.
+0,136,85,CARTER,We?
+0,136,86,TEAL'C,"I believe he, like Daniel Jackson, carries the consciousness of many."
+0,136,87,PHARRIN,Thirteen souls now reside in Pharrin's body. I fear...I can harbor no more.
+0,136,87,TEAL'C,To what end do you attempt to preserve the life of these people? Their bodies are dead.
+0,136,87,PHARRIN,"We are the last of an entire world. The other ships will come. We have sent a message. They will hear it and they will come. And when they do, they will find a way to restore us."
+0,136,87,TEAL'C,Why did you not attempt to revive the others?
+0,136,88,PHARRIN,"After the ship crashed - we still don't know why it happened - he was revived by the computer. But the power requirement of his restoration caused too great a drain in the rest of the compartment. Power levels were dropping. Pharrin had only minutes to restore power to 12 of the sleeper chambers, before the occupants were dead. But there wasn't enough time. Pharrin was failing them, one by one. There was no other choice...no other way to preserve us."
+0,136,89,PHARRIN,"There are over...a thousand souls aboard the Stromos. If Pharrin had attempted to revive the others, then many more may have died."
+0,136,89,CARTER,Even one person to share the burden...
+0,136,89,PHARRIN,Pharrin walked as far as he could see. There was little more than rock! Neither was there sufficient water or food remaining aboard after the crash. Pharrin dare not revive another soul. We are not alone. We live in a democracy of one. It is strange...yes. But we are the chosen survivors of...an entire race. How could Pharrin have allowed even one of us to be lost?
+0,136,89,CARTER,"Still, we could've helped you."
+0,136,89,PHARRIN,"There was...no time. We should have asked them. No, we could not take the chance. You...would never have consented...would you?"
+0,136,89,TEAL'C,We would not.
+0,136,89,PHARRIN,Then...we chose correctly.
+0,136,90,PHARRIN,"Our mistake was to flee when you revived so quickly from our stun weapon and returned for your friends. But, too many of us were afraid."
+0,136,92,CARTER,There are other ways that we can help.
+0,136,92,PHARRIN,How?
+0,136,92,CARTER,"Well, for starters, we could provide you with an alternate power source. One capable of brining your energy reserves back up to where they need to be to revive your people. It's possible that I can retrieve it and have it up and running within a few hours."
+0,136,92,PHARRIN,"Pharrin, there is no other way. Listen to her! No, we must wait! The ships will come."
+0,136,92,CARTER,"We can take you anywhere you wanna go...another world, like Ardena."
+0,136,92,PHARRIN,You have a ship?
+0,136,92,CARTER,"We know of a device capable of transporting all your people, instantaneously, to any number of worlds. We call it a Stargate."
+0,136,92,PHARRIN,Such a device is not possible.
+0,136,92,CARTER,Come back with us and I'll prove it to you.
+0,136,92,TEAL'C,"However, we will only consent to do so if you return our friend to his former state."
+0,136,92,PHARRIN,He is preserving life.
+0,136,92,TEAL'C,"At the expense of his own, against his will!"
+0,136,92,PHARRIN,Please...do not ask us to do this.
+0,136,92,CARTER,We're not asking.
+0,136,92,PHARRIN,The souls that your friend carries within him are amongst the most precious of all.
+0,136,92,TEAL'C,Our friend is equally as important to us!
+0,136,92,PHARRIN,There will be nowhere for them to go. They will be lost.
+0,136,92,CARTER,But it is possible to undo this?
+0,136,92,PHARRIN,How can I abandon them so easily? We have sworn to protect the sovereign. But we may save hundreds of others.
+0,136,92,CARTER,Pharrin...
+0,136,92,PHARRIN,There is a way...
+0,136,92,CARTER,Do you understand that what we're offering could save everyone on this ship?
+0,136,92,PHARRIN,And do you understand that one of the souls your that friend carries within him...is my son?
+0,136,93,JACSKON,Please...why does it hurt so much?
+0,136,93,FRAISER,All right... Prepare 100 micrograms of Fentanyl.
+0,136,94,JACSKON,"That won't be necessary, Dr. Fraiser. I seem to have a higher threshold for pain than the others."
+0,136,94,FRAISER,Tryan?
+0,136,94,TRYAN IN JACSKON,Yes.
+0,136,94,FRAISER,"Oh, thank God for that..."
+0,136,95,CARTER,Janet? Can I have a word?
+0,136,95,FRAISER,I'll be back.
+0,136,97,O'NEILL,You sure you trust this guy?
+0,136,97,TEAL'C,He has much to gain by assisting us.
+0,136,98,TRYAN IN JACSKON,"Officer Pharrin, Sir. Engineer Tryan, second rank."
+0,136,99,PHARRIN,"Tryan...of course. Of all of our crew, you would have thought this was not possible."
+0,136,99,TRYAN IN JACSKON,"And of all our crew, Sir, you're the one who'd find a way to do it. How did you manage?"
+0,136,99,PHARRIN,"Our training...and a shared will to survive. It is a strange way of living with others...but it is better than the alternative,"
+0,136,99,TRYAN IN JACSKON,"What of our ship and her passengers, Sir?"
+0,136,99,PHARRIN,"Our ship crash-landed. We failed to reach Ardena. Her passengers may yet be saved, but not without considerable sacrifice...to you and to the others of the Stromos that reside with you."
+0,136,99,TRYAN IN JACSKON,"I understand, Sir."
+0,136,99,PHARRIN,"These people possess a device capable of transporting all our people to another world...perhaps even Ardena. It is very real...and it will save our people. But in exchange, they ask that their friend be returned to them, as he was before. I believe it can be done if we act quickly. It is a reasonable bargain."
+0,136,99,TRYAN IN JACSKON,"I will do whatever is necessary, Sir. Whatever you ask of me."
+0,136,100,MARTICE IN JACSKON,"No! There will be no sacrifice of any kind! Officer Pharrin, as your sovereign, I demand you return me to the ship immediately."
+0,136,101,PHARRIN,"Forgive me, Sovereign."
+0,136,101,CARTER,Pharrin...
+0,136,101,PHARRIN,We have sworn an oath to do his will. We cannot proceed.
+0,136,101,MARTICE IN JACSKON,Officer Pharrin...I have given you a command. Do you understand me?
+0,136,103,O'NEILL,"Oh, for cryin' out loud..."
+0,136,104,O'NEILL,Get up!
+0,136,104,PHARRIN,I have sworn to protect the sovereign.
+0,136,104,O'NEILL,You're sovereign's dead! Get up!
+0,136,104,PHARRIN,His soul lives on...
+0,136,104,O'NEILL,Not if I cut it him out!
+0,136,104,PHARRIN,You would not...
+0,136,104,O'NEILL,"Oh, yes I would."
+0,136,104,MARTICE IN JACSKON,"Pharrin, you will listen to me..."
+0,136,104,O'NEILL,Don't listen! You just do what you came here to do.
+0,136,105,PHARRIN,"Forgive us, Sovereign. It is the only way to protect our people."
+0,136,105,MARTICE IN JACSKON,"I will not surrender this body, not at any cost. It is mine. We see quick shots of Daniel's face as those within him argue. It was never yours to take. If you save anyone, you will save me. The people of Talthus will die. Let them!"
+0,136,106,PHARRIN,"Forgive me, Sovereign..."
+0,136,106,MARTICE IN JACSKON,How dare you touch me?!
+0,136,106,PHARRIN,"For 12 years we have fought to save the people of Talthus and we will do everything in our power to do so, no matter how great the sacrifice."
+0,136,107,KEENIN IN JACSKON,Father?
+0,136,107,PHARRIN,"Keenin...I am so sorry, my son. You must sacrifice as well..."
+0,136,108,PHARRIN,And we will be together. Do you understand?
+0,136,109,PHARRIN,"The people of Talthus will be safe, and they will remember us forever."
+0,136,109,KEENIN IN JACSKON,But we'll be together...
+0,136,109,PHARRIN,We'll be together...
+0,136,111,O'NEILL,Well?
+0,136,111,FRAISER,"Well, there's no way to tell, yet, if they all made it into Pharrin, but Daniel's reading are back to normal."
+0,136,111,O'NEILL,How'd you do that?
+0,136,111,FRAISER,"I wasn't me, Sir. It was Daniel. His consciousness protected itself, and he never emerged for more than a few seconds. That's what allowed Pharrin to separate the others from Daniel and absorb them himself."
+0,136,111,O'NEILL,"The more, the merrier, I guess."
+0,136,111,FRAISER,He'll stay in suspended animation until the other ship passengers can be revived and take care of him.
+0,136,111,O'NEILL,You mean them.
+0,136,112,CARTER,"The naquadah generator will sustain the power, Sir."
+0,136,112,TEAL'C,We should be able to begin the restoration process within hours.
+0,136,112,CARTER,And we can start relocating them shortly after that.
+0,136,112,O'NEILL,Good. We'll leave that for SG-4. They love that kinda stuff.
+0,136,112,CARTER,How's Daniel?
+0,136,112,FRAISER,He'll probably be unconscious for a while. I think it's best if we get...
+0,136,112,JACSKON,What?
+0,136,113,O'NEILL,Daniel? Is that you?
+0,136,113,JACSKON,Jack?
+0,136,113,O'NEILL,How ya doin'?
+0,136,113,JACSKON,Hmm...bad headache.
+0,136,113,O'NEILL,Nail-in-the-head kinda thing?
+0,136,113,JACSKON,Yeah...something like that.
+0,136,113,O'NEILL,Yeah.

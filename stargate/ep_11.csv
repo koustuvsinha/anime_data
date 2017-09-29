@@ -1,0 +1,307 @@
+Season,Episode,Scene,Character,Line
+0,11,0,STARGATE SG1,Episode 112
+0,11,0,"""FIRE AND WATER""",By Katharyn Michaelian Powers Harriman enters Hammonds Office
+0,11,0,HARRIMAN,"Readouts on P8X-362, looks good, especially the mineral scans."
+0,11,0,HAMMOND,I'll pass this on to SG-4 they'll be geared up and ready to for departure at 1100 hours. Thank you Sergeant.
+0,11,1,TECH,"Off world activation, Repeat Off world activation!"
+0,11,2,HAMMOND,Is there anyone due back?
+0,11,2,HARRIMAN,No Sir.
+0,11,2,TECH,"Incoming traveler, repeat incoming traveler!"
+0,11,2,TECH,"All defense teams, stand by!"
+0,11,2,HARRIMAN,Looks like SG-1 sir.
+0,11,2,HAMMOND,Open the Iris. Get a medical team down there!
+0,11,2,HARRIMAN,Medical team to the Stargate room! Medical team to the Stargate room!
+0,11,3,HAMMOND,"Stand down. Colonel O'Neill, SG-1 couldn't have been deployed more them three hours ago, what happened?"
+0,11,4,JANET,"Colonel look at me, look at me! They're in shock, get them to the infirmary!"
+0,11,4,.HAMMOND,Colonel? Where's Dr Jackson?
+0,11,4,TEAL'C,"""Daniel Jackson."
+0,11,4,SAM,"He didn't make it, Sir."
+0,11,4,JACK,"Daniel's dead, sir."
+0,11,6,JANET,"Alright, I want a complete analysis of these uniforms, see if there is any form of contamination."
+0,11,6,TECH,Yes.
+0,11,7,JANET,What have we got?
+0,11,7,SAM,He's gone isn't he? Why can't I stop shaking?
+0,11,7,JANET,"Your still in shock, Captain. It's alright. You'll be alright. Can I get another warm blanket here, please?I want you to take some slow deep breaths for me.You want to tell me what happened?"
+0,11,7,SAM,"He screamed, and there was this fire, and then he...he called out for help, and the he screamed,and then he was gone! He was just"
+0,11,8,JANET,"It's alright, were going to give you a sedative now so you can rest.Nurse?"
+0,11,9,TEAL'C,I do not wish this done.
+0,11,9,JACK,"Relax Teal'c, there just trying to take your blood pressure"
+0,11,9,JANET,"It's alright, it can wait for now. Teal'c, you can go change if you want to. Colonel, any pain? Headache?"""
+0,11,9,JACK,No.
+0,11,9,JANET,Can I get you to look straight ahead please?
+0,11,10,JACK,What!What is that?
+0,11,10,JANET,"It's a pen light. I'm sorry, you must be photosensitive."
+0,11,10,JACK,You think?
+0,11,10,JANET,"It's alright Colonel, we can do this after the debriefing, or even tomorrow."
+0,11,10,JACK,Thank you.
+0,11,10,JANET,Okay.
+0,11,10,JACK,Thank you.
+0,11,10,TEAL'C,We went thought the Stargate at precisely 0700 this morning. The world we found on the other side appeared to be uninhibited.
+0,11,11,HAMMOND,So there was no immediate sign of danger.
+0,11,11,SAM,"There were these holes,volcanic gas. I took some soil sample to test for minerals. Daniel."
+0,11,11,HAMMOND,Take your time.
+0,11,11,JACK,"He said, he said, Colonel, help me.And then he was gone."
+0,11,11,HAMMOND,Gone?
+0,11,11,JACK,"Engulfed in fire, sir."
+0,11,11,HAMMOND,"There was nothing you could have done, Colonel."
+0,11,11,JACK,"No, I swear to God, I tried to get to him, but the heat. It blasted towards us."
+0,11,11,HAMMOND,And what did you do then?
+0,11,11,JACK,"There was a body of water nearby, it was like a, lake, or sea, maybe. We all submerged ourselves, that's what saved us."
+0,11,11,HAMMOND,And by then?
+0,11,11,JACK,"By then Daniel was gone, there was nothing nothing left sir. I ordered the team to evacuate."
+0,11,11,HAMMOND,We'll send a team through to recover to body.
+0,11,11,JACK,"No sir! It's...too volatile, sir. The whole area was very unstable."
+0,11,11,HAMMOND,"It's a hard thing, to lose a member of your team. I have been through it my self, if there's anything I."
+0,11,11,JACK,Yes sir.
+0,11,11,HAMMOND,Dismissed.
+0,11,13,JANET,"General? I have a few more test to run , but I got the results back from my initial exams."
+0,11,13,HAMMOND,And?
+0,11,13,JANET,"""Well apart from some small contusions, photosensitivity , which I can probably explain to the volcanic gasses in the atmosphere, they're fine. Frankly General, I am more worried about the post-traumatic symptoms."
+0,11,13,HAMMOND,"When your lives depend on each other, you form a very deep bond, there's is a very dangerous job."
+0,11,13,JANET,"Yes of course sir, It's just, I can't help but be concerned. Call it intuition."
+0,11,13,HAMMOND,The best thing we can do is get them on another mission. I plan on putting them back on rotation as soon as I can assign a replacement for Dr Jackson.
+0,11,13,JANET,"No sir, I don't agree, I want to keep them under observation for several days at least."
+0,11,13,HAMMOND,"My experience Doctor, it's best for all members of the surviving team to go."
+0,11,13,JANET,"No sir, with all do respect, your experience does not include gate travel to another planet. Nether does anyone else's experience for that matter. Several days, I insist."
+0,11,13,HAMMOND,"Very well, I'll put them on stand-down for 7 days."
+0,11,13,JANET,"Thank you, sir."
+0,11,15,HAMMOND,Colonel.
+0,11,15,JACK,"Daniel Jackson made this place happen. As a member of SG-1, he was our voice, our conscious. He was a very courageous man. He was a good man. For those of us lucky enough to know him, he was also a friend."
+0,11,16,HAMMOND,"We commend Daniel Jackson's spirit, to the Universe he opened up for us. I pledge to continue our journey of discovery in his memory.May he rest in peace."
+0,11,18,DANIEL,"Jack? Sam, Teal'c! Anyone?"
+0,11,19,JACK,"So were sitting around eating to Abydonian, cuisine. Daniel tells Sha're, he's going to go show me this cartouche thing, but before we leave she stands up and plants this kiss on him that makes his face disappear for a day."
+0,11,20,TEAL'C,I do not understand this ritual.
+0,11,20,SAM,It's called a wake.
+0,11,20,TEAL'C,"On Chu'lak, it is custom, when someone dies, we do not eat for three days and three nights."
+0,11,20,SAM,"Yeah well, a wake is like a big party, it's supposed to give the departed a jolly send off."
+0,11,20,JACK,"Sam, Teal'c, glad you made it, something to drink?"
+0,11,20,SAM,"Yeah, sure. Beer."
+0,11,20,JACK,Teal'c?
+0,11,20,TEAL'C,I must refrain.
+0,11,20,JACK,There's food upstairs.
+0,11,21,DANIEL,Help! Jack! Help! Help!
+0,11,24,DANIEL,"Daniel. Daniel Jackson. You? My friends, the others who came here with me."
+0,11,25,DANIEL,"It's a very old Earth writing. It's Cuneiform. It's the first kind of writing we ever found on...on my world.Okay. It's Arcadian, not Sumerian, so, let me think. Reveal, Fate, Omoroca.' Reveal fate Omoroca, reveal fate Omoroca? Omoroca, what is that? That's you?""No something else? Reveal fat Omoroca, I'm sorry I don't know what your want me to do."
+0,11,26,DANIEL,I don't know what you want me to do! I don't understand!
+0,11,27,JACK,Somebody get this damn car out of here!
+0,11,27,HAMMOND,"What on your mind, Colonel?"
+0,11,27,JACK,"Retirement, actually."
+0,11,27,HAMMOND,You don't mean that.
+0,11,27,JACK,I think I do.
+0,11,27,HAMMOND,"Well I can't let you do that. I've go an assignment for SG-1. Dr Jackson's apartment has to be cleaned out by Stargate personnel, National Security has said it, your probably the closes thing he had to a family. It's not an order, it's a request."
+0,11,27,JACK,Yes sir.
+0,11,27,HAMMOND,Why don't you come join the others in the back?
+0,11,27,JACK,Yes sir.
+0,11,27,HAMMOND,You know that's my car.
+0,11,27,JACK,You should get that window fixed.
+0,11,29,DANIEL,"If a free man, accuses another of murder, and fails to prove, the accuser shall be put to death. Okay, that's interesting, now what the hell does it mean? Yeah, yeah I know what it-it is, it's the legal code to some Babylonian king, probably around 200 B.C. The question is, what does it have to do with me?I want to see my friends. I'm not going to translate another word of this until you."
+0,11,29,NEM,What speech?
+0,11,29,DANIEL,What? What this one? It's Acadians.
+0,11,29,NEM,What speech?
+0,11,29,DANIEL,"Oh, oh, oh, it's English, it's much more modern."
+0,11,29,NEM,What fate Omoroca.
+0,11,29,DANIEL,"I don't, I don't know. Look my friends and I, we come here in peace. We're explorers. We'll share information if we have it."
+0,11,29,NEM,What fate Omoroca!
+0,11,29,DANIEL,I don't know!
+0,11,30,NEM,Nourishment.
+0,11,31,NEM,Sleep
+0,11,31,DANIEL,"Look,I can't tell you what I don't know."
+0,11,31,NEM,"You will, or you will die!"
+0,11,32,SAM,"Oh wow, look at these, expedition journals, one for each planet we visited. for Abydos. Colonel O'Neill thinks I'm a geek, I don't know how to get us back, I'll never get paid.Oh wow he must have written this right after we got back. Sha're is gone, Jack says we'll find her, if anyone can, he can."
+0,11,32,JACK,"Come on, that's his diary, I mean what's he going to think if..."
+0,11,32,SAM,What are they going to do with all this stuff?
+0,11,32,JACK,"Maybe give it to a museum, or start one."
+0,11,33,TEAL'C,"This is a game from ancient Egypt, it is called the Jackal and the Hound. It belonged to a Pharaohs daughter, Daniel Jackson and I once played, he said it made him feel like he was touching history."
+0,11,34,DANIEL,Help! Help!
+0,11,35,SAM,What.
+0,11,35,JACK,What? What is it? Are you alright?
+0,11,35,SAM,"I just had this image in my mind, it's the second time."
+0,11,35,JACK,What was it?
+0,11,35,SAM,"Water, under."
+0,11,35,JACK,Bubbles rising?
+0,11,36,TEAL'C,"That is correct, I have experienced it as well."
+0,11,36,JACK,I'm telling you something's wrong.
+0,11,36,SAM,"Yeah, what's wrong here is that Daniel is dead."
+0,11,36,JACK,Is he?
+0,11,36,SAM,"You were there, we were all there!"
+0,11,36,JACK,"The why don't I believe it? I mean I keep expecting him to walk through the door! I keep getting these...screw this packing, let's get back to the base"""
+0,11,37,DANIEL,Where are my friends? Are they alive? Are they here somewhere? I demand that I be allowed to speak to them
+0,11,37,NEM,They are gone.
+0,11,37,DANIEL,"No, they would not leave without me."
+0,11,37,NEM,You are no more.
+0,11,37,DANIEL,They think that I'm.
+0,11,37,NEM,"This memory I gave them, so they would not return."
+0,11,37,DANIEL,Why? Why are you doing this?
+0,11,37,NEM,"You are oldest, you know of Babylon. What fate Omoroca!"
+0,11,37,DANIEL,"Okay, okay, if my life is on the line here, I need to know more. What is Omoroca? WHO is Omoroca?"
+0,11,37,NEM,My MATE!
+0,11,37,DANIEL,What? On Earth? In Babylon?
+0,11,37,NEM,Yes
+0,11,37,DANIEL,"And you don't know what's happened to her? That was 4,000 years ago."
+0,11,37,NEM,"Knowledge, you have knowledge!"
+0,11,37,DANIEL,"Of Babylon, yes, but only a small amount of knowledge has survived all that time!"
+0,11,37,NEM,The knowledge is there. In your mind.
+0,11,37,DANIEL,"Okay your are asking me to remember something...that happened thousands and thousands of years before I was born. To tell you something, that I couldn't possibly know!"
+0,11,37,NEM,You deceive!
+0,11,37,DANIEL,"Why! God, Why, why, why would I do that!"
+0,11,37,NEM,You serve the Goa'uld!
+0,11,37,DANIEL,"No! No! Now I lost my wife, my mate, because of the Goa'uld! And I despise them for that!"
+0,11,37,NEM,"Then tell me, what fate!"
+0,11,37,DANIEL,I don't know! I don't know!
+0,11,37,JANET,Well your brain chemistry has been seriously compromised. All of you had abnormally low levels of seretonin.
+0,11,37,JACK,Which means?
+0,11,37,JANET,"It's a neurotransmitter that effects moods. Now low levels would account for depression, but not these other effects. Now I want you to take a look at this.This dark spot here appears on all of your scans, now it's almost to small an anomaly to worry about but the fact that it's on virtually the same part of the cortex."
+0,11,39,JANET,Colonel? Wait!One of you!
+0,11,40,JANET,Colonel?
+0,11,40,TECH,"Welcome home SG-6, report for debriefing at 1600 hours."
+0,11,40,JANET,What are you looking for?
+0,11,40,JACK,"I just, I thought"
+0,11,40,TEAL'C,Daniel Jackson was returning.
+0,11,40,SAM,"Oh my God, I thought the same thing. Why? Is he gone or isn't he?"
+0,11,40,JANET,You saw it happen.
+0,11,40,JACK,"Somebody want to tell me what the hell is going on, because I am starting to lose it here."
+0,11,40,HAMMOND,Doctor?
+0,11,40,JANET,"General Hammond, there seems to be some questions in there mind on weather or not Dr Jackson is dead."
+0,11,40,HAMMOND,"You three were the only witnesses, if you are denying what you saw."
+0,11,40,JACK,"No sir, I saw him die. We all did. I know he's gone. But I know he's still alive. Sir we have got to go back"
+0,11,41,HAMMOND,"Your not going anywhere but the infirmary! I want to know what's going on, Doctor. One of our people could still be out there."
+0,11,41,JANET,Yes sir.
+0,11,42,NEM,You cannot leave this place.You will tell me all you know of Babylon.
+0,11,42,DANIEL,"Do you know how much has been lost? Great libraries burned to the ground, cities destroyed by wars. Most of our history is buried in time."
+0,11,42,NEM,You are afraid.
+0,11,42,DANIEL,"Yes, yes I'm afraid. I'm afraid you are asking the impossible of me and you will not allow me return home."
+0,11,42,NEM,"Omoroca, was afraid."
+0,11,42,DANIEL,On Earth?
+0,11,42,NEM,Yes.
+0,11,42,DANIEL,"Of what, of who? I mean...give me something to work with here, a time frame!"
+0,11,42,NEM,Babylon.
+0,11,42,DANIEL,
+0,11,42,NEM,Belus.
+0,11,42,DANIEL,"Belus, Belus, Belus, something,yes. Belus something. Yes, in the writing of Berosus a contemporary of Alexander the Great, he studied some very old Babylonian text, Pre-fluu, Grrr, tell me more."
+0,11,42,NEM,"""Omoroca, feared Belus."
+0,11,42,DANIEL,"Yes, he was a conqueror, tell me more. I need more. Come on, come on your can't expect me to remember every book, every text that I studied ten or twelve years ago! Look come back to Earth with me, my books, my library, there all there!"
+0,11,42,NEM,You serve the Goa'uld!
+0,11,42,DANIEL,"No! God No! How many times do I have to tell you, no!"
+0,11,42,NEM,It is the fate of Humans. That Omoroca could not prevent.
+0,11,42,DANIEL,Omoroca came to Earth to fight the Goa'uld? That is why she came to Earth?
+0,11,42,NEM,Yes.
+0,11,42,DANIEL,Then my people owe her a great debt.
+0,11,42,NEM,She failed!
+0,11,42,DANIEL,"No, there was a rebellion, an uprising in Ancient Egypt, I mean maybe she helped plant the seed."
+0,11,42,NEM,"Goa'uld, are among you, within you!"
+0,11,42,DANIEL,"Teal'c? You think because Teal'c carries around a Larva Goa'uld, no you see he joined us in the fight against the Goa'uld. You see in the years, the thousands of years, since Omoroca was there, we have become a civilization that rival that of the Goa'uld. That's how far we have come, we are free! If you would just come back with me, I can show you!"
+0,11,42,NEM,Knowledge is here!
+0,11,43,JACK,Catchy tune. Mind telling me what this mood music is all about?
+0,11,43,HAMMOND,"Dr. McKenzie said it might help you remember more specifically, what happened. If you listen."
+0,11,43,MACKENSIE,"We are simply using these sounds as a tool to increase your as level of concentration, Colonel."
+0,11,43,JACK,Well it's very distracting. Teal'c?
+0,11,44,TEAL'C,Chal'ak!
+0,11,44,JACK,"Teal'c, snap out of it!"
+0,11,44,TEAL'C,I saw the death of Daniel Jackson.
+0,11,44,JACK,"It's alright, the something keeps happening to me."
+0,11,44,MACKENSIE,All three of you have conflicting feelings about Daniel.
+0,11,44,SAM,"I know he's dead, but I know he's alive."
+0,11,44,MACKENSIE,"Both realities can't be true, yet both seem to be."
+0,11,44,HAMMOND,"It's a conflict that will have to be resolved, before I authorize your return back to active duty, Colonel."
+0,11,45,DANIEL,"My friend, the others who came with me, you made them think that I was..."
+0,11,45,NEM,Lost to them.
+0,11,45,DANIEL,Dead.
+0,11,45,NEM,Yes.
+0,11,45,DANIEL,How?
+0,11,45,NEM,I gave them the memory of your death.
+0,11,45,DANIEL,"If your can influence memory like that, why don't you search my mind. You say that the memory is in there, that I must have come across it years ago and I just don't remember it."
+0,11,45,NEM,Yes.
+0,11,45,DANIEL,"Then take it! I mean if you have the power, if you have the technology, use it."
+0,11,45,NEM,It would damage!
+0,11,45,DANIEL,"Well given my options, I am willing to take the risk."
+0,11,45,NEM,I am not.
+0,11,45,DANIEL,"Look...I don't have 4,000 years, maybe you can afford to search all that time, but I can't."
+0,11,45,NEM,There will be much pain. You may die.
+0,11,45,DANIEL,"Well, I would rather die then live with the knowledge that I would never see my wife, or my friends again."
+0,11,45,JACK,"The fire Daniel was caught in, lashed out towards us...overwhelmed us when we went to help...I...It was...hot...It was very hot...Uh...there was water, a body of water nearby. Sir, how many times are we going to have to go through this."
+0,11,45,HAMMOND,Try to bear with me. How long do you estimate you were on the other side of the gate?
+0,11,45,JACK,"20 minutes, 25 maybe."
+0,11,45,SAM,"Half hour, tops."
+0,11,45,HAMMOND,Teal'c?
+0,11,45,TEAL'C,I concur.
+0,11,45,HAMMOND,You were gone almost 4 hours.
+0,11,45,SAM,"I don't think that's possible, sir."
+0,11,45,HAMMOND,I can show you the mission logs if you want.
+0,11,45,JACK,What happened to the other 3 1/2 hours?
+0,11,45,MACKENSIE,I have had a great deal of success with hypnosis.
+0,11,45,JACK,"Hypnosis. You know I am not a big fan of that bark like a chicken, cluck like a dog, stuff."
+0,11,45,JANET,"Colonel, please, hypnosis is a modern, therapeutic, practice."
+0,11,45,TEAL'C,On me I do not believe your procedure will be successful.
+0,11,45,JACK,"General, can't we go about this the old fashion way? Request permission to go back through that gate, and find out what the hell happened."
+0,11,45,"""NO!!!""",
+0,11,45,SAM,"Sir, we can't do that! I don't know why I just said that."
+0,11,45,MACKENSIE,"If that isn't a conditioned response, I don't know what is."
+0,11,45,JACK,So someone has been messing with our heads.
+0,11,45,MACKENSIE,"There is, one way to find out."
+0,11,45,SAM,"Colonel, I have had some experience in hypnosis, in an undergrad Physic. course. Let me take a shot at it. I volunteer."
+0,11,46,MACKENSIE,"You're now completely relaxed. I want you to go back to the day you last saw Daniel, he's with you now.Can you see it?"
+0,11,47,SAM,He's burning!
+0,11,47,MACKENSIE,"No. Go back further, you've just arrived. Now look around, and tell me where you are."
+0,11,47,SAM,Water.
+0,11,47,MACKENSIE,Your standing next to Water?
+0,11,47,SAM,Salt water.
+0,11,48,JACK,Looks like some kind of ocean.
+0,11,49,DANIEL,What's that thing out there?Did you see that?
+0,11,49,SAM,It's coming right towards us.
+0,11,50,DANIEL,"It's Cuneiform. I think he wants to know if we are from the world that built, Babylon."
+0,11,51,DANIEL,"I'm Daniel, this is Jack."
+0,11,52,SAM,Help him!
+0,11,52,MACKENSIE,I want you to move on to what happened next.
+0,11,53,SAM,Darkness.
+0,11,54,SAM,Cold.Wet.We've got to get to the water!
+0,11,56,MACKENSIE,Captain!
+0,11,56,SAM,We've got to get out of here!
+0,11,56,JACK,Carter!
+0,11,56,SAM,"My God, Colonel, we left him behind!"
+0,11,56,JACK,I know.
+0,11,56,SAM,We left him behind!
+0,11,56,JACK,"It's all right. We're going back, we're going back."
+0,11,57,NEM,"The memory of your history, your race, is within you. Beneath the surface."
+0,11,57,DANIEL,I hope so.
+0,11,57,NEM,You may be damaged.
+0,11,57,DANIEL,I understand.
+0,11,57,NEM,You could die.
+0,11,57,DANIEL,Well we don't really have a choice do we.
+0,11,57,NEM,"Remember, Omoroca."
+0,11,58,DANIEL,Omoroca.Omoroca. And in that place there was Omoroca.A women who came forth from the Heavenly egg. I can't!
+0,11,58,NEM,More.
+0,11,58,DANIEL,"I can't! Who walked among men by day, but at night she would retreat to the great sea to sleep. One of the beings called Onuses."
+0,11,58,NEM,Yes.
+0,11,58,DANIEL,Omoroca.
+0,11,58,NEM,Yes.
+0,11,58,DANIEL,Omoroca!
+0,11,58,NEM,More!
+0,11,58,DANIEL,"The God Belus, came down on to Babylon, unto the place of Omoroca and cut the woman asunder! OH God!! Oh God he killed her!"
+0,11,58,DANIEL,"I'm sorry. I'm sorry. That's all I ever knew. I swear."""
+0,11,58,NEM,Belus.
+0,11,58,DANIEL,He was a Goa'uld.
+0,11,58,NEM,Yes. He murdered my love!
+0,11,58,DANIEL,"I'm sorry"""
+0,11,59,JACK,Daniel!
+0,11,59,SAM,Maybe were too late.
+0,11,59,JACK,Were not leaving without him this time Captain
+0,11,62,DANIEL,Don't shoot!
+0,11,63,DANIEL,"Nem, you have your answer, now let us go."
+0,11,63,NEM,You may go.
+0,11,63,DANIEL,I'm sorry I couldn't give you the answer you wanted.
+0,11,63,NEM,I am sorry also.
+0,11,63,DANIEL,"We could still become friends, your people and mine."
+0,11,63,SAM,"That's why we were here, we meant no harm."
+0,11,63,NEM,Perhaps in time.
+0,11,63,DANIEL,Right
+0,11,63,NEM,"And in time, Daniel, you will find, what fate Sha're."
+0,11,64,DANIEL,"Ah, this is a long story."
+0,11,64,SAM,Yeah I bet!
+0,11,64,JACK,Tell us about it over Sushi?
+0,11,64,DANIEL,"That's funny. I will, after I go get some sleep."
+0,11,64,JACK,Ah...home...yeah about that apartment.
+0,11,64,DANIEL,Oh you didn't!
+0,11,64,SAM,The day after the memorial service.
+0,11,64,DANIEL,Memorial service?
+0,11,64,SAM,"The Colonel, said some really nice things!"
+0,11,64,DANIEL,"He,he did. He did?"

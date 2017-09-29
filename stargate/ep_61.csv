@@ -1,0 +1,328 @@
+Season,Episode,Scene,Character,Line
+0,61,0,STARGATE SG1,Episode 319
+0,61,0,"""NEW GROUND""","By Heather E. Ash Another Planet. Two people, a male and female are staring at the gate as the chevrons start locking. They look as if they have no clue what is happening."
+0,61,1,TECHNICIAN,Chevron four locked.
+0,61,2,HAMMOND,Report
+0,61,2,SAM,We just got our first hit with the cold address program - P2X- 416.
+0,61,2,HAMMOND,Prepare the MALP.
+0,61,4,WOMAN,"We must leave, Nyan."
+0,61,5,WOMAN,Nyan! You'll drown!
+0,61,5,NYAN,Doesn't feel like water.
+0,61,7,DANIEL,What's up?
+0,61,7,SAM,Cold dialing program made a positive hit on P2X-416.
+0,61,8,DANIEL,Wonder why...
+0,61,8,SAM,Looks like the locals have unburied the Stargate after the computer last dialed.
+0,61,8,JACK,"Now see, that's what I don't understand - how does a computer know how to do that?"
+0,61,8,SAM,It doesn't Sir. I created the cold dialing software to periodically redial cartouche Stargate addresses that hadn't connected the first time. This is our first hit.
+0,61,8,JACK,Oh.
+0,61,8,SAM,Receiving MALP telemetry... now.
+0,61,9,WOMAN,Nyan? What is it?
+0,61,9,NYAN,I don't know.
+0,61,10,DANIEL,Could you uh... can you follow him?
+0,61,11,DANIEL,"Hello Nyan. Don't be afraid. Uh, uh... my name is Daniel Jackson."
+0,61,12,NYAN,Are you a mechanical life form?
+0,61,12,DANIEL,No. I'm communicating to you through that device.
+0,61,12,NYAN,From where?
+0,61,12,WOMAN,This is a trick. We must report this Nyan.
+0,61,12,NYAN,No not yet.
+0,61,13,WOMAN,Why?
+0,61,14,DANIEL,"Sir, request permission to visit P2X-416?"
+0,61,14,JACK,Wait a minute...
+0,61,14,DANIEL,Jack they're obviously intelligent. Judging by their clothes and tools they appear to be close to our level of technology.
+0,61,14,JACK,Has anyone seen a DHD in this transmission?
+0,61,15,SAM,He's right.
+0,61,15,HAMMOND,Maybe you should take a Naquadah reactor with you so you can dial up the gate manually.
+0,61,16,NYAN,Mallen I believe we found the Gateway.
+0,61,16,MALLEN,There is no gateway. That is Optrican legend.
+0,61,16,NYAN,Then how do you explain this?
+0,61,16,MALLEN,This could be very dangerous Nyan. Do you realize what this could mean?
+0,61,16,NYAN,It would mean we were wrong. And the Optricans were right.
+0,61,16,DANIEL,Nyan is it all right if we visit you?
+0,61,16,MALLEN,No!
+0,61,16,NYAN,Yes.
+0,61,16,DANIEL,"Okay, we'll be with you shortly. Uh, try to stay close to that mechanical device I'm talking through. And try to avoid that splash you saw before. It's kinda dangerous."
+0,61,17,NYAN,We will be waiting to welcome you Daniel.
+0,61,18,NYAN,Mallen! Come back! If you tell them they might kill whoever comes through! Mallen!
+0,61,21,DANIEL,Hello Nyan.
+0,61,21,NYAN,You're... you're human.
+0,61,21,DANIEL,"Yes. I'm uh... Daniel Jackson. The person you talked to before. This is Major Carter, Colonel Jack O'Neill, and Teal'c. We're from a planet called Earth. You all right?"
+0,61,21,NYAN,Then the legend is true...
+0,61,21,DANIEL,"What, uh, what legend is that?"
+0,61,21,NYAN,"The Optricans believe that humans were brought to this planet by aliens who traveled through a gateway. But during the Upheaval, the gateway was buried so the beings could no longer come through."
+0,61,21,DANIEL,What was the Upheaval?
+0,61,21,NYAN,A period of violent earthquakes and volcanic eruptions covering most of this continent almost 2000 years ago.
+0,61,21,SAM,"If the Stargate has been buried for that long, how did you know where to look for it?"
+0,61,21,NYAN,I was not looking for it. I was hoping to find a primitive settlement that was here before the Upheaval. I was hoping to prove the Bedrosian theory.
+0,61,21,JACK,What's that?
+0,61,21,NYAN,That human life was created on Bedrosia without a gateway.
+0,61,21,JACK,Ah.
+0,61,21,SAM,"So this, this country is called Bedrosia?"
+0,61,21,NYAN,This continent.
+0,61,21,DANIEL,Then who are the Optricans?
+0,61,21,NYAN,A rival continent.
+0,61,21,JACK,Rival as in... what?
+0,61,21,NYAN,We believe that we were created on this continent and they believe that their holy gateway is on this continent. Therefore we've been at war for decades.
+0,61,21,JACK,"Okay, Carter, you wanna make sure that reactor's all hooked up, just in case? You mind if I ask how close to the front lines we might be?"
+0,61,21,NYAN,A great distance. There is no need for concern.
+0,61,23,TEAL'C,O'Neill!
+0,61,24,NYAN,Oh no. We have to hide.
+0,61,24,JACK,I thought you said they weren't around here?
+0,61,24,NYAN,They're my people - Bedrosians.
+0,61,24,JACK,Good guys?
+0,61,24,NYAN,Those are not the first words I would use to describe the ones who approach.
+0,61,24,JACK,Ah.
+0,61,24,NYAN,We must run. Now.
+0,61,24,JACK,Okay.
+0,61,24,SAM,I need five minutes before I can be operational Sir.
+0,61,24,NYAN,"This way, quickly."
+0,61,24,JACK,Screw it. Let's go. Come on.
+0,61,29,JACK,Do you believe we come in peace?
+0,61,30,JACK,Got a commanding officer around here?
+0,61,31,JACK,"Wow, though crowd."
+0,61,31,SAM,What happened to Nyan?
+0,61,31,JACK,I'd imagine he's saving his own butt right about now.
+0,61,35,LIMP,Mallen.
+0,61,36,LIMP,You said there were aliens here.
+0,61,36,MALLEN,Yes Sir. Those people came through the gateway.
+0,61,36,LIMP,No. They didn't. It's a trick.
+0,61,37,LIMP,A contrivance.
+0,61,37,MALLEN,Perhaps. But one of those aliens is named Daniel. He talked to Nyan through the machine that came through the circle.
+0,61,37,LIMP,A shuttlecraft will take you to my base. We will question you on this matter further.
+0,61,38,LIMP,Either this Nyan fired at my craft or another Optrican is out there. Either way I want them found.
+0,61,38,GUARD,Yes Sir.
+0,61,40,JACK,Okay. That's a needle.
+0,61,41,JACK,Ow!
+0,61,42,LIMP,Which of you in Daniel?
+0,61,42,JACK,I'm in Command. Colonel Jack O'Neill here.
+0,61,42,LIMP,I am unfamiliar with that Optrican designation.
+0,61,42,SAM,We're not Optrican. We're explorers from another planet.
+0,61,42,DANIEL,We traveled through the Stargate.
+0,61,42,LIMP,"This type of psychological warfare simulating the Optrican gateway fallacy to undermine our most basic beliefs, will not work."
+0,61,42,JACK,"Yeah. I know that can be hard to believe. So why don't you let us show you how the Stargate works, and if you're still not convinces, we'll just take our stuff and go. Fair enough?"
+0,61,43,LIMP,Erect a quarantine field.
+0,61,44,JACK,Hey!
+0,61,47,TEAL'C,State your purpose.
+0,61,48,NYAN,... Nyan...
+0,61,49,NYAN,We have to get away from here.
+0,61,49,TEAL'C,Where are my friends?
+0,61,49,NYAN,Captured.
+0,61,49,TEAL'C,I will not leave my friends.
+0,61,50,NYAN,We can't get to them. Rigar has set up a quarantine field. And as soon as he find the solider you killed...
+0,61,52,NYAN,You're blind.
+0,61,54,GUARD,They were starting to dig here.
+0,61,54,RIGAR A.K.A LIMP,Finish for them. I want to know what's in there.
+0,61,55,UNW,I have the results from the blood analyses. There is a 98% correspondent. They are definitely human. But none of them are showing the particle match with the Bedrosian registry.
+0,61,55,RIGAR,Then that proves they are Optrican.
+0,61,56,RIGAR,Does it not? Say what you were thinking.
+0,61,56,UNW,What if they are telling the truth? What is it is the gateway? And the Optricans were right.
+0,61,56,RIGAR,No. It's a lie.
+0,61,56,UNW,But how can you be sure?
+0,61,56,RIGAR,I am sure because we have not spent our lives praying to a god who does not exist. And many of our people have not lost their lives fighting a meaningless war. I won't accept that. I have studied the book of Nefertum word for word. Cover to cover. It is the truth.
+0,61,56,UNW,What if it's not?
+0,61,56,RIGAR,It is the truth. We began here. That device is a fabrication to fake the Optrican myth.
+0,61,56,UNW,To what end?
+0,61,56,RIGAR,To sow the seeds of doubt among our people. To create dissension from within. I will not allow our people to have their faith to be attacked in such a cynical way.
+0,61,56,UNW,What do you want to do?
+0,61,56,RIGAR,We will not allow the events that have transpired to leave this place.
+0,61,56,UNW,Then we must find this Nyan and the forth... Optrican.
+0,61,56,RIGAR,Yes. And we'll find out what we can from the three we have in custody. Then we will dispose of them.
+0,61,57,UNW,Yes Sir.
+0,61,59,NYAN,We come here for shelter. We also keep supplies here.
+0,61,60,NYAN,Are you injured in addition to your eyes?
+0,61,60,TEAL'C,I will be fine.
+0,61,61,NYAN,You can sit here. Here.
+0,61,62,NYAN,It's water. It's amazing how one discovery could change everything. For years I have searched for proof that we were created on this continent by Nefertum.
+0,61,62,TEAL'C,Nefertum? Blue lotus blossom of Ra.
+0,61,62,NYAN,He is represented in our text by a clue lotus blossom. But what is Ra? And how do you know about Nefertum.
+0,61,62,TEAL'C,"Nefertum was an under System lord to the one named Ra, with whom I did battle."
+0,61,62,NYAN,I do not understand. Nefertum was and is the creator of all of us. He created this planet and this great continent.
+0,61,62,TEAL'C,Correction Nefertum was an alien who most likely brought your people through the Stargate as slaves many of thousands of years ago.
+0,61,62,NYAN,That is what the Optricans say.
+0,61,62,TEAL'C,They are correct.
+0,61,62,NYAN,Oh great Nefertum this is blasphemy. But if it is true it could change everything. I must show my colleagues at the research academy.
+0,61,62,TEAL'C,Can you be certain they would believe you?
+0,61,62,NYAN,They are scientists as I am. They will realize they are wrong when presented with the evidence.
+0,61,62,TEAL'C,Your military has the Stargate under its command.
+0,61,62,NYAN,Not the gateway. You are proof.
+0,61,62,TEAL'C,I will not be the proof. And I will not allow my friends to be imprisoned as they are.
+0,61,63,TEAL'C,You must help me rescue them.
+0,61,64,NYAN,Let me see.
+0,61,65,TEAL'C,Do not.
+0,61,65,NYAN,You could have a serious injury.
+0,61,65,TEAL'C,I will be fine.
+0,61,65,NYAN,I have something that will help. I'll bring it back with the other supplies.
+0,61,66,TEAL'C,Nyan.
+0,61,69,JACK,That hurts.
+0,61,69,DANIEL,Well this day just keeps getting better and better huh...
+0,61,70,JACK,Yeah.
+0,61,74,JACK,We should talk.
+0,61,74,RIGAR,Yes. Let us talk of your friend in the words.
+0,61,74,JACK,I have no friends. In the woods or otherwise.
+0,61,75,DANIEL,We're not spies. We're peaceful explorers. We traveled through what you call your gateway.
+0,61,76,SAM,Fine the Stargate but that's what we came through.
+0,61,76,RIGAR,All four of you?
+0,61,76,SAM,All three of us.
+0,61,76,RIGAR,"It is impossible for one to travel to other planets, much less through a circle of stone."
+0,61,76,SAM,The Stargate isn't made of regular stone. If given enough power a wormhole forms within the circle that allows us to travel to other worlds.
+0,61,76,RIGAR,Wormhole?
+0,61,77,JACK,Giant worms. Huge.
+0,61,78,DANIEL,Wormhole is just an expression. It has nothing to do with worms. It's a tunnel through space.
+0,61,78,RIGAR,And how is this illusion of water created that I have heard described?
+0,61,78,DANIEL,"Well, you're right in that. It is an illusion. It's not actually water."
+0,61,78,RIGAR,Then what is it?
+0,61,78,JACK,Magic.
+0,61,78,SAM,It's an event horizon created up of quantum particles that form a wormhole.
+0,61,78,DANIEL,An alien race... the Goa'uld. Used the Stargate to transport humans from earth.
+0,61,79,DANIEL,... which is how your people ended up on Bedrosia
+0,61,80,RIGAR,My people began on Bedrosia as did yours. We were all created by Nefertum.
+0,61,80,DANIEL,"Nefertum? Son of Sakhmet, ""Blue lotus blossom""? That's who you believed created you?"
+0,61,80,RIGAR,Yes.
+0,61,80,DANIEL,Well he must have been a Goa'uld.
+0,61,80,RIGAR,A what?
+0,61,80,DANIEL,An alien. He must have transported your people through the Star
+0,61,83,NYAN,What are you doing?
+0,61,84,NYAN,You're an alien.
+0,61,85,TEAL'C,Come no further.
+0,61,85,NYAN,But I though you were all human.
+0,61,85,TEAL'C,Speak of it no more.
+0,61,85,NYAN,What are you?
+0,61,85,TEAL'C,"As I have said, speak of it no more. I did not believe you would return."
+0,61,85,NYAN,"You are the most important thing that has ever happened to my planet. All though I have not decided yet whether it is a good thing or bad. I brought something for your eyes. It is a healing device, among other things can regenerate the visual nerve. It will help most of your sight return in a day. Of course it is designed for human so how you will respond is"
+0,61,85,TEAL'C,I have no need for it. My sight will return on its own.
+0,61,85,NYAN,Because you're an alien?
+0,61,85,TEAL'C,The others are human. I am a Jaffa. I possess within me a symbiote that accelerates healing.
+0,61,85,NYAN,"Forgive me, but you do not appear to be healing at all."
+0,61,85,TEAL'C,My symbiote was severely damaged by my own staff energy blast. It must first heal itself.
+0,61,85,NYAN,How long will that take?
+0,61,85,TEAL'C,It could be days.
+0,61,85,NYAN,Could it not die itself?
+0,61,85,TEAL'C,It is possible.
+0,61,85,NYAN,And if that happens?
+0,61,85,TEAL'C,Then I too will die.
+0,61,88,JACK,Problem?
+0,61,90,RIGAR,Move!
+0,61,91,RIGAR,Explain.
+0,61,92,RIGAR,Explain!
+0,61,92,DANIEL,I can't.
+0,61,92,RIGAR,There is a forth. He did this.
+0,61,92,DANIEL,No there isn't. I don't know how this man was killed.
+0,61,93,RIGAR,Explain this.
+0,61,95,TEAL'C,What do your people intend to do with my friends?
+0,61,95,NYAN,They are evidence that everything my people believe in is wrong. That everything my enemy believes is right. That is not an easy thing for military minds to digest.
+0,61,95,TEAL'S,They then will kill my friends. Destroy the Stargate and deny that this event ever occurred.
+0,61,95,NYAN,Probably.
+0,61,95,TEAL'C,We must soon depart.
+0,61,95,NYAN,To do what?
+0,61,95,TEAL'C,Rescue them.
+0,61,95,NYAN,You're still blind.
+0,61,95,TEAL'C,I will manage.
+0,61,96,TEAL'C,Nyan!
+0,61,96,NYAN,You will?
+0,61,97,NYAN,I will not be part of a suicide mission.
+0,61,98,NYAN,This device only works within the first 30 hours. Do you want my help or not?
+0,61,98,TEAL'C,You wish to use me to further scientific aspirations do you not?
+0,61,98,NYAN,You are proof that my theories have been wrong.
+0,61,98,TEAL'C,Then perhaps you would be better of in I were no longer alive.
+0,61,98,NYAN,"Teal'c. I'm a scientist. If I find evidence that my theories are wrong, it's as exciting as if they were correct. Scientific advance in either direction is still an advance."
+0,61,98,TEAL'C,You sound like Daniel Jackson. Do what you can.
+0,61,99,NYAN,Pain is the nerve regenerating. Only a moment.
+0,61,100,NYAN,While I was out I went to a place where I could look upon Rigar's camp. Your friends are still there. Rigar's men have dug up a smaller device that looks related to the gateway.
+0,61,100,TEAL'C,The DHD. Perhaps circumstances have become more favorable.
+0,61,101,TEAL'C,There. There I see a light there.
+0,61,101,NYAN,Yes. Good. Then it works on your kind.
+0,61,101,TEAL'C,But I can only see a faint light.
+0,61,101,NYAN,That was only the first treatment. We will do it as many times as necessary. There's no guarantee but it should help.
+0,61,101,TEAL'C,Then do it.
+0,61,101,NYAN,We must wait between treatments or we will do damage rather then good.
+0,61,103,SAM,"Daniel, you okay?"
+0,61,104,JACK,"Hey Re-gar. You know that ""we come in peace' business? Bite me."
+0,61,104,RIGAR,You have one last chance.
+0,61,104,DANIEL,I do not know how that man was killed. We are not Optrican spies.
+0,61,105,RIGAR,Is there another one of your people out there?
+0,61,105,DANIEL,I don't know how that man was killed. We are not
+0,61,106,DANIEL,No there is not another one of my team out there turn it off!
+0,61,106,RIGAR,What's he look like?
+0,61,106,DANIEL,Turn it off! You'll kill him!
+0,61,106,RIGAR,"No, you will kill him."
+0,61,110,TECHNICIAN,Chevron seven-locked Sir. Wormhole engaged.
+0,61,110,OTHER SIDE,"Stargate goes `kawoosh' and the people almost fall down. Rigar and woman look scared, or amazed."
+0,61,110,TECHNICIAN,Ready to transmit signal Sir.
+0,61,110,HAMMOND,
+0,61,111,HAMMOND,"I repeat, SG-1, this is General Hammond. Come in."
+0,61,113,RIGAR,This is not a gateway. This is a trick.
+0,61,114,GUY,Rigar Sir.
+0,61,115,HAMMOND,
+0,61,115,RIGAR,Who is this?
+0,61,115,HAMMOND,This is General Hammond of the SGC. With whom am I speaking?
+0,61,115,RIGAR,The one who holds your people.
+0,61,115,HAMMOND,I want to speak with Colonel O'Neill now.
+0,61,117,TEAL'C,Our objective is to free O'Neill and the others. We will lay down cover fire to enable one of them to dial the Stargate.
+0,61,117,NYAN,Getting inside the camp is going to be our first problem. The quarantine field is only penetrable by shuttlecraft.
+0,61,117,TEAL'C,An obstacle easily overcome.
+0,61,118,TEAL'C,My vision has improved.
+0,61,119,TEAL'C,You may use this to defend yourself.
+0,61,119,NYAN,I've never used a weapon before.
+0,61,119,TEAL'C,I am confident that you will learn quickly.
+0,61,120,TEAL'C,We must depart.
+0,61,122,RIGAR,"Tell me, how does this trick work? Is it some sore of projection?"
+0,61,123,HAMMOND,"I assure that what you are seeing is real. Now please, let me speak to Colonel O'Neill. Try to pull up the MALP."
+0,61,124,RIGAR,From where do you broadcast? Are you in Optrican or within Bedrosian borders?
+0,61,126,HAMMOND,Once my people are returned I will be happy to discuss an exchange of information with you.
+0,61,127,HAMMOND,See if you can get a clear line of site on O'Neill.
+0,61,129,RIGAR,You will send the plans for this device.
+0,61,130,RIGAR,"You will send the coordinates of your position, and when you have exposed your entire fraud, I will consider sparing your operatives lives."
+0,61,134,HAMMOND,"You will return my people immediately, is that clear?"
+0,61,135,HAMMOND,Do we understand each other?
+0,61,137,RIGAR,"If you attempt any sort of rescue, I will kill your people."
+0,61,138,TECHNICIAN,Lost all MALP telemetry Sir.
+0,61,138,HAMMOND,Shut it down.
+0,61,141,RIGAR,Call in a transport shuttle. I want them moved to a more secure facility. Put them away until it gets here.
+0,61,144,NYAN,Are you sure I should be the one to do this?
+0,61,144,TEAL'C,You will perform well. I am certain.
+0,61,145,NYAN,Stun don't kill.
+0,61,148,UNW,Transport shuttle will be here any moment Sir.
+0,61,148,RIGAR,I will accompany the prisoners back to the base. You will remain here to guard the ring. Be sure
+0,61,149,NYAN,"Help me! Help me! He's out there, in the forest!"
+0,61,150,RIGAR,Who is out there?
+0,61,150,NYAN,The alien. He killed the soldiers then he tried to kill me with his lightning weapon. But I got away and came here.
+0,61,150,RIGAR,Take the shuttlecraft. Find him!
+0,61,151,RIGAR,Put him under guard.
+0,61,152,RIGAR,Tell them to launch. Now!
+0,61,152,UNW,Yes Sir.
+0,61,153,UNW,Why haven't you launched this craft?
+0,61,156,SAM,Nyan...
+0,61,157,NYAN,Hit the side button to shoot long range.
+0,61,157,DANIEL,Where's Teal'c?
+0,61,158,NYAN,He's outside.
+0,61,159,JACK,"Daniel, dial us up. We'll lay cover."
+0,61,163,TECHNICIAN,Unidentified traveler.
+0,61,163,HAMMOND,Close the iris.
+0,61,164,TECHNICIAN,I'm not receiving a GDO code Sir.
+0,61,166,TECHNICIAN,It's SG-1 Sir.
+0,61,166,HAMMOND,Open the iris.
+0,61,167,GO!,
+0,61,168,JACK,Go!
+0,61,169,JACK,"Nyan, can you cover me?"
+0,61,169,NYAN,I will.
+0,61,170,JACK,Teal'c! Gaah! You look a little rough there Teal'c.
+0,61,171,JACK,We ready to go?
+0,61,172,JACK,All right... Go.
+0,61,173,JACK,Teal'c!
+0,61,174,TEAL'C,He is coming with us O'Neill.
+0,61,175,TEAL'C,General Hammond he is a friend.
+0,61,175,HAMMOND,Stand down.
+0,61,176,JACK,A little help here.
+0,61,178,FRAISER,Well Teal'c all I can say is Junior is one resilient little guy.
+0,61,178,NYAN,Who's Junior?
+0,61,179,TEAL'C,It is the name Colonel O'Neill has given my symbiote.
+0,61,180,SAM,Do how are you feeling?
+0,61,181,TEAL'C,Greatly improved Major Carter. Thank you.
+0,61,181,JACK,"Here's some good news. The Air Force has agreed to get you refugee status. Which means you can stay here with us, if you'd like."
+0,61,181,NYAN,What would I do here?
+0,61,182,DANIEL,"Well I think we have a little job for you Nyan. If you're interest, I have a back of ancient artifacts gathered from previous missions, and I could use a research assistant. It would also be great way to learn about the history of your ancestors."
+0,61,183,FRAISER,But for now you both need to rest.
+0,61,183,JACK,And we'll leave you to that.
+0,61,184,NYAN,Thank you Teal'c.
+0,61,184,TEAL'C,You have saved my life as well the lived of my friends. It is I who should thank you.
+0,61,184,NYAN,I still wish I could show you to my friends in the science community. They would have been fascinated.
+0,61,184,TEAL'C,Perhaps one day the situation on your planet will improve. And you will get this opportunity.

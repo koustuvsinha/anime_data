@@ -1,0 +1,371 @@
+Season,Episode,Scene,Character,Line
+0,36,0,STARGATE SG1,Episode 216
+0,36,0,"""A MATTER OF TIME""","By Misha Rashovich The scene opens offworld on P3W-451. A black hole is pulling matter in. An SGC team are desperately trying to get to the gate, but everything appears to be going in slow motion."
+0,36,0,BOYD,Come on!
+0,36,1,CAPTAIN,It's right on top of us!
+0,36,1,BOYD,"Dial home, Captain! That's an order!"
+0,36,2,CAPTAIN,We're not going to make it!
+0,36,2,BOYD,We'll make it! Dial now!
+0,36,3,JACK,"Look, I know I should know this by now. I swear it'll be the last time I ask. These wormholes we go through, they're not always there, right?"
+0,36,3,SAM,"No, sir. It can only form between two open gates."
+0,36,3,JACK,What's with the worm part? The worm thing. I don't get that.
+0,36,3,SAM,That's just a metaphor.
+0,36,3,JACK,Right. I knew that.
+0,36,3,SAM,"Imagine the galaxy is an apple. We burrow our way through the apple like a worm, crossing from one side to the other instead of going around the outside."
+0,36,3,JACK,Okay.
+0,36,3,SAM,"Now, of course, the diameter of the apple is just a two- dimensional representation of space-time and well, the hole isn't a hole per se, but an interdimensional conduit .Colonel?"
+0,36,3,JACK,Okay. I'll be all right.
+0,36,5,SIMMONS,We've got an incoming unscheduled traveler.
+0,36,6,SIMMONS,Getting a signal.
+0,36,6,JACK,Who've we got out there?
+0,36,6,SIMMONS,
+0,36,6,JACK,"Daniel's with 6, isn't he?"
+0,36,6,SAM,"Yeah, he's on a dig on P3X-808."
+0,36,6,SAM,"Let me hear it. Intermittent RF pulses, low frequency."
+0,36,7,HAMMOND,What have we got?
+0,36,7,JACK,"Don't know, sir. Some kind of signal."
+0,36,7,SAM,"There's a repeating signal. Lieutenant, play it through the computer. We can run it a lot faster."
+0,36,7,SIMMONS,Trying 200 percent.
+0,36,7,SAM,Go 6.
+0,36,8,SIMMONS,Computer now recognizes the signal as SG10's iris code.
+0,36,8,JACK,That's Henry Boyd's team.
+0,36,8,HAMMOND,Why would their code be coming through so slowly?
+0,36,8,SAM,"I have no idea, sir, but if we don't open the iris."
+0,36,8,JACK,The next thud we hear will be Henry Boyd's team.
+0,36,8,HAMMOND,Do it.
+0,36,8,JACK,"Come on, Hank. The door's open."
+0,36,9,HAMMOND,What happened?
+0,36,9,SAM,"I don't know, sir."
+0,36,9,JACK,"General, SG-1 would like the rescue mission."
+0,36,9,HAMMOND,"Not yet, Colonel."
+0,36,9,JACK,Hank would do the same for us.
+0,36,9,HAMMOND,"I know he would, if and when I gave the order. In the meantime, I want a probe on the ramp and ready to go ASAP. Colonel, have units SG-1 and 3 geared up and standing by."
+0,36,10,HAMMOND,
+0,36,10,SAM,It's a binary system. We just recently discovered it.
+0,36,10,TEAL'C,Were there any indications of an enemy attack?
+0,36,10,HAMMOND,"None. One thing Major Boyd's team reported was that whatever indigenous life there may have been on 451 recently became extinct. They were trying to determine the cause. In the event I authorize this mission, SG-3 will back you up."
+0,36,10,JACK,"In the event, sir?"
+0,36,10,SIMMONS,Chevron 3 encoded.
+0,36,10,HAMMOND,Let's see what the pictures the probe sends back. Make the proper threat determination.
+0,36,10,JACK,General...
+0,36,10,HAMMOND,You could gate into an ambush for all we know.
+0,36,10,JACK,"I recommended Major Boyd for this command. Now, if he's in trouble, I want to go in."
+0,36,10,HAMMOND,"I'm aware of that, Colonel."
+0,36,10,SIMMONS,Chevron 4 encoded.
+0,36,10,JACK,"Yes, sir."
+0,36,10,SIMMONS,Chevron 5 encoded.
+0,36,10,TEAL'C,"Major Boyd is a capable warrior, O'Neill. You trained him well."
+0,36,10,JACK,Yeah.
+0,36,10,SIMMONS,Chevron 6 encoded. Chevron 7 locked.
+0,36,11,HAMMOND,I don't understand. It's just....
+0,36,11,JACK,"Red, sir."
+0,36,11,HAMMOND,Are we receiving telemetry?
+0,36,11,SIMMONS,"Yes, sir, but at an even slower rate than before."
+0,36,11,SAM,"There's an image here. Input the video feed into the computer, but compensate for a longer light wavelength. Step it up in 20 millimicron increments."
+0,36,11,HAMMOND,Captain?
+0,36,11,SAM,"Sir, it's possible that the image we're receiving from the probe has red-shifted, distorted toward the infrared end of the spectrum"
+0,36,11,HAMMOND,Why?
+0,36,11,TEAL'C,The same reason their codes came through so slowly.
+0,36,11,SAM,"Yeah, whatever that is."
+0,36,11,SIMMONS,It's working.
+0,36,11,JACK,"What the hell's going on, Hank?"
+0,36,11,TEAL'C,Is something pursuing them?
+0,36,11,HAMMOND,See if you can play back the video transmission in real time. We need to find out--
+0,36,11,SIMMONS,"This is all we've received so far, sir. 11 frames of digital picture in the last 6 minutes."
+0,36,11,SAM,That represents a fraction of a second.
+0,36,11,TEAL'C,Perhaps a malfunction?
+0,36,11,JACK,"No. The picture tells us everything we need to know. That team is in trouble, probably under attack. Permission to go in, sir?"
+0,36,11,SAM,"Negative, sir."
+0,36,11,JACK,"What do you mean, negative?"
+0,36,11,SAM,"I'm sorry, Colonel, with all due respect, but if I'm right, we can't help them. Now the camera may still respond to commands. See if you can tilt it up and give us a wider angle. I think I know what Major Boyd seems so afraid of. There. Isolate that area and digitally enhance."
+0,36,12,HAMMOND,What am I looking at?
+0,36,12,JACK,"That's a black hole, sir."
+0,36,12,SAM,A newly formed one by the looks of it. P3W-451 was orbiting its companion star. The orbit's probably pulling them closer and closer.
+0,36,12,HAMMOND,Why don't they just gate out of there?
+0,36,12,SAM,"They're trying to, sir, but the closer you get to a black hole..."
+0,36,12,JACK,Time slows down.
+0,36,12,TEAL'C,It almost appears to stand still.
+0,36,12,SAM,"From our perspective, yes, but you have to remember that time is relative. As far as SG-10's concerned, only a few seconds have passed. They're still trying to save themselves."
+0,36,12,HAMMOND,What will happen to them?
+0,36,12,SAM,"Well, sir, the time dilation is a result to the intense gravity, which is directly proportional to their proximity."
+0,36,12,HAMMOND,Captain!
+0,36,12,SAM,"Sorry, sir. Their bodies will be pulled apart by increasing tidal forces."
+0,36,12,TEAL'C,They did manage to activate the Stargate once.
+0,36,12,SAM,"Yeah, but from their perspective, it couldn't have been open for more than a second."
+0,36,12,HAMMOND,Is there nothing we can do to save them?
+0,36,12,JACK,"They've had it, sir."
+0,36,12,HAMMOND,"You know that for a fact, Colonel?"
+0,36,12,JACK,"No, sir. I don't, but have a look at Major Boyd's face. What does that say to you?"
+0,36,12,HAMMOND,Very well. Disengage the Stargate.
+0,36,12,SAM,"Sir. By some fluke of Stargate technology, we are witnessing something that the laws of physics say we can't possibly witness."
+0,36,12,JACK,"We are witnessing good men dying in slow motion, Captain."
+0,36,12,SAM,You're right.
+0,36,12,HAMMOND,Shut it down.
+0,36,12,SIMMONS,"Sir, it won't disengage."
+0,36,12,HAMMOND,Try again.
+0,36,12,SIMMONS,"I already have, sir. Twice. It won't shut down."
+0,36,13,MAN,Go! Go! Move! Move!
+0,36,13,CROMWELL,"Sergeant, how long have you been out of contact with this facility?"
+0,36,13,SGT,"Coming on four hours ago, sir. But it was funky for a while before that."
+0,36,13,CROMWELL,"Is that proper military terminology? What exactly does funky mean, Sergeant?"
+0,36,13,SGT,"Everyone was talking real slow, like when the batteries die on your Walkman."
+0,36,13,CROMWELL,Uh huh.Will that shaft take me directly to Sub-level 28?
+0,36,13,SGT,"Yes, sir, but I don't know how you're going to get down there."
+0,36,13,CROMWELL,"Not to worry, we brought our own transportation. Gentlemen, hook 'em up. Begin. Clear."
+0,36,14,HAMMOND,This is Major General George Hammond. I have an urgent matter to discuss with the President.
+0,36,15,SAM,"Sergeant, try disconnecting the super-conductive interface."
+0,36,15,SILER,"Already tried that, Captain. It's stuck."
+0,36,15,SAM,"Teal'c, Siler could use a hand."
+0,36,15,TEAL'C,I will assist.
+0,36,15,HAMMOND,Captain Carter.
+0,36,15,SAM,"General. I was just on my way to report, sir. The capacitors should've fully discharged by now, but somehow, the gate is drawing power directly."
+0,36,15,HAMMOND,Isn't there supposed to be a theoretical time limit to how long a wormhole can be maintained?
+0,36,15,SAM,"Yes, sir. We just passed it."
+0,36,15,HAMMOND,Then how is this possible?
+0,36,15,SAM,"Well, since time is passing more slowly on P3W-451, relative to Earth, we're experiencing a paradox the Stargate was never designed for."
+0,36,15,HAMMOND,Why in God's name is it doing that?
+0,36,15,SAM,"I have no idea, sir."
+0,36,15,JACK,It started just after you got online with the President.
+0,36,15,HAMMOND,I never got through to the President.
+0,36,15,SIMMONS,"Beg your pardon, sir. It seems we've lost communication below Sub-level 24."
+0,36,15,HAMMOND,Where is the nearest secure phone above that?
+0,36,15,SIMMONS,
+0,36,15,HAMMOND,"I won't be gone long. In the meantime, Colonel..."
+0,36,15,JACK,"Understood, sir. Carter, what would happen if we simply pull the plug?"
+0,36,16,JACK,"Carter, we reached the main power vault."
+0,36,16,SAM,We'll isolate the capacitors first.
+0,36,16,SIMMONS,Panel 6.
+0,36,16,SAM,"Colonel, pull breakers 90 through 94 on panel 6."
+0,36,16,JACK,Roger that. Stand by.
+0,36,16,SAM,"Stand clear, people. I have no idea what this is going to do."
+0,36,16,TEAL'C,We must vacate this area.
+0,36,16,JACK,Alright. We're kind of shorting out up here.
+0,36,16,SAM,Main breaker?
+0,36,16,SIMMONS,It'll overload.
+0,36,16,SAM,"We've gotta do it. Colonel, pull the main breakers."
+0,36,16,JACK,On one. 3. 2. 1.
+0,36,17,SAM,"Colonel, are you all right?"
+0,36,17,SIMMONS,Medical emergency to the gate room.
+0,36,17,SAM,"Colonel, are you all right?"
+0,36,17,JACK,Siler's hurt. Did it work?
+0,36,17,SAM,"Negative, sir. Even with the power cut, it still won't shut down."
+0,36,17,JACK,How's that possible?
+0,36,17,SAM,It must be deriving its energy from the black hole itself. Get a med team to the main power vault. We gotta get these fires out!
+0,36,17,SIMMONS,Med team to the main power vault.
+0,36,17,FEMALE VOICE,The Mountain is now on emergency internal power.
+0,36,17,SAM,Help is on the way.
+0,36,17,TEAL'C,Do not concern yourself with my injury.
+0,36,17,SAM,"You're badly burned, Teal'c, even for you."
+0,36,17,TEAL'C,Look at the Stargate.
+0,36,18,SAM,"Lieutenant, close the iris!"
+0,36,18,SIMMONS,It's an outgoing wormhole. Nothing can come through this way.
+0,36,18,SAM,Except for the black hole's gravity. Now close it! That's an order!
+0,36,18,SIMMONS,Closing the iris.
+0,36,19,MAJOR DAVIS,Hold your fire! It's the general!
+0,36,19,HAMMOND,What the hell's going on? Who are you?
+0,36,19,MAJOR DAVIS,"Major Davis, sir. I'm with the Office of the Joint Chiefs. If you'll come with me, please."
+0,36,19,HAMMOND,What are these men doing in my facility?
+0,36,19,MAJOR DAVIS,"We were under the impression that there had been an alien incursion, sir. A Special Forces team had already been sent down before we understood what was going on. If it's all right with you, sir, I'd like to brief you on the way to your aircraft. Time is of the essence."
+0,36,19,HAMMOND,We've got an emergency situation Major! I'm not going anywhere until I talk to the President!
+0,36,19,MAJOR DAVIS,"He wants to talk to you personally, sir. Your aircraft is standing by on the tarmac. It is urgent that we leave immediately."
+0,36,19,HAMMOND,Lead the way.
+0,36,20,CROMWELL,Freeze! Up against the wall! Move! Move! Tags! Doctor Fraiser.
+0,36,20,JANET,Yeah. Who the hell are you? Put that down!
+0,36,20,CROMWELL,"Colonel Frank Cromwell, Air Force Special Operations. Five hours ago, all contact was lost with this facility. I am here to find out why."
+0,36,20,JANET,"Colonel, I have been called to a medical emergency."
+0,36,20,CROMWELL,My superiors have reason to believe the SGC had been overrun by alien hostiles.
+0,36,20,JANET,All I can say is that they've been misinformed.
+0,36,20,CROMWELL,"Hell, from what I've read about what goes on in this place, Doctor Fraiser--hell, you could be one of them for all I know. Move out! Take the six!"
+0,36,21,MAJOR DAVIS,We were hoping that someone such as yourself would come back up and confirm our hypothesis.
+0,36,21,HAMMOND,Which is?
+0,36,21,MAJOR DAVIS,We now know that the SGC is experiencing what is called time dilation. Time is quite literally passing slower within the facility than it is topside.
+0,36,21,HAMMOND,That would explain the communications problem.
+0,36,21,MAJOR DAVIS,"Yes, sir. We also know that there are only two things according to relativity that would cause this effect: velocities near the speed of light or extreme gravity."
+0,36,21,HAMMOND,"Approximately ten minutes ago, we established a wormhole to a planet at or very near the event horizon of a black hole."
+0,36,21,MAJOR DAVIS,"Since time is more or less at a standstill on the other side, you've been unable to disengage the Stargate. That was our hypothesis, sir. Keep in mind we've had a few more hours than you have to thin about this. They'll be conferencing you with the President aboard the aircraft, sir."
+0,36,21,HAMMOND,"Thank you, Major."
+0,36,21,MAJOR DAVIS,"Good luck, sir."
+0,36,23,JACK,"Siler took a pretty good hit. How're you doing, Teal'c?"
+0,36,23,TEAL'C,"I suffered simple electrical burns, O'Neill. Nothing more."
+0,36,23,SAM,He'll be out of commission for a few days.
+0,36,23,JACK,Carter?
+0,36,23,SAM,"Gravity waves. Colonel, I assumed that the wormhole itself would insulate us from the black hole's gravitational field, but it seems that our space-time has begun to warp just like on P3W-451."
+0,36,23,JACK,Will you stop that?
+0,36,23,SAM,"We're in trouble, sir."
+0,36,23,JACK,Thank you. Think of something.
+0,36,24,SAM,"Yes, sir."
+0,36,25,JANET,Colonel!
+0,36,25,CROMWELL,Clear!
+0,36,25,JACK,Cromwell?
+0,36,25,JANET,You know this guy?
+0,36,25,JACK,"Oh, yeah. Go. Go on. It's been a while."
+0,36,25,CROMWELL,Yeah. Five hours. Got everybody pretty worried upstairs. Where's the general?
+0,36,25,JACK,What's the five hours?
+0,36,25,CROMWELL,That's how long this facility's been out of contact with the outside world. Pentagon suspected alien hostiles.
+0,36,25,JACK,And they sent you?
+0,36,26,CROMWELL (WHISTLES),"So, this is the Stargate. What's the problem?"
+0,36,26,JACK,We gated to a planet that's being sucked up by a black hole. Very bad. Very dangerous.
+0,36,26,CROMWELL,And why is that?
+0,36,26,JACK,Things tend to get sucked in.
+0,36,26,SAM,"Took the liberty of closing the iris, sir."
+0,36,26,JACK,"Captain Carter, Colonel Cromwell. He's come to rescue us. I wouldn't count on it."
+0,36,26,CROMWELL,Pentagon was concerned you were under alien attack when we lost contact.
+0,36,26,SAM,How long ago was that?
+0,36,26,CROMWELL,A little over five hours ago. Why?
+0,36,26,SAM,My watch reads 1330 hours. What does yours say?
+0,36,26,CROMWELL,"Running slow, Captain. It's almost 1900."
+0,36,26,SAM,"Damn it. Colonel, I have to get off this level."
+0,36,26,SIMMONS,Captain Carter
+0,36,26,SAM,"What is it, Lieutenant?"
+0,36,26,SAM,"Keep your distance, Lieutenant. Sir, for some reason, the warping of our space-time seems to be in advance of the gravitational field rather than as a result of it. It's probably a lensing effect generated by the Stargate itself, but I can't be sure."
+0,36,26,CROMWELL,Don't even pretend you understood that.
+0,36,26,SAM,"The point is, sirs that time is passing more slowly down here than it is outside the mountain."
+0,36,26,CROMWELL,Time is time.
+0,36,26,SAM,"No, sir. Not according to relativity. Now with the intense gravity field of something like a black hole, time actually slows down."
+0,36,26,CROMWELL,We're not in a black hole.
+0,36,26,JACK,Not yet.
+0,36,26,SAM,"But we are connected to its gravitational field through the Stargate and it's expanding in this direction like a bubble slowly expanding outward. That's why I have to leave, sir. I have to contact the Pentagon and try to find a solution before the gravity field extends beyond the gate room."
+0,36,27,HAMMOND,"I just came from there myself, Captain. Colonel Cromwell, I presume."
+0,36,27,CROMWELL,General Hammond.
+0,36,27,JACK,"You just came back from Washington, sir?"
+0,36,27,HAMMOND,"There and back again. After someone upstairs managed to explain what was going on to me, we called an all-night session with the President and the Joint Chiefs. I've been gone nearly eighteen hours."
+0,36,27,JACK,I thought you were on the phone.
+0,36,27,SAM,It means the time dilation is getting worse as the field expands.
+0,36,27,HAMMOND,"That's the consensus. We set up a command post directly above, right on top of the mountain to monitor the expansion."
+0,36,27,SAM,I have to get up there.
+0,36,27,HAMMOND,The experts we consulted believe we're going to have to commence an auto destruct sequence to destroy the Stargate itself.
+0,36,27,JACK,Sweet.
+0,36,27,HAMMOND,They assure me that the gravity field now present around the gate will help contain the blast within the mountain and pose no threat to the civilian population.
+0,36,27,SAM,"With all due respect, sir. I don't think so."
+0,36,27,HAMMOND,"If we don't try, we lose the planet right through that."
+0,36,27,SAM,"We may well succeed in destroying the base, sir, but leave the gate and the wormhole intact. What happens to the planet then?"
+0,36,27,HAMMOND,"Orders have been given at the highest levels, Captain. It is our duty to carry out those orders."
+0,36,27,SAM,"But, sir...."
+0,36,27,HAMMOND,"The decision's been made, Captain. Don't forget those people up there've been working on this a lot longer than you have. It's what they came up with."
+0,36,27,SAM,"Yes, sir."
+0,36,27,HAMMOND,"I'm ordering the complete evacuation of the SGC, effective as of right now. I'll need two volunteers to stay behind in order to give our personnel a head start."
+0,36,27,JACK,"I'll stay, sir."
+0,36,27,CROMWELL,"Me too, sir."
+0,36,27,JACK,Anyone else?
+0,36,27,CROMWELL,"Looks like you're stuck with me, Jack."
+0,36,27,HAMMOND,"Done! It takes two officers to initiate the countdown. Attention! This is General Hammond. All personnel are ordered to evacuate this facility immediately! Repeat, all personnel report to the main level immediately! That is all!"
+0,36,28,JANET,Okay. Move it. On my count. 3. 2. 1. Easy. Watch his chest. Move him out! Let's go!
+0,36,29,HAMMOND,"Wait five minutes, then start the countdown. Good luck."
+0,36,29,CROMWELL,"Thank you, sir."
+0,36,29,SAM,"Make sure you give yourself enough time to get out, sir."
+0,36,29,JACK,"Time, right."
+0,36,30,SGT,General. We were getting worried.
+0,36,30,HAMMOND,How long was I gone?
+0,36,30,SGT,"22 hours, sir. General Colin's waiting for you in the command post."
+0,36,30,HAMMOND,"Thank you, Sergeant. By my reckoning, I was gone 20 minutes."
+0,36,30,SAM,"Well, sir, accounting for time spent coming and going, I would guess that time in the SGC facility has slowed to an average of about 600 percent below normal. When you ordered Colonel O'Neill to wait 5 minutes, you were really telling him to wait 6 hours, maybe more."
+0,36,30,HAMMOND,"Captain, relativity gives me a headache."
+0,36,31,CROMWELL,Who's this?
+0,36,31,JACK,Henry Boyd. Good officer. Smart. Kinda reminds me of Carter a little. This was their first mission as a team.
+0,36,31,CROMWELL,He looks scared to death.
+0,36,31,JACK,He's on a planet that's about to be swallowed by a black hole and he knows it.
+0,36,32,SAM,"No, thankyou."
+0,36,32,TEAL'C,"Perhaps with rest, the answers will come."
+0,36,32,SAM,"Hey, Teal'c. You know anything about quantum gravity?"
+0,36,32,TEAL'C,Nothing.
+0,36,32,SAM,"Apparently, neither do I."
+0,36,32,TEAL'C,What do these equations represent?
+0,36,32,SAM,"Probably a life's work. I don't have that much time, unfortunately."
+0,36,32,TEAL'C,How may I be of assistance?
+0,36,32,SAM,We're experiencing a time dilation in a radius wider than the gate room itself. Most of the SGC in fact and it's expanding. But it's all happening in advance of the gravity field that's causing it. Now according to everything I thought I knew about relativity that is just not possible.
+0,36,32,TEAL'C,Yet it is so.
+0,36,32,SAM,"Right. If it wasn't, we'd be pulled apart by now. You know, they're proceeding with a plan that makes assumptions about gravity and space-time with absolutely no regard for the fact that it completely contradicts our observations."
+0,36,32,TEAL'C,I see.
+0,36,32,SAM,"In other words, Teal'c, they don't really know what the hell's going on, so they're just going to blow it up. There doesn't seem to be a damn thing I can do about it."
+0,36,33,JACK,Let's get set up. Computer needs your authorization code before it'll accept the command. go ahead and enter it.
+0,36,33,CROMWELL,Maybe now you know how it feels.
+0,36,33,JACK,You done?
+0,36,33,CROMWELL,Roger that.
+0,36,33,JACK,"When the time comes, hit the enter key on my mark and then run like hell."
+0,36,33,CROMWELL,Got it.
+0,36,33,JACK,Two minutes.
+0,36,34,SAM,"Gravity field extends to the blast doors of the control room now, sir. It's not good."
+0,36,34,HAMMOND,I take it you still believe our plan isn't going to work?
+0,36,34,SAM,"To be honest, sir, I'm afraid the gravity field will dampen the effects of the explosive. We'll lose the SGC, but the wormhole will be intact. What's left of the mountain will collapse into the wormhole. Six months after that, the state of Colorado. Six months after that.... At least Daniel'll live out there."
+0,36,34,HAMMOND,"If you're wrong, and for once I hope you are, we can restart the SGC with the second Stargate at Nellis and in time we...."
+0,36,34,SAM,"Wait a minute. Sir, that's it. We do use a bomb, but we focus the energy of the blast. When Colonel O'Neill and I were sent to the Antarctic gate, it was because we were under enemy fire."
+0,36,34,HAMMOND,It caused an energy surge.
+0,36,34,SAM,"Yes, and that surge caused the wormhole to jump from one destination to another. If we can channel enough energy in the direction of our Stargate, it should cut the connection with the black hole and cause the matter stream to jump to any gate along the way."
+0,36,34,HAMMOND,Leaving our Stargate connected to some other world.
+0,36,34,SAM,"Yes, sir, but then all we have to do is shut it down. Sir, we have to stop Colonel O'Neill."
+0,36,35,JACK,One minute.
+0,36,35,CROMWELL,"Maybe the last one. We used to be friends, Jack."
+0,36,35,JACK,Yep.
+0,36,35,CROMWELL,I was sick to my stomach when I found out you were still alive. I wanted to go back for you.
+0,36,35,JACK,"Why don't we just do this and get the hell out of here, alright?"
+0,36,35,CROMWELL,"Someone dropped a dime on the incursion. You got hit, you went down. I made a judgment call to save the rest of the team."
+0,36,35,JACK,And I saw you take off. And then I saw four months of my life disappear in some stinking Iraqi prison.
+0,36,35,CROMWELL,I thought you were dead!
+0,36,35,JACK,"You thought wrong! What do you want? You want me to forgive you, is that it?"
+0,36,35,CROMWELL,"Yeah, I guess I do."
+0,36,35,JACK,"Well, that's tough. What happened to nobody gets left behind?"
+0,36,35,CROMWELL,"Well, what about him?"
+0,36,35,JACK,That's a totally different scenario.
+0,36,35,CROMWELL,"That is the exact same damn thing, Jack."
+0,36,36,SAM,"Don't activate the auto destruct, sir. It won't work. I have another idea."
+0,36,37,SAM,The G-suits should help you withstand the higher gravity on the way down.
+0,36,37,CROMWELL,What's this bomb we're delivering?
+0,36,37,SAM,"It's a shaped charge. We want to focus the explosive force toward the wormhole, hopefully with enough energy to cause it to jump, like what happened to us in Antarctica."
+0,36,37,JACK,Right. Where is it?
+0,36,37,SAM,They're modifying the warhead's yield to my calculations and it's being flown in from Travis.
+0,36,37,CROMWELL,How long's all that going to take?
+0,36,37,SAM,"Well, sir, with any luck, about 5 minutes, relatively."
+0,36,37,JACK,Relatively speaking?
+0,36,37,SILER,"Anytime you're ready, sirs. I don't know how much longer that iris's going to hold."
+0,36,37,SAM,They have to wait for the bomb.
+0,36,38,JACK,You got better quick.
+0,36,38,TEAL'C,It has in fact been several days.
+0,36,38,JACK,Yeah. I knew that.
+0,36,38,SAM,Everyone who doesn't have to be here should go topside.
+0,36,38,JACK,Cromwell.
+0,36,38,TEAL'C,Cannot the bomb be detonated by remote?
+0,36,38,SAM,It has to be set a certain distance from the gate and at an exact angle. The timer can't be set until they're into position because of the variance in time dilation.
+0,36,38,CROMWELL,"Man, she is...."
+0,36,38,JACK,Way smarter than we are. I know.
+0,36,39,CROMWELL,"Just like old times, huh, Jack?"
+0,36,39,JACK,"Oh yeah. Black holes, wormholes. Just like old times."
+0,36,40,SIMMONS,Sir?
+0,36,40,HAMMOND,"Thank you, Lieutenant."
+0,36,40,SIMMONS,"Do you think they'll be able to shut it down, sir?"
+0,36,40,HAMMOND,We'll know sometime tomorrow.
+0,36,41,JACK,"Oh, yeah. Yeah. We're pulling some major gees now."
+0,36,41,CROMWELL,I feel like I put on a couple hundred pounds.
+0,36,41,JACK,I wasn't going to say anything.
+0,36,42,TEAL'C,They appear to be moving very slowly.
+0,36,42,SAM,Only from our perspective.
+0,36,42,SILER,"Ah, Captain."
+0,36,43,SAM,"Colonel! Colonel, look out! Colonel!"
+0,36,43,CROMWELL,Did you hear that?
+0,36,43,JACK,Look out!
+0,36,44,CROMWELL,Are you all right?
+0,36,44,JACK,This is close enough! Set the timer! 20 seconds!
+0,36,44,CROMWELL,We won't make it out.
+0,36,44,JACK,20 seconds.
+0,36,44,CROMWELL,Set!
+0,36,44,JACK,Do it!
+0,36,45,CROMWELL,I got you!
+0,36,45,JACK,Get up there and arm that damn bomb!
+0,36,45,CROMWELL,I've got you! Just climb!
+0,36,45,JACK,Just arm the damn bomb!
+0,36,45,CROMWELL,Why?
+0,36,46,SAM,"Teal'c, pull him up!"
+0,36,48,DANIEL,"Hey, Jack. Did I miss anything?"
+0,36,48,JACK,I made it?
+0,36,48,HAMMOND,"We all made it, thanks to you and Captain Carter."
+0,36,48,JACK,How?
+0,36,48,SAM,Teal'c managed to pull you far enough away from the bomb before it went off.
+0,36,48,JACK,Thanks.
+0,36,48,TEAL'C,You are welcome.
+0,36,48,SAM,"The majority of the blast energy went right where it was supposed to. The wormhole jumped to P2A-270 and once it did that, we shut it off."
+0,36,48,JACK,"Good thinking, Captain."
+0,36,48,SAM,"Thank you, sir."
+0,36,48,HAMMOND,A new trinium-strengthened iris is being installed right now. We should be back in business in no time.
+0,36,48,JACK,What day is it?
+0,36,48,DANIEL,"Well, this might be a little difficult to accept, but since you reported for duty yesterday, two weeks have actually gone by."
+0,36,48,JACK,Two weeks? Think I'll sleep in.
+0,36,48,HAMMOND,You do that.

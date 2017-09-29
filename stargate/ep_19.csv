@@ -1,0 +1,316 @@
+Season,Episode,Scene,Character,Line
+0,19,0,STARGATE SG1,Episode 120
+0,19,0,"""POLITICS""",By Brad Wright Infirmary
+0,19,1,DANIEL,"Beware the destroyers, that's what the message said.These are the coordinates the Goa'uld will attack there attack from, It's a warning."
+0,19,1,TEAL'C,Or so your vision foretells.
+0,19,1,DANIEL,"No, it wasn't a vision, or a dream, or a hallucination, it was Real. Now I know this is heard for you guys to believe. But I swear to you the whole time you thought I had disappeared on P3R-233, I was experiencing, an alternate reality."
+0,19,1,JACK,"And you were there, and your were there, and there's no place like home."
+0,19,1,DANIEL,As a matter of fact you were there!
+0,19,1,SAM,"Daniel, it's not that we don't believe you."
+0,19,1,DANIEL,So you do.
+0,19,1,JACK,"No, it's just that we don't believe you."
+0,19,1,DANIEL,"Jack, this is very important."
+0,19,1,SAM,"Alright, when you were in this alternate reality, were there differences?"
+0,19,1,DANIEL,"Yes, ah, Teal'c was leading the attack on Earth, I wasn't even part of the program, you and Jack were engaged to be married."
+0,19,1,JACK,Excuse me?
+0,19,1,SAM,"What? Okay, even if you did, actually experience this alternate reality, doesn't the very fact, that there were differences mean that we won't face the same fate?"
+0,19,1,DANIEL,"Yes, but the defining event, the death of RA, took place in both worlds."
+0,19,1,TEAL'C,An attack of retribution.
+0,19,1,DANIEL,"Yes! And the same thing is going to happen here, unless we don't stop it."
+0,19,1,JACK,"Alright, wait a minute, let me get something straight. Engaged?"
+0,19,1,SAM,It is theoretically possible.
+0,19,1,JACK,It's against regulations.
+0,19,1,SAM,"I'm talking physics, sir. The whole concept of alternate realities, alternate universes, was predicted by Einstein, a long time ago."
+0,19,2,HAMMOND,"I thought you might be here, how's our boy?"
+0,19,2,SAM,"He's going to be just fine, general. Major Samuels."
+0,19,2,SAMUELS,"That's a, Lieutenant Colonel Samuels, now Captain."
+0,19,2,SAM,"I beg your pardon, Sir, congratulations."
+0,19,2,SAMUELS,Thank you.
+0,19,2,JACK,You'll always be Sparky to me.
+0,19,2,SAMUELS,"I thought you had been transferred to the Pentagon, sir."
+0,19,2,SAMUELS,"I was, Stargate mission analyses. I'm hear today of course, for the hearing."
+0,19,2,JACK,Hearing?
+0,19,2,SAMUELS,Senator Kinsey? The Stargate program? I thought you were going to testify?
+0,19,2,HAMMOND,"They will, SG-1 just returned from a mission last night, I haven't had the chance to inform them."
+0,19,2,SAMUELS,Well perhaps I shouldn't say too much more.
+0,19,2,JACK,"Oh cut the crap Samuels, what's going on."
+0,19,2,SAMUELS,"Senator Kinsey, has taken a great deal of interest in the program, thus far, he doesn't like what he has seen."
+0,19,2,JACK,I'm sorry to hear that.
+0,19,2,SAMUELS,"As you should be Colonel, It could meant the end of the Stargate. The hearing is at 1400 hours. I look forward to seeing you all there."
+0,19,4,HAMMOND,"Yes sir, I understand, we'll fight the good fight."
+0,19,4,JACK,"General, politics isn't my strong suit, but doesn't the President, outrank a Senator?"
+0,19,4,HAMMOND,"Senator Kinsey is chairmen of the appropriations committee, He's demanded to know what's be hind the line item the Pentagon refers to Area 52."
+0,19,4,JACK,That would be the Stargate.
+0,19,4,HAMMOND,"An unofficial project, that just happens to cost 7.2 billion dollars a year to operate. The President and the joint chiefs thought if they granted the Senator the appropriate clearances, let him in on the existence of the SGC, he would recognize the importance to national security and authorize the expenditure."
+0,19,4,JACK,I take it he didn't.
+0,19,4,HAMMOND,"The idea backfired. After reading your mission reports, and being fully briefed by Colonel Samuels, the senator decided the SGC would get no further funding from the treasury."
+0,19,4,JACK,"That effectively shuts us down, sir."
+0,19,4,HAMMOND,Very effectively. It cost nearly a billion dollars just to turn the lights on around here.
+0,19,4,JACK,How about a bake sale? Yard sale? Garage?
+0,19,4,HAMMOND,"This is what I look like when I am not laughing, Colonel."
+0,19,4,JACK,Car wash?
+0,19,5,JACK,"I'm sorry, sir. It's just, I don't get it, how does one man get that much power?"
+0,19,5,HAMMOND,"The constitution of the United States. The issue of our work could be debated openly in the Senate, but not without making the Stargate known to the general public. The President doesn't feel the time for that has come. I agree with him."
+0,19,6,JACK,Well he's late.
+0,19,6,TEAL'C,You see more apprehensive of this meeting then your are of battle.
+0,19,6,JACK,I prefer battle actually.
+0,19,6,DANIEL,I'm sure once we tell him Earths future is at stake.
+0,19,6,JACK,"Daniel? Let's just keep your alternate reality story as our little ace in the whole, shall we?"
+0,19,6,DANIEL,Why?
+0,19,7,JACK,Just because.
+0,19,7,KINSEY,"Ladies and gentlemen, I apologies. A certain congress man who will go nameless, just dose not know how to take no for an answer. So this is the infamous SG-1."
+0,19,7,JACK,Infamous. Yes sir.
+0,19,8,JACK,Colonel Jack O'Neill.
+0,19,8,KINSEY,"Colonel, I've heard a lot about you."
+0,19,8,JACK,"Don't believe a word of it Senator, I'm actually a nice guy."
+0,19,8,KINSEY,"And this must be the drain, through witch the money flows."
+0,19,8,HAMMOND,I know you have a very busy schedule Senator.
+0,19,8,KINSEY,"Yes of course, General Hammond. Please be seated."
+0,19,9,KINSEY,"Let me see.Colonel O'Neill, Captain Carter, Dr. Jackson, Teal'c, with an apostrophe I understand. Let me just say, that although illness robbed me of any chance to serve in this countries military, I have greatest respect for those who do. Especially those who have made service of country, their lives work. As I have, in my own way. There is no more honorable vocation."
+0,19,9,HAMMOND,"Thank you Senator, I couldn't agree more."
+0,19,9,KINSEY,"Having said that I want to make one thing abundantly clear, I am by nature suspicious, of all things secretive. Be they in the government, or inside the military service. I believe that which grows in the shadows and withers in the light of day, does not belong on the vine. I've read several reports of your excursion. Colonel Samuels, had been kind enough to brief me on the Stargate. And I have tried to maintain open mind. I must admit that I find the very idea of this, facility...of this command, offensive. It is far to dangerous to be this secretive. I have found many examples where you have averted tragedy...on a global scale, by the skin of your teeth, and virtually none, where you have brought back anything of worth. However, since I have, on occasion, been wrong before...The President of the United States, has asked me to hear you out. So hear I am."
+0,19,9,JACK,"Well, as long as you've go an open mind."
+0,19,9,HAMMOND,Colonel.
+0,19,9,JACK,"For crying out loud, Samuels, what did you tell this man?"
+0,19,9,SAMUELS,The truth.
+0,19,9,KINSEY,Colonel Samuels was totally non partisan.
+0,19,9,JACK,"Okay, now that's impossible. He's been against this program form day one."
+0,19,9,SAMUELS,"If anything I have voiced my awe and amazement, of what the Stargate is. A technological marvel."
+0,19,9,SAM,"It is so much more then that, Senator. The Stargate represents a giant step in our understanding of this universe! We have learned more about astrophysics, in the past few months, then in the last 50 years!"
+0,19,9,DANIEL,"It also gives us insights into human cultures, that are thousands of years old."
+0,19,9,KINSEY,"Dr. Jackson, I'm sure as a scholar of ancient mythology, you are familiar of the story of Pandora?"
+0,19,9,DANIEL,"From Greek mythology, of course. The first woman created by Zeus, who gave her a box and warned her never to open it."
+0,19,9,KINSEY,"But she did, out of curiosity. Despite the warning of her God, who was also her father, she did. And from it spread all the pelages, pestilence and evil that exist now in this world."
+0,19,9,DANIEL,"And keeping in mind, we are talking about a myth. She closed it in time to keep hope inside."
+0,19,9,KINSEY,"Then should we not close your gate, for the same reason? To keep hope inside?"
+0,19,9,JACK,"Senator, if I may jump in here. I'm not as smart as you guys, talking in metaphors here, I'm a military man, I prefer facts. And the fact is, the gate, I.E. the box, is already open. Now what's done is done. We made ourselves an enemy by killing RA, but the threat the Goa'ulds now represent."
+0,19,9,KINSEY,Threat?
+0,19,9,JACK,Yes sir. As in threatening.
+0,19,9,KINSEY,"The word threat, Colonel O'Neill, has been used far to often by this countries military as a justification for expenditures that we can no longer offered. Do you know how much this program cost?"
+0,19,9,JACK,Sevenish.
+0,19,9,KINSEY,"Seven Billion, four hundred and seven million dollars."
+0,19,9,JACK,Give or take.
+0,19,9,KINSEY,Per year!
+0,19,9,JACK,"With all due respect, Senator, the accounting department, is up on level three, I believe. But if you want to talk about maintaining the first line of defense, against what I believe is the greatest danger, humanity has ever faced."
+0,19,9,KINSEY,Hypothetic
+0,19,9,JACK,"See for yourself! General, I suggest we dial up old P4A-771 I think it was, see how long the good Senator last in THAT world!"
+0,19,9,KINSEY,"I have spent a carrier listening to doom Sayers in uniform. Let us build our billion-doller machine, and we will save America from the barbarians at the gate. Let me remind you the cold war is over."
+0,19,9,JACK,"And let me tell you something, this time there really are barbarians, there called Goa'ulds, and they really are at the gate, that one!"
+0,19,9,KINSEY,Then I suggest we close it.
+0,19,9,DANIEL,"Senator, we have reason to believe that the Goa'uld are about to launch an attack, through force, in ships."
+0,19,9,KINSEY,"Then I think they will regret, taking on the United States Military."
+0,19,9,JACK,Oh for Gods sake.
+0,19,9,DANIEL,"Oh, you're right, well just upload a computer virus in to the mother ship."
+0,19,9,SAM,"If they come in ships, Senator, we won't be any match for them. At their level of technology they could wipe us out from orbit."
+0,19,9,KINSEY,I'm not convinced of that!
+0,19,9,TEAL'C,They speak the truth.
+0,19,9,KINSEY,I'm not entirely convinced of that either.
+0,19,9,JACK,"General, what the hell are we doing hear, this man had made up his mind already!"
+0,19,9,KINSEY,"Sit down Colonel, when I have made up my mind, you will know it! I will ask you once more. Sit down, please."
+0,19,9,HAMMOND,Colonel.
+0,19,9,KINSEY,"I gave the President my word that I would give you a fair hearing, and I intend to do that. He held you and your team up as a shining example of the fine work the SGC is doing. Now, do you stand by SG-1's record?"
+0,19,9,JACK,"Yes, I do."
+0,19,9,KINSEY,"Then let's just go through it, shall we?"
+0,19,10,KINSEY,"On February 10th of this year, you and a team lead by Major Charles Kawalsky, went through the Stargate on a reconnaissance mission."
+0,19,10,JACK,"Excuse me, Senator. Samuels, can I get a copy of that?"
+0,19,10,KINSEY,"You wrote this report, Colonel."
+0,19,10,JACK,Just want a little reference.
+0,19,10,KINSEY,"Samuels. To repeat, on the 10th of February, of this year you along with a team lead by Major Charles Kawasaky went through the Stargate on a reconnaissance mission, to rescue both Dr. Jackson's wife and her brother, and to determine the Goa'uld threat."
+0,19,10,JACK,"Excuse me, Senator, I'm sorry, there should be an apostrophe, after the A, before the U, it's pronounced."
+0,19,10,SAM,Goa'uld.
+0,19,10,KINSEY,"I assume since shortly after arriving you were captured and imprisoned, you characterize this world as a enemy strong hold."
+0,19,10,JACK,I would.
+0,19,10,SAMUELS,"I read from the personnel report of Colonel Jack O'Neill...dated the 23rd of February. 'Skarra was chosen, I tried to stop them from taking him away, but was struck by a alien staff weapon, in that moment, Apophis gave the order."
+0,19,11,APOPHIS,Kill the rest!
+0,19,12,JACK,I can save these people!Help me! Help me.
+0,19,12,TEAL'C,Many have said that.But you are the first who I believe could do it.
+0,19,12,JACK,Get out of the way!
+0,19,13,JACK,"Come on, lets move!"
+0,19,13,SAM,"Come on Go, go, move, go, come on, there you go, go, come on!"
+0,19,15,KINSEY,"So even with your team, unarmed, at the enemies mercy, in the palm of their hand, as it were,one of their own was able to set you free."
+0,19,15,SAM,"It wasn't that simple, Senator!"
+0,19,15,KINSEY,"Read on, please."
+0,19,15,SAMUELS,"'We met heavy resistance, on our return to the Stargate, we became pinned down by enemy aircraft."
+0,19,17,JACK,Take cover!
+0,19,17,SAM,"Colonel, were sitting ducks, here."
+0,19,19,KINSEY,"It's seems to me that Major Kawalsky, made light work of what you referred to in your report as a Death Gliders."
+0,19,19,JACK,"They were taken by surprise. I wouldn't expect it to be as easy, next time."
+0,19,19,KINSEY,Why not?
+0,19,19,DANIEL,For one thing they weren't used to fighting humans at our level of technology. Now they no what we have.
+0,19,19,SAM,"I don't think you understand, how much more powerful their weapons are."
+0,19,19,KINSEY,"Ok, you managed to get away with minimal casualties, hardly the greatest threat, humanity has ever faced."
+0,19,20,KINSEY,What's happening?
+0,19,20,HAMMOND,"It's just SG-2, returning on schedule, Senator. Nothing to worry about."
+0,19,20,KINSEY,"Oh, I disagree, General. I think it is something to worry about."
+0,19,20,JACK,"Mr. Kinsey, seems to be under the impression that the Goa'uld are not a military threat."
+0,19,20,KINSEY,You seem to have defeated them handily at every turn!
+0,19,20,JACK,"Did you read all the reports, sir? The actually killed us once."
+0,19,22,APOPHIS,Jaffa!
+0,19,23,APOPHIS,Kree'ta!
+0,19,24,SAM,Colonel!
+0,19,26,SAM,"Senator, if Goa'uld technology can generate energy shields around individuals, they can do the same thing with whole armies!"
+0,19,26,DANIEL,And ships!
+0,19,26,KINSEY,And have you ever seen one of these ships?
+0,19,26,JACK,Yes sir.
+0,19,28,TEAL'C,It is the ship of the Goa'uld Nurti. An enemy of Apophis.
+0,19,28,JACK,What the hell is that?
+0,19,28,TEAL'C,We must go.
+0,19,29,TEAL'C,We must get to the Stargate.
+0,19,29,JACK,No argument from me!
+0,19,29,TEAL'C,"This Goa'uld Nurti, once sent an emissary of peace to negotiate a treaty concerning a Stargate Apophis had taken control of the negotiation was a ploy, the Stargate was destroyed!"
+0,19,30,JACK,"Take your time, no hurry."
+0,19,32,KINSEY,"You escaped Colonel, on foot I might add."
+0,19,32,DANIEL,"Just one of these Goa'uld ships was responsible, for the deaths of SG-7, and the entire local population and that's over 1,000 people."
+0,19,32,SAM,"The point is, sir, we have seen how the Goa'uld have destroyed, entire civilization!"
+0,19,34,SAM,Hello?
+0,19,34,ENTITY,Hello.
+0,19,34,SAM,What are you?
+0,19,34,ENTITY,"Energy, unity. You would describe me thus."
+0,19,34,SAM,You asked for help.
+0,19,34,ENTITY,"If I remain here, my energy will disintegrate. I must return."
+0,19,34,DANIEL,Why did you no speak before?
+0,19,34,ENTITY,Fear.
+0,19,34,JACK,Of what?
+0,19,34,ENTITY,"The Goa'uld came to our planet, along time ago. We were not afraid then, and we tried to greet them. One of them touched us, as you did, and was destroyed by our Energy."
+0,19,35,DANIEL,The Goa'ulds must have come thought the gate exploring.
+0,19,35,SAM,"That's why it was afraid, we look just like them."
+0,19,35,DANIEL,One of the Goa'ulds was killed?
+0,19,35,ENTITY,"The gathered all the unity in one place, and ended it."
+0,19,35,SAM,We confirmed Goa'uld energy weapons did it.
+0,19,35,DANIEL,Then that pit wasn't a ceremonial place at all. It was some kind of mass grave.
+0,19,36,JACK,I'd call that a threat.
+0,19,36,KINSEY,Admittedly these Goa'uld are a dangerous race.
+0,19,36,TEAL'C,More dangerous then you could possible know.
+0,19,36,KINSEY,"Well, if their so strong, why did you switch sides in the first place?"
+0,19,36,TEAL'C,"Because what is right cannot be measured by strength! Your world values freedom, I wish that very same freedom for my people."
+0,19,36,KINSEY,"I don't want to appear callous, sir, but I believe that's your problem. Not ours."
+0,19,37,TEAL'C,"It will soon be yours as well, Senator Kinsey. For the Goa'uld are as powerful as they are evil. The Goa'uld have enslaved a galaxy of worlds."
+0,19,37,KINSEY,"I don't care about other worlds. I must place the citizens of, this country first."
+0,19,37,TEAL'C,"Then you would be wise the heed our warnings, Senator Kinsey! For when the Goa'uld do finally come in force, and they will, your citizens, as the strongest, most powerful country of this world, will be among the first to die!"
+0,19,37,SAMUELS,"On your return from the Chu'lak mission, Major Kawasaky became infested by a Goa'uld parasite, correct?"
+0,19,37,JACK,That's correct.
+0,19,37,KINSEY,He very nearly destroyed this facility.
+0,19,39,GOA'ULD,"Jaffa, Kel'sha!"
+0,19,39,TEAL'C,You cannot pass.
+0,19,40,JACK,What?
+0,19,40,DAVIS,He set the coordinates for Chu'lak!
+0,19,41,HAMMOND,He set the autodestruct sequence on the failsafe device.
+0,19,41,JACK,How did he have the code?
+0,19,41,HAMMOND,"I don't know, but I need to ranking officers to over ride it and your it."
+0,19,42,JACK,"Alright we did it, open the blast doors."
+0,19,43,JACK,"Teal'c! Hold him there! Shut it down,now!"
+0,19,45,JACK,We stopped him.
+0,19,45,KINSEY,"Yes you did. On that occasion, with the loss of a fine officer, you did. But consider the myriad pelages, you could bring back through the Stargate. Reason enough to shut it down forever. Colonel Samuels.."
+0,19,45,SAMUELS,"I quote now from the official report of General Hammond, dated March of this year, concerning a dangerous disease brought back from another world."
+0,19,47,HAMMOND,"Sir, I am afraid I have a serious situation here. It appears we brought a very contagious disease through the Stargate. Yes, sir, that's right. Well sir, I have ordered the mountain sealed off, but I think you should order in a armed division to set up a second line of defense. Well sir my recommendation is, that anyone attempting to leave the mountain, should be shot on site, and their body burned."
+0,19,48,JANET,"Sorry, Colonel O'Neill, I am afraid your private room has become a semi-private.We are running out of places to put all the victims, we've used, the brigs, we've used the tent quarters, some of the storage rooms."
+0,19,48,JACK,Doc
+0,19,48,JANET,Did you say something?
+0,19,48,JACK,Give more.
+0,19,48,JANET,"Give more, what?"
+0,19,48,JACK,More.
+0,19,48,JANET,"An injection, you mean you want more sedative? You have already had more then the maximum safe dosage, twice as much then anyone else, because you have been more violent."
+0,19,48,JACK,Give.
+0,19,48,JANET,No. It's not safe!
+0,19,48,JACK,Give! Give.
+0,19,48,JANET,Why are you so insistent?
+0,19,49,JANET,You must have been in alot of pain.
+0,19,49,JACK,Doc!
+0,19,49,JANET,Colonel O'Neill?
+0,19,49,JANET,So you are still in there somewhere.
+0,19,49,JACK,Dream.
+0,19,49,JANET,"I'm afraid not, Colonel, it's very real. This is interesting, enough sedative must knock back the primitive mind. Colonel, listen to me, I am not going to be able to keep you at this level for very long, it's to dangerous, it could cause permanent brain damage."
+0,19,49,JACK,What is it?
+0,19,49,JANET,"It's a parasitic virus. All we can tell is that it seems to mess with body chemicals, all of them. Testosterone levels sky rocket, thus the aggressive behavior. It's histamonic, which means it breaks down histamine, where."
+0,19,49,JACK,Experiment on me.
+0,19,49,JANET,"Experiment on you? No sir, I can't do that."
+0,19,50,JACK,"We saved an entire race of people, I call that a success, sir."
+0,19,50,KINSEY,"But if you hadn't have been able to find a cure so readily, if it had reached the general population...if the effects weren't reversible. Colonel O'Neill, You nearly died on another occasion when affected by."
+0,19,50,SAMUELS,Nannites.
+0,19,51,DANIEL,Sam's coming back! Jack.
+0,19,52,JACK,"Welcome back, Captain. So what did you find out? Come on now, don't keep the elderly waiting, it's rude."
+0,19,52,SAM,It isn't a virus.
+0,19,52,JACK,"Alright, what is it?"
+0,19,52,SAM,"Dr. Fraser and I came up empty, she's still looking at it. But it's gonna take time."
+0,19,52,DANIEL,"Time is something these people don't have, Captain."
+0,19,52,JACK,Nor do I.
+0,19,52,SAM,"Sir, there's something else. Your blood samples showed way more organisms compared to the Argosians."
+0,19,52,JACK,How many more?
+0,19,52,SAM,Maybe on a level of a hundred times more. And they are multiplying.
+0,19,52,JACK,"Cut to it, Captain."
+0,19,52,SAM,"At the rate your changing, by then end of two weeks you'll be the equivalent of 100 years old."
+0,19,53,SAM,"We have given the nanocytes some live tissue to interact with, but they aren't touching it. The only thing they appear to do is make more of them selves. So how are they causing the ageing on Argos?"
+0,19,53,JANET,"Maybe there's something on Argos they need to make them do another task. Something in the air, or the food."
+0,19,53,TEAL'C,Is there a problem Captain Carter?
+0,19,53,SAM,I don't know!
+0,19,53,JANET,Well it's eating through the rubber!
+0,19,53,SAM,"Oh, God."
+0,19,53,JANET,What? What is it?
+0,19,53,SAM,They're trying to spread!
+0,19,54,SAM,"We're working with computer simulations, and practical simulations. Realistically sir, I'm afraid it might take years."
+0,19,54,DANIEL,"The General say's that gate travel to Argos, is strictly off limits for the next millennia. But we can send objects through, so if you need anything, just call. Say something."
+0,19,54,TEAL'C,"Colonel, I have learned very much from you. Thank you."
+0,19,54,SAM,"You know, goodbye's really suck!"
+0,19,55,KINSEY,"As I understand it, you almost lost containment, Captain Carter."
+0,19,55,SAM,"Yes, they tried to mutate in the lab. But after the incident, the General ordered all samples of the Nanocyte, destroyed."
+0,19,55,KINSEY,And what about next time?
+0,19,55,SAM,"Well there won't be a next time, the Nanocytes, the transmitter device, everything that tampered with the population of that world has been destroyed!"
+0,19,55,DANIEL,"In fact, SG-2 just made contact with Kynthia's planet just a few weeks ago. They are living long productive lives because of us. Now I am very proud of what we did there."
+0,19,55,JACK,I might even retire there.
+0,19,55,KINSEY,"You have no fear of it, do you Colonel, it's like a game to you."
+0,19,55,JACK,"No sir. Anything as powerful as the Stargate deserves respect. We know how dangerous it is, for us to do what we do, we also no how important it is."
+0,19,55,KINSEY,"Colonel O'Neill, you're like reckless children and your playing with fire."
+0,19,55,JACK,"If you shut down this program now, when it's needed most!"
+0,19,55,KINSEY,For what?!?
+0,19,55,SAM,"To gather technology, weapons!"
+0,19,55,KINSEY,"Not at this price, or this level of competence."
+0,19,55,HAMMOND,"My people are the best out there, Senator!"
+0,19,55,KINSEY,"I'm sorry, general, but your best, is not good enough. I do not improve of, nor support this endeavor, and I have heared nothing here today that will change my mind. I intend to shut the Stargate down."
+0,19,56,DANIEL,"Senator, please listen to me."
+0,19,56,SAMUELS,I think he has made up his mind Dr. Jackson.
+0,19,56,DANIEL,"You want your one reason, I'll give it to you. What if I told you I knew that they were coming, in ships. What if I said that a ship larger then the great pyramid is going to land right on top of this mountain, in a matter of weeks, maybe days."
+0,19,56,KINSEY,Then I would be curious to know why you waited until this moment before saying so.
+0,19,56,DANIEL,"Because I didn't think that anyone would believe me. And if I didn't live through it my self, I don't think I would, but it is a fact! And if you shut this program down, you will rob us of our one chance to stop them before they get here."
+0,19,56,KINSEY,Where did you learn this information?
+0,19,56,DANIEL,"On our last mission. We came across a civilization with a technology level similar to our own. They had been wiped out, they left behind a warning, Beware the Destroyers now along with that warning came a set of numbers.Co-ordinates of where the final Goa'uld attack will be lunched from."
+0,19,56,KINSEY,And did all of you witness this warning?
+0,19,56,DANIEL,"No sir, they didn't, just me."
+0,19,56,SAM,"Sir, we think Daniel may have experiences a interdimensional transfer to a alternate reality."
+0,19,56,KINSEY,I beg your pardon?
+0,19,56,DANIEL,"The moment I touched an item on 233, I was separated from the rest of the team, I was actually transported to an alternate reality, where Earth was already under Goa'uld attack. I got this when I was there."
+0,19,56,KINSEY,"My heaven, I have heard enough of this."
+0,19,56,DANIEL,"Senator, the Goa'uld were bombarding our cities from space, we were defenseless against their weapons."
+0,19,56,KINSEY,"Dr. Jackson, I do not suffer fools gladly."
+0,19,56,DANIEL,"Nor do I, Senator, and I am telling you, when we killed Ra two years ago, we set in a motion a chain of events that WILL that will eventually lead to an all out attack, on Earth, by the Goa'uld!"
+0,19,56,KINSEY,"If this is so, why have they waited?"
+0,19,56,TEAL'C,It would take time for Apophis to assemble the necessary forces.
+0,19,56,DANIEL,"Right, the society is feudal, it would take time to build an army. Look all I know is the location there going to lunch the final attack from. If you don't believe me then just let us dial in the co-ordinates, and let us go there and find out!"
+0,19,56,KINSEY,How many ships Dr. Jackson has anyone detected there approach?
+0,19,56,DANIEL,"I can't be sure of the exact details, I mean there were differences between that reality and this one."
+0,19,56,KINSEY,"Oh, of course there were."
+0,19,56,DANIEL,I am not crazy.
+0,19,56,KINSEY,"Nor am I, Dr. Jackson, neither am I unused to 11th hour please, though NEVER have I heard one so despite, as this."
+0,19,56,DANIEL,"Senator, they are coming."
+0,19,56,KINSEY,"Then I say, let them come!"
+0,19,56,JACK,Where do you get this bureaucratic bull? You're talking suicide!
+0,19,56,KINSEY,"Colonel O'Neill, you under estimate this great nation."
+0,19,56,TEAL'C,"It is you that under estimate the enemy, we have challenged Apophis, he will not rest until the people on the world worship him as their God."
+0,19,56,KINSEY,"There is only one God, sir! And I do not believe for one moment that he will allow what you're trying to tell me come to pass, we are after all, one nation, under God."
+0,19,56,JACK,And you think God is going to save us?
+0,19,56,TEAL'C,The Goa'uld believe they are Gods. And your beliefs will not dissuade them.
+0,19,56,KINSEY,"If the Goa'uld do come, then we will be able to tell them that we have buried our gate on under the ground forever, and that we will never go through it again. If they challenge us then we shall prevail."
+0,19,56,DANIEL,You're a fool.
+0,19,56,KINSEY,"And if they don't come, which I think is infinitely more likely, then Pandora's Box, will have finally been closed, once and for all. Now if you will excuse me, I have business to attend to."
+0,19,57,SAMUELS,"For what it's worth, I'm sorry it had to end like this."
+0,19,57,HAMMOND,Get out of here!
+0,19,57,TEAL'C,"General Hammond, I would like to request permission to return through the Stargate, before it is permanently sealed. If this world does not intend to continue it's struggle against the Goa'uld, then here I do not belong."
+0,19,57,JACK,I think I'm going with him.
+0,19,57,HAMMOND,"I can't allow that Colonel, I'm sorry but you know that. The president has made it perfectly clear, if were unable to convince the Senator, we would cease operations, effective immediately."
+0,19,57,SAM,"Sir, there are still two SG teams off world."
+0,19,57,HAMMOND,"Well keep the light on until they return, but that's all I'm authorized to do."
+0,19,57,JACK,"So what, that's it?"
+0,19,57,HAMMOND,That's it Colonel.
+0,19,57,SAM,It can't be.
+0,19,57,JACK,"With all do respect, sir."
+0,19,57,DANIEL,"Sir, with all do respect, the good Senator is an ass."
+0,19,57,HAMMOND,"He is a elected official of the government we have sworn to serve. Weather we agree or disagree, he has made his decision. Our commander and chief, had given us our orders accordingly. I expect you all to carry them out. Dismissed."

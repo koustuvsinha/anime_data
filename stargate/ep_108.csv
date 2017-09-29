@@ -1,0 +1,338 @@
+Season,Episode,Scene,Character,Line
+0,108,0,STARGATE SG1,Episode 522
+0,108,0,"""REVELATIONS""",By Joseph Mallozzi & Paul Mullie
+0,108,1,HAMMOND,Major.
+0,108,1,CARTER,Sir.
+0,108,1,HAMMOND,I just wanted to inform you that Colonel O'Neill has requested that SG1 remain on active duty while we try to find a replacement for Dr Jackson.
+0,108,1,CARTER,So what are we supposed to do? Keep working like nothing happened?
+0,108,1,HAMMOND,I understand how you feel.
+0,108,1,CARTER,"With all due respect Sir, I don't even understand how I feel. We didn't even have a memorial service."
+0,108,1,HAMMOND,We're not even really sure that he's dead.
+0,108,1,CARTER,"And that's the problem. What are we supposed to do, Sir? Wait and.. and hope that he comes back or.. just move on."
+0,108,1,HAMMOND,"When I was in Vietnam, I saw my best friend shot down. I know he survived, I saw his `chute open, radioed his position. But I never found out what happened to him. His body was never recovered, the Vietnamese never admitted they took him prisoner. For years, I kept thinking, that some day he's just going to walk through the door."
+0,108,1,CARTER,So what did you do?
+0,108,1,HAMMOND,I learned to live with it.
+0,108,2,PA,Unauthorized offworld activation.
+0,108,3,HAMMOND,What the hell's going on?
+0,108,3,CARTER,Main power is down.
+0,108,4,CARTER,Phone's are down.
+0,108,5,PA,"General Hammond to the Gateroom, repeat General Hammond to the Gateroom."
+0,108,5,HAMMOND,Let's get up there.
+0,108,7,HAMMOND,Stand down.
+0,108,8,CARTER,Freyr.
+0,108,8,FREYR,Major Carter. General Hammond. I apologise for our absence of late but our war with the Replicators has reached a critical stage.
+0,108,8,CARTER,Well we might be able to help you with that.
+0,108,8,FREYR,"Yes, we received your message."
+0,108,9,FREYR,"If, as you say, this android was responsible for creating the first generation of Replicators, it may well prove invaluable. However, it is not the only reason I have come. There has been an incident with the Goa'uld."
+0,108,9,O'NEILL,An incident?
+0,108,9,FREYR,Commander Thor has been killed.
+0,108,9,CARTER,Killed? How?
+0,108,9,FREYR,The Goa'uld attacked a planet under our protection and Commander Thor was despatched with the only ship available. We expected the Goa'uld to retreat once we made our presence felt but they did not. The Asgard ship was destroyed in the ensuing battle.
+0,108,9,TEAL'C,Is not Asgard military technology far superior to that of the Goa'uld?
+0,108,9,FREYR,Their new shields are more advanced than we first believed and it appears they have upgraded their weapons as well. We can no longer be confident of victory when dealing with superior numbers.
+0,108,9,O'NEILL,So in other words the protected planets are no longer protected?
+0,108,9,CARTER,Including Earth.
+0,108,9,FREYR,"Our ability to enforce the treaty in this galaxy will depend greatly on the outcome of our battle with the Replicators. However in the meantime, we do have another problem. An Asgard scientist has been left stranded in the research facility beneath the surface of the planet in question. We would like you to mount a rescue mission."
+0,108,9,HAMMOND,Why us?
+0,108,9,FREYR,We have no ships available and we understand you have a Goa'uld cargo ship at your disposal.
+0,108,9,CARTER,Well it isn't exactly in perfect working order. We managed to repair it with the help of the Tok'ra but...
+0,108,9,O'NEILL,We'll do it.
+0,108,10,O'NEILL,"It's what we do, isn't it?"
+0,108,10,FREYR,The research being conducted on this planet is vital to the future of the Asgard. We would be forever in your debt.
+0,108,11,CARTER,Colonel. We need to talk.
+0,108,11,O'NEILL,I don't want to hear it Carter.
+0,108,11,CARTER,You can't just pretend this didn't happen.
+0,108,11,O'NEILL,I'm not pretending anything. This is the job. We lose people all the time.
+0,108,11,CARTER,We're talking about Daniel.
+0,108,11,O'NEILL,What do you want me to do? He's gone. We've got work to do.
+0,108,14,TEAL'C,Are you not all right Major Carter?
+0,108,14,CARTER,I'm fine.
+0,108,14,TEAL'C,You continue to mourn the loss of Daniel Jackson.
+0,108,14,CARTER,"Yeah, I do. Tell me I'm not the only one."
+0,108,14,TEAL'C,"I will perform the proper rituals when the opportunity presents itself. Until that time, this mission must take priority."
+0,108,14,CARTER,"Please, Teal'c. Don't give me that `way of the warrior' crap. I get enough of that from Colonel O'Neill."
+0,108,14,TEAL'C,Daniel Jackson has ascended to a higher plane of existence. Many jaffa have dedicated their lives to achieving such a goal.
+0,108,14,CARTER,So I'm supposed to celebrate?
+0,108,14,TEAL'C,It is a great accomplishment.
+0,108,14,CARTER,"We were a team, Teal'c. No one can even begin to understand what we went through together, what we mean to each other. So maybe Daniel has achieved something of great cosmic significance, I don't know. And to be honest with you, right now, I don't really care. I'd rather have him back."
+0,108,14,TEAL'C,As would I.
+0,108,14,TEAL'C,We are approaching the Adara system. Two motherships orbit the second planet.
+0,108,15,CARTER,We won't be able to activate the cloak until we come out of hyperspace. There'll be a brief interval where they might detect us.
+0,108,15,O'NEILL,How brief?
+0,108,15,CARTER,Just a few seconds. The odds of them spotting us are pretty slim.
+0,108,15,O'NEILL,How slim?
+0,108,15,CARTER,"Hardly worth mentioning, Sir."
+0,108,15,O'NEILL,"And yet, you did mention it."
+0,108,15,CARTER,"Yeah, I'm beginning to wish I hadn't."
+0,108,16,O'NEILL,Well at least they're not shooting at us. That's good.
+0,108,16,TEAL'C,We are approaching the upper atmosphere.
+0,108,17,CARTER,It's pretty thick.
+0,108,17,TEAL'C,There is considerable turbulence.
+0,108,18,O'NEILL,"You know, we should really consider putting another chair back here. If you think about it, it'd be much safer, wouldn't it?"
+0,108,19,TEAL'C,We have arrived at the co-ordinates given to us by Freyr.
+0,108,19,O'NEILL,Nice view.
+0,108,19,CARTER,This can't be right. The atmosphere is over 80% carbon dioxide and the surface temperature of 420 degrees Fahrenheit.
+0,108,19,O'NEILL,Hot.
+0,108,19,CARTER,Yeah.
+0,108,19,TEAL'C,How are we to locate the Asgard facility?
+0,108,21,CARTER,Well that was easy.
+0,108,22,HEIMDALL,"Ah, humans. Interesting."
+0,108,23,HEIMDALL,"Greetings, I am Heimdall. I assume you were sent by the Asgard high council."
+0,108,23,O'NEILL,"Not exactly. Colonel Jack O'Neill, Major Carter and Teal'c."
+0,108,24,HEIMDALL,I have heard much of your exploits on behalf of the Asgard. Dr Jackson is not with you?
+0,108,24,O'NEILL,"Uh, no."
+0,108,24,HEIMDALL,"In any case, it is a great pleasure to meet you."
+0,108,24,CARTER,Where are we exactly?
+0,108,24,HAIMDALL,Several hundred metres beneath the surface of the planet.
+0,108,24,CARTER,Of course we'd have to be. The surface is uninhabitable.
+0,108,24,TEAL'C,The Goa'uld are unaware of your presence here.
+0,108,24,HEIMDALL,"I have been monitoring their communications. They know the laboratory is somewhere on this planet but as yet, they have been unable to pinpoint its location."
+0,108,24,O'NEILL,"Well, why don't we get out of here before they find out?"
+0,108,24,HEIMDALL,I am afraid we cannot leave.
+0,108,24,CARTER,Why not?
+0,108,24,HEIMDALL,First we must rescue Thor.
+0,108,24,CARTER,I thought Thor was dead?
+0,108,24,HEIMDALL,He is not. However his life is in great danger. He is a prisoner of the Goa'uld.
+0,108,25,OSIRIS,Commander Thor. I apologise for the accommodations but we weren't expecting company.
+0,108,25,THOR,You have committed an act of war against the Asgard. The response will be swift and decisive.
+0,108,25,OSIRIS,As swift and decisive as your attempt to defend this planet?
+0,108,25,HEIMDALL,"After Thor's ship was destroyed, the Goa'uld detected an escape pod. They managed to retrieve it before it could disappear into the atmosphere."
+0,108,25,CARTER,How do you know Thor is still alive?
+0,108,25,HEIMDALL,I am able to scan the interior of the Goa'uld mother ship.
+0,108,26,O'NEILL,Wow.
+0,108,26,HEIMDALL,I have located Thor's bio signature here.
+0,108,26,O'NEILL,Why don't you just beam him out?
+0,108,26,HEIMDALL,"Although my sensors can penetrate the Goa'uld shields, my transportation device cannot."
+0,108,26,CARTER,Can you detect Goa'uld lifesigns as well?
+0,108,26,HEIMDALL,I can.
+0,108,27,HEIMDALL,The red dot indicates the presence of a symbiote.
+0,108,27,CARTER,So it's either Goa'uld or a jaffa.
+0,108,27,HEIMDALL,"In all probability, Thor is being tortured for information pertaining to Asgard technology."
+0,108,27,CARTER,"With that kind of knowledge, the Goa'uld could easily come through our Stargate whenever they wanted. There wouldn't be anything we could do about it."
+0,108,28,THOR,I've underestimated your strength. That mistake will not be made again.
+0,108,28,OSIRIS,Perhaps not. But next time we will have an even greater advantage. We'll have learned all your secrets.
+0,108,28,THOR,I will never surrender my knowledge to you.
+0,108,28,OSIRIS,"Not to me, no. Anubis himself has taken an interest in this matter. He's on his way here as we speak."
+0,108,30,TEAL'C,The Goa'uld is leaving.
+0,108,30,O'NEILL,Can you communicate with him?
+0,108,30,HEIMDALL,"Yes, I can."
+0,108,31,O'NEILL,"Thor. Thor, buddy."
+0,108,32,O'NEILL,Hey. How you doing?
+0,108,32,THOR,O'Neill. I am surprised to see you.
+0,108,32,O'NEILL,"Yeah, we're down on the planet with.."
+0,108,32,THOR,Heimdall.
+0,108,32,O'NEILL,"Yeah, him. Working on a way to get you out of here."
+0,108,32,THOR,That would be unwise. You must take Heimdall and his research materials and leave immediately.
+0,108,33,O'NEILL,What are you nuts? I'm not gonna leave you behind.
+0,108,33,THOR,More Goa'uld are coming. I have been informed that Anubis will be conducting my interrogation.
+0,108,33,O'NEILL,All the more reason to get you out.
+0,108,33,THOR,I will resist their attempts to probe my mind. I will die before I give them any information but the very survival of the Asgard depends on Heimdall's discoveries.
+0,108,34,CARTER,"Sir, you've got company, we're gonna have to pull you out."
+0,108,34,O'NEILL,"All right, listen. I've got to go but I'll be back."
+0,108,35,CARTER,How's he doing?
+0,108,35,O'NEILL,Well he's fine for now. Except for the fact that he wants us to leave him behind.
+0,108,35,TEAL'C,For what reason?
+0,108,35,O'NEILL,I wouldn't mind knowing that myself.
+0,108,36,HEIMDALL,"Thor is no doubt concerned that if we delay, the materials in this laboratory will fall into the hands of the Goa'uld."
+0,108,36,CARTER,What exactly are you studying here?
+0,108,36,HEIMDALL,I am conducting research into the genetic history of the Asgard.
+0,108,36,O'NEILL,"Yeah, now see, that doesn't sound like something worth dying for."
+0,108,36,HEIMDALL,That is because you do not understand the gravity of the situation.
+0,108,36,O'NEILL,Feel free to enlighten us.
+0,108,36,HEIMDALL,"As a race, the Asgard reproduce exclusively through a process of enhanced cellular mitosis."
+0,108,36,CARTER,Are you serious? You have no other means of propagation?
+0,108,36,HEIMDALL,No.
+0,108,36,O'NEILL,Carter?
+0,108,36,CARTER,"They're clones, sir. All of them."
+0,108,36,O'NEILL,Ah. Well that answers a few questions.
+0,108,36,HEIMDALL,"In fact, for nearly a thousand years, we have been physically incapable of achieving cell division through meiosis."
+0,108,36,O'NEILL,Hmm?
+0,108,36,CARTER,"Sexual reproduction, Sir."
+0,108,36,O'NEILL,Ah. A thousand years?
+0,108,36,HEIMDALL,It is not something we wish to discuss with other races.
+0,108,36,O'NEILL,Guess I understand.
+0,108,36,HEIMDALL,"Through cloning we have achieved a measure of immortality. As each Asgard's body fails, his consciousness is transferred into a newer, younger version of himself. Unfortunately the lack of genetic diversity has become a problem."
+0,108,36,CARTER,It's like making a copy of a copy of a copy. Eventually there's deterioration.
+0,108,36,HEIMDALL,"We created a process of controlled mutation which has helped us avoid complete genetic breakdown. But we are at the limits of our technical capabilities. The truth is, the Asgard are a dying race."
+0,108,37,OSIRIS,Have you located the Asgard facility?
+0,108,37,JAFFA,"Not yet, my Lord."
+0,108,37,OSIRIS,You waste time. Lord Yu is mounting an offensive; our ships are needed elsewhere.
+0,108,37,JAFFA,The planet's atmosphere generates much electromagnetic interference.
+0,108,37,OSIRIS,Then send a squadron of gliders. At low altitude their sensors will be more effective.
+0,108,37,JAFFA,The atmosphere is too thick. It would be extremely dangerous for the pilots.
+0,108,37,OSIRIS,And how dangerous will it be when Lord Anubis arrives and you have nothing to offer but excuses?
+0,108,37,JAFFA,I will despatch the squadron myself.
+0,108,37,OSIRIS,Very wise.
+0,108,37,CARTER,"If Anubis is gonna interrogate Thor, he'll have to ring aboard the ship. Once they lower the shields to let him in, we can beam Thor out."
+0,108,37,TEAL'C,The shields will not be lowered Major Carter. They will merely adjust the frequency to accept a rings transmission.
+0,108,37,CARTER,Well then we can use the rings on the cargo ship to beam up at the same time.
+0,108,37,TEAL'C,Once Anubis is on board the frequency will be readjusted. And we will be trapped.
+0,108,37,O'NEILL,So we take out the shields from the inside.
+0,108,37,HEIMDALL,The shield generator room is located here. You can use explosives to disable the system and I will transport everyone out including Thor.
+0,108,37,TEAL'C,"Once the rings have been activated, the Goa'uld will be aware of our presence."
+0,108,37,CARTER,"Okay, one of us stays here and uses the Asgard scanner to direct the others away from any guards or patrols."
+0,108,37,HEIMDALL,First I must complete my preparations for departure.
+0,108,37,O'NEILL,"Okay, Carter you stay here, Teal'c and I will go up."
+0,108,37,HEIMDALL,I must remind you O'Neill that time is of the essence. This laboratory will not remain undetected indefinitely.
+0,108,37,O'NEILL,Right.
+0,108,39,JAFFA,Lord Anubis has arrived.
+0,108,40,CARTER,"Sir, we've found a ring room that's clear. Stand by."
+0,108,40,O'NEILL,Roger that.
+0,108,41,HEIMDALL,A transporter ring has been activated.
+0,108,41,CARTER,Now Sir.
+0,108,46,CARTER,Monitoring your progress Sir.
+0,108,46,JAFFA,There's been an unauthorised transport onto the ship.
+0,108,46,OSIRIS,Intruders?
+0,108,46,JAFFA,The signal appears to have come from the planet. I am unable to determine the specific co ordinates.
+0,108,46,OSIRIS,Organise a security detail. Maximum containment. I want them found.
+0,108,47,CARTER,Proceed to the end of the corridor and take a right.
+0,108,48,CARTER,"Hold up Sir, there's a large party headed your way."
+0,108,48,O'NEILL,Which way? Should we double back? What?
+0,108,48,CARTER,No Sir. There's a corridor up ahead on your left. You should be able to duck in there.
+0,108,49,CARTER,They're almost there.
+0,108,50,CARTER,Uh oh. Sir we've got a problem. There are several jaffa patrols bearing down on your position.
+0,108,50,O'NEILL,Where? Which direction?
+0,108,50,CARTER,"They're coming at you from all directions, sir. Stand by."
+0,108,51,CARTER,There's no way out.
+0,108,51,HEIMDALL,Perhaps a diversionary tactic would be in order?
+0,108,52,O'NEILL,Carter? Dammit.
+0,108,53,CARTER,Hey guys! What's happening?!
+0,108,54,O'NEILL,Nice.
+0,108,55,CARTER,"Ah, Heimdall says the way ahead is clear."
+0,108,55,O'NEILL,Let's move out.
+0,108,57,ANUBIS,You are the one they call Thor. I am Anubis.
+0,108,57,THOR,"As I have told your Lieutenant, I will reveal nothing to you."
+0,108,58,ANUBIS,"This device will be implanted into your brain, it will form a link between your mind and the ship's computer. Your knowledge will simply be downloaded into our memory banks. You will no doubt resist and you will no doubt fail."
+0,108,58,THOR,The Goa'uld possess no such technology.
+0,108,59,ANUBIS,I think you will find many things have changed since my return.
+0,108,61,JAFFA,The intruders have breached our security perimeter.
+0,108,61,OSIRIS,How?
+0,108,61,JAFFA,One of our patrols was ambushed.
+0,108,61,OSIRIS,Seal the lower decks and divert coolant from the hyperdrive into the ventilation system.
+0,108,61,JAFFA,The gas is toxic.
+0,108,61,OSIRIS,Only with prolonged exposure.
+0,108,61,JAFFA,Shall I evacuate the engine room?
+0,108,61,OSIRIS,The intruders may be monitoring our communications. We cannot afford to give them a warning.
+0,108,61,JAFFA,But the engines will overheat and the entire compartment will be flooded with radiation. Many jaffa will die.
+0,108,61,OSIRIS,And they will be greatly honoured in the afterlife.
+0,108,63,O'NEILL,Carter?
+0,108,64,CARTER,"This is it, Sir. The shield generator room is just on the other side of that door. There are six jaffa inside."
+0,108,64,O'NEILL,Only six?
+0,108,65,CARTER,Colonel! Teal'c!
+0,108,66,CARTER,Colonel!
+0,108,66,CARTER,Are you sure they're not injured?
+0,108,66,HEIMDALL,Their signals remain strong. They appear to have been taken to some kind of holding cell.
+0,108,66,CARTER,Well we've got to get them out of there.
+0,108,66,HEIMDALL,How?
+0,108,66,CARTER,I'm not sure yet.
+0,108,66,HEIMDALL,In the meantime we must do all we can to keep the research materials in this laboratory from falling into Goa'uld hands.
+0,108,66,CARTER,What exactly are we talking about here? Some DNA samples?
+0,108,66,HEIMDALL,Not exactly.
+0,108,67,CARTER,What is it?
+0,108,67,HEIMDALL,"That is one of my ancestors. Thirty thousand years ago a ship was launched from the Asgard homeworld, its crew placed in suspended animation. There was a failure on the navigational system and the ship was lost. Through the millenia it drifted across the empty expanse between our galaxies before it arrived here. We discovered it six months ago."
+0,108,67,CARTER,And this is one of its original crew?
+0,108,67,HEIMDALL,The only one that was perfectly preserved. He is from a time before our program of genetic manipulation became irreversible.
+0,108,67,CARTER,So that's why he's so important. You're hoping his physiology can give you clues to stave off your own genetic degredation.
+0,108,67,HEIMDALL,We kept the laboratory in this galaxy to avoid the threat of the Replicators. Now we can no longer afford to wait. It is only a matter of time before the Goa'uld pinpoint our location.
+0,108,68,HEIMDALL,I will require your assistance to adapt the stasis pods in the cargo ship's power supply
+0,108,68,CARTER,Right. When we're done I want you to beam me back to the lab. I'm not ready to give up on Colonel O'Neill and Teal'c just yet.
+0,108,69,O'NEILL,Can't believe they took my watch.
+0,108,69,TEAL'C,Major Carter will soon have no choice but to leave with Heimdall.
+0,108,69,O'NEILL,"If she's smart, she's already gone."
+0,108,69,TEAL'C,In which case our chances of escape are negligible.
+0,108,69,O'NEILL,"Oh, I don't know. All we've gotta do is bust out of here, take out every jaffa between here and the peltak, commandeer the ship and fly on home."
+0,108,69,TEAL'C,I stand corrected.
+0,108,70,THOR,O'Neill.
+0,108,70,O'NEILL,Thor? That you? Where are you?
+0,108,70,THOR,I am still in my cell. However my mind has been linked with the ship's computer. And I am using the internal communication system to synthesise my voice.
+0,108,70,O'NEILL,Okay.
+0,108,70,THOR,The Goa'uld are attempting to download the information stored in my pre-frontal cortex. It is only a matter of time before they break through my mental defences.
+0,108,70,O'NEILL,"Yeah, well, love to help you but we've got our own problems here."
+0,108,70,THOR,I am aware of your situation. I believe I may be able to rewrite some minor subroutines in the security protocol.
+0,108,70,TEAL'C,To what end?
+0,108,71,O'NEILL,Sweet.
+0,108,71,THOR,I am growing weak. Further communication will be impossible.
+0,108,71,O'NEILL,Hang tight. We'll get you out.
+0,108,72,CARTER,Colonel.
+0,108,72,O'NEILL,"Still with us, huh?"
+0,108,72,CARTER,Yes Sir. Heimdall's got the cargo ship prepped and ready to go. He can remote access his transportation device and beam us straight there but we still need you to get those shields offline.
+0,108,72,O'NEILL,"Yeah, well they took our C4. So we won't be blowing any stuff up."
+0,108,72,CARTER,We'd have to find a control relay and pull the crystals. It will only take them a few seconds to switch to backups but that should be all we need.
+0,108,72,O'NEILL,Right. Which way?
+0,108,72,CARTER,"I'm going to have to step off the holopad and check the ships schematics. Try to stay out of sight, I'll be back as soon as I can."
+0,108,74,OSIRIS,Report.
+0,108,74,JAFFA3,The battle with Lord Yu does not go well. We request reinforcements.
+0,108,74,OSIRIS,That stubborn old man simply refuses to die. Despatch the other ships.
+0,108,75,JAFFA,Lord Osiris. One of our gliders has detected an energy signature located beneath the planet's surface.
+0,108,75,OSIRIS,Do we have specific co ordinates?
+0,108,75,JAFFA,We do. But there is no way in.
+0,108,75,OSIRIS,Then we'll just have to make our own way won't we?
+0,108,76,HEIMDALL,"Major Carter, what's your situation?"
+0,108,76,CARTER,Colonel O'Neill and Teal'c are out of their cell. We're working on another way to get the shields offline.
+0,108,77,HEIMDALL,What was that?
+0,108,77,CARTER,I think the Goa'uld have made my position.
+0,108,77,HEIMDALL,You should leave immediately.
+0,108,77,CARTER,Just a few more minutes.
+0,108,78,O'NEILL,Come on Carter.
+0,108,79,CARTER,"I've got it, Sir. Go straight down this corridor and up two levels, I'll meet you there."
+0,108,79,O'NEILL,Okay.
+0,108,81,O'NEILL,Carter.
+0,108,81,CARTER,There should be an access panel somewhere along here.
+0,108,81,O'NEILL,"Okay, next time, I'm the hologram."
+0,108,82,CARTER,Okay; now we just have to pick the right crystal.
+0,108,82,O'NEILL,Which one?
+0,108,83,O'NEILL,Carter?
+0,108,83,CARTER,I thought I heard something. There's someone in here.
+0,108,87,OSIRIS,Major Carter.
+0,108,87,CARTER,Osiris.
+0,108,87,OSIRIS,We have Colonel O'Neill and the shol'va. So that just leaves Dr Jackson. Where is here?
+0,108,87,CARTER,Forget it.
+0,108,89,TEAL'C,Perhaps we should take them all.
+0,108,89,O'NEILL,Here's a thought.
+0,108,91,JAFFA,Shields are down. Controls are offline.
+0,108,91,ANUBIS,Repair them.
+0,108,92,OSIRIS,Once more. Where is Dr Jackson?
+0,108,92,CARTER,He's dead.
+0,108,92,OSIRIS,You're lying.
+0,108,92,CARTER,Go to hell.
+0,108,95,O'NEILL,Get us out of here.
+0,108,95,HEIMDALL,Well done O'Neill.
+0,108,95,O'NEILL,"Thanks. Thor, buddy."
+0,108,96,THOR,O'Neill. You cannot take me with you.
+0,108,96,O'NEILL,Why not?
+0,108,96,THOR,The link between myself and the Goa'uld ship has not been severed. They will be able to track our position. You must leave me behind.
+0,108,96,O'NEILL,"All right, that doesn't work for me. That's not an option for me. Okay?"
+0,108,96,JAFFA,Lord Anubis. The Asgard prisoner has gone.
+0,108,96,ANUBIS,He will not get far.
+0,108,98,CARTER,We've cleared the atmosphere. Bringing up the hyperdrive.
+0,108,99,TEAL'C,Hyperdrive is offline. Cloak is failing.
+0,108,100,TEAL'C,Cloak is down. We have lost our shields. We cannot sustain another hit.
+0,108,100,CARTER,"Sir, we're receiving a transmission."
+0,108,100,ANUBIS,Your ship is defenceless. You cannot escape. Surrender now.
+0,108,100,O'NEILL,Any ideas?
+0,108,100,HEIMDALL,We cannot risk capture. We must destroy the ship ourselves.
+0,108,100,O'NEILL,Any good ideas?
+0,108,101,CARTER,"We've got company. Three Asgard ships. Sir, I'm picking up a transmission to the Goa'uld ship."
+0,108,101,FREYR,This is Freyr of the Asgard. The vessels you face are far superior to the one you attacked. Challenge us at your own peril.
+0,108,102,CARTER,The mothership's retreating. It's over.
+0,108,102,O'NEILL,That's it?
+0,108,103,CARTER,Their examination of the android must have yielded some positive results. Because it looks like the Asgard have finally gained the upper hand against the Replicators.
+0,108,103,O'NEILL,What about Thor?
+0,108,103,CARTER,They managed to remove the device from his brain but it may have been too late. Apparently he's lapsed into a coma. If they knew more about how the device works they might be able to help him. They're studying it towards that end. Unfortunately it's unlike anything they've ever encountered before.
+0,108,103,TEAL'C,It is apparent that Anubis has gained access to technology previously unknown to the Goa'uld.
+0,108,103,HAMMOND,Which would explain his rapid rise to power.
+0,108,103,CARTER,Yes sir.
+0,108,103,HAMMOND,All right. You're dismissed.
+0,108,104,O'NEILL,We're not that much of a nuisance just yet.
+0,108,104,TEAL'C,Of that I am not so sure.
+0,108,105,CARTER,Hey.
+0,108,105,O'NEILL,Hey.
+0,108,105,CARTER,Heading home?
+0,108,105,O'NEILL,Actually Teal'c and I were thinking of stopping off for a bite to eat. Interested?
+0,108,105,CARTER,Sounds good.
+0,108,105,O'NEILL,General?
+0,108,105,HAMMOND,"You three go ahead, I've still got some work to do."
+0,108,106,CARTER,What was that?
+0,108,106,TEAL'C,Perhaps a malfunction in the ventilation system?
+0,108,106,O'NEILL,"Yeah, that's probably it."
+0,108,106,CARTER,"Bye sir, have a good night."

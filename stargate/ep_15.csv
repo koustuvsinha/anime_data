@@ -1,0 +1,379 @@
+Season,Episode,Scene,Character,Line
+0,15,0,STARGATE SG1,Episode 116
+0,15,0,"""ENIGMA""",By Katharyn Michaelian Powers SG1 step through the gate onto a planet that seems to be in the middle of a natural disaster. A volcano has erupted and the air is thick with ash.
+0,15,0,SAM,Wow! None of this was going on when we sent the probe through.
+0,15,0,DANIEL,What's this stuff in the air?
+0,15,0,TEAL'C,Ash .
+0,15,0,JACK,"All right, Daniel. Dial it up, get us out of here."
+0,15,0,DANIEL,"No argument. Wait a minute. There's something out there.( It's a woman, she's alive. There's more, hurry you guys."
+0,15,1,TEAL'C,There's no life here.
+0,15,1,SAM,This one's had it.
+0,15,1,DANIEL,It's just like Pompeii . Everyone died of suffocation before the lava started to flow. What are these things?
+0,15,1,TEAL'C,O'Neill! There are two more alive.
+0,15,1,JACK,Carter? How long before we're toast?
+0,15,1,SAM,"I don't know, Sir, I'm not a volcanologist. It could be days, it could be minutes."
+0,15,2,NARIM,Don't... help us.
+0,15,5,MEDIC,Move away. Give them some room.
+0,15,5,JACK,All right. Let's go.
+0,15,5,MEDIC,You OK?
+0,15,5,JACK,Yeah .
+0,15,5,HAMMOND,Colonel O'Neill? What happened?
+0,15,5,JACK,"We encountered some very severe volcanic activity, Sir."
+0,15,5,HAMMOND,Who are all these people?
+0,15,5,SAM,"We don't really know, Sir They were all dead and dying around the gate. The air was highly toxic."
+0,15,5,DANIEL,And hot.
+0,15,5,HAMMOND,You better have Doctor Frasier take a look at you. We'll debrief as soon as you're ready.
+0,15,5,JACK,"Yes, Sir."
+0,15,6,HAMMOND,"You evacuated ten people from an alien planet, Colonel. Doctor Frasier says they're all human and it looks like they're going to live. This was one hell of a rescue operation."
+0,15,6,JACK,"Thank you, Sir"
+0,15,6,HAMMOND,There were no buildings in the area of any kind?
+0,15,6,SAM,"No sir. We don't know how far they walked, but it looked like they were trying to make it back to the Stargate."
+0,15,6,HAMMOND,What do we know about these devices they were wearing?
+0,15,6,SAM,"Well, they all emit low levels of radiation indicating an operative energy source, but there's no circuitry, moving parts or chips. We've never seen anything like it."
+0,15,6,DANIEL,I thought at first that they were from a parallel culture but it looks like they might be way ahead of us.
+0,15,6,HAMMOND,"We've determined humans on other planets originated here on Earth, right?"
+0,15,6,DANIEL,Yes.
+0,15,6,HAMMOND,"Then given our present state of technology, could they be ahead of us?"
+0,15,6,DANIEL,Yes. We'd be colonising space right now if it hadn't been for the Dark Ages. There was a period of over eight hundred years where science was heresy and anathema. Maybe they didn't have that setback.
+0,15,6,FEMALE OFFICER,General Hammond? The spokesperson for the rescued people is awake. He'd like to speak with you. All of you.
+0,15,8,OMOC,Who are you?
+0,15,8,HAMMOND,I'm Major General Hammond. This is Colonel O'Neill.
+0,15,8,JACK,Jack
+0,15,8,SAM,Samantha Carter
+0,15,8,DANIEL,Daniel Jackson
+0,15,8,OMOC,Where is this place?
+0,15,8,HAMMOND,You're on a planet called Earth. These people saved you.
+0,15,8,OMOC,Nothing could be further from the truth.
+0,15,8,DANIEL,"Well, unless I missed something, you're better off here than you were there."
+0,15,8,OMOC,There was a rescue transport on the way.
+0,15,8,JACK,"Well, half your people were already dead. I don't think it would have gotten there in time."
+0,15,8,OMOC,Perhaps that's more of a problem for you than it was for us.
+0,15,8,JACK,Beg your pardon?
+0,15,8,OMOC,I find it unbelievable that anyone so primitive could have deciphered the gate system.
+0,15,8,JACK,Did you say primitive?
+0,15,8,TEAL'C,I too am from a world very different from this one. Here life is highly valued.
+0,15,8,OMOC,Quite a statement for a Jaffa.
+0,15,8,HAMMOND,"Sir, I'd like to know who you are and what you know about the Goa'uld."
+0,15,8,OMOC,I am Omoc. Our world is called Tollan
+0,15,8,HAMMOND,And what do you know of the Goa'uld and Jaffa?
+0,15,8,OMOC,"We're aware of them, we don't interact with them."
+0,15,8,HAMMOND,"Well then, we share a common enemy."
+0,15,8,OMOC,Did I mention an enemy?
+0,15,8,HAMMOND,"I only meant, it might benefit everyone if your people and ours could be friends."
+0,15,8,OMOC,I demand you return everything that you have taken from us and allow us to go home.
+0,15,8,DANIEL,"Well, it could take a while for those volcanoes to quiet down. In the meantime, I'm a bit of a culture buff, I'd like to learn about your history and customs."
+0,15,8,OMOC,I've said enough. I'll say no more.
+0,15,9,HAMMOND,"Captain Carter, I want you to monitor the situation on Tollan very closely, as soon as it's safe there, I want those people gone."
+0,15,9,SAM,"Yes, Sir."
+0,15,10,DANIEL,New hobby?
+0,15,10,SAM,"Neat, huh? Miniature UAV with all the bells and whistles. I'm just adding heat sensors so I can send it through the gate to Tollan."
+0,15,10,DANIEL,"I was just down in the infirmary with one of the Tollan, trying to get them to talk to us. They only ask questions, they never answer them. As a matter of fact, one of them was asking a lot of questions about you."
+0,15,10,SAM,I thought they weren't interested in us.
+0,15,10,DANIEL,I didn't say us. I said you. General Hammond thinks maybe you'll have better luck getting some answers. He'd like to see you.
+0,15,10,OK.,
+0,15,11,HAMMOND,And I was hoping he would open up to you a bit more than Doctor Jackson or myself.
+0,15,12,HAMMOND,You remember Narim?
+0,15,12,SAM,Yes. From the planet. You were a lot dirtier then.
+0,15,12,NARIM,"Oh, Captain Carter, or is it Doctor?"
+0,15,12,SAM,Why don't we just make it Samantha?
+0,15,12,NARIM,You may call me Narim
+0,15,12,OK,
+0,15,12,HAMMOND,"Captain Carter, Mr Narim seems very interested in our planet. I thought maybe you'd like to escort him up to the surface to have a look."
+0,15,12,SAM,Really?
+0,15,12,NARIM,I would be very pleased to have that opportunity.
+0,15,12,HAMMOND,As long as you give me your word you'll stay with Captain Carter.
+0,15,12,NARIM,You have my word.
+0,15,12,SAM,Great! Let's go. Sir.
+0,15,13,NARIM,"I wanted to tell you, that I'm glad to be alive. So are the others."
+0,15,13,SAM,Good
+0,15,13,NARIM,Thank you. And please tell your friends.
+0,15,13,SAM,Oh. You can tell them yourself.
+0,15,13,NARIM,"No, I can't. I shouldn't be talking to you."
+0,15,13,SAM,Why not?
+0,15,13,NARIM,"You know, back on Tollan, I thought I was dying. I heard your voice and managed to open my eyes, and, when I saw you..."
+0,15,13,SAM,What?
+0,15,13,NARIM,"An old superstition. There was a time before reason and science when my ancestors believed in all manner of nonsense. Like the Sher'mau. The story goes that if a Sher'mau appears at the moment of death, she would take you to her dwelling in the stars."
+0,15,13,SAM,We call them angels.
+0,15,13,NARIM,Than you still believe in them?
+0,15,13,SAM,Some of us do.
+0,15,13,NARIM,"Ours were reported to be quite beautiful... and, when I saw you,well,you seemed to fit the description. And then I learned from Doctor Jackson that you're also a brilliant scientist"
+0,15,13,SAM,Wow!
+0,15,13,NARIM,I'm afraid I ask quite a few questions. Curiosity.
+0,15,13,SAM,It's a quality Omoc doesn't seem to share.
+0,15,13,NARIM,Can you tell me something about your world? Is it permitted?
+0,15,13,SAM,"Well, yeah. Of course."
+0,15,14,NARIM,A flying animal.
+0,15,14,SAM,Yeah. We call them birds.
+0,15,14,NARIM,Are there other animals.
+0,15,14,SAM,Oh yeah. Millions of them.
+0,15,14,NARIM,There have been none on Tollan for generations.
+0,15,14,SAM,"Well, I could bring you pictures, if you like."
+0,15,14,NARIM,I would like that very much. Thank you.
+0,15,14,SAM,Good.
+0,15,14,NARIM,"But, I think it would be best if Omoc didn't know."
+0,15,14,SAM,Why?
+0,15,14,NARIM,Omoc is not as harsh as he seems. He is only trying to protect us. And you.
+0,15,14,SAM,From what?
+0,15,14,NARIM,Perhaps. Perhaps we should go back.
+0,15,14,OK.,
+0,15,15,HARRIMAN,Chevron six. Engaged. Chevron seven. Locked.
+0,15,15,SAM,Launching UAV in 10 seconds.9...8...7...6...5...4...3.
+0,15,15,JACK,Yeah!
+0,15,15,SAM,"Successful launch. UAV is holding course and the wormhole should reach the Tollan gate in...3...2...1. Temperature - ground 1700 degrees Fahrenheit. Air seems to be in pockets, ranging from 1500 degrees down to 200."
+0,15,15,JACK,Sounds like L.A
+0,15,15,SAM,"If the heat doesn't get you, the atmosphere will. It's mostly pryroclastics, basalt, ash. A person could suffocate very quickly."
+0,15,15,JACK,How long before it cools down?
+0,15,15,SAM,"I don't know. Not any time soon. It doesn't look like it'll matter, anyway. That lava's flowing straight toward the gate. Computer predicts that at the current rate the gate will be buried in a couple of days."
+0,15,15,JACK,"Well, looks like we've got some guests for a while."
+0,15,16,OMOC,Are you absolutely certain?
+0,15,16,SAM,Yes. I'm sorry.
+0,15,16,OMOC,Then nature succeeded where we failed.
+0,15,16,DANIEL,What? You were going to seal the gate?
+0,15,16,OMOC,"Tollan is a world in cataclysm. Evacuation was complete, my team stayed to.Our final task was to close the gate, so that no-one could return and be harmed."
+0,15,16,SAM,"Well, wherever you were going, we can recalibrate the co-ordinates from here."
+0,15,16,OMOC,The new settlement world is outside the gate system. We'll need a ship.
+0,15,16,DANIEL,"Oh! We don't have ships. Not that kind, anyway."
+0,15,16,SAM,Our space program is relatively new.
+0,15,17,HAMMOND,"Well, the bottom line here is your survivors have become refugees. If they don't want to be here, we've got to relocate them somewhere."
+0,15,17,JACK,"You know, General, we have done some fairly good deeds out there. Maybe we should try calling in some markers."
+0,15,17,HAMMOND,
+0,15,17,JACK,"Yes, Sir."
+0,15,18,HAMMOND,"As an act of good faith, we're returning the devices you were wearing."
+0,15,18,OMOC,They are not weapons.
+0,15,18,HAMMOND,That's what our technicians thought.
+0,15,18,OMOC,So you had them tested? Not much of an act of good faith.
+0,15,18,DANIEL,"Well, actually, we couldn't figure out exactly what they were."
+0,15,18,HAMMOND,"I want to assure you, we're doing all we can to re-locate your people."
+0,15,18,OMOC,Are we to have some say in the matter?
+0,15,18,DANIEL,"Oh, yes. Self determination is a concept that's very important to us."
+0,15,18,HAMMOND,"We'll do our best. In the meantime, we'll make you as comfortable as possible, but I want you to understand, you're restricted to the immediate premises."
+0,15,18,OMOC,Are we prisoners?
+0,15,18,DANIEL,"No. No, absolutely not."
+0,15,18,HAMMOND,But you are from an alien environment. It's as much for your safety as for ours.
+0,15,19,SAM,Hey. How you doing.
+0,15,19,NARIM,"It may sound ridiculous, but I have no idea what to do with these items. Oh... well, our sleeping platforms adjust automatically to our body temperature. They don't come with accoutrements."
+0,15,19,SAM,It's OK. I'll show you. I brought you some things to take a look at.
+0,15,19,NARIM,Oh! Thank you.
+0,15,19,SAM,You're welcome. You might like to see this first.
+0,15,20,NARIM,I never thought I'd see a living animal.
+0,15,20,SAM,"His name's Schrödinger. Oh... it's kind of a joke really. His name, that is. Schrödinger's cat..."
+0,15,20,NARIM,Oh?
+0,15,20,SAM,"Right. Uh, see, there was an Earth physicist by the name of Erwin Schrödinger. He had this theoretical experiment. Put a cat in a box, add a can of poison gas, activated by the decay of a radioactive atom, and close the box."
+0,15,20,NARIM,Sounds like a cruel man.
+0,15,20,SAM,"Oh, no, no. It was just a theory. He never really did it. He said that if he did do it at any one instant, the cat would be both dead and alive at the same time."
+0,15,20,NARIM,Ah! Kulivrian physics. An atom state is indeterminate until measured by an outside observer.
+0,15,20,SAM,We call it quantum physics. You know the theory?
+0,15,20,NARIM,"Yeah, I've studied it,in among other misconceptions of elementary science."
+0,15,20,SAM,Misconception? You telling me that you guys have licked quantum physics?
+0,15,21,NARIM,Omoc.
+0,15,21,SAM,I'll come back and help you with this later.
+0,15,22,NARIM,I did not tell her anything.
+0,15,23,JACK,We set up a meeting with Tuplo for 0800 tomorrow.
+0,15,23,TEAL'C,Colonel O'Neill was correct. Many of the worlds we have visited are eager to be of service.
+0,15,23,HAMMOND,People! We have a problem. The refugees seem to have escaped.
+0,15,23,SAM,Escaped?
+0,15,23,JACK,How did they get past the guards.
+0,15,23,HAMMOND,You can ask them that when you find them.
+0,15,24,AIRMAN,They're over here.
+0,15,24,JACK,Hold fire.
+0,15,24,OMOC,We were merely observing the stars.
+0,15,24,JACK,"Well, you're all going to have to come back in now."
+0,15,24,OMOC,So we are prisoners.
+0,15,25,JACK,"Any idea how they got past the guards, Sir?"
+0,15,25,HAMMOND,"None. A surveillance video in the multi-purpose room was exposed to some sort of interference, just as the escape was taking place."
+0,15,25,JACK,Convenient.
+0,15,25,SAM,"Can the video be salvaged, maybe computer enhanced?"
+0,15,25,HAMMOND,"We're trying now. In the meantime, we should get this show on the road."
+0,15,26,JACK,Tuplo
+0,15,26,TUPLO,"Good to see you. General Hammond, before we begin, I wish to thank you for allowing me to be the first visitor to your Earth from the Land of Light. It is indeed an honour. My lord Omoc,the Land of Light is a world of eternal brightness, where fertility abounds. Our farms produce rich harvests. Our rivers are blessed with fish and fowl. We would be honoured to share our land with your people."
+0,15,26,OMOC,You have no idea who or what we are.
+0,15,26,TUPLO,"We know that you are in need, and that you are here among those who have proven themselves our friends. That is enough."
+0,15,26,OMOC,You're missing the point. His planet is unacceptable to us. These people are even more primitive than you.
+0,15,27,SAM,"Narim, can you tell me why Omoc is so, you know."
+0,15,27,NARIM,Obstinate?
+0,15,27,SAM,Yeah.
+0,15,27,NARIM,"The nearest planet in our solar system was called Surita. When we began to explore space, we learned she was inhabited."
+0,15,27,SAM,Did you make contact?
+0,15,27,NARIM,"Yes, when we thought they were sufficiently advanced. They were on a level very similar to yours."
+0,15,27,SAM,So what happened?
+0,15,27,NARIM,"We offered them a device,to produce unlimited productive energy. And they used it to make war."
+0,15,27,SAM,How bad was it?
+0,15,27,NARIM,"In one rotation of our planet, they had destroyed theirs."
+0,15,27,SAM,One day?
+0,15,27,NARIM,"The destruction shifted our planet's orbit point 3 tekanna, enough to begin a chain of events that... made our world unstable."
+0,15,27,SAM,So that would explain why he's so afraid to give a society like ours any of your technology.
+0,15,27,NARIM,Yes.
+0,15,27,SAM,"Tell me, what were you really doing outside last night."
+0,15,27,NARIM,"Omoc spoke the truth. By setting the position of your stars, we were able to calibrate the distance between Earth and the new home world. It is very far away, Samantha. Too far to hope for a ship in our lifetime."
+0,15,27,SAM,Have you ever thought about staying here? On earth?
+0,15,27,NARIM,"I would gladly stay, if only to spend more time with a certain inhabitant of this planet. I speak, of course, of Schrödinger."
+0,15,27,OMOC,Our escape was a test. You did exactly what I knew you would do. You used threat and force to solve your problem.
+0,15,27,SAM,You didn't give us any other choice.
+0,15,27,OMOC,You could have come for us unarmed
+0,15,27,JACK,Hey! You haven't exactly behaved like someone I wanna trust. I'm not gonna put my team at risk.
+0,15,27,OMOC,And I will not risk my people in your care.
+0,15,27,JACK,"Look Omoc. If you're so advanced, why don't you let your people decide for themselves?"
+0,15,27,SAM,"Narim, this is a free country. Every year we take in thousands of refugees fleeing repression. If you request asylum, you can stay here no matter what Omoc wants."
+0,15,27,OMOC,"You don't care anything about Narim's rights. You only want our technology, nothing more."
+0,15,27,JACK,"As a matter of fact, I wouldn't mind knowing how you got the hell out of this place. Technically speaking of course."
+0,15,27,OMOC,"You don't need to know how, only that we did, and we can do it again any time we need to."
+0,15,27,FEMALE OFFICER,"Colonel, General Hammond would like to see you and your team right away, Sir."
+0,15,27,JACK,Thank you.
+0,15,28,HARRIMAN,We've managed to augment the surveillance video from the multi-purpose room and some of the corridors with computer enhancement. You're not going to believe this.
+0,15,29,JACK,Wow! Cool!
+0,15,29,DANIEL,But totally impossible.
+0,15,29,SAM,"Well, only from the perspective of our limited science, apparently."
+0,15,29,HARRIMAN,"We have similar video of them passing through an elevator door and wall, on ground level."
+0,15,29,TEAL'C,This is knowledge far beyond that of the Goa'uld
+0,15,30,MAYBOURNE,"That's exactly what the President and Joint Chiefs want to hear. Colonel Maybourne, Sir. NID."
+0,15,30,JACK,Intelligence? What happened to Kennedy?
+0,15,30,MAYBOURNE,Promoted. I took his place.
+0,15,30,JACK,Promoted? Talk about failing upwards.
+0,15,30,MAYBOURNE,"Colonel O'Neill. I read about your conflict with Colonel Kennedy in his report. I assure you, such an attitude will not prevail with me, in either direction."
+0,15,30,JACK,I sense that.
+0,15,30,MAYBOURNE,Good.
+0,15,30,HAMMOND,"Would you mind telling me exactly why you're here, Colonel."
+0,15,30,MAYBOURNE,You didn't get my advance?
+0,15,31,MAYBOURNE,"That's an order releasing the Tollans to our section. You're to be congratulated, General, the Stargate program is finally paying off. This was quite a coup."
+0,15,31,DANIEL,Excuse me? These are people we're talking about.
+0,15,31,JACK,"These people do have rights, you know?"
+0,15,31,MAYBOURNE,Do they? Under what nation's jurisdiction.
+0,15,31,DANIEL,How about basic human rights?
+0,15,31,HAMMOND,I can't release them to you.
+0,15,31,MAYBOURNE,I beg your pardon?
+0,15,31,HAMMOND,I don't believe the President meant to release these people until they have been through quarantine. We don't have any idea what kinds of diseases they might be carrying.
+0,15,31,MAYBOURNE,"You're out of your league here, gentlemen. You're playing in my ballpark now, and I have the full authority of the President."
+0,15,31,HAMMOND,"So do I, Colonel. Why don't you ask the airman outside to show you to our guest quarters?"
+0,15,31,MAYBOURNE,That's OK. I'll wait.
+0,15,31,HAMMOND,"That wasn't an invitation. It was an order, Colonel."
+0,15,32,JACK,General? Didn't Doctor Frasier give the Tollans a clean bill of health?
+0,15,32,HAMMOND,"Just don't let her tell Maybourne that. At most, I've bought us a day, people. Find me some alternatives."
+0,15,32,JACK,"You're a good man, General."
+0,15,33,NARIM,Then it doesn't matter how I ask for asylum?
+0,15,33,SAM,"Maybourne would love that. But you'd be working for him, on his terms."
+0,15,33,NARIM,Then Omoc is correct. Your people will use our knowledge for war.
+0,15,33,SAM,"It's not us. We are dealing with another part of our Government, one that specialises in chronic paranoia."
+0,15,33,NARIM,Like Surita. It's going to happen again.
+0,15,33,SAM,"It doesn't have to ... that's why I am here. Narim, I am hoping that you can convince Omoc to consider one of the other planets we've presented."
+0,15,33,NARIM,"Look, it's no use. He's right. If they are all as primitive or more primitive than you are, Surita could happen on any of them."
+0,15,33,SAM,I wish you would stop calling us primitive.
+0,15,33,NARIM,"I'm sorry. I only meant technologically. You are anything but primitive, Samantha. What your mind doesn't know, your heart fills in."
+0,15,33,SAM,"I don't know what that means, exactly, but it's beautiful"
+0,15,33,NARIM,Which is exactly what it means.
+0,15,34,DANIEL,Just what exactly do you hope to get from these people?
+0,15,34,MAYBOURNE,"Well, for one, superior weapons."
+0,15,34,JACK,"They won't co-operate, you know."
+0,15,34,MAYBOURNE,"I assure you, Colonel, they will."
+0,15,34,HAMMOND,I just hung up from talking to the President. I guess Mr Maybourne has been talking to him recently.
+0,15,34,MAYBOURNE,"I did tell you I had his ear, General."
+0,15,34,HAMMOND,Colonel Maybourne has full authorisation to relocate the Tollans immediately.
+0,15,34,JACK,Of course he does.
+0,15,34,TEAL'C,To where will you take them?
+0,15,34,MAYBOURNE,To a secure community here in the Rockies.
+0,15,34,JACK,"Nice little community with high walls, guards, maybe a little barbed wire."
+0,15,34,MAYBOURNE,They're a valuable asset. They need to be protected.
+0,15,34,DANIEL,Nice... forced intellectual labour.
+0,15,34,SAM,And life imprisonment.
+0,15,34,MAYBOURNE,"These aliens will live a better life than most Americans. They'll have a great view, the best food, every convenience, everything they need."
+0,15,34,JACK,Everything except a life.
+0,15,34,DANIEL,"You know the Pentagon, intelligence, that I can understand, but the President? I voted for him!"
+0,15,34,MAYBOURNE,"Colonel, have the Tollans ready for transport at 0600 tomorrow."
+0,15,35,HAMMOND,
+0,15,35,JACK,"Because Maybourne isn't, Sir"
+0,15,35,SAM,"Sir, we wanted to talk to you about what we could do to keep Maybourne from taking the Tollan."
+0,15,35,TEAL'C,"General, we must ensure the Tollans escape."
+0,15,35,HAMMOND,I can't let you do that. We'd all be court martialed.
+0,15,35,JACK,"General, I'm about a hair away from not caring. However, Daniel..."
+0,15,35,DANIEL,"I can't be court martialed, Sir"
+0,15,36,OMOC,"The one you call Maybourne was here questioning my people, wanting us to take some sort of tests. And you expect me to trust you?"
+0,15,36,DANIEL,Please. Maybourne is from another division of government. My group is trying to protect you from him.
+0,15,36,OMOC,"Well, you're not doing a very good job."
+0,15,36,DANIEL,"No, apparently not."
+0,15,36,OMOC,Do you have a new place for us to go?
+0,15,36,DANIEL,Well... no.
+0,15,36,OMOC,Then we have nothing else to say.
+0,15,36,DANIEL,"Well, OK, I do know of a perfect place you could go, I just don't know how to get you there."
+0,15,36,NARIM,"Well, then, why do you speak of it."
+0,15,36,DANIEL,"Well, I was kind of hoping that maybe you'd have the technology to get there."
+0,15,36,OMOC,This is another trick to gain access to our technology.
+0,15,36,DANIEL,"No, no it isn't. Listen, there was a planet we went to where people were as advanced as you, maybe even more advanced. They were called the Nox."
+0,15,36,OMOC,"If you went there, why can't we."
+0,15,36,DANIEL,"Well because, they felt about us kind of like you do. They called us very young, which I suppose is a hair more polite than calling us primitive, but, same idea. Anyway, they sealed their Stargate, and I don't know how to communicate with them to get it open."
+0,15,36,OMOC,Do you know where this planet is?
+0,15,36,DANIEL,"Yes, I have the co-ordinates right here."
+0,15,36,OMOC,Then we must go back to the mountaintop.
+0,15,36,DANIEL,"Really? I can't, I can't get you out of here."
+0,15,36,OMOC,That's not a problem.
+0,15,36,DANIEL,"Right. Oh, but I have to go with you."
+0,15,36,OMOC,Give me your hand.
+0,15,36,DANIEL,What?
+0,15,36,OMOC,Do you wish to come or not?
+0,15,37,OMOC,The co-ordinates.
+0,15,38,DANIEL,"Listen, I'm no astronomer, but won't that take thousands of years to reach the Nox world?"
+0,15,38,OMOC,Why would it?
+0,15,38,DANIEL,"Well, that's just a laser, right? I mean light takes a long time to travel that far."
+0,15,38,OMOC,The distance between these two points seems far. Until you do this.
+0,15,38,DANIEL,
+0,15,38,OMOC,No. You wouldn't understand.
+0,15,38,DANIEL,"No, I guess not. I just hope the Nox do."
+0,15,39,NARIM,Samantha
+0,15,39,SAM,Narim?
+0,15,39,NARIM,Hello.
+0,15,39,SAM,"Oh my God, how did you do that?"
+0,15,39,NARIM,Very carefully. I have come to say goodbye. We'll be leaving soon.
+0,15,39,SAM,So you think Daniel's plan will work?
+0,15,39,NARIM,"Either way, I will be leaving. However, I will go reluctantly."
+0,15,39,SAM,Why?
+0,15,39,NARIM,"Because, as of tonight, we will never meet again."
+0,15,39,SAM,"Oh, come on, you'll forget about me in a heartbeat."
+0,15,39,NARIM,I thought you felt that way. That is why I brought you this.
+0,15,39,SAM,What is it?
+0,15,39,NARIM,"You have audio and visual recording devices, yes?"
+0,15,39,SAM,Yeah.
+0,15,39,NARIM,This one records emotions. My feelings for you. I have worn it each time we were together.
+0,15,39,SAM,How does it work?
+0,15,39,NARIM,Touch the red triangle and close your eyes.
+0,15,40,SAM,I don't know what to say.
+0,15,40,NARIM,We have a custom that expresses more than words.
+0,15,41,SAM,We have that custom too.
+0,15,42,DANIEL,"Whoops! Sorry. I gotta do some stuff in here. Actually, I need your help."
+0,15,42,SAM,You should probably get going. Don't forget Schrödinger.
+0,15,42,NARIM,Thank you.
+0,15,43,MAYBOURNE,"Now, I'll need at least one unit of escorts in the rear transport..."
+0,15,44,HAMMOND,Come.
+0,15,44,FEMALE OFFICER,"General Hammond. Sir. The refugees,they've disappeared."
+0,15,44,MAYBOURNE,"What do you mean, disappeared?"
+0,15,44,FEMALE OFFICER,"I mean.like Poof, Sir. They went through the walls."
+0,15,44,MAYBOURNE,I told you to keep guards inside the room to prevent that from happening again.
+0,15,44,FEMALE OFFICER,"We were inside the room, Sir. I stood in their path myself."
+0,15,44,MAYBOURNE,And?
+0,15,44,FEMALE OFFICER,"They went right through me, Sir."
+0,15,46,HAMMOND,What the hell's going on?
+0,15,46,HARRIMAN,The mainframe's having a nervous breakdown. Now the iris is failing.
+0,15,46,HAMMOND,Why is the blast door down? Get it up.
+0,15,47,MAYBOURNE,What are they doing. How did they get here?
+0,15,47,HARRIMAN,Gate's dialling. Chevron six engaged.
+0,15,47,MAYBOURNE,"Doctor Jackson, this is Colonel Maybourne. What you're doing is a court martialable offence."
+0,15,48,JACK,"He's not in the military, Colonel, and I think it'll be kind of tough to find a civilian law to cover this."
+0,15,48,MAYBOURNE,I'll have you removed from this program forever if you do this.
+0,15,48,HARRIMAN,Chevron seven is locked.
+0,15,49,MAYBOURNE,"Wherever you send them, we'll hunt them down."
+0,15,49,SAM,"We're not sending them anywhere, Sir. The gate was activated off world. Someone is sending for them."
+0,15,49,MAYBOURNE,Who?
+0,15,50,LYA,Hello.
+0,15,50,DANIEL,"Hello, Lya."
+0,15,50,MAYBOURNE,All personnel in the gate room. This is Colonel Maybourne. I have a Presidential order to take the aliens with me. Do not let them pass. Use force if necessary.
+0,15,51,LYA,Your race has learned nothing. But you have. The Tollans are most welcome to join the Nox. Please come.
+0,15,51,OMOC,Narim was right about you. Perhaps in time we'll meet again.
+0,15,51,MAYBOURNE,Stop! Take one more step and I'll be forced to have them open fire.
+0,15,52,LYA,Come.
+0,15,52,MAYBOURNE,Fire! Fire!
+0,15,53,JACK,"God, I love those people."
+0,15,54,JACK,"You did good, Daniel."
+0,15,54,TEAL'C,What of Maybourne?
+0,15,54,SAM,"Oohh, he's not a happy camper."
+0,15,54,HAMMOND,There'll be hell to pay when he gets back to Washington.
+0,15,54,JACK,What?
+0,15,54,DANIEL,"Oh, just thinking what the little guy with funny hair once told us."
+0,15,54,JACK,The very young do not always do as they're told.
+0,15,54,DANIEL,Yeah.

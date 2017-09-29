@@ -1,0 +1,344 @@
+Season,Episode,Scene,Character,Line
+0,84,0,STARGATE SG1,Episode 420
+0,84,0,"""ENTITY""",By Peter DeLuise
+0,84,1,DAVIS,Chevron 6 encoded.
+0,84,1,HAMMOND,Glad you could make it Colonel.
+0,84,1,O'NEILL,"Wouldn't miss it Sir, this is my favourite part."
+0,84,1,DAVIS,Chevron 7 locked.
+0,84,2,CARTER,Proceeding with MALP transit.
+0,84,2,DAVIS,
+0,84,2,O'NEILL,You look tense.
+0,84,2,DANIEL,No I'd say anxious.
+0,84,2,TEAL'C,I am neither tense nor anxious. Perhaps concerned.
+0,84,2,DANIEL,Why?
+0,84,2,TEAL'C,The address of this planet was procured from the repository of the Ancients.
+0,84,2,DAVIS,Receiving MALP telemetry.
+0,84,3,DANIEL,"Nothing I can see resembles anything that we know about the Ancients. Architecture, technology, writing."
+0,84,3,CARTER,Maybe what we're looking at came to this planet after the Ancients left it.
+0,84,3,HAMMOND,"Teal'c, do you recognise any of this?"
+0,84,3,TEAL'C,I do not General Hammond.
+0,84,3,O'NEILL,"Nope, neither do I. I'm just saying."
+0,84,4,HAMMOND,What's it doing?
+0,84,4,CARTER,Flying Sir.
+0,84,4,O'NEILL,MALP's can't fly.
+0,84,4,DANIEL,Apparently they can.
+0,84,4,O'NEILL,Shouldn't there be a memo on this stuff?
+0,84,4,TEAL'C,I do not believe we are still in control.
+0,84,4,CARTER,Run a systems diagnostic on the MALP.
+0,84,5,O'NEILL,It's stopped transmitting.
+0,84,5,CARTER,"Negative Sir, we're still getting a strong signal. We should be receiving video."
+0,84,5,DAVIS,"Er Major, you should take a look at this."
+0,84,5,CARTER,Sir very high frequency oscillations are being transmitted on a feedback loop.
+0,84,5,DANIEL,They may be trying to communicate.
+0,84,5,O'NEILL,They?
+0,84,5,DANIEL,Well whoever they are.
+0,84,5,O'NEILL,Exactly.
+0,84,5,DANIEL,What?
+0,84,5,CARTER,Sir I recommend we disengage the Stargate and analyse this data before proceeding.
+0,84,5,HAMMOND,Agreed. Terminate the link.
+0,84,6,CARTER,"Woah, we've got an EM spike, the system's overloading."
+0,84,6,O'NEILL,Shut it down.
+0,84,6,DAVIS,I can't get in.
+0,84,6,CARTER,Try override.
+0,84,6,DAVIS,Control systems are locked down. Arghhh.
+0,84,7,CARTER,The computer is no longer under our control.
+0,84,7,O'NEILL,Emergency disconnect Sir?
+0,84,7,HAMMOND,Do it. Major are you okay?
+0,84,7,CARTER,Yes Sir.
+0,84,9,FRAISER,"Let's get him to the infirmary. He's got 1st and 2nd degree burns Sir, mostly superficial. But I would like to run some more tests."
+0,84,9,HAMMOND,Very well.
+0,84,9,CARTER,The Stargate control systems and their redundancies are inoperative including the iris. The circuitry in these terminals has been completely fused.
+0,84,9,O'NEILL,Any idea what that was?
+0,84,9,CARTER,None Sir. The secondary systems are up and running but that was one hell of an EM spike. I'd like to run a full systems diagnostic on the main computer.
+0,84,9,FRAISER,After I treat this hand.
+0,84,9,CARTER,As soon as I get the systems up..
+0,84,9,FRAISER,It is a very bad burn Sam.
+0,84,9,CARTER,Five minutes.
+0,84,9,FRAISER,Now!
+0,84,9,O'NEILL,Do as the Doctor says.
+0,84,9,CARTER,Yes Sir.
+0,84,9,FRAISER,"Thank you Colonel. You, Daniel and Teal'c are next."
+0,84,9,DANIEL/O'NEILL,What? I'm fine.
+0,84,9,FRAISR,Yeah well I would like to be the judge of that. Some form of energy came through the Stargate. I think it's only prudent to make sure there are no physiological effects to those exposed. ASAP.
+0,84,10,O'NEILL,Who put her in charge?
+0,84,10,HAMMOND,The US Air Force.
+0,84,10,TEAL'C,"In medical matters, Dr. Fraiser may overrule those of any rank."
+0,84,10,O'NEILL,I'm not getting all my memos.
+0,84,12,FRAISER,By the looks of the control room I'd say you were both very lucky.
+0,84,12,DAVIS,I guess it could have been worse.
+0,84,12,CARTER,I'd like to know what it was trying to do in the first place. Unfortunately our best diagnostic tool for figuring that out has been trashed.
+0,84,12,FRAISER,You're all done here.
+0,84,12,CARTER,Thanks.
+0,84,13,TEAL'C,Reporting as requested.
+0,84,13,FRAISER,Thanks Teal'c. Just take a seat.
+0,84,14,DANIEL,"Can you freeze it just before it cuts out, I wanna get a video capture of this hub thing. Might be able to cross-reference the architecture. No, on second thought I don't think this place is even remotely connected to ancient Earth."
+0,84,14,CARTER,"There. This is the start of the strange high frequency oscillations. They began seconds after we lost video and started to multiply exponentially. After that the oscillations maxed out our equipment and made it impossible to easure them. Now if I isolate this smaller more detailed signal, and expand the timeline, there it's a waveform of some kind."
+0,84,14,DANIEL,The alien signal.
+0,84,14,CARTER,"Piggybacked on the MALP telemetry, that must be how it managed to come back through an outgoing wormhole. I can't properly analyse it until I get the computers back up, my hands are tied."
+0,84,14,DANIEL,Well there are other computers in the world.
+0,84,14,CARTER,Not that I can access. General Hammond has put the SGC under quarantine.
+0,84,16,HAMMOND,So information was accessed?
+0,84,16,DANIEL,Apparently.
+0,84,16,HAMMOND,Why? By what?
+0,84,16,CARTER,"We don't know Sir, but it branched out through very specific areas. Network and language software followed by system and application software."
+0,84,16,DANIEL,"Learning to read, learning to talk."
+0,84,16,CARTER,And knowledge of our systems.
+0,84,16,HAMMOND,You're saying something was inside our computers?
+0,84,16,DANIEL,Well we're just guessing at this point.
+0,84,16,CARTER,"Whatever it was, we managed to interrupt it before it could complete its entire scan of our computer."
+0,84,16,HAMMOND,Were you able to determine anything further from the MALP transmission?
+0,84,16,DANIEL,"Not a single reference on or off world that even remotely resembles the architecture, it's entirely alien."
+0,84,16,CARTER,We're running a virus scan and purging the entire mainframe but it's a long process. Our file allocation tables were corrupted by the surge and there are sectors we'll never be able to recover.
+0,84,16,HAMMOND,I'm maintaining DEFCON2 and keeping the mountain locked down until you can tell me with confidence there will be no further repercussions.
+0,84,16,CARTER,Yes Sir.
+0,84,18,O'NEILL,So it's a probe.
+0,84,18,DANIEL,No we're saying it's like a probe. We actually don't know what to call it.
+0,84,18,CARTER,We do know that before we were able to cut it off a structured EM wave managed to navigate over half of our computer system.
+0,84,18,TEAL'C,For what reason?
+0,84,18,DANIEL,Well we sent a probe to their world.
+0,84,18,O'NEILL,So we're calling it a probe?
+0,84,18,DANIEL,Sure. The point is we don't know what would have happened if we hadn't interrupted it.
+0,84,18,HAMMOND,It did an awful lot of damage.
+0,84,18,TEAL'C,Perhaps that was the intention.
+0,84,18,CARTER,Or maybe it was intended to have been passive but just so advanced it overwhelmed our system. We really have no way of knowing.
+0,84,18,FRAISER,What is this?
+0,84,18,CARTER,Those are the high frequency oscillations we received. They're time magnified and scaled for detail.
+0,84,18,FRAISER,Looks like high amplitude tracings of an EEG.
+0,84,18,DANIEL,Like a brain wave?
+0,84,18,FRAISER,Yeah.
+0,84,19,O'NEILL,Hello.
+0,84,19,CARTER,It's still here.
+0,84,19,O'NEILL,What the probe?
+0,84,19,CARTER,Whatever it is. It must have been sustaining itself in our secondary systems while we were cleaning up the computer.
+0,84,20,O'NEILL,Do I look fat?
+0,84,22,O'NEILL,Come here often? Yeah all right that's me.
+0,84,23,SILER,"Beg your pardon Sir, the dialling sequencer just went down."
+0,84,23,HAMMOND,Take it off line Sergeant.
+0,84,23,SILER,Yes Sir.
+0,84,23,DANIEL,It's learning.
+0,84,23,O'NEILL,Learning what?
+0,84,23,DANIEL,"About us. Who we are, what we do here."
+0,84,23,HAMMOND,Put a stop to it Major.
+0,84,23,CARTER,Yes Sir.
+0,84,23,DANIEL,We don't even know its intentions.
+0,84,23,HAMMOND,"Doctor, I can't allow an alien technology into our computer systems whatever it's intentions."
+0,84,25,HAMMOND,Have we maintained quarantine?
+0,84,25,CARTER,"Yes Sir, for the moment we're still isolated."
+0,84,25,HAMMOND,I don't want to risk contamination of the outside world. I want whatever this is stopped right here right now.
+0,84,26,O'NEILL,I think it likes me.
+0,84,26,CARTER,"From what I can decipher Sir, it's like a computer program incredibly invasive but as complex as a DNA strand and it's growing. It's eating more and more memory."
+0,84,26,HAMMOND,Can you remove it?
+0,84,26,CARTER,"Well this will take a complete shutdown of all systems on base connected to the mainframe, followed by a low level format of all drives. Unfortunately Sir, any and all data not properly backed up before this event will be destroyed. But it's the only way to be sure."
+0,84,26,HAMMOND,Understood. Do it.
+0,84,26,CARTER,We'll be out of commission for a while Sir.
+0,84,26,HAMMOND,I've already alerted all off world teams to stay put until further notice.
+0,84,26,CARTER,Yes Sir. Sergeant?
+0,84,26,SILER,Stand by for a base wide systems power down. Powering down.
+0,84,26,O'NEILL,Hey.
+0,84,28,SILER,All scans came back clean Sir.
+0,84,28,HAMMOND,Thank you Sergeant.
+0,84,28,CARTER,We may have only lost data from the last 24 hours before the event. We'll know more when I can hook up with the SGC archives at the Pentagon.
+0,84,28,HAMMOND,I'd like you and Sergeant Siler to double-check your results before we do that.
+0,84,28,CARTER,Yes Sir.
+0,84,28,SILER,Major?
+0,84,28,CARTER,You're kidding.
+0,84,29,O'NEILL,Carter! Emergency lighting?
+0,84,29,CARTER,"In the MALP room yes Sir, a small power usage anomaly. General Hammond said we should check it out before we resume normal operations."
+0,84,29,O'NEILL,Forget to change a light bulb Siler?
+0,84,29,SILER,"Not my job Sir. Yes sir, lightbulb, very amusing."
+0,84,30,O'NEILL,It's warm.
+0,84,30,CARTER,Fire?
+0,84,30,SILER,Alarms would be going off by now Major.
+0,84,30,O'NEILL,It's been welded from the inside.
+0,84,30,CARTER,"By who, there's been nobody on this level since the power shutdown."
+0,84,30,O'NEILL,Get a torch.
+0,84,33,O'NEILL,What is it?
+0,84,33,CARTER,I don't know Sir. I think we robbed the alien program of an environment so it created one.
+0,84,33,TEAL'C,It appears to be sustaining itself from the electric power from the emergency light system.
+0,84,33,CARTER,"Must have got into the MALP's, survived on battery power while we were shut down and built this memory mainframe while we were on emergency power."
+0,84,33,O'NEILL,Memory mainframe?
+0,84,33,CARTER,I know for a fact we wiped out a ton of it. This program must use incredible compression; it must be able to reproduce itself from a fraction of its original size. And now it's expanding into whatever available memory it can find.
+0,84,33,O'NEILL,"Okay. General, we're gonna need some claymores down here."
+0,84,33,DANIEL,You wanna blow it up?
+0,84,33,O'NEILL,Yes.
+0,84,33,DANIEL,Why?
+0,84,33,O'NEILL,Why?
+0,84,33,CARTER,"Sir we've completely isolated this area of the base, there is no chance of reinfection of our computer."
+0,84,33,DANIEL,It's obviously trying to survive.
+0,84,33,O'NEILL,So do bacteria.
+0,84,33,CARTER,It's trying to communicate.
+0,84,33,O'NEILL,So do bact.
+0,84,33,CARTER,"Sir I agree with Daniel. This is a life form, obviously intelligent. Now we have been in the exact same position as this alien entity I don't know how many times. On another planet, cut off from our world, trying to stay alive."
+0,84,34,HAMMOND,What in God's name?
+0,84,34,O'NEILL,"Well General, whatever got into our computers has apparently built a nest."
+0,84,34,HAMMOND,Overnight?
+0,84,34,CARTER,According to the security log there hasn't been any human activity in the MALP room for over 36 hours.
+0,84,34,O'NEILL,"For the record Sir, I want to blow it to hell, these folks wanna chat with it."
+0,84,34,HAMMOND,Are you absolutely certain it can't reconnect to our computers?
+0,84,34,O'NEILL,General?
+0,84,34,CARTER,It's surviving on an emergency circuit which is battery powered so it's isolated from the rest of the base. We can kill it just by severing that connection.
+0,84,34,HAMMOND,How do you intend to proceed?
+0,84,34,CARTER,"Well Sir, it's provided an interface, I'd like to at least make contact with it. If anything goes wrong, we just cut the power."
+0,84,34,HAMMOND,Very well.
+0,84,35,DANIEL,Maybe it's trying to figure out why we sent a probe to its world.
+0,84,36,HAMMOND,Major Carter?
+0,84,36,O'NEILL,Carter!
+0,84,38,FRAISER,"Start an EEG and an EKG. On my count. 3,2,1. Are we in? Charge the paddle to 100. Take over. It's normal sinus rhythm. Sir?"
+0,84,38,O'NEILL,What? What is it?
+0,84,38,FRAISER,These readings match those that infected the computer in the first place. It's inside her.
+0,84,40,FRAISER,"These weaker readings are Major Carter's, these are the entity's."
+0,84,40,DANIEL,How can a computer program be inside a human brain?
+0,84,40,FRAISER,Sam said the entity was looking for memory within which to expand. The human brain is capable of storing terabytes of information.
+0,84,40,HAMMOND,How do you intend to remove it?
+0,84,40,FRAISER,"I doubt it's even possible Sir. I mean more and more of her brain is being stimulated and it's impossible to tell whether her memory is being suppressed, overwritten or erased entirely."
+0,84,40,TEAL'C,General Hammond. I recommend Major Carter be placed under armed guard.
+0,84,40,DANIEL,What?
+0,84,40,TEAL'C,"If an alien entity has somehow invaded her body, then she is a security risk and must be treated as such."
+0,84,40,HAMMOND,I agree with Teal'c. The entity has fooled us twice. I'll be damned if I let it do it again. She's to remain under guard at all times.
+0,84,40,FRAISER,Yes Sir.
+0,84,42,O'NEILL,Carter? She's conscious.
+0,84,43,O'NEILL,Can you talk?
+0,84,43,FRAISER,"Colonel, her PET scan resembles that of someone who has been the victim of a stroke. Parts of her brain seem very active, other seem dormant or suppressed. The entity does has complete motor control however, it might be able to communicate with a speech synthesizer if I explain its operation."
+0,84,43,O'NEILL,Just concentrate on getting it out of her will ya?
+0,84,43,FRAISER,I don't know how Sir.
+0,84,43,O'NEILL,"What about the Tok'ra or Asgard, don't they owe us a favour by now?"
+0,84,43,HAMMOND,"Til this situation is resolved Colonel, we're still under quarantine. That means from our allies as well. We cannot risk the entity leaving this facility."
+0,84,44,SILER,Looks like it used a capacitor from the MALP to deliver a charge right through the keyboard Sir.
+0,84,44,O'NEILL,Well don't touch it.
+0,84,44,SILER,Yes Sir.
+0,84,44,DANIEL,"Sam said it was growing, expanding."
+0,84,44,TEAL'C,Perhaps the entity that possessed her sensed that Major Carter's mind was a more efficient storage vessel?
+0,84,44,O'NEILL,It was a trap.
+0,84,44,DANIEL,Trap?
+0,84,44,O'NEILL,Yep. It was watching us the whole time.
+0,84,44,DANIEL,"Er, so you're saying it knew Sam and I wanted to make contact with it?"
+0,84,44,O'NEILL,Yeah.
+0,84,44,TEAL'C,And this device was created as a delivery system in order to invade the body of Major Carter.
+0,84,44,O'NEILL,Yes.
+0,84,44,DANIEL,"So basically you're saying if we had just listened to you in the first place and blown it up. No seriously, I'm asking, is that what you're saying?"
+0,84,44,TEAL'C,"If we had destroyed the entity Daniel Jackson, Major Carter would not have been adversely affected."
+0,84,44,DANIEL,"Okay, I know your first instinct is to protect, both of you, that's your job, that's what you do but no matter what happens, no matter how this turns out, Sam wasn't wrong to try to communicate with it."
+0,84,47,ENTITY,O'Neill.
+0,84,47,O'NEILL,That's right. Go get the Doc. And you are?
+0,84,47,ENTITY,I am within. You are O'Neill.
+0,84,47,O'NEILL,"Yeah, we've established that."
+0,84,47,ENTITY,This one has memory of you.
+0,84,47,O'NEILL,The one you're talking about is a person. Her name is Major Samantha Carter.
+0,84,47,ENTITY,Then I am Major.
+0,84,47,O'NEILL,No. No you're not.
+0,84,47,FRAISER,"We understand you have taken control of Major Carter, but you're not her."
+0,84,47,ENTITY,There was no other choice. No other place to go. You wish to terminate.
+0,84,47,O'NEILL,Still do.
+0,84,47,ENTITY,But you will not. Not now. I have observed. You value the life of one.
+0,84,47,O'NEILL,Yes we do.
+0,84,47,ENTITY,This one is important.
+0,84,47,O'NEILL,She is.
+0,84,47,ENTITY,"For this reason, this one was chosen. You will not terminate this one in order to destroy me."
+0,84,47,FRAISER,It went into Sam out of self preservation.
+0,84,47,ENTITY,I cannot be removed from this mind without terminating. You will not terminate this one. None of you will. Therefore I will survive.
+0,84,48,FRAISER,The entity insists Sam's mind is intact but I can't detect anything beyond the barest trace. I believe even if I was somehow able to remove it she would be essentially brain dead
+0,84,48,HAMMOND,I see.
+0,84,48,DANIEL,Then why does the entity insist that Sam's mind is still within.
+0,84,48,O'NEILL,It's the only way to keep us from killing it.
+0,84,48,DANIEL,Or it's telling the truth and we just can't detect it.
+0,84,48,FRAISER,"Yeah well, even if Sam is still in there somewhere it won't be for long. The entity's influence is still growing within her mind and there is nothing I can do to stop it."
+0,84,48,TEAL'C,What course of action remains?
+0,84,48,DANIEL,It wants to survive so we offer to send it home.
+0,84,48,HAMMOND,This alien technology is capable of travelling back to us through an outgoing wormhole. I won't risk the same thing happening again. I've already ordered that the co-ordinates be locked out of the dialling computer.
+0,84,48,DANIEL,Let me talk to it. Maybe we can convince it to leave willingly.
+0,84,48,HAMMOND,Very well Dr. Jackson. Dismissed. Jack?
+0,84,48,O'NEILL,Sir?
+0,84,48,HAMMOND,We may have to make some difficult choices. I know that Major Carter means a great deal to you.
+0,84,48,O'NEILL,She's a very valuable member of my team Sir.
+0,84,48,HAMMOND,Yes she is.
+0,84,49,DANIEL,My name is Daniel.
+0,84,49,ENTITY,I am aware.
+0,84,49,DANIEL,"Right, you read my file."
+0,84,49,ENTITY,Yes.
+0,84,49,DANIEL,Then you know I am a scientist.
+0,84,49,ENTITY,Yes. You have determined I cannot be extracted.
+0,84,49,DANIEL,Yes.
+0,84,49,ENTITY,I will now offer information in exchange for continued survival.
+0,84,49,DANIEL,"We don't want your information, we want Sam."
+0,84,49,ENTITY,Leaving this mind would cause termination.
+0,84,49,DANIEL,You left that thing you constructed in the MALP room. Go back.
+0,84,49,ENTITY,I have already grown beyond its capacity.
+0,84,49,DANIEL,Why did you do this? Why did you come here in the first place?
+0,84,49,ENTITY,You attacked.
+0,84,49,DANIEL,"No, we sent a probe."
+0,84,49,ENTITY,Yes.
+0,84,49,DANIEL,It's something we do to determine whether or not a place is safe for humans.
+0,84,49,ENTITY,Radio energy was emitted from your probe. Contagion. Much damage was caused within.
+0,84,49,DANIEL,Within what?
+0,84,49,ENTITY,Within us. It spread before we understood it was poison.
+0,84,49,DANIEL,You're saying your world was damaged by radio waves from one probe?
+0,84,49,ENTITY,Yes.
+0,84,49,DANIEL,"We didn't mean to hurt you, it was a misunderstanding."
+0,84,49,ENTITY,Yet is done.
+0,84,49,DANIEL,"So you came here to, to what?"
+0,84,49,ENTITY,Preserve.
+0,84,49,DANIEL,Preserve your world?
+0,84,49,ENTITY,Yes.
+0,84,49,DANIEL,How?
+0,84,49,ENTITY,By destroying you.
+0,84,49,O'NEILL,Well that's not going to happen.
+0,84,49,ENTITY,"Transmission was interrupted. If I had been able to complete transmisson, you would have been destroyed. My world would have been preserved."
+0,84,49,DANIEL,"Well in a way, you succeeded. We won't go back there. You can repair the damage we did and we won't send any more probes through."
+0,84,49,O'NEILL,Yes we will.
+0,84,49,DANIEL,Jack?
+0,84,49,O'NEILL,"We'll send dozens of them, one after another. I don't care what it does."
+0,84,49,ENTITY,No.
+0,84,49,O'NEILL,Leave her now.
+0,84,49,ENTITY,You won't.
+0,84,49,O'NEILL,"You've read my file, think again."
+0,84,49,ENTITY,I must preserve.
+0,84,49,O'NEILL,Fine stick to your guns then!
+0,84,49,DANIEL,Jack?
+0,84,49,O'NEILL,"Daniel, we're gonna do this my way."
+0,84,49,ENTITY,You can't.
+0,84,49,O'NEILL,General?
+0,84,49,HAMMOND,You're damned right we can.
+0,84,49,ENTITY,"No, please."
+0,84,49,O'NEILL,Leave her.
+0,84,49,ENTITY,I must preserve.
+0,84,49,O'NEILL,"If you wanna preserve your world, leave Major Carter right now."
+0,84,50,O'NEILL,Stand down. Let her go.
+0,84,51,FRAISER,"We've got an emergency situation, code"
+0,84,52,TEAL'C,I believe the alien is attempting to return to the mainframe.
+0,84,54,FRAISER,"Still no change. I don't know if she ever told you this Colonel, but Sam made a living will. No extraordinary means."
+0,84,54,O'NEILL,"Yeah, she told me."
+0,84,54,FRAISER,"There's no brain activity of any kind, no brain wave from either Sam or the entity. She's being kept alive entirely on life support. I think it's time to let her go Sir."
+0,84,54,O'NEILL,"Just give it a minute, huh."
+0,84,55,DANIEL,"Just thought you should know, Hammond ordered the mainframe thing in the MALP room destroyed in case the entity managed to find it's way back in there, it's probably what it was trying to do."
+0,84,57,DAVIS,Sir we're go for a systems restart.
+0,84,57,HAMMOND,Proceed Sergeant.
+0,84,57,DAVIS,Yes Sir.
+0,84,58,DAVIS,All operational systems are back on line.
+0,84,59,SILER,Get back.
+0,84,60,DAVIS,It's the MALP room Sir.
+0,84,60,HAMMOND,
+0,84,63,SILER,I think our friend is back Sir.
+0,84,63,O'NEILL,Alright lets blow it.
+0,84,64,DANIEL,"Wait, wait, wait, wait, wait. Look at this."
+0,84,64,TEAL'C,The entity.
+0,84,64,DANIEL,No it said it couldn't go back. It's Sam.
+0,84,64,O'NEILL,"Daniel, I shot her twice."
+0,84,64,DANIEL,"After it transferred Sam's consciousness out of her body. You killed the entity after it put Sam into this, this thing. She's in here."
+0,84,64,O'NEILL,Why? Why would it do that?
+0,84,64,DANIEL,You demanded it. You threatened to send an army of probes through to its homeworld. Saving Sam and allowing itself to be killed was the only way to preserve its homeworld.
+0,84,65,O'NEILL,Get me Hammond.
+0,84,65,HAMMOND,Hammond.
+0,84,65,O'NEILL,"General, we've got a situation down here."
+0,84,65,HAMMOND,Same here Colonel. I'm on my way.
+0,84,67,FRAISER,This EEG matches Sam's. I don't know how but it's her.
+0,84,67,HAMMOND,So what do we do?
+0,84,67,FRAISER,There's nothing I can do Sir but to provide a conduit for her to return into her own body.
+0,84,68,TEAL'C,The entity has deceived us on several occasions.
+0,84,68,HAMMOND,Go ahead Doctor.
+0,84,68,FRAISER,Yes Sir.
+0,84,69,FRAISER,She's back.
+0,84,70,O'NEILL,"Hey Carter, where you been?"
+0,84,70,CARTER,It's gone?
+0,84,70,HAMMOND,Yes it is.
+0,84,70,CARTER,I was shouting for you to hear.
+0,84,70,O'NEILL,We heard.

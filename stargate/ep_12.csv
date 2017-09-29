@@ -1,0 +1,370 @@
+Season,Episode,Scene,Character,Line
+0,12,0,STARGATE SG1,Episode 113
+0,12,0,"""HATHOR""",By Jonathan Glassner Two archaeologists are inside a pyramid
+0,12,0,KLEINHOUSE,"We're almost through. Okay, now push it! Push!"
+0,12,1,KLEINHOUSE,Would you look at this? Many of us suspected there was another chamber but the Mexican Government wouldn't let us dig to confirm it till now.
+0,12,1,COLE,What's this? It looks like a sarcophagus.
+0,12,1,KLEINHOUSE,"Burial chambers in Mayan temple mounds are very rare indeed. Here. Look for glyphs, pictographs. Something to give us a hint who's inside."
+0,12,1,KLEINHOUSE,Hieroglyphics!
+0,12,1,COLE,My God! They're Egyptian! That doesn't make any sense. Egyptian hieroglyphics in a Mayan temple?
+0,12,1,KLEINHOUSE,I read a journal article once by a young archaeologist. What was his name? Dr Jackson. Dr Daniel Jackson. He was laughed right out of academia for his preposterous ideas about a connection between various civilisations.
+0,12,1,COLE,Maybe Dr Jackson was onto something. I recognise one of these pictographs. It's of the goddess Hathor. The Egyptian goddess.
+0,12,2,HATHOR,Where is Ra?
+0,12,2,KLEINHOUSE,I assume you mean the god Ra?
+0,12,2,HATHOR,You are not Goa'uld.
+0,12,2,KLEINHOUSE,What's that?
+0,12,4,DANIEL,Dr Kleinhouse and his associates were killed brutally. The Mexican authorities assumed it was by crypt robbers looking to steal anything in the burial vault with this.
+0,12,4,HAMMOND,And who thought to send it here?
+0,12,4,DANIEL,"Dr Kleinhouse's other associates who were outside the pyramid. They recognised the significance of an Egyptian sarcophagus in a Mayan temple. And since I was the only one ever to research cross pollination of ancient cultures, they tracked me down."
+0,12,4,JACK,I know this thing.
+0,12,4,DANIEL,Yeah. I recognise it too.
+0,12,4,JACK,It's like that thing that was on Ra's ship that.
+0,12,4,DANIEL,Brought Sha're and I back from the dead.
+0,12,4,HAMMOND,Well how could it be?
+0,12,4,DANIEL,"I don't know. But if it does belong to a Goa'uld, it would explain a lot. Like why there's no one in it and why it has Egyptian hieroglyphs on it instead of Mayan."
+0,12,5,AIRMAN,"General Hammond, sir."
+0,12,5,HAMMOND,What is it Airman?
+0,12,5,AIRMAN,"Sir, a person was just arrested on the mountains surface for attempting an unauthorised entrance."
+0,12,5,HAMMOND,Happens every now and then. Let the police handle him.
+0,12,5,AIRMAN,"It's a her, sir. Major Lowel thought you would want to talk to her yourself."
+0,12,5,HAMMOND,Why?
+0,12,5,AIRMAN,"Sir, she knew the Stargate was here."
+0,12,7,AIRMAN,Sirs.
+0,12,8,HAMMOND,"Ma'am, I'm General Hammond, US Air Force."
+0,12,8,HATHOR,Yes.
+0,12,8,HAMMOND,And you are?
+0,12,8,HATHOR,We are Hathor. You would be wise to unbind us and kneel before your goddess.
+0,12,8,JACK,Hello.
+0,12,8,DANIEL,Hathor?
+0,12,8,HATHOR,Yes.
+0,12,8,JACK,Have you heard of her?
+0,12,8,DANIEL,"Hathor was the Egyptian goddess of fertility, inebriety and music."
+0,12,8,JACK,"Sex, drugs and rock'n'roll?"
+0,12,8,DANIEL,"In a manner of speaking. Um, are the cuffs absolutely necessary?"
+0,12,9,DANIEL,Surprised we didn't chain her to the bed too. What's she gonna do? Beat us up? I'm sorry about that.
+0,12,9,HATHOR,Thank you. Your efforts shall not go unrewarded.
+0,12,10,HAMMOND,"So Ms Hathor,. would you mind telling us why exactly you were trying to get into this facility?"
+0,12,10,HATHOR,We were drawn to the Chaapa-ai.
+0,12,10,JACK,Chaapaai? That's what your monk buddies on Chulak call the Stargate.
+0,12,10,DANIEL,"Um, yes. It's also Abydonian and ancient Egyptian."
+0,12,10,HAMMOND,"What I wanna know is what makes you think it's here, ma'am?"
+0,12,10,HATHOR,We were drawn to it.
+0,12,10,JACK,We?
+0,12,10,HATHOR,Where is Ra?
+0,12,10,DANIEL,Ra is.
+0,12,10,HAMMOND,Dr Jackson! Need to know.
+0,12,10,DANIEL,Ra. Ra is a myth. He doesn't actually exist.
+0,12,10,JACK,Miss... Hathor. What made you think this Chaapa-ai was here?
+0,12,10,HATHOR,The Chaapa-ai was what gave power to our father and our husband.
+0,12,10,HAMMOND,Who's she talking about Dr Jackson?
+0,12,10,DANIEL,Hathor was both the daughter and wife of Ra in Egyptian mythology until Ra was said to have corrupted her.
+0,12,10,HATHOR,We were not corrupted!
+0,12,10,DANIEL,Of course. No disrespect intended.
+0,12,10,HATHOR,We are the mother of all pharaohs.
+0,12,10,JACK,Of course we are! General. Why don't we call County Mental Health? See if we can find a nice little rubber room for the lady.
+0,12,10,HAMMOND,"Crazy or not, I wanna know what she knows. Dr Jackson, talk to her, see what you can find out but don't tell her anything she doesn't already know."
+0,12,10,DANIEL,Okay.
+0,12,10,HATHOR,"You, with the crown of marble!"
+0,12,10,JACK,She might mean you sir.
+0,12,10,HATHOR,You are the ruler here?
+0,12,10,HAMMOND,"Yes, ma'am."
+0,12,10,HATHOR,May we take your hand?
+0,12,10,HAMMOND,Why?
+0,12,10,HATHOR,We wish to kiss it. To bless you with fertility and joy.
+0,12,10,JACK,"Well, you can't pass that up, sir."
+0,12,10,HAMMOND,"Yes, I can."
+0,12,10,DANIEL,"Sir, it might help me if you play into her delusions, just to keep her talking."
+0,12,11,HATHOR,"Now, where is Ra?"
+0,12,11,DANIEL,"Ra, your husband?"
+0,12,12,HATHOR,Where is Ra?
+0,12,12,DANIEL,"I hate to be the one to tell you, but Ra is dead."
+0,12,12,HATHOR,How?
+0,12,12,DANIEL,He was killed.
+0,12,12,HATHOR,This is wonderful.
+0,12,12,DANIEL,It is?
+0,12,12,HATHOR,How did he die?
+0,12,12,DANIEL,We killed him.
+0,12,12,HATHOR,"Then we owe you our gratitude indeed. Perhaps we should choose you to be our new beloved. Together, we should celebrate.Come."
+0,12,14,JACK,Do we really think anyone's gonna believe that woman if she goes round blabbing about a Stargate? I mean I have a hard time believing this woman down on 73rd who walks around talking about these little devil people that live in her hair. Even though she could use a little conditioner.
+0,12,14,TEAL'C,"Is not the question, how does she know of the Stargate?"
+0,12,14,HAMMOND,Dr Jackson's trying to figure that out now.
+0,12,15,DANIEL,"I believe I have figured that out, sir. She knows a hell of a lot. Either she's studied her Egyptian mythology very carefully or."
+0,12,15,HAMMOND,"Or what, Dr Jackson?"
+0,12,15,DANIEL,Or she's actually lived it.
+0,12,15,HAMMOND,Meaning?
+0,12,15,DANIEL,"She's a Goa'uld, sir."
+0,12,15,SAM,What?
+0,12,15,JACK,How is she a Goa'uld?
+0,12,15,TEAL'C,She could not have come through the Stargate. We would have been alerted.
+0,12,15,DANIEL,She's been imprisoned in stasis on Earth for almost 2000 years.
+0,12,15,JACK,Is mental illness contagious?
+0,12,15,DANIEL,"General Hammond, I think she is Hathor. Or at least the Goa'uld that took on the persona of Hathor."
+0,12,15,SAM,Back up. Did you say she's a Goa'uld?
+0,12,15,DANIEL,"Yes. She feels indebted to us for killing Ra, who she was trying to stop from enslaving Earth. See, she's always been a friend of humanity. See, that's what it was like in the Book of the Dead, Hathor was a much loved goddess."
+0,12,15,HAMMOND,Are you saying she wants to help us?
+0,12,15,DANIEL,Yes. She wants to help us defeat Apophis and protect us from other evil Goa'uld's.
+0,12,15,SAM,And you bought into all this?
+0,12,15,DANIEL,"General, I like permission to have Hathor come down here and debrief us."
+0,12,15,JACK,"Whoa, Danny! I don't think so."
+0,12,15,DANIEL,General. I think you sense what I do. Hathor is a friend.
+0,12,16,HAMMOND,"Yes, I do believe that. Bring her down."
+0,12,16,SAM,Are you kidding?
+0,12,16,JACK,"Whoa, General!"
+0,12,16,HAMMOND,Colonel!
+0,12,16,JACK,"Sir, are you sure?"
+0,12,16,HAMMOND,"Yes, Colonel."
+0,12,16,TEAL'C,General. I have served the Goa'uld. I have yet to meet a good one.
+0,12,16,HAMMOND,Maybe that's because you served the wrong one.
+0,12,16,SAM,"Sir, at least close the blast door, so she can't see the Gate."
+0,12,17,HATHOR,We thank you for allowing us in your court.
+0,12,17,HAMMOND,You're welcome.
+0,12,17,HATHOR,We would appreciate a drink from your water.
+0,12,17,HAMMOND,Colonel.
+0,12,17,JACK,General?
+0,12,17,HAMMOND,"Colonel, water for the lady."
+0,12,17,JACK,"Ah. Yes. Of course, sir."
+0,12,18,HATHOR,You are the one who is responsible for destroying the vile one Ra.
+0,12,18,JACK,I would be the one.
+0,12,19,HATHOR,"For you, we will forever hold a special place here."
+0,12,19,JACK,"Well that's, very special. Thank you."
+0,12,20,TEAL'C,She is a Goa'uld.
+0,12,20,HATHOR,"Jaffa. In service to Apophis, the serpent. Vile creature that he is."
+0,12,20,TEAL'C,I am no longer in the service of Apophis.
+0,12,20,HATHOR,"We despise all that Ra, Apophis and their kind do and believe."
+0,12,20,DANIEL,It's all right. So does Teal'c.
+0,12,20,HATHOR,Then your enemy is our enemy. Together we can defeat them.
+0,12,20,TEAL'C,I will serve no Goa'uld.
+0,12,21,DANIEL,What do you say General?
+0,12,21,HAMMOND,I say we should make the lady comfortable and welcome her.
+0,12,21,SAM,"General, sir, I have a problem with this."
+0,12,21,DANIEL,"Hathor, this is Captain Carter."
+0,12,21,HATHOR,You are an exceedingly beautiful woman.
+0,12,21,SAM,"Thank you. So are you. General Hammond, I believe we should keep Ms Hathor under house arrest until we can better assess."
+0,12,21,HAMMOND,"Don't be impolite, Captain!"
+0,12,21,SAM,"Impolite, sir? She's a Goa'uld."
+0,12,21,HAMMOND,"She is a guest of this facility, Captain."
+0,12,21,SAM,"General, this is crazy, it doesn't make any sense. Colonel O'Neill?"
+0,12,21,HAMMOND,"I am in command of this facility, Captain Carter, not Colonel O'Neill. Is that understood?"
+0,12,21,SAM,"But, Sir.."
+0,12,21,HAMMOND,Understood?
+0,12,21,SAM,"Well, sir, with respect, it seems this woman has all you guys under some spell or something."
+0,12,21,HAMMOND,"Are you questioning my orders, Captain?"
+0,12,21,SAM,"Yes, sir, I guess I am. Colonel O'Neill, are you gonna back me up on this?"
+0,12,21,JACK,"Yes, Captain. If I see that there's a problem."
+0,12,21,HAMMOND,"Thank you Colonel. Now, if you will follow me, I would be honoured to give you a tour of our facility."
+0,12,23,DANIEL,This is the guest quarters.
+0,12,23,HATHOR,This will do fine.
+0,12,23,HAMMOND,We'll post a couple of guards outside.
+0,12,23,HATHOR,"Guards? To protect us, or to protect every one else?"
+0,12,23,HAMMOND,Colonel?
+0,12,23,JACK,Sir?
+0,12,23,HAMMOND,Let's forget the guards.
+0,12,23,JACK,"Are you sure, General?"
+0,12,23,HATHOR,"You can trust us, Colonel."
+0,12,23,JACK,"Oh, that's not in question, ma'am. But it is our policy to secure. all quarters. Of course. The guards probably aren't necessary."
+0,12,23,HATHOR,Our thanks to you.
+0,12,23,JACK,"Um, I suppose we should let you get some. rest."
+0,12,23,HAMMOND,Yes.
+0,12,24,HATHOR,Dr Jackson? Please remain. We have other questions.
+0,12,24,DANIEL,Sure.
+0,12,24,HATHOR,It is time that you become our chosen one.
+0,12,24,DANIEL,Chosen one?
+0,12,24,HATHOR,Will you always honour us?
+0,12,24,DANIEL,Yes.
+0,12,24,HATHOR,Would you die for us?
+0,12,24,DANIEL,"Die, Yes."
+0,12,25,SAM,"Colonel, here you are."
+0,12,25,JACK,"Here I am, Captain."
+0,12,25,SAM,"I wanted to have a word with you, sir, about Hathor, if you don't mind."
+0,12,25,JACK,"Fascinating lady, isn't she?"
+0,12,25,SAM,"A little too fascinating, don't you think?"
+0,12,25,JACK,What do you mean?
+0,12,25,SAM,"Well, sir, she seems to have you all so, infatuated."
+0,12,25,JACK,Us all?
+0,12,25,SAM,"Yes, sir. The men. Don't you think it's a little dangerous to be giving a Goa'uld such royal treatment?"
+0,12,25,JACK,"Relax, Captain. She's on our side."
+0,12,25,SAM,So she says.
+0,12,25,JACK,"Captain, if you don't mind my saying so, you're treating her exactly the way you hate to see people treat Teal'c. Bit of a double standard, don't you think?"
+0,12,25,SAM,Teal'c has proven whose side he's on. She hasn't.
+0,12,25,JACK,"Carter, have you ever heard the old saying, My enemy's enemy is my friend?"
+0,12,25,SAM,"Yes, sir. But even when the CIA grants sanctuary to an enemy turncoat they never trust him. They watch him like a hawk."
+0,12,25,JACK,Daniel's watching her right now. Relax.
+0,12,26,HATHOR,"Tell us, our beloved, what are the questions swelling in your mind?"
+0,12,26,DANIEL,"I spent years studying you as a student, and now I'm with you. Do you know, you're described in history as the most beautiful woman that ever has or ever will be able to control men with just your beauty?"
+0,12,26,HATHOR,We are pleased to see you old friend. It won't be long before you will serve us once again. Tell us. Do you believe this to be true now that you have come to know us?
+0,12,26,DANIEL,Well I certainly have a deeper understanding of it now.
+0,12,26,HATHOR,We are the queen of the gods. We are the mother of all gods.
+0,12,26,DANIEL,Yes. What does that mean exactly?
+0,12,26,HATHOR,"From us, all others come."
+0,12,26,DANIEL,I don't understand.
+0,12,26,HATHOR,"The Jaffa, he has a Goa'uld child in his belly?"
+0,12,26,DANIEL,"A larva, yes."
+0,12,26,HATHOR,Did you ever wonder from whence the children come?
+0,12,26,DANIEL,Are you saying they come from you?
+0,12,26,HATHOR,Yes. And others like us.
+0,12,26,DANIEL,My God! You're like a queen bee! You create the Goa'uld's!
+0,12,27,JANET,"Captain Carter, what are you doing?"
+0,12,27,SAM,Have you noticed the way the men on the base are acting?
+0,12,27,JANET,Yes! Thank you. You noticed too?
+0,12,27,SAM,It all seems to be tied in to the arrival of this Hathor person or whatever she is. I'm researching her right now on the net.
+0,12,27,JANET,What have you found?
+0,12,27,SAM,"This is really Daniel's field so I'm kinda starting from scratch. This one academics web page theorises that a bunch of the sex goddesses from different cultures were actually the same woman - Hathor. The Greeks identified her with Aphrodite. There's Ishtar of Babylon, Astarte of Syria, Ceres of Rome."
+0,12,27,JANET,Sounds like she got around.
+0,12,27,SAM,"Yeah, in most mythology. And she's pretty loved in all of it, except for a late period in ancient Egypt where according to one of the stories, she was sent by Ra to destroy mankind. And then he changed his mind and they became enemies."
+0,12,27,JANET,So when she says she's Ra's enemy she may not be lying?
+0,12,27,SAM,"Yeah, but here's the interesting thing. According to the stories, this woman had magical powers over men. She was supposed to be able to seduce them into doing anything for her. In almost every case, it describes them as ""drunk with her presence""."
+0,12,27,JANET,Well that would be how I'd describe our boys.
+0,12,27,SAM,Yeah. Now I figure she's using some form of Goa'uld technology. Any ideas?
+0,12,27,JANET,"My guess would be some sort of chemical we've never seen, a sort of super pheromones combined with something like Sodium Pentathal. Probably airborne delivery."
+0,12,27,SAM,Great. How do we reverse it in the men?
+0,12,27,JANET,"May not be reversible. And if it is, it may take years."
+0,12,27,SAM,We probably don't even have days before this Goa'uld does whatever it is she's trying to do.
+0,12,27,JANET,"So what do you suggest, Captain?"
+0,12,27,SAM,I suggest we neutralise her.
+0,12,28,DANIEL,So you actually create the larva? How?
+0,12,28,HATHOR,We must first have the code of life from the juices of the species intended as the host.
+0,12,28,DANIEL,Code of life?
+0,12,28,HATHOR,In order to assure compatibility for the Goa'uld child and the host.
+0,12,28,DANIEL,
+0,12,28,HATHOR,The code of life. We do so enjoy the method of procuring the code in your species.
+0,12,29,HATHOR,It is much more pleasurable than most.
+0,12,29,DANIEL,I bet.
+0,12,29,HATHOR,Since you are to be our first pharaoh you will honour us by being the one to contribute the code.
+0,12,29,DANIEL,You want me to help you create more Goa'uld's?
+0,12,30,HATHOR,"Now that Ra is gone, we are finally free to rule this planet. With you, our beloved, at our side for all eternity."
+0,12,32,SAM,"Okay, here's what we know. This creature who calls herself Hathor is admittedly a Goa'uld or some form of Goa'uld. So she has who knows what kinds of weapons or defences. That means it might take a lot of firepower to neutralise her and we need to come at her from multiple flanks. You know how to use this don't you?"
+0,12,32,JANET,"Well yeah, I had some training, but I haven't touched one of these things in years."
+0,12,32,SAM,"Well don't worry, all you do is point and pull the trigger and be careful not to hurt any of our own men. They're all pretty loopy right now so they shouldn't be a problem."
+0,12,32,TEAL'C,Captain Carter. We must speak of Hathor.
+0,12,32,SAM,Keep your hands where I can see them Teal'c.
+0,12,32,TEAL'C,"Do you not trust me, Captain Carter?"
+0,12,32,SAM,"All the men on this base are under Hathor's control, from what I can tell. And I hate to break it to you Teal'c, but you are male."
+0,12,32,TEAL'C,I am a jaffa. The Goa'uld I carry within me protects me from Hathor's powers. It is only together that we may stop her.
+0,12,32,SAM,From doing what exactly?
+0,12,32,TEAL'C,It is legend among the jaffa that the original Goa'uld larva come from the queen Goa'uld's.
+0,12,32,SAM,And you think Hathor's one of them?
+0,12,32,TEAL'C,"Yes. If I am correct, this base will become her nest. From here she will populate your world with new Goa'uld. I cannot permit this to happen. Captain Carter, we cannot permit this to happen."
+0,12,33,SAM,Glad you're with us Teal'c.
+0,12,34,JANET,Is this really necessary? Somebody's bound to come on base and see what's going on.
+0,12,34,SAM,"Yeah, and if they're male, they'll be under Hathor's control before they can think about it. Besides when was the last time you saw a new woman get assigned here?"
+0,12,35,SAM,Daniel? You okay? Where is she Daniel?
+0,12,35,FEMALE,"Captain, we found her. She was spotted going into the locker room."
+0,12,35,SAM,"Right, let's go. Daniel, you okay?"
+0,12,35,FEMALE,Captain!
+0,12,36,HATHOR,Rin tel nok!
+0,12,37,HAMMOND,Stand down Captain Carter. Unless you plan to kill us?
+0,12,37,JACK,Is this any way to treat a guest Captain?
+0,12,38,SAM,It must be a pretty powerful drug Hathor's using. Colonel O'Neill is Special Forces trained to fight mind control techniques.
+0,12,38,JANET,Well not Goa'uld techniques apparently.
+0,12,38,SAM,"Yeah, well Mama said there'd days like this ."
+0,12,38,JANET,Really? My ex-husband said that. Are you outta your mind honey-buns? There is a reason they call it this man's army.
+0,12,38,SAM,This mans army? Your husband actually said that?
+0,12,38,JANET,"Yeah, so of course I explained to him it wasn't the Army, it was the Air Force and they've had women for decades."
+0,12,38,SAM,"Man! Maybe it's just me, but I can't figure out how to feel like one of the guys with these guys. You know what I mean? I always feel like I'm, the girl."
+0,12,38,JANET,That's it.
+0,12,38,SAM,What?
+0,12,38,JANET,"You just gave me an idea on how to get us out of here. Look if Hathor's control drug is hormone driven like I suspect, that means she's making the men libidinous."
+0,12,38,SAM,"Okay, why do I get the feeling I don't like where this is going?"
+0,12,39,JACK,"Excuse me ma'am. I'm sorry to barge in on you like this, but I'd like to ask you some questions."
+0,12,39,HATHOR,About?
+0,12,39,JACK,"About you, actually. See you've. You've got me a little of balance and that's very unnatural for me."
+0,12,39,HATHOR,We are told by the one you call Daniel that you are the one responsible for ridding us from the vile one Ra.
+0,12,39,JACK,"Yeah, we kinda touched on that earlier, but I'd like to be the one asking the questions right now, if you don't mind."
+0,12,39,HATHOR,We must praise you and give to you a great honour.
+0,12,39,JACK,"Yeah, I'm sure that'd be just great. But not right.."
+0,12,40,HATHOR,Do not worry yourself. You will enjoy the rich rewards that come with what we are giving you.
+0,12,41,HATHOR,You will cherish the good health and long life that goes with being.Hathor's first new Jaffa.
+0,12,43,SAM,You know using seduction wasn't in any of the AF training manuals I've ever read.
+0,12,43,JANET,"What, you think the Pentagon anticipated a 4000 year old alien walking onto a base and drugging all the men to make them.?"
+0,12,43,SAM,Libidinous?
+0,12,43,JANET,Yeah.
+0,12,43,SAM,I suppose they do train us to take advantage of the enemy's weakness.
+0,12,43,JANET,Exactly.
+0,12,43,SAM,All right. Let's do it.
+0,12,43,JANET,"Airman, open up! We've got something for you."
+0,12,43,AIRMAN,What?
+0,12,43,JANET,Why don't you come in here and see for yourself?
+0,12,43,AIRMAN,No can do. We only take orders from Hathor.
+0,12,43,JANET,"Gentlemen, there are five women in here, very alone."
+0,12,43,SAM,Why do I feel like I'm in a women-behind-bars movie?
+0,12,43,AIRMAN,What are you suggesting ladies?
+0,12,43,JANET,Whatever you want Airman?
+0,12,44,SAM,"Feel like a woman, Doc?"
+0,12,44,JANET,Oh yeah.
+0,12,44,SAM,Let's tie them up.
+0,12,45,AIRMAN,Hold it right there ladies!
+0,12,46,HAMMOND,Drop your weapon!
+0,12,47,SAM,Yeah. My career is over.
+0,12,47,JANET,Don't worry about it. I can fix him up good as new when this things over.
+0,12,47,SAM,"Great, so he can bring me up on charges."
+0,12,48,TEAL'C,I am pleased to see you Captain Carter.
+0,12,48,SAM,I'm glad someone is. Lock these guys up and stay here. Okay. Let Teal'c and me take the lead.
+0,12,48,JANET,No argument there.
+0,12,48,SAM,On three.
+0,12,49,HATHOR,"Do not worry child. You will soon receive your Goa'uld. And then you will begin to feel strong again. The strongest of the larvae will soon find your womb and move into it. At that moment, you will begin your service to us. Enjoy."
+0,12,49,SAM,"Let's get him outta there. Okay, Colonel, we got you. Okay."
+0,12,50,JANET,"Here, take this."
+0,12,51,JANET,Ughh.No. Nothing went in there yet.
+0,12,51,SAM,This is a good thing.
+0,12,51,JANET,"Oh, maybe."
+0,12,51,TEAL'C,"He no longer has an immune system. Without a Goa'uld larva, he will soon die."
+0,12,52,JANET,Shouldn't we be taking him to the infirmary?
+0,12,52,TEAL'C,You said you do not have the technology to help him.
+0,12,52,JANET,Well we could at least make him comfortable.
+0,12,52,TEAL'C,The Goa'uld's have the technology and Hathor may have brought it to us.
+0,12,52,SAM,The Sarcophagus.
+0,12,53,TEAL'C,I have seen the Goa'uld chamber do many miracles.
+0,12,54,JANET,Aggh!
+0,12,54,HATHOR,Stop! You will harm our new Jaffa.
+0,12,55,JACK,What's going on?
+0,12,56,SAM,Colonel!
+0,12,56,JACK,I don't think this is good. You all right?
+0,12,56,SAM,Yeah. Good to have you back Colonel.
+0,12,56,JACK,"What, I left?"
+0,12,56,SAM,Whoa! Colonel?
+0,12,56,JACK,Yeah?
+0,12,56,SAM,Do you mind if I have a look
+0,12,56,JACK,At what?
+0,12,56,SAM,"You were, um, let's just say you were wounded."
+0,12,57,SAM,Wow! That's a miracle.
+0,12,57,JACK,Crunches.
+0,12,57,JANET,Too bad she blew up that sarcophagus. We could use one of those things in the infirmary right about now.
+0,12,57,JACK,Get yourselves down there right away.
+0,12,58,SAM,Now what?
+0,12,58,JACK,"Now, you and I go for that Goa'uld."
+0,12,58,SAM,"Well, how? She's guarded by our own men. We can't exactly go in shooting."
+0,12,58,JACK,We can with tranquilliser guns.
+0,12,58,SAM,"I thought of that, sir, but there weren't any in the armoury."
+0,12,58,JACK,"This is the military, Captain. We always have more than we need. There's a supply in lock up C."
+0,12,58,SAM,Be nice if someone told me that.
+0,12,58,JACK,Your tax dollar at work.
+0,12,59,HATHOR,We demand that the woman you call Carter be brought before us so we may gain retribution.
+0,12,59,DANIEL,"Captain Carter does deserve to be punished, my queen. But she does not know what she is doing. I beg of you to show mercy."
+0,12,59,HATHOR,She deserves no mercy from us. She will make amends with her death.
+0,12,59,SAM,I don't think so.
+0,12,60,HATHOR,Olav You have failed us our love. You will not fail us again.
+0,12,61,DANIEL,No!
+0,12,61,JACK,"Get these Airmen outta here! Daniel, let's go. Move it!"
+0,12,63,TECH,Unauthorized Gate Activation.
+0,12,64,JACK,Where'd she go?
+0,12,64,SAM,Chulak. We have to go after her.
+0,12,64,JACK,We will. Not right now.
+0,12,64,DANIEL,Hey. What's going on? I must have. blacked out.
+0,12,64,SAM,I guess she needs to stay in proximity to keep control.
+0,12,64,JACK,Control what?
+0,12,64,DANIEL,What? What are you talking about?
+0,12,65,JACK,Did you find anything?
+0,12,65,JANET,"Probably nothing we can use. Maybe we'll at least get a cellular level analysis on the Goa'uld's, maybe even find some DNA information."
+0,12,65,DANIEL,A lot of that will probably be mine.
+0,12,65,JACK,ugh!
+0,12,65,DANIEL,Yeah.
+0,12,65,SAM,"General Hammond, sir."
+0,12,65,HAMMOND,"At ease, Captain. At ease, Doctor."
+0,12,65,SAM,"Thank you, sir. About your head, I'd like to explain that if I could."
+0,12,65,HAMMOND,"Captain, I'm putting you and Doctor Fraiser up for a commendation medal."
+0,12,65,SAM,"Well, thank you, sir, but I can explain. You are?"
+0,12,65,HAMMOND,"If you hadn't kept your wits about you and done whatever was necessary we could have put this entire planet at risk. Good job, ladies."
+0,12,65,SAM,"Thank you, sir."
+0,12,65,HAMMOND,"Well, that's all."
+0,12,65,JACK,Nice job.
+0,12,65,DANIEL,Yeah.

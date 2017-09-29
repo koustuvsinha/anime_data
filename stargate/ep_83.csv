@@ -1,0 +1,389 @@
+Season,Episode,Scene,Character,Line
+0,83,0,STARGATE SG1,Episode 419
+0,83,0,"""PRODIGY""","By Joseph Mallozzi, Paul Mullie & Brad Wright Jack walks to General Hammond's Office and knocks on the door."
+0,83,0,HAMMOND,Come in.
+0,83,0,O'NEILL,"General, I'd like to talk to you about this mission upon which we are about to embark. Seems a bit ridiculous don't you think?"
+0,83,0,HAMMOND,Have you met General Ryan?
+0,83,0,RYAN,Hello Colonel.
+0,83,0,O'NEILL,The General Ryan? Chief of Staff?
+0,83,0,RYAN,That's right.
+0,83,0,O'NEILL,Shouldn't there have been a memo or something?
+0,83,0,HAMMOND,You were off world.
+0,83,0,O'NEILL,Ahh yeah. So what brings you to our little secret base Sir?
+0,83,0,RYAN,That would be the ridiculous mission you just mentioned.
+0,83,0,O'NEILL,Of course.
+0,83,0,HAMMOND,I'm proposing N4C862 become a permanent research station. I'd like you to make an assessment.
+0,83,0,O'NEILL,The General Ryan?
+0,83,0,RYAN,"I've read a lot about you Colonel, from General Hammond's reports."
+0,83,0,O'NEILL,"Yes, Sir?"
+0,83,0,RYAN,Thus far we like your work.
+0,83,0,O'NEILL,Thank you Sir. I like yours. Your Air Force. The Air Force. I love the Air Force.
+0,83,0,HAMMOND,Anything else Colonel?
+0,83,0,O'NEILL,No Sir. Well actually I'd like to know how Daniel and Carter got out of this..very important mission?
+0,83,0,HAMMOND,Dr. Jackson is offworld with SG11 and Major Carter is giving a lecture at the Air Force Academy in theoretical astrophysics. If you'd care to take her place?
+0,83,0,O'NEILL,No.
+0,83,0,HAMMOND,Then you're dismissed.
+0,83,0,O'NEILL,Thank you Sir. Sirs. Both of you.
+0,83,1,RYAN,"Got your hands full with that one, eh George?"
+0,83,3,CARTER,"So as a result of these modular functions, the unwanted variables are always expressed as multiples of N minus 10. Therefore if we assume the existence of 10 dimensions in space-time, the variables are cancelled out and the calculation suddenly begins to make sense."
+0,83,3,CADET,Excuse me ma'am. Did you say 10 dimensions?
+0,83,3,CARTER,"Yes I did. Look, I realise these concepts are a little bizarre and that many of you cadets would rather be somewhere else right now, jump school, flight training. Believe me I know. I used to sit in those chairs and listen to the same boring lectures. No offence Professor. But on the other hand, the aerodynamics that are one day going to allow you to fly an F22, started out as squiggles on a board just like this one. These calculations are the key to opening up the entire universe. Wormholes and hyperspace may seem like science fiction, but take my word for it, the future is a lot closer than you might think."
+0,83,4,CARTER,Guess that wasn't so bad.
+0,83,4,PROF,"No, no you actually made the topological configurations of multiple dimensions seem interesting."
+0,83,4,HALEY,This is wrong.
+0,83,4,PROF,What's that Cadet?
+0,83,4,HALEY,I'm sorry Sir but the calculations are incorrect.
+0,83,4,PROF,"I appreciate your enthusiasm Cadet, but perhaps you should wait until you graduate before you start criticising the work of a leader in the field of astrophysics."
+0,83,4,HALEY,"Yes Sir, of course. My apologies Ma'am."
+0,83,4,CARTER,Who was that?
+0,83,4,PROF,Jennifer Haley. Very intelligent but difficult personality.
+0,83,4,CARTER,Well she's right.
+0,83,4,PROF,Really?
+0,83,4,CARTER,These variables should be reversed.
+0,83,4,PROF,I didn't even notice.
+0,83,4,CARTER,Neither did I.
+0,83,6,GRIFF,Colonel.
+0,83,6,O'NEILL,Major. Report.
+0,83,6,GRIFF,Well we've got a pretty thrilling week. Two days Dr Thompson lost his glasses. And just this morning the electron microscope broke down.
+0,83,6,O'NEILL,Wow.
+0,83,6,GRIFF,Yeah. Non stop excitement.
+0,83,6,O'NEILL,"Well, we'll take it from here. You're relieved."
+0,83,6,GRIFF,Sir.
+0,83,6,HAMILTON,Major Griff?
+0,83,6,GRIFF,Dr Hamilton?
+0,83,6,HAMILTON,Do you realise we still haven't received those parts for the back up generator?
+0,83,6,GRIFF,I put the requisition in three days ago.
+0,83,6,HAMILTON,Well that's just not good enough. We obviously need to have a serious talk about our supply procedures.
+0,83,6,GRIFF,"Well unfortunately Doctor, I've just been relieved. But.. I'm sure Colonel O'Neill would love to discuss it with you."
+0,83,6,O'NEILL,Love is the word.
+0,83,6,HAMILTON,"Colonel O'Neill is it? I don't know if this is a military thing generally, or just Major Griff's incompetence but I can't seem to get anything I ask for."
+0,83,9,KERRIGAN,"Come. Samantha, Sam. Good to see you again come in, sit down, sit down."
+0,83,9,CARTER,"It's good to see you again Sir, thank you."
+0,83,9,KERRIGAN,"Well, well, well. So how was the lecture?"
+0,83,9,CARTER,Well no one fell asleep.
+0,83,9,KERRIGAN,Very impressive.
+0,83,9,CARTER,Thank you Sir. I did have an interesting encounter with one of your cadets. Jennifer Haley.
+0,83,9,KERRIGAN,Caught your eye did she? I thought she might.
+0,83,9,CARTER,She pointed out a mistake in a complex equation that changed the result completely. I couldn't believe it.
+0,83,10,KERRIGAN,"Here, give this a read. Once you brush the chip off her shoulder, she reminds me of another bright young cadet who came through here a few years back."
+0,83,10,CARTER,I've no idea who you're talking about Sir.
+0,83,10,KERRIGAN,"Cadet Haley is a very smart young woman, her SAT's were through the roof, even higher than yours. Unfortunately she's sometimes too smart for her own damn good."
+0,83,10,CARTER,Professor Monroe said she has discipline problems.
+0,83,10,KERRIGAN,The kid's bored. Came here for a challenge but it'snot enough for her.
+0,83,10,CARTER,"Not enough? This is just the beginning of her career, how could she possibly know what's ahead for her."
+0,83,10,KERRIGAN,"I know, but she doesn't see it Sam. Don't get me wrong, I see her potential, her physical skills are terrific despite her size, she's an expert marksman, superb glider pilot but that's not all there is to becoming an Air Force officer. If she keeps insisting on"
+0,83,11,CARTER,"I'd like to talk to her, if that's okay?"
+0,83,11,KERRIGAN,I was hoping you'd say that.
+0,83,12,HAMILTON,Who said that?
+0,83,12,LEE,He did.
+0,83,12,HAMILTON,Oh for.
+0,83,13,HAMILTON,"Colonel O'Neill, Dr Lee tells me you've denied our request to conduct a survey of the cave network."
+0,83,13,O'NEILL,No. I just asked him to wait until I could have a chance to check it out.
+0,83,13,HAMILTON,With no regard to our timetable?
+0,83,13,O'NEILL,None what so ever.
+0,83,13,HAMILTON,"Colonel, what exactly do you expect to find in there?"
+0,83,13,O'NEILL,"Look Doctor, this is another planet,"
+0,83,13,HAMILTON,Actually it's a moon. We're orbiting that gas giant.
+0,83,13,O'NEILL,"Oh well, if it's a moon, go ahead, do whatever you want, what could happen?"
+0,83,13,HAMILTON,"Colonel, this outpost has been up and running for six weeks now without the slightest hint of anything remotely dangerous."
+0,83,13,O'NEILL,You can explore the caves once they've been checked out. Anymore pressing matters?
+0,83,13,HAMILTON,None what so ever.
+0,83,13,O'NEILL,Oh yeah.
+0,83,15,CARTER,"It's beautiful, isn't it?"
+0,83,15,HALEY,Major Carter.
+0,83,15,CARTER,At ease Cadet. Getting in a little extra lab time?
+0,83,15,HALEY,Yes ma'am.
+0,83,15,CARTER,I wanted to talk to you about the term paper you did for Professor Monroe. `Towards a new cosmology of multiple realities'. It's an interesting topic.
+0,83,15,HALEY,Professor Monroe gave me a D.
+0,83,15,CARTER,Because it wasn't the assignment.
+0,83,15,HALEY,Permission to speak freely ma'am?
+0,83,15,CARTER,Hmm.
+0,83,15,HALEY,The assignment was lame.
+0,83,15,CARTER,"Maybe it was, but it was the assignment."
+0,83,15,HALEY,You read it anyway?
+0,83,15,CARTER,As a matter of fact I did. It's intriguing.
+0,83,15,HALEY,The same word Professor Monroe used.
+0,83,15,CARTER,Maybe because that's what it is. An intriguing idea. But it's based on way too many unfounded assumptions to make a valid theory.
+0,83,16,HALEY,So?
+0,83,16,CARTER,"So, how do you know?"
+0,83,16,HALEY,Well until somebody shows me a real wormhole that can only go one way..
+0,83,16,CARTER,"That's not the point, you made an assumption."
+0,83,16,HALEY,What about you're assumption Major? That you're the one that's right and I'm wrong.
+0,83,16,CARTER,"Cadet, that paper is way, way beyond anything you're likely to be taught at the Academy. And if you want points for it, hey, we're all impressed. It doesn't mean you don't do the assignment."
+0,83,16,HALEY,"I'm late for a class, ma'am. Am I dismissed?"
+0,83,16,CARTER,Yes.
+0,83,18,O'NEILL,Hamilton?
+0,83,19,HAMILTON,Colonel O'Neill. How are the caves?
+0,83,19,O'NEILL,Dark.
+0,83,19,HAMILTON,No subterranean monsters I assume?
+0,83,19,O'NEILL,Not this time. Go ahead and do your survey.
+0,83,19,HAMILTON,Thank you.
+0,83,20,TEAL'C,You seem disappointed we found nothing O'Neill.
+0,83,20,O'NEILL,No it's just you know I wanted him to be wrong just so he'd be wrong. And if he was wrong then we'd have something to do.
+0,83,20,TEAL'C,I see.
+0,83,20,O'NEILL,You hear something?
+0,83,21,TEAL'C,Indeed. I have never before encountered anything like it.
+0,83,21,O'NEILL,Cool.
+0,83,23,PROF,I didn't realise you were still here.
+0,83,23,CARTER,I wanted to talk to you about Cadet Haley's paper.
+0,83,23,PROF,Sam.
+0,83,23,CARTER,"Look, at first I agreed with you it didn't add up. But there was something about it that kept nagging at me. I finally figured out what it was. The equations don't make sense unless you allow for variations in the speed of light."
+0,83,23,PROF,Which is a universal constant.
+0,83,23,CARTER,"Not if you expand the frame of reference to include multiple universes. That's where this paper comes in. I think without even realising it, Cadet Haley intuitively arrived at a whole new way of looking at cosmology. Under certain special circumstances what we would see as an effect preceding a cause would in fact be an effect following a cause in a parallel reality."
+0,83,23,PROF,That's assuming that parallel realities occasionally overlap.
+0,83,23,CARTER,I'm fairly confident that's the case.
+0,83,23,PROF,"Really, why? I know she's got to you, but I think you're trying hard to see something that isn't there."
+0,83,23,CARTER,"All right. Even if this theory ultimately proves to be incorrect, you have to admit it's a brilliant insight."
+0,83,23,PROF,Jennifer Haley is no longer our problem.
+0,83,23,CARTER,What do you mean?
+0,83,23,PROF,"She got into a fight this morning with another Cadet. As fond as General Kerrigan is of her, he'll have to expel her."
+0,83,25,SCIENTIST2,Are you sure this is such a good idea?
+0,83,25,HAMILTON,Hey I didn't come half way across the galaxy to wait for permission to do my job.
+0,83,25,SCIENTIST2,I know but Colonel O'Neill..
+0,83,25,HAMILTON,"Colonel O'Neill doesn't have a clue what we're trying to accomplish here, he's too busy polishing his M16."
+0,83,26,O'NEILL,Actually it's a P90. You boys going somewhere?
+0,83,26,HAMILTON,Ahh yes we're gonna go see if we could find that creature you encountered.
+0,83,26,O'NEILL,"Apparently you didn't hear me the first time I told you clearly, and in no uncertain terms, not the heck yet."
+0,83,26,SCIENTIST2,"You know, if your description is correct we're talking about something that can pass right through solid matter."
+0,83,26,O'NEILL,Yes and therefore logically we'd have no defence against it.
+0,83,26,HAMILTON,This is typical military thinking. You encounter something you don't understand and you immediately assume it's a threat.
+0,83,26,O'NEILL,"Well, until we determine there is no threat, I will assume there is one. Do we have a problem here?"
+0,83,26,HAMILTON,"Colonel, with all due respect. When I agreed to this assignment I was under the impression I was going to be in charge."
+0,83,26,O'NEILL,You are in charge.. Of the other scientists.
+0,83,26,HAMILTON,That you think you are even qualified to decide what we can and cannot do around here.
+0,83,26,TEAL'C,"Colonel O'Neill is indeed qualified Dr Hamilton having encountered many alien species, as have I long before you were born. I strongly suggest you do what Colonel O'Neill says."
+0,83,26,O'NEILL,"Thank you Rocko. Boys, we'll be in touch."
+0,83,28,KERRIGAN,Cadet Haley is helping to train an underclassman named Chloe Brown who is having problems with her physical fitness tests. Apparently one of the cadre made a derogatory comment about the young lady. Cadet Haley told him to knock it off.
+0,83,28,CARTER,And when he didn't?
+0,83,28,KERRIGAN,She broke his nose.
+0,83,28,CARTER,She what?
+0,83,28,KERRIGAN,"I can't let that go, I don't give a damn how smart she is."
+0,83,28,CARTER,She was defending a fellow classmate.
+0,83,28,KERRIGAN,I know.
+0,83,28,CARTER,"I'm not asking for her to go unpunished Sir. But if she's half as brilliant as I think she is, we don't wanna lose her."
+0,83,28,KERRIGAN,"We're not here to make advancements in theoretical physics, we're here to defend this country."
+0,83,28,CARTER,I understand that Sir but they're not mutually exclusive goals.
+0,83,28,KERRIGAN,Can I assume you're referring to your research project up at Cheyenne Mountain?
+0,83,28,CARTER,You can.
+0,83,28,KERRIGAN,"Deep space radar analysis, isn't it?"
+0,83,28,CARTER,"Something like that Sir, yes."
+0,83,28,KERRIGAN,"Well, I don't know what it really is you're working on inside that mountain but I do know if you've got something to do with it, then it's high priority."
+0,83,28,CARTER,"Well thank you Sir, it is. And believe me when I tell you Cadet Haley is exactly the kind of person we need."
+0,83,28,KERRIGAN,She'll have to be punished.
+0,83,28,CARTER,As she should be Sir. But I don't think she's about to go on a rampage beating up upperclassmen.
+0,83,28,KERRIGAN,Send her in.
+0,83,29,HALEY,"Sir, Cadet Haley reports as ordered."
+0,83,29,KERRIGAN,At ease. Major Carter?
+0,83,29,CARTER,"Cadet Haley, I'd like to ask you a few questions. Answer honestly."
+0,83,29,HALEY,Yes ma'am.
+0,83,29,CARTER,Who the hell do you think you are?
+0,83,29,HALEY,Ma'am?
+0,83,29,CARTER,You think you're better than us? You think you're too good for the Air Force?
+0,83,29,HALEY,No ma'am.
+0,83,29,CARTER,"Oh come on, all those little rules and regulations, they don't really apply to you right? I mean let's face it, what's the point of a chain of command when none of your superiors are as smart as you are?"
+0,83,29,HALEY,I don't feel that way ma'am.
+0,83,29,CARTER,"Oh I think you do. And I think deep down you wanna leave. Let me do you a favour. The door's open, why don't you just quit and go home?"
+0,83,29,HALEY,No ma'am. I won't quit.
+0,83,29,CARTER,I'm just giving you the chance to walk out before General Kerrigan throws you out.
+0,83,29,HALEY,I won't quit.
+0,83,29,CARTER,Good.
+0,83,29,KERRIGAN,"Cadet Haley, as far as I'm concerned you've demonstrated a remarkable inability to be a functioning member of the United States Air Force. But Major Carter has a future in mind for you and I respect Major Carter's opinion. Although the rest of your punishment stands I'm not recommending dismissal."
+0,83,29,HALEY,Thank you Sir.
+0,83,29,KERRIGAN,You may go.
+0,83,30,KERRIGAN,Good luck.
+0,83,31,CARTER,What were you thinking breaking the nose of an upperclassman like that?
+0,83,31,HALEY,Aim high?
+0,83,31,CARTER,That's not funny.
+0,83,31,HALEY,"No ma'am, you wouldn't think so would you?"
+0,83,31,CARTER,What's this got to do with me?
+0,83,31,HALEY,Everything. The great Samantha Carter. You think a day goes by in this place when I don't hear your name? You've gotten the highest mark in every class I've ever been in; you've won every award I've ever been up for. They've been comparing me to you since the day I walked through the door and I never could seem to measure up.
+0,83,31,CARTER,"That's it? What, so for the first time in your life you come to a place where you are not automatically the smartest and best at everything you do? Get over it. There are important things at stake."
+0,83,31,HALEY,You've got my future all planned out as long as I stay here?
+0,83,31,CARTER,If you're good enough.
+0,83,31,HALEY,Like what? Flying a transport plane if I'm one of the lucky ones? I don't see this exciting future you're talking about Major.
+0,83,31,CARTER,Something more incredible than even you could imagine.
+0,83,31,HALEY,Yes ma'am.
+0,83,31,CARTER,Cadet. Believe me.
+0,83,33,HAMILTON,Science is about questioning the status quo. Questioning authority. Now how can we do that when the greatest scientific discovery in human history is in the hands of the United States Air Force?
+0,83,33,SCIENTIST2,Oh my God.
+0,83,34,HAMILTON,"The camera, get the camera, get the camera."
+0,83,34,HAMILTON,Come on.
+0,83,34,SCIENTIST2,Colonel O'Neill.
+0,83,34,O'NEILL,Go ahead.
+0,83,34,SCIENTIST2,We just encountered another one of the creatures. We're following it into the forest as far as we can.
+0,83,34,O'NEILL,Let's go.
+0,83,35,HAMILTON,Incredible.
+0,83,35,O'NEILL,"Hamilton, what are you doing?"
+0,83,35,HAMILTON,"You see Colonel, they're harmless."
+0,83,36,HAMMOND,"Major, this is a high security area."
+0,83,36,CARTER,"I know that Sir, but she's already checked out security and signed the non-disclosure forms."
+0,83,36,HAMMOND,What did you tell her she was going to see?
+0,83,36,CARTER,Deep space radar telemetry.
+0,83,36,HAMMOND,Are you absolutely sure about this Major?
+0,83,36,CARTER,"General, she is a perfect candidate for the SGC."
+0,83,36,HAMMOND,Her file says otherwise.
+0,83,36,CARTER,"I've met her Sir, she is brilliant."
+0,83,36,HAMMOND,Not everyone is cut out to be an Air Force officer Major.
+0,83,36,CARTER,Sir if she can get one glimpse of her possible future she will graduate at the top of her class and become an officer worthy of serving under your command. I am absolutely sure about this Sir.
+0,83,37,HALEY,"I don't understand, we're underground, where could we possibly be going?"
+0,83,37,CARTER,You'll see. What you're about to see is probably the best kept secret in the world.
+0,83,37,HALEY,You're making me nervous.
+0,83,37,CARTER,Good. Because from this point on everything you thought you knew about the universe is about to be turned upside down. You ready?
+0,83,38,HALEY,What is it?
+0,83,38,CARTER,It's your future. It's called a Stargate.
+0,83,38,TECH DAVIS,Chevron 7 locked.
+0,83,39,CARTER,You're looking at the event horizon of a wormhole connecting this Stargate to another identical one on another world 42 thousand light years from Earth.
+0,83,39,HALEY,That's where we're going?
+0,83,39,CARTER,That's right.
+0,83,39,HALEY,How?
+0,83,39,CARTER,That's the easy part. Come on.
+0,83,40,HALEY,What happened?
+0,83,40,CARTER,Your body was particlised in the matter stream and then reintegrated.
+0,83,40,HALEY,So this is another planet?
+0,83,40,CARTER,It's a moon actually.
+0,83,40,HALEY,Doesn't look that different from home.
+0,83,40,CARTER,"Well where there's oxygen there's usually plant life, trees, water, there are a couple of differences."
+0,83,41,O'NEILL,Hey Carter. Thought I'd come be your welcoming committee.
+0,83,41,CARTER,Thank you Sir. How are you?
+0,83,41,O'NEILL,"Ah well the back's acting up a little actually, the knees, you know always."
+0,83,41,CARTER,"Sir, I'd like you to meet Cadet Haley."
+0,83,41,O'NEILL,Cadet. Welcome to 862. How was your trip?
+0,83,41,HALEY,It was. a trip. Sir.
+0,83,41,O'NEILL,It always is. I got something you should see.
+0,83,42,CARTER,What is it?
+0,83,42,HAMILTON,We're not sure but we think it's some kind of energy based life form.
+0,83,42,HALEY,That's impossible.
+0,83,42,HAMILTON,"Yeah, that's what we thought but one of them led us directly to the others, which suggests organisation, some kind of intelligence. They also appear to be able to phase through solid matter."
+0,83,42,O'NEILL,"Yeah, Teal'c and I saw one zip right on through a tree. Didn't even slow it down."
+0,83,42,HALEY,That's so cool.
+0,83,42,O'NEILL,That's exactly what I said. I said that.
+0,83,42,CARTER,"If that's the case, what's keeping it inside this cylinder?"
+0,83,42,HAMILTON,That was Dr. Lee's idea. The top and bottom plates are electrified. The field seems to be holding it in.
+0,83,42,HALEY,You're not hurting it are you?
+0,83,42,HAMILTON,"The creature has no physical body, I don't think it's capable of feeling pain."
+0,83,42,CARTER,But if it's intelligent it might not appreciate being held in a cage.
+0,83,42,O'NEILL,Might be time to let this one go Doc.
+0,83,42,HAMILTON,"Colonel, no, please, we need to study it."
+0,83,42,O'NEILL,Find another way.
+0,83,43,SCIENTIST2,"Hey Bill, come in. Any sign of the swarm?"
+0,83,43,SCIENTIST3,Nothing yet. Looks like they just disappeared.
+0,83,43,SCIENTIST2,They gotta be around here somewhere. Try checking for high frequency spikes.
+0,83,43,SCIENTIST3,"You got it. Oh, hey there. We're your friends. Woah, easy, we're not gonna hurt you."
+0,83,43,SCIENTIST2,"Bill, you getting anything on the high frequency?"
+0,83,43,SCIENTIST3,Argh.
+0,83,43,SCIENTIST2,"Bill, come in."
+0,83,43,SCIENTIST3,Arrrghhhh.
+0,83,43,SCIENTIST2,Oh God. Colonel..
+0,83,44,HALEY,Teal'c. Do you mind if I call you Teal'c?
+0,83,44,TEAL'C,I have no other name.
+0,83,44,HALEY,So I'm guessing you're not.
+0,83,44,TEAL'C,Human? Then your guess is correct.
+0,83,44,HALEY,Then is this your planet? I mean moon.
+0,83,44,TEAL'C,It is not. My home world is called Chulak.
+0,83,44,HALEY,"Your world? Wait a second, how many places does the Stargate go?"
+0,83,44,TEAL'C,The Stargate network is composed of a great many worlds.
+0,83,44,HALEY,Are you serious?
+0,83,45,SCIENTIST2,Colonel O'Neill! Colonel O'Neill! Colonel O'Neill! Help! Colonel O'Neill.
+0,83,46,O'NEILL,What?
+0,83,46,SCIENTIST2,It's Dr. Thompson. Those things are attacking Dr. Thompson.
+0,83,46,O'NEILL,Where?
+0,83,46,SCIENTIST2,Back in the clearing where we first encountered them.
+0,83,46,O'NEILL,"Carter, get them inside. Teal'c with me."
+0,83,46,CARTER,"Go, go, go."
+0,83,48,O'NEILL,Hey! Just what about my radio transmission did you not understand? Let's go.
+0,83,48,CARTER,Just finishing up Sir.
+0,83,48,HAMILTON,What about Dr. Thompson?
+0,83,48,O'NEILL,He's dead. Let's move.
+0,83,49,HAMILTON,"Colonel. Colonel, we don't know what happened out there, this might be an isolated incident; the creatures may have been provoked."
+0,83,49,O'NEILL,"Maybe. Let me ask you this, why take a chance?"
+0,83,49,TEAL'C,O'Neill.
+0,83,49,O'NEILL,Alright back inside.
+0,83,50,TEAL'C,These walls will not protect us O'Neill.
+0,83,50,O'NEILL,"Carter, we've got about 15 seconds."
+0,83,50,CARTER,"I don't know Sir, zats maybe?"
+0,83,50,O'NEILL,Maybe?
+0,83,50,CARTER,Well I just got here. Zats deliver an electrical charge; they're the only weapon I can think of that we have that might have an effect.
+0,83,50,O'NEILL,Alright everybody get down.
+0,83,51,HAMILTON,Arrgghh.
+0,83,52,CARTER,"We've wired up the aluminium walls of this building, when we switch on the current it might create enough of an electrical field to keep them out the same way Dr. Lee's containment vessel kept them in."
+0,83,52,TEAL'C,They are returning.
+0,83,52,O'NEILL,Light it up.
+0,83,52,CARTER,Stand clear of the walls.
+0,83,52,HALEY,It's working.
+0,83,52,CARTER,As long as we've got power we're safe.
+0,83,52,SCIENTIST2,How long do you think the generator will keep running?
+0,83,52,HAMILTON,I'm not. I'm not sure.
+0,83,52,O'NEILL,You're not sure? Who refuelled it last?
+0,83,52,HAMILTON,Dr. Thompson. I'm sure he filled it sometime this morning.
+0,83,52,SCIENTIST2,We don't know that.
+0,83,52,HAMILTON,That would give us another 8 or so hours.
+0,83,52,TEAL'C,But you cannot be certain.
+0,83,52,SCIENTIST2,No.
+0,83,52,O'NEILL,"Alright, where is it?"
+0,83,52,HAMILTON,It's on the other side of the compound. Down by the creek.
+0,83,52,SCIENTIST2,Basically it could run out at any time.
+0,83,53,O'NEILL,Carter?
+0,83,53,CARTER,I think I may have a way out of here Sir. The creatures are being held back by the electrical field around the building. What we need to do is create a field big enough to repel them from the entire area.
+0,83,53,O'NEILL,Yeah?
+0,83,53,CARTER,"The Stargate Sir. It's a giant superconductor. Once activated, the field it generates would be more than enough."
+0,83,53,O'NEILL,So someone's gotta go down there and dial out.
+0,83,53,TEAL'C,Anyone attempting to reach the Stargate would most certainly be killed.
+0,83,53,CARTER,Not necessarily. Now the human body has an electrical field of its own. Do you remember what happened when Dr. Hamilton was hit by Teal'c's zat fire? The creatures must have left his body because his body's electrical field was temporarily altered.
+0,83,53,O'NEILL,How long would it last?
+0,83,53,CARTER,I don't know Sir.
+0,83,53,HALEY,Shoot him again.
+0,83,53,TEAL'C,A second shot from a zat'nik'tel kills.
+0,83,53,CARTER,It's just a guess Sir. I'm not even sure you would make it to the Gate before you were vulnerable again.
+0,83,53,O'NEILL,Hey why'd they attack in the first place?
+0,83,53,CARTER,I suppose it's possible they were reacting to the capture of one of their own.
+0,83,53,HALEY,That's not it.
+0,83,53,O'NEILL,What?
+0,83,53,HALEY,"I've been going over Dr, Thompson's astronomical observations. Did you know this moon wasn't even formed from the original accretion disk of the planet?"
+0,83,53,O'NEILL,No. But I suspected.
+0,83,53,HALEY,"Dr. Thompson thinks it was a rogue that got pulled into an eccentric polar orbit. A planet's magnetic field eminates from the poles, it's where it's the most intense. According to Dr. Thompson's observations, we entered into the polar phase of the orbit a couple of days ago, about the same time the creatures were first encountered. And they became violent right at the moment we were directly over the pole."
+0,83,53,CARTER,It's possible Sir.
+0,83,53,O'NEILL,Go on.
+0,83,53,HALEY,"Well we're beyond the point of peak intensity. If we wait, the creatures will go back to the way they were before."
+0,83,53,O'NEILL,How long would that take?
+0,83,53,HALEY,"A couple of hours, no more than that."
+0,83,53,TEAL'C,The generator will most likely not last that long.
+0,83,53,HALEY,We'll hold them off with those phaser things.
+0,83,53,O'NEILL,What do you think?
+0,83,53,CARTER,"Well Sir, if I'm right and their behaviour is retaliatory, waiting will just make things worse."
+0,83,53,HALEY,You're not right. I am.
+0,83,53,CARTER,You don't know that Cadet.
+0,83,53,HALEY,We know the creatures are affected by electric fields. You think it's a coincidence they happened to go beserk just as we're passing over the pole?
+0,83,53,CARTER,"Do you think it's a coincidence that they attacked us en masse immediately after one of their own was captured? Sir we can't both be right, the theories are mutually exclusive. Now there's certainly evidence to support both but not enough to reach a conclusion."
+0,83,53,HALEY,"Colonel, please don't just dismiss what I'm saying just because you expect her to be right."
+0,83,53,O'NEILL,"It doesn't matter whose right, Cadet."
+0,83,53,HALEY,"Colonel, you're risking your life for nothing."
+0,83,53,O'NEILL,Decision's made.
+0,83,54,HALEY,How can it not matter who's right?
+0,83,54,CARTER,"If he makes a run for the Gate, he's risking his own life. If he waits, he risks everyone's life. He can't do that."
+0,83,55,O'NEILL,"As soon as I get the Gate open, head straight for it. Don't bring anything with you."
+0,83,55,HAMILTON,Oh no we can't leave behind weeks of research.
+0,83,55,O'NEILL,"Carter, if he so much as brings a file folder, shoot him."
+0,83,55,CARTER,Yes Sir.
+0,83,55,TEAL'C,Are you ready O'Neill?
+0,83,55,O'NEILL,No. Give me a warning.
+0,83,55,TEAL'C,I am going to shoot you.
+0,83,55,O'NEILL,I was thinking more along the lines of on three. One.
+0,83,56,O'NEILL,Two. I said on three. God.
+0,83,57,TEAL'C,Good luck O'Neill.
+0,83,57,O'NEILL,Wish me luck.
+0,83,57,CARTER,Good luck Sir.
+0,83,57,O'NEILL,Thank you. Go.
+0,83,58,O'NEILL,I'm at the Gate. I'm gonna start dialling.
+0,83,59,CARTER,Colonel! Colonel!
+0,83,60,TEAL'C,Quickly O'Neill.
+0,83,61,O'NEILL,I'll never complain about mosquitoes again.
+0,83,62,SCIENTIST2,We owe you our thanks Colonel.
+0,83,62,O'NEILL,I s'pose.
+0,83,62,HAMILTON,And I owe you an apology.
+0,83,62,O'NEILL,I suppose you do.
+0,83,63,HALEY,Is it always like this?
+0,83,63,CARTER,"No, sometimes it gets really exciting."
+0,83,63,HALEY,Will I ever find out which one of us is right?
+0,83,63,CARTER,"If you stick around long enough, maybe. Besides there's always other planets."
+0,83,63,HALEY,It's a moon.
+0,83,63,CARTER,"Okay, you're right about that."

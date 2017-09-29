@@ -1,0 +1,347 @@
+Season,Episode,Scene,Character,Line
+0,103,0,STARGATE SG1,Episode 517
+0,103,0,"""FAIL SAFE""",By Joseph Mallozzi & Paul Mullie
+0,103,1,TG,"No, listen to me now. If you can't confirm my observations then you must have the co-ordinates wrong because there is definitely something up there. For the tenth time it is in Casseopia. Declination 61 degrees 6 minutes. Right ascension 2 hours 48 minutes. Well that's impossible. Yes I'm sure. Listen. Listen, I am not some crackpot phoning in a UFO here. I happen to be the co-founder of the Northern Amateur Astronomical Society and I've been tracking this thing for three nights. Now whatever it is it is very big, it is very close and I am not going to shut up about this until....."
+0,103,2,TG,Never mind.
+0,103,3,CARTER,This image was generated based on satellite observations made over the last few hours. The asteroid has an irregular shape but we've calculated its length from end to end to be approximately 137 km.
+0,103,3,O'NEILL,I've seen this movie. It hits Paris.
+0,103,3,CARTER,"Actually Sir, it'll strike somewhere in the Arctic Circle. Probably Greenland or the Barren Sea."
+0,103,3,DANIEL,And nobody knows this but us? How is that possible?
+0,103,3,CARTER,"Well, the asteroid was actually discovered by a civilian who's since been persuaded to keep it quiet. The reason no one else has detected it is that the object's path is highly atypical. It's a rogue well outside the plane of the solar system occupied by the planets in the asteroid belt. In fact it's a fluke that anyone saw it at all. We got lucky."
+0,103,3,DANIEL,I don't see how in any conceivable way this is lucky.
+0,103,3,CARTER,Well if this had happened 7 or 8 years ago there would be nothing we could do. The Stargate opens other options for us.
+0,103,3,O'NEILL,A little help from our friends?
+0,103,3,CARTER,Yes sir.
+0,103,3,TEAL'C,Perhaps the Tok'ra could be of assistance.
+0,103,3,HAMMOND,Unfortunately they've been on the run since the Goa'uld attacked their base at Revanna. We've already sent a message asking for their help but so far there hasn't been any reply.
+0,103,3,O'NEILL,The Asgard owe us a favour.
+0,103,3,DANIEL,We could contact them through the Katal through their Hall of Wisdom.
+0,103,3,TEAL'C,"According to the treaty with the Goa'uld, the Asgard cannot prevent natural disasters from occurring on protected planets."
+0,103,3,O'NEILL,"Hey, the Goa'uld tried to make the Tollan send a bomb through the iris. Screw the treaty."
+0,103,3,DANIEL,Well one of our allies will help.
+0,103,3,CARTER,"I hope your right. Otherwise in 11 days and 16 hours, all life on Earth will be wiped out."
+0,103,4,FREYR,I'm afraid the answer is no.
+0,103,4,O'NEILL,"Come on guys, throw me a bone here."
+0,103,4,FREYR,The protected planets treaty leaves no room for interpretation.
+0,103,4,O'NEILL,They tried to attack us.
+0,103,4,FREYR,It was the Tollan who attempted to send the explosive device through your iris.
+0,103,4,O'NEILL,By whose order?
+0,103,4,FREYR,The System Lords deny any knowledge of this incident.
+0,103,4,O'NEILL,Of course they deny it.
+0,103,4,FREYR,The treaty does allow for the arbitration of such disputes. We would need to assemble a commission of inquiry consisting of equal numbers of Asgard and Goa'uld representatives. We would also need corroborating testimony from the Tollans.
+0,103,4,O'NEILL,"Now see, that's gonna be a problem. Seeing as they've been wiped out by the Goa'uld."
+0,103,4,FREYR,That is unfortunate.
+0,103,4,O'NEILL,"And Earth gets hit by that rock and we're all wiped out, that's gonna be unfortunate too?"
+0,103,4,FREYR,Very.
+0,103,5,O'NEILL,And after that I kind of lost my temper.
+0,103,5,HAMMOND,What exactly does that mean?
+0,103,5,DANIEL,Let's just say Jack made a reference to Freyr's mother.
+0,103,5,HAMMOND,"We'll discuss Colonel O'Neill's diplomatic shortcomings later, right now I'd like to know what options remain."
+0,103,5,O'NEILL,I say we nuke it ourselves.
+0,103,5,CARTER,We have sufficiently high yield warheads to deflect it. We don't have a multi-stage delivery system capable of reaching the asteroid in time.
+0,103,5,DANIEL,"Wait a minute, what about the cargo ship that Jacob and I crashed on Revanna during the Goa'uld attack. That must still be there."
+0,103,5,O'NEILL,In how many pieces?
+0,103,5,CARTER,Our understanding of Goa'uld technology has improved quite a bit. We might be able to fix it.
+0,103,5,HAMMOND,How much time?
+0,103,5,CARTER,"Given the right team, maybe a couple of days."
+0,103,5,HAMMOND,"I'll assign anyone you need, Major."
+0,103,5,DANIEL,"Assuming we can fix it, how long will it take to fly back to Earth?"
+0,103,5,CARTER,"Revanna's not exactly next door. Even pushing the engines past 100%, it would take eight, nine days."
+0,103,5,TEAL'C,Leaving little margin for error.
+0,103,5,HAMMOND,Then let's get started. Dismissed.
+0,103,6,HAMMOND,Colonel. I have every confidence in SG-1's abilities however as a contingency plan the President has ordered me to begin Alpha team evacuation through the Gate. Major Davis will be arriving shortly from the Pentagon to co-ordinate.
+0,103,6,O'NEILL,Yes sir.
+0,103,6,HAMMOND,If Major Carter is unable to repair the cargo ship you will report immediately to the Alpha site and assume command.
+0,103,6,O'NEILL,General?
+0,103,6,HAMMOND,"No debates on this one Jack, that's an order."
+0,103,7,O'NEILL,Yeah.
+0,103,8,CARTER,We're good to go Sir.
+0,103,8,O'NEILL,"Teal'c, show `em the way."
+0,103,9,TEAL'C,This way.
+0,103,10,DANIEL,"This, uh, big enough?"
+0,103,10,CARTER,Packs twelve hundred enhanced megatonnes.
+0,103,10,DANIEL,That's a lot?
+0,103,10,CARTER,"This is the most powerful warhead ever created, Daniel. It's the equivalent of one billion tonnes of TNT."
+0,103,10,O'NEILL,That's a lot.
+0,103,11,O'NEILL,Hey. What you doing?
+0,103,11,SPELLMAN,"I'm sorry, I can't do this. I can give you a list of some very good engineers."
+0,103,11,O'NEILL,"Come on Spellman, I do this every day."
+0,103,11,SPELLMAN,That's probably because you don't understand what actually happens to your body when you go through this thing. I do.
+0,103,11,CARTER,We need you for this mission.
+0,103,11,SPELLMAN,It defies the laws of physics and you know it.
+0,103,11,O'NEILL,Spellman. You're going.
+0,103,14,O'NEILL,Doesn't look so bad.
+0,103,14,CARTER,"Okay, our first priority is auxiliary power, then it's hyperdrive and life support."
+0,103,14,WEBBER,Right.
+0,103,14,SPELLMAN,Is there a rest room? My first priority.
+0,103,15,O'NEILL,"Ah, they'll fix it up."
+0,103,15,DANIEL,I'm confident.
+0,103,15,O'NEILL,Me too.
+0,103,15,TEAL'C,As am I.
+0,103,23,WEBBER,I looked again and I still can't find it.
+0,103,23,SPELLMAN,Did you check the guidance system?
+0,103,23,GUY2,Twice.
+0,103,23,CARTER,"Okay, guess we'll have to assume there isn't one on board."
+0,103,23,O'NEILL,What?
+0,103,23,CARTER,"We're about ready to attempt an engine start, sir."
+0,103,23,O'NEILL,Yeah fine. Assume there isn't one what?
+0,103,23,CARTER,Recall device.
+0,103,23,O'NEILL,The X301? That was you guys?
+0,103,23,WEBBER,You have to admit it performed beautifully right up until the point you and Teal'c were sent into deep space.
+0,103,23,O'NEILL,Yeah.
+0,103,23,DANIEL,Nice work.
+0,103,23,O'NEILL,Carter?
+0,103,23,CARTER,"Attempting engines, sir."
+0,103,24,O'NEILL,Carter? She tries again. It works the second time.
+0,103,24,CARTER,That's got it Sir. We're good to go. I'll repair the remaining systems on the way.
+0,103,25,CARTER,"Once you get to the Revanna Gate, dial the Alpha site. They'll be expecting you."
+0,103,25,SPELLMAN,I think I speak for about six billion when I say Good Luck.
+0,103,25,CARTER,You too.
+0,103,26,O'NEILL,I'm gonna want to talk to you guys.
+0,103,26,CARTER,"Teal'c, try to take it easy on the engines when we take off."
+0,103,26,DANIEL,Why?
+0,103,26,CARTER,Well I'm just slightly concerned that if we push them too hard and they burn out before we reach escape velocity that... we'll come crashing back to the planet.
+0,103,26,DANIEL,I'm confident.
+0,103,26,O'NEILL,Me too.
+0,103,26,TEAL'C,As am I.
+0,103,27,DAVIS,"I appreciate that sir, but if we don't hear from SG1..."
+0,103,27,WALTER,"We're getting a message, sir. It's SG1."
+0,103,27,HAMMOND,You were saying Major?
+0,103,27,WALTER,The signal's being relayed through AF SAT-COM Sir. Audio only.
+0,103,27,HAMMOND,Pipe it through Sergeant.
+0,103,27,CARTER,...Please respond.
+0,103,27,HAMMOND,
+0,103,27,CARTER,"Sir, this is Carter. We've just dropped out of hyperspace and should reach the asteroid in a few minutes. HAMMOND: We're relieved to hear that Major. You sent those engineers to the Alpha site ten days ago."
+0,103,27,CARTER,"Ship's barely flying as it is, sir. We're lucky we made it this far."
+0,103,27,HAMMOND,Understood. Proceed with your mission.
+0,103,27,CARTER,Yes sir.
+0,103,28,CARTER,All right. 39 minutes before impact the asteroid will reach the fail safe position. Once it's past that point it will be too close to earth for the explosion to deflect it. That leaves us three and a half hours.
+0,103,28,DANIEL,So we just drop off the bomb and what?
+0,103,28,CARTER,Our scans show the asteroid is potmarked with impact craters and fissures. We fly the ship into the deepest crater we can find at a right angle to its current trajectory. The crater itself should help direct the explosive force of the bomb like a rocket nozzle. When we're a few metres above the surface we ring down the MALP with the bomb. And we land and two of us go EVA.
+0,103,28,O'NEILL,That would be me and you.
+0,103,28,CARTER,We walk the MALP down into one of the fissures at the bottom of the crater to focus as much as the blast as possible. We set the timer and then we get out of there.
+0,103,28,O'NEILL,Piece of cake.
+0,103,28,CARTER,"There is one other thing. We're about to pass through the Leonids. It's a commentary trail that Earth passes through periodically. The shields should help protect the ship but anyone caught outside is gonna have to find cover, fast."
+0,103,29,O'NEILL,What was that?
+0,103,29,TEAL'C,I am having difficulty with the sublight engines.
+0,103,30,DANIEL,"Yes, you are."
+0,103,30,CARTER,Sir.
+0,103,31,O'NEILL,What is it?
+0,103,31,CARTER,It's building up an overload in the control systems.
+0,103,31,O'NEILL,Backups?
+0,103,31,CARTER,We don't have any.
+0,103,32,WALTER,Sir. We just lost SG1's signal.
+0,103,32,HAMMOND,
+0,103,34,O'NEILL,How's the head?
+0,103,35,TEAL'C,The sublight engines have shut down.
+0,103,35,DANIEL,Big asteroid problem here.
+0,103,37,CARTER,Try using maneuvering thrusters to slow us down.
+0,103,37,DANIEL,I am. It's not working.
+0,103,38,TEAL'C,Daniel Jackson is correct. Maneuvering thrusters appear to be insufficient.
+0,103,38,CARTER,They're all we've got.
+0,103,38,DAVIS,Sir. Deep space tracking still has a fix on the ship but we show them approaching the asteroid way too fast.
+0,103,39,O'NEILL,Any time now.
+0,103,39,TEAL'C,"Thrusters are at full reverse, O'Neill."
+0,103,39,CARTER,We're coming in a lot faster than we should be.
+0,103,39,DANIEL,Yes we are.
+0,103,39,CARTER,Faster than we should with thrusters at maximum. Ninety metres per second. Eighty. This rate of deceleration isn't gonna cut it. We're gonna hit.
+0,103,40,O'NEILL,What happened?
+0,103,40,CARTER,We're inside a deep crater. Fifty metres per second. Forty. Thirty.
+0,103,41,CARTER,We stopped descending.
+0,103,42,DAVIS,"No I understand. Thank you. Sir. We just got a message from NASA. According to their latest calculations, SG1 has crashed into the asteroid's surface at over sixty metres per second."
+0,103,42,HAMMOND,Do they have confirmation?
+0,103,42,DAVIS,No sir. It's an estimate based on the ship's last known position and trajectory.
+0,103,42,HAMMOND,Any chance of survivors?
+0,103,42,DAVIS,"At that velocity, sir, it's very unlikely. Sir, if this is true, then the mission is down. We're out of options. It's time to call the President."
+0,103,43,CARTER,Sub light drive is down.
+0,103,43,TEAL'C,As are shields and communications.
+0,103,43,DANIEL,It might be easier to list what is working.
+0,103,43,O'NEILL,Bomb?
+0,103,43,CARTER,"It's good to go Sir. If it comes right down to it, we can detonate it right here. What's our position?"
+0,103,43,DANIEL,"Well personally I'm against it. You wanna know where the ship is, we're about five metres above the surface of the bottom of the crater."
+0,103,43,TEAL'C,The rings will be functional at that distance.
+0,103,43,CARTER,"All right, here goes."
+0,103,44,O'NEILL,Let's suit up.
+0,103,45,O'NEILL,Carter? You all right?
+0,103,45,CARTER,I'm fine sir.
+0,103,45,O'NEILL,"Look, you took a pretty good shot. Why don't you sit this one out?"
+0,103,45,CARTER,"No, I'm fine really."
+0,103,45,O'NEILL,Teal'c and I can handle it.
+0,103,45,CARTER,Yes sir.
+0,103,46,HAMMOND,"No sir. There's been no response on the radio. But if they crashed there should have been visible evidence, we found nothing. Frankly sir, if SG1 survived and they manage to complete their mission then no one needs to know any of this happened. If not, there's nothing anyone can do that will make the slightest bit of difference. Going public now would only serve to create panic. Yes sir, I know how you feel. My place is here. Thank you Mr President."
+0,103,47,TEAL'C,Depressurizing airlock.
+0,103,47,CARTER,"Sir, once you're off the ship you'll experience very little gravity. But the asteroid's surface is mostly iron and your boots are magnetized so you shouldn't go spinning off into space."
+0,103,47,O'NEILL,Well that's very reassuring there Carter. Thank you very much.
+0,103,47,TEAL'C,Depressurization complete. Opening outer door.
+0,103,48,O'NEILL,I'll drive.
+0,103,50,DANIEL,What is it?
+0,103,50,CARTER,Well our approach to the asteroid was a lot faster than it should have been even on thrusters only. I'm gonna check something.
+0,103,50,TEAL'C,We can proceed no further.
+0,103,50,O'NEILL,Then this'll do.
+0,103,51,O'NEILL,Weapon is armed.
+0,103,52,CARTER,Something's not right. The asteroid's gravitational field is way stronger than we thought.
+0,103,52,DANIEL,So?
+0,103,52,CARTER,Gravity is determined by mass and mass is determined by size and composition.
+0,103,52,DANIEL,So?
+0,103,52,CARTER,So the core of the asteroid must be made up of something a lot heavier than nickel and iron.
+0,103,52,DANIEL,"So, what was that?"
+0,103,53,CARTER,We're passing through the Leonids way sooner than I expected.
+0,103,54,CARTER,"Colonel O'Neill, what's your position?"
+0,103,54,O'NEILL,We're almost out of the cave.
+0,103,54,CARTER,Better stay where you are Sir. We're taking meteor hits.
+0,103,54,O'NEILL,"Carter, any chance of getting those shields in play here?"
+0,103,54,CARTER,"We're working on it Sir. Stand by. Daniel, try to re-route power from the hyper drive. Bypass systems are all blown."
+0,103,55,CARTER,Hull breach! We're venting atmosphere.
+0,103,55,O'NEILL,Carter. Any progress on those shields?
+0,103,55,CARTER,"Stand by, sir."
+0,103,56,CARTER,That's it.
+0,103,57,DANIEL,And now there's two more.
+0,103,57,O'NEILL,Carter! Daniel! This is O'Neill. Please respond. Carter!
+0,103,57,TEAL'C,It appears the meteor storm has subsided.
+0,103,57,O'NEILL,Go.
+0,103,58,O'NEILL,"Carter. Carter, Daniel? Report."
+0,103,59,TEAL'C,O'Neill. These readings indicate zero atmosphere within the ship.
+0,103,59,O'NEILL,Hull breach?
+0,103,59,TEAL'C,If that is indeed the case Major Carter and Daniel Jackson could not have survived.
+0,103,59,O'NEILL,Open it.
+0,103,60,O'NEILL,I got nothing Teal'c.
+0,103,60,TEAL'C,The hull has been damaged in several places.
+0,103,61,TEAL'C,What are you considering O'Neill?
+0,103,62,O'NEILL,They're in the escape pods.
+0,103,62,TEAL'C,I have identified the breached areas of the hull. We can begin repairs immediately.
+0,103,63,O'NEILL,All right.
+0,103,64,FRAISER,General?
+0,103,64,HAMMOND,Doctor? Shouldn't you be off world by now?
+0,103,64,FRAISER,I'm leaving with the next group Sir. Your name isn't on the list Sir.
+0,103,64,HAMMOND,That's correct.
+0,103,64,FRAISER,May I ask why?
+0,103,64,HAMMOND,"If that asteroid hits, the only chance for the survival of the human race will rest with the Alpha site. We limited their number because they'll have limited resources. Everyone will have to contribute."
+0,103,64,FRAISER,"Your experience makes you more than qualified, Sir."
+0,103,64,HAMMOND,"I appreciate what you're trying to do, Doctor, but my decision is final."
+0,103,64,FRAISER,"Yes, Sir."
+0,103,66,O'NEILL,"Hey kids, how you feeling?"
+0,103,66,DANIEL,"Not bad, under the circumstances."
+0,103,66,O'NEILL,That's great. Let's go.
+0,103,66,CARTER,"Sir, I don't think we should leave just yet."
+0,103,66,DANIEL,Don't look at me. Something to do with gravity or something.
+0,103,66,CARTER,"It's too high, Sir. At least it's higher than it should be. I need to reconfigure the ship's sensors to determine what the core is made of."
+0,103,66,O'NEILL,Oh here we go.
+0,103,66,CARTER,I'm sorry Sir.
+0,103,66,O'NEILL,"Oh come on, we came, we saw, we planted a bomb, we had a little fun with a meteor shower, we went home. It's a great story. Isn't it?"
+0,103,67,CARTER,I was right.
+0,103,67,DANIEL,This could be a problem.
+0,103,67,TEAL'C,Indeed.
+0,103,67,O'NEILL,I don't wanna hear it.
+0,103,67,CARTER,"Sir, the asteroid's core is composed almost entirely of naqahdah."
+0,103,67,O'NEILL,Of course it is.
+0,103,67,CARTER,It makes up about 45% of the total mass.
+0,103,67,DANIEL,Of course it does.
+0,103,67,TEAL'C,Naqahdah does not occur naturally in this solar system.
+0,103,67,CARTER,"Which is why I never even thought to look for it. Sir, this whole thing must have been a Goa'uld set up."
+0,103,67,DANIEL,Circumvent the protected planets treaty with the Asgard. It's almost unthinkable.
+0,103,67,O'NEILL,What?
+0,103,67,CARTER,The Goa'uld brought the asteroid here and set it on a collision course to make it look a natural disaster.
+0,103,67,DANIEL,They knew the only way we could stop it would be with a nuke.
+0,103,67,O'NEILL,"So, what happens when that bomb goes off?"
+0,103,67,CARTER,"Well, the explosion will be enhanced by the naqahdah, probably to the force of a small nova. This close to Earth, it would be enough to set the atmosphere on fire and boil the oceans."
+0,103,67,O'NEILL,"Okay, this was not in the movie."
+0,103,67,DANIEL,"If we deactivate the bomb, the asteroid goes past the fail safe point, there's no turning back, are you absolutely sure about this?"
+0,103,67,CARTER,Well I can't be a hundred percent.
+0,103,67,O'NEILL,We don't have a lot of choices here.
+0,103,67,DANIEL,"It's what I'm saying, we're damned if we do, we're damned if we don't. We need other options."
+0,103,67,TEAL'C,The presence of the asteroid itself may be sufficient evidence of a treaty violation.
+0,103,67,DANIEL,"Right, the Asgard could intervene."
+0,103,67,CARTER,We have no way to tell them.
+0,103,67,O'NEILL,"We do if you get that radio back online. Teal'c, suit up."
+0,103,68,CARTER,"Okay, try it now."
+0,103,68,DANIEL,"Stargate Command, this is SG1, do you read, over. Nothing."
+0,103,68,CARTER,I don't know what else to do. The radio's working short range but there's no way the signal can penetrate this much solid naqahdah.
+0,103,69,O'NEILL,Oh crap.
+0,103,70,TEAL'C,The bomb has yet to be deactivated.
+0,103,70,O'NEILL,I can see that Teal'c.
+0,103,71,TEAL'C,Perhaps the code is incorrect.
+0,103,71,O'NEILL,"Yeah. Carter, come in."
+0,103,71,CARTER,Go ahead.
+0,103,71,O'NEILL,Confirm the deactivation code for me will ya.
+0,103,71,CARTER,"Zero, three, three, one, zero, three, one, zero."
+0,103,72,O'NEILL,"Yeah, that's it. Nothing."
+0,103,72,CARTER,"Is there a problem, Sir?"
+0,103,72,O'NEILL,"Well there was a cave in, it seems to have damaged the keypad, it's not accepting the code. Other than that, everything's fine."
+0,103,72,CARTER,How much time is left exactly?
+0,103,72,O'NEILL,Under three minutes.
+0,103,72,CARTER,"Sir, you're gonna have to open up the bomb and deactivate it manually."
+0,103,73,CARTER,First thing you need to do is remove the casing around the timer. There should be two screws.
+0,103,73,O'NEILL,I got `em.
+0,103,74,O'NEILL,Got it.
+0,103,74,CARTER,Now find the wires leading from the timer to the detonator and cut the red one.
+0,103,75,O'NEILL,"Carter, they're all yellow."
+0,103,75,CARTER,Say again?
+0,103,75,O'NEILL,There are five wires and they're all yellow. Maybe I should cut `em all.
+0,103,75,CARTER,"Uh, the thing is Sir, if you interrupt the wrong circuit it's basically the same as telling the bomb that the timer's reached zero."
+0,103,75,O'NEILL,I knew that.
+0,103,75,CARTER,"I'm sorry Sir, you're just gonna have to cut them randomly."
+0,103,75,O'NEILL,"Yeah, I knew that too."
+0,103,76,CARTER,How's it coming Sir?
+0,103,76,O'NEILL,I've cut three. I've got two to go.
+0,103,77,O'NEILL,"You know, I'd like to take this opportunity to say that this is a very poorly designed bomb and I think we should say something to somebody when we get back."
+0,103,77,CARTER,I agree Sir.
+0,103,78,CARTER,Sir?
+0,103,78,WE'RE STILL HERE. GATEROOM,
+0,103,79,DAVIS,Twenty seconds to fail safe.
+0,103,79,HAMMOND,Still no word from SG1?
+0,103,79,WALTER,"No, Sir."
+0,103,79,DAVIS,Ten seconds. Asteroid has passed fail safe.
+0,103,79,HAMMOND,"Very well. Major, Sergeant, take your positions with the last alpha group. That's an order, Sergeant."
+0,103,79,WALTER,"Yes, sir."
+0,103,79,DAVIS,General.
+0,103,79,HAMMOND,"I haven't been relieved of this command, Major."
+0,103,79,DAVIS,"Yes, sir. Good luck."
+0,103,80,O'NEILL,We get communications back yet?
+0,103,80,CARTER,"Sorry Sir, we tried. The only way would be to pull the components we used to fix the hyperdrive. It would take hours."
+0,103,80,O'NEILL,What then?
+0,103,80,DANIEL,"Well we have a couple of options. Number one, we give up. Use what's left of power and life support to make it to the nearest unoccupied Gate world. Small chance we'd make it. From there we head to the Alpha site."
+0,103,80,O'NEILL,Number two?
+0,103,80,DANIEL,We take off and hope that our radio signal can be picked up by the Asgard in time to inform them that this was a Goa'uld attack disguised as a natural disaster.
+0,103,80,CARTER,There not enough time for that.
+0,103,80,DANIEL,I know.
+0,103,80,O'NEILL,Is there a number three?
+0,103,80,CARTER,There's no three.
+0,103,80,DANIEL,"Well maybe there is. Teal'c, you said naqahdah wasn't native to our solar system. Which means that the Goa'uld must have towed it through hyperspace by ship."
+0,103,80,TEAL'C,A mothership.
+0,103,80,CARTER,"Daniel, that's it."
+0,103,80,O'NEILL,What's it?
+0,103,80,DANIEL,We don't have a mothership.
+0,103,80,CARTER,The effect only has to last a few seconds.
+0,103,80,O'NEILL,What.. only has to last a few seconds? What?
+0,103,80,CARTER,"Choice three, Sir. We expand the ship's hyperspace field to encompass the entire asteroid. We take it out of normal space long enough to avoid the collision with Earth."
+0,103,80,O'NEILL,Is there a four?
+0,103,80,CARTER,"I know it sounds far-fetched Sir, and it is."
+0,103,80,O'NEILL,You wanna ride an asteroid through Earth?
+0,103,80,DANIEL,Yes.
+0,103,80,CARTER,"To the outside observer, it would disappear on one side and reappear on the other. The problem is, it would take every ounce of power we've got. The field would have to be expanded far beyond its usual envelope. It could cause the engines to explode."
+0,103,80,O'NEILL,Explode?
+0,103,80,CARTER,"Even if we survived the engine overload sir, we wouldn't be able to take off again. We'd have a couple of hours of life support and that's it."
+0,103,80,O'NEILL,But you think this is the best shot we have of stopping this rock?
+0,103,80,CARTER,"Yes Sir, I think so."
+0,103,80,O'NEILL,Well that's the plan then.
+0,103,81,CARTER,I really need more time to make the calculations.
+0,103,81,O'NEILL,"Well Carter, now might be a good time."
+0,103,81,CARTER,Almost.
+0,103,81,DANIEL,Now?
+0,103,81,CARTER,If I engage too soon we'll reappear right inside the Earth.
+0,103,82,O'NEILL,"Carter, I can see my house!"
+0,103,82,CARTER,Engaging hyperdrive now!
+0,103,83,CARTER,We're there.
+0,103,83,TEAL'C,The navigational computer confirms we have emerged from hyperspace on the other side of the planet.
+0,103,83,O'NEILL,"Yep, plan three. Works every time."
+0,103,85,HAMMOND,"Yes Mr President. Yes Sir. Well from what NASA and SATCOM are telling me it looks like the asteroid just disappeared. I don't know Sir, it may have been the Asgard but it's my opinion SG1 had something to do with it."
+0,103,86,DANIEL,"So, two hours of life support. Then what?"
+0,103,86,O'NEILL,Hammond'll find us.
+0,103,86,DANIEL,I'm confident.
+0,103,86,CARTER,Me too.
+0,103,86,TEAL'C,As am I.
+0,103,87,TEAL'C,Sensors are picking up a vessel approaching. It appears to be another cargo ship.
+0,103,87,CARTER,Goa'uld?
+0,103,87,TEAL'C,I do not know. The ship has taken up position directly above us.
+0,103,88,JALEN,I am Jalen of the Tok'ra. We received your distress call and came as fast as we could. Can we render assistance?
+0,103,88,O'NEILL,"Well, you know, it's not like we don't have everything totally under control. But, sure, render away."

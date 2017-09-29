@@ -1,0 +1,667 @@
+Season,Episode,Scene,Character,Line
+0,0,0,STARGATE SG1,Episode 101
+0,0,0,"""CHILDREN OF THE GODS""",By Jonathan Glassner & Brad Wright The opening scene starts in the gateroom. The gate is covered and in a corner of the room a group of four military personnel are playing a game of cards.
+0,0,0,AIRMAN,"Oh, man, this hand's as lousy as this detail. All right, everybody in or out."
+0,0,1,AIRMAN,"Seven to the deuce, nothing there, boss on the eight, nothing happening, queen to the king, possible straight going there, eight on the eight, and the jack gets a box. Eight's open."
+0,0,1,FEMALE,Aren't you guys afraid of an officer coming down here or something?
+0,0,1,OFFICER,Trust me. Nobody ever comes down here but us.
+0,0,2,FEMALE,Does that thing always do that?
+0,0,2,AIRMAN,Do what?
+0,0,2,WOMAN,Whatever it is under the tarp! I just saw it move or do something!
+0,0,2,AIRMAN,Probably the only thing it ever did was cost money.
+0,0,2,AIRMAN,"Yeah, it looks like they ran out of that. Been shipping personnel out of here for months."
+0,0,2,FEMALE,"I'm telling you, that thing is moving!"
+0,0,2,OFFICER,"If you don't have the straight, just fold."
+0,0,2,AIRMAN,Can we take that as a fold?
+0,0,3,FEMALE,I take it this has never happened before?
+0,0,4,APOPHIS,Jaffa Kree!
+0,0,5,APOPHIS,Teal'c! Kree!
+0,0,5,WOMAN,Get off me!
+0,0,6,OFFICER,Let her go!
+0,0,6,APOPHIS,Kree Jaffa!
+0,0,6,SOLDIER,Ninety five down here! We need.. The soldier is shot in the back
+0,0,6,APOPHIS,K'on! A'nsi
+0,0,7,OFFICER,"Sir , there's a ladder over here."
+0,0,8,SAMUELS,Colonel Jack O'Neill?
+0,0,8,JACK,Retired.
+0,0,8,SAMUELS,I'm Major Samuels.
+0,0,8,JACK,Air Force?
+0,0,8,SAMUELS,"Yes, sir. I'm the General's executive officer."
+0,0,8,JACK,"A little piece of advice, Major? Get re-assed to NASA. That's where all the action's gonna be. Out there."
+0,0,8,SAMUELS,"I'm under orders to bring you to General Hammond, sir."
+0,0,8,JACK,Never heard of him.
+0,0,8,SAMUELS,He replaced General West. He says it's important. Has to do with the Stargate.
+0,0,9,OFFICER,"We have to take a second elevator the rest of the way, sir. It's a long way down."
+0,0,9,JACK,I've been here before.
+0,0,9,OFFICER,Ah. Of course.
+0,0,9,SAMUELS,"This way, sir."
+0,0,10,HAMMOND,Come.
+0,0,10,SAMUELS,"General Hammond, Colonel Jack O'Neill."
+0,0,10,JACK,Retired.
+0,0,10,HAMMOND,I can see that. Me? I'm on my last tour.Time to start getting my thoughts together. Maybe write a book. You ever think about writing a book about your exploits in the line of duty Colonel?
+0,0,10,JACK,"Thought about it. But then I'd have to shoot anyone who actually read it. That's a joke, sir. Most of my work for the past ten years has been classified."
+0,0,10,HAMMOND,"Yes, of course."
+0,0,10,JACK,Major Samuels mentioned something about the Stargate?
+0,0,10,HAMMOND,Down to business. I can do that.This way.
+0,0,11,HAMMOND,"Anyone you know, Colonel?"
+0,0,11,WARNER,They're not human.
+0,0,11,JACK,Ya think?
+0,0,11,WARNER,"Best we can tell, these slits are actually a pouch similar to that found in a marsupial."
+0,0,11,SAMUELS,Like a kangaroo.
+0,0,11,WARNER,We haven't done an autopsy yet.
+0,0,11,HAMMOND,"These people ,or aliens, whatever you want to call them ,came through the Stargate, killed four of my people and kidnapped another using advanced weapons."
+0,0,11,JACK,"Weapons, sir?"
+0,0,12,SAMUELS,We can't figure out how to operate it.
+0,0,13,JACK,"Yes, sir. There were no creatures like this on Abydos. Those people were human. From Earth. Ra brought them there thousands of years ago."
+0,0,13,HAMMOND,I know all about that. But your report said this Ra was in fact some kind of alien that lived inside a human body.
+0,0,13,JACK,"Yeah, his eyes glowed. That was our first clue."
+0,0,13,HAMMOND,Are you sure he's dead Colonel?
+0,0,13,JACK,"Unless he can survive a tactical nuclear warhead blowing up in his face, positive. Why?"
+0,0,13,HAMMOND,"These people ,or whatever they are , were guarding another man who retreated back through the Stargate.They got a good look at his eyes, Colonel. They glowed."
+0,0,14,HAMMOND,"How do you feel about the Stargate mission after all this time, Colonel?"
+0,0,14,JACK,How do you mean?
+0,0,14,HAMMOND,"Well, it's been over a year. Has your perspective changed?"
+0,0,14,JACK,"Well, sir, I.."
+0,0,15,JACK,Was that?
+0,0,15,HAMMOND,"Kawalsky and Ferretti, yes. They were under your command on the first Stargate mission. Tell me about Daniel Jackson, Colonel."
+0,0,15,JACK,Why are they questioning my men?
+0,0,15,HAMMOND,"They're not your men anymore, Colonel. You retired. Daniel Jackson?"
+0,0,15,JACK,You read the report?
+0,0,15,HAMMOND,Yes.
+0,0,15,JACK,It's all there.
+0,0,15,SAMUELS,Is it?
+0,0,15,JACK,"What's this all about, General?"
+0,0,15,HAMMOND,"You didn't like Daniel Jackson, did you?"
+0,0,15,JACK,"Daniel was a scientist. He sneezed a lot. Basically, he was a geek, sir."
+0,0,15,SAMUELS,So you didn't have a lot of time for him.
+0,0,15,JACK,"I didn't say that. He also saved my life and found a way home for my men and me. A little thing like that kind of makes a person grow on you, you know what I mean?"
+0,0,15,HAMMOND,"According to the mission brief, your orders were to go through the Stargate to detect any possible threat to Earth and if found, to detonate a nuclear device and destroy the Gate on the other side."
+0,0,15,JACK,Yes.
+0,0,15,HAMMOND,"But that's not what you did, is it?"
+0,0,15,JACK,Not right away. Ra's forces overpowered my team and took the weapon before I could arm it.
+0,0,15,SAMUELS,"But with Dr. Jackson's help you eventually regained control and did in fact detonate the weapon, yes?"
+0,0,15,JACK,Yes.
+0,0,15,HAMMOND,"So to the best of your knowledge, Daniel Jackson and everyone else you knew on Abydos is dead. Correct?"
+0,0,15,JACK,That's correct.
+0,0,15,HAMMOND,"Good. Then you won't mind if I authorize a go-ahead on our plan.This quartz material the Stargates are made of ,it must be tough stuff if it can withstand a Mark Three."
+0,0,15,JACK,"Well, we sent a robot probe through after we got back, sir. It was flattened on the other end. Obviously, the Abydos Stargate had been buried in the rubble."
+0,0,16,HAMMOND,"Well, somehow it got unburied."
+0,0,17,JACK,Oh my God. Sending another bomb?
+0,0,17,HAMMOND,"Mark Five this time. If these creatures did reopen the Abydos Gate, we intend to reseal it for good."
+0,0,17,JACK,"General, you can't do that."
+0,0,17,HAMMOND,Countdown's already started. Unless you have something to add.
+0,0,18,JACK,General Hammond. Sir. I regret to inform you that my report was not entirely accurate.
+0,0,18,HAMMOND,You didn't detonate the bomb.
+0,0,18,JACK,"Oh, I did detonate the bomb, sir. It was aboard Ra's spacecraft, so it did kill him and eliminate the risk to Earth."
+0,0,18,SAMUELS,However...
+0,0,18,JACK,"However, Ra's ship was in orbit above the planet at the time. Neither the Gate nor anything else on the planet was destroyed. Daniel Jackson is alive and living with the people on Abydos."
+0,0,18,HAMMOND,You violated direct orders! Why?
+0,0,18,JACK,Because the people of Abydos are no threat to us. They deserve to be left alone.
+0,0,18,HAMMOND,That's not up to you.
+0,0,18,JACK,"With all due respect, sir, if I'd come back here and reported the Gate on the other side was still intact, we would have sent another bomb just like you were about to. It wasn't necessary to let those people die. The threat from Ra was gone."
+0,0,18,SAMUELS,What about the probe we sent through? It was crushed instantly.
+0,0,18,JACK,"After we came home, Daniel buried the Gate in rocks, making my return or anybody else's impossible."
+0,0,18,HAMMOND,"Well, those four bodies lying in the infirmary say otherwise, Airman. We'll send the bomb through on schedule."
+0,0,18,JACK,"General, you can't do that!"
+0,0,18,HAMMOND,"Oh, I can't?"
+0,0,18,JACK,There are innocent people on that planet!
+0,0,18,HAMMOND,"There are innocent people here! I have my orders too, Colonel. I obey mine. Take Colonel O'Neill to the holding room. Let's give him some time to think about things while I decide what to do with him."
+0,0,19,KAWALSKY,"Colonel O'Neill, sir."
+0,0,19,JACK,"I'm retired, Kawalsky. Lose the salute."
+0,0,19,KAWALSKY,Me and Ferretti didn't tell them anything.
+0,0,19,JACK,I appreciate that.
+0,0,19,KAWALSKY,"Hey, those kids on Abydos saved my life too."
+0,0,19,JACK,Yeah... the kids.
+0,0,19,KAWALSKY,They're the whole reason we kept the secret. Right?
+0,0,19,JACK,Yeah.
+0,0,19,KAWALSKY,That one kid idolized you. Remember him? Weird name. What was it?
+0,0,19,JACK,Skaara.
+0,0,19,KAWALSKY,Right. Remember how he was always saluting you?
+0,0,19,JACK,Yeah. My kid used to do that when he was little. Skaara kind of reminded me of him.
+0,0,19,KAWALSKY,"Oh, man, Colonel. You and me went through that whole mission together. I never even knew you had a son."
+0,0,19,JACK,"Well, he died. Just before the Abydos mission."
+0,0,19,KAWALSKY,"I'm sorry, sir. I had no idea."
+0,0,20,HAMMOND,How many people did you say are on Abydos?
+0,0,20,JACK,"That we saw? Maybe five thousand. Does this mean you're reconsidering sending the bomb, sir?"
+0,0,20,HAMMOND,It means I'm open to suggestions.
+0,0,20,JACK,"General, let me take a team through that Gate. We'll find out who those aliens are. Kawalsky and I have been there before. We know the lay of the land, we know the people."
+0,0,20,HAMMOND,You think you do. Jackson could be dead. You don't know what you'd be walking into.
+0,0,20,JACK,Sir. There is one way to find out.
+0,0,20,HAMMOND,Right. We'll have that prototype probe shipped from M.I.T.
+0,0,20,JACK,"General, we don't need that probe."
+0,0,20,KAWALSKY,We don't?
+0,0,20,JACK,Nope. This'll do.
+0,0,21,HARRIMAN,"Chevron 4, encoded!"
+0,0,21,HAMMOND,Care to explain this concept?
+0,0,21,HARRIMAN,"Chevron 5, encoded!"
+0,0,21,JACK,Jackson has allergies.
+0,0,21,KAWALSKY,I get it.
+0,0,21,JACK,"He'll know this came from me and not from someone, with all due respect, sir, like yourself."
+0,0,21,HARRIMAN,"Chevron 6, encoded! Chevron seven locked."
+0,0,22,HARRIMAN,"The object should reach final destination in five seconds, four, three,two, One."
+0,0,23,HAMMOND,Now what?
+0,0,23,JACK,"Now we wait. If Daniel's still around, he'll know what the message means."
+0,0,23,SAMUELS,What if the aliens get it?
+0,0,23,JACK,"Well, they could be blowing their noses right now."
+0,0,23,SAMUELS,They could be planning an attack.
+0,0,23,JACK,"Oh, come on, Samuels. Let me be the cynic around here, okay? Sir, this could take some time."
+0,0,24,JACK,"Permission to take a team through the Stargate, sir."
+0,0,24,HAMMOND,"Assuming I get the President's authorization. The mission briefing will be at 0800 hours. Consider yourself recalled to active duty, Colonel."
+0,0,25,HAMMOND,"Gentlemen, take your seats. Where's Captain Carter?"
+0,0,25,SAMUELS,"Just arriving, sir."
+0,0,25,JACK,Carter?
+0,0,25,HAMMOND,I'm assigning Sam Carter to this mission.
+0,0,25,JACK,"I'd prefer to put together my own team, sir."
+0,0,25,HAMMOND,"Not on this mission, sorry. Carter's our expert on the Stargate."
+0,0,25,JACK,Where's he transferring from?
+0,0,25,SAM,"She, is transferring from the Pentagon."
+0,0,26,SAM,"I take it you're Colonel O'Neill. Captain Samantha Carter reporting, sir."
+0,0,26,KAWALSKY,"But of course you go by,Sam."
+0,0,26,SAM,"You don't have to worry, Major. I played with dolls when I was a kid."
+0,0,26,KAWALSKY,
+0,0,26,SAM,No. Major Matt Mason.
+0,0,26,KAWALSKY,Oh.Who?
+0,0,26,FERRETTI,"Major Matt Mason, astronaut doll. Did you have that cool little backpack that made him fly?"
+0,0,26,HAMMOND,Let's get started. Colonel?
+0,0,26,JACK,"Thank you. Those of you on your first trip through the Stargate, you should be prepared for what to expect."
+0,0,26,SAM,I've practically memorized your report from the first mission. I'd like to think I've been preparing for this all my life.
+0,0,26,KAWALSKY,"I think what the Colonel is saying is, have you ever pulled out of a simulated bombing run in an F-16 at 8-plus Gs?"
+0,0,26,SAM,Yes.
+0,0,26,KAWALSKY,": Well, it's way worse than that."
+0,0,26,FERRETTI,"By the time you get to the other side, you're frozen stiff like you've just been through a blizzard. Naked."
+0,0,26,SAM,That's a result of the compression your molecules undergo during the millisecond required for reconstitution.
+0,0,26,JACK,"Oh, here we go, another scientist. General, please."
+0,0,26,SAM,Theoretical astrophysicist.
+0,0,26,JACK,Which means?
+0,0,26,HAMMOND,"It means she is smarter than you are, Colonel. Especially in matters related to the Stargate."
+0,0,27,SAM,"Colonel, I was studying the Gate technology for two years before Daniel Jackson made it work and before you both went through. I should have gone through then. But sir, you and your men might as well accept the fact that I am going through this time."
+0,0,27,JACK,"Well, with all due respect, Doctor."
+0,0,27,SAM,"It is appropriate to refer to a person by their rank, not their salutation. Call me Captain, not Doctor."
+0,0,27,HAMMOND,"Captain Carter's assignment to this unit is not an option, it's an order."
+0,0,27,SAM,"I'm an Air Force officer just like you are, Colonel. And just because my reproductive organs are on the inside instead of the outside, doesn't mean I can't handle whatever you can handle."
+0,0,27,JACK,"Oh, this has nothing to do with you being a woman. I like women. I've just got a little problem with scientists."
+0,0,27,SAM,"Colonel, I logged over 100 hours in enemy airspace during the Gulf War. Is that tough enough for you? Or are we going to have to arm wrestle?"
+0,0,27,SAMUELS,"I hate to throw a damper on your enthusiasm, but I still say the safest, most logical way to deal with this is to bury the Stargate just like the ancient Egyptians did. Make it impossible for the aliens to return. It's the only way to eliminate the threat."
+0,0,27,JACK,Except it won't work.
+0,0,27,HAMMOND,It worked before.
+0,0,27,JACK,"They know what we are now. They know how far we've come. We're a threat to them. They've got ships, General. Ra had one as big as the Great Pyramids. They don't need the Stargate to get here. They can do it the old-fashioned way. Now with all due respect to Mr. Glass Is Half Empty over here, don't you think we should use the Stargate to do a little reconaissance before they come back, again?"
+0,0,27,HAMMOND,"I'll give you exactly 24 hours to either return or send a message through. No Kleenex boxes, please.Otherwise, we'll assume the worst and send a bomb through."
+0,0,27,JACK,Understood.
+0,0,28,HAMMOND,"Try to follow orders this time, Colonel."
+0,0,28,JACK,Sir?
+0,0,28,HAMMOND,This time you bring Daniel Jackson back. Is that clear?
+0,0,28,JACK,"Yes, sir.Move out!"
+0,0,29,JACK,Captain?
+0,0,29,SAM,"Don't worry, Colonel. I won't let you down."
+0,0,29,JACK,Good. I was gonna say Ladies first.
+0,0,29,SAM,"You know, you really will like me when you get to know me."
+0,0,29,JACK,"Oh, I adore you already, Captain."
+0,0,29,SAM,"My God, look at this. The energy the Gate must release to create a stable wormhole is astronomical, to use exactly the right word. You can actually see the fluctuations in the event horizon."
+0,0,32,SAM,Oh... I think I'm going to be sick.
+0,0,32,JACK,Maybe you shouldn't have had that big lunch.
+0,0,34,DANIEL,Cha'hari! Cha'hari! Lower your guns.
+0,0,35,DANIEL,Jack? Welcome back.
+0,0,36,JACK,Skaara.
+0,0,36,SKAARA,O'Neill. I did not think to be seeing you again!
+0,0,36,JACK,"Daniel, how you doing?"
+0,0,36,DANIEL,Good. You?
+0,0,36,JACK,"Much better, now that I see that everybody's okay."
+0,0,36,FERRETTI,"Greetings from Earth, Dr. Jackson."
+0,0,36,DANIEL,"Hello, Ferretti."
+0,0,36,KAWALSKY,": Brought you a little something, Daniel."
+0,0,37,DANIEL,Kawalsky
+0,0,38,DANIEL,"Sha're, don't be shy."
+0,0,38,JACK,Hi. Good to see you.
+0,0,38,DANIEL,"So, I figured it would be a matter of time before you had to tell the truth about us still being here."
+0,0,38,JACK,Yeah.Why the militia? Something else come through?
+0,0,38,DANIEL,"No, we're just taking precautions. Why?"
+0,0,38,SAM,Amazing. This is what was missing from the dig at Giza. This is how they controlled it. It took us 15 years and 3 superconductors to MacGyver a system for the gate on Earth.
+0,0,38,JACK,Captain?
+0,0,38,SAM,Look how small it is!
+0,0,38,JACK,Captain!
+0,0,39,SAM,"Dr. Jackson, I presume. I'm Doctor Samantha Carter."
+0,0,39,O'NEILL,I thought you wanted to be called Captain.
+0,0,39,DANIEL,"What's going on, Jack?"
+0,0,39,JACK,"Six hostile aliens came through the Stargate on Earth. Four people are dead, one's missing."
+0,0,39,KAWALSKY,": One of them looked like Ra, Daniel."
+0,0,39,DANIEL,"Well, they didn't come from here. I mean, the boys take shifts guarding it 36 hours a day. Every day. We'd know if they came through here."
+0,0,39,JACK,"Well, they came from somewhere, Daniel. I'm going to have to look around."
+0,0,39,DANIEL,"I think I can help you find out who it was, but, uh, it's going to have to wait til this sandstorm is over. Uh, we were about to have our evening meal. Why don't you join us?"
+0,0,40,SKAARA,This too.
+0,0,40,JACK,What's this?
+0,0,40,SKAARA,Drink.
+0,0,40,JACK,Moonshine.
+0,0,40,SKAARA,Moon shine?
+0,0,40,JACK,"Yeah. Moonshine, as in booze. Daniel, what are you teaching these kids?"
+0,0,40,SKAARA,Try it.
+0,0,40,JACK,Alright. Skaara's moonshine. Give it a little shot.
+0,0,41,JACK,Whoa! Smooth. Very smooth.
+0,0,41,SKAARA,Moonshine!
+0,0,41,KAWALSKY,": Our little soldiers are all grown up, Colonel."
+0,0,41,JACK,"Yeah, I'm so proud. Whoa."
+0,0,41,SKAARA,O'Neill. Your lighter?
+0,0,41,JACK,"No, it's yours. I gave that to you to keep. Remember?"
+0,0,42,DANIEL,"You know, he's never let that out of his sight the whole time you were gone."
+0,0,42,JACK,Yeah?
+0,0,42,DANIEL,"So this man who looked like Ra, he must have come through another Gate."
+0,0,42,SAM,What other Gate?
+0,0,42,JACK,A Stargate?
+0,0,42,SAM,Stargate only goes here.
+0,0,42,DANIEL,I think you're wrong about that.
+0,0,42,SAM,I was there. We ran hundreds of permutations.
+0,0,42,DANIEL,But you didn't have what you need.
+0,0,42,JACK,"Daniel, what are you talking about?"
+0,0,43,SKAARA,Daniel. The storm has passed.
+0,0,43,DANIEL,"I'll show you. Sha're. Ben' ra' ki, Jack,vili tau an."
+0,0,43,SHA'RE,Bonni'wa?
+0,0,43,DANIEL,I won't be long.
+0,0,44,SHA'RE,"Goodbye, my Daniel."
+0,0,44,DANIEL,Bye.
+0,0,44,KAWALSKY,Hold the fort.
+0,0,44,FERRETTI,"Yes, sir."
+0,0,45,KAWALSKY,": Boy, I can't say I missed this place."
+0,0,45,DANIEL,Come on.
+0,0,45,SAM,This is just incredible.
+0,0,46,DANIEL,"So, I figured that there had to be more to this place, so I started exploring, um, this area around the town and the pyramid at first. And after about a month, I found this place. Captain Doctor, you're going to love this."
+0,0,46,SAM,"Oh, my God. This is amazing. This is the archaeological find of the century."
+0,0,47,JACK,"Daniel, you had a chance to translate this yet?"
+0,0,47,DANIEL,I think so.
+0,0,47,JACK,What's it say?
+0,0,47,DANIEL,"Well, it doesn't say anything. Actually, it's sort of a chart, more of a map."
+0,0,47,JACK,Of?
+0,0,47,DANIEL,"Well, I haven't been able to analyze all of it. I mean look at it. It would take my whole life."
+0,0,47,JACK,"Well, Daniel, we don't have that long. What's it a map of?"
+0,0,47,DANIEL,"Well, the cartouches seem to be separated clearly into groupings. Each grouping is attached to the others by a series of lines, and each grouping contains seven symbols, so you can see where this is going, of course."
+0,0,47,JACK,Tell us anyway.
+0,0,47,DANIEL,"All of the symbols are on the Stargate in the Abydos chamber. I've also managed to chart some of them in the Abydos sky, or at least pretty close. Jack, I think this is a map of a vast network of Stargates, Stargates that are all over the galaxy."
+0,0,47,SAM,"I don't think that can be, Doctor."
+0,0,47,DANIEL,Why not?
+0,0,47,SAM,"Well, because after Colonel O'Neill and his team came back, my team tried hundreds of symbol permutations using Earth as the point of origin, and it never worked."
+0,0,47,DANIEL,"Well, I tried the same here and it didn't work either. But I figured the destinations I tried are either destroyed or... buried, but some of them somewhere must still exist."
+0,0,47,SAM,I don't think so.
+0,0,47,DANIEL,"Then where did your Ra lookalike come from? I don't pretend to know anything about astrophysics, but couldn't the planets change? I mean, drift apart or something like that to throw this map off?"
+0,0,47,SAM,I knew I'd like you.
+0,0,47,DANIEL,You mean I'm right?
+0,0,47,SAM,"According to the expanding universe model, all bodies in the universe are constantly moving apart."
+0,0,47,DANIEL,So in the thousands of years since the Stargate was built -
+0,0,47,SAM,All the co-ordinates could have changed.
+0,0,47,DANIEL,But why does it still work between Abydos and Earth?
+0,0,47,SAM,"Abydos is probably the closest planet in the network to Earth. I mean, the closer they are, the less the difference in relative position due to expansion. The further away, the greater the difference.In a few thousand more years, it won't work between Earth and Abydos either."
+0,0,47,DANIEL,Unless you can adjust for the displacement.
+0,0,47,SAM,"Right. Now with this map as a base, that should be easy. All we have to do is correct for Doppler shift. Then I should be able to arrive at a computer model that will predict the adjustments necessary to get the Gate working again."
+0,0,47,KAWALSKY,Okay. So what did we just figure out?
+0,0,47,SAM,"Any civilization advanced enough to build this Gate network would be able to compensate for 50,000 years of stellar drift."
+0,0,47,JACK,"So, the Stargate can go other places."
+0,0,47,SAM,The aliens could have come from anywhere.
+0,0,48,FERRETTI,"Man, you've got to give Daniel credit. She's one beautiful woman."
+0,0,49,SOLDIER,"We've got company, boys! Move! Move! Take cover!"
+0,0,50,SKAARA,Sha're! Sh'im rota! Sh'im rota!
+0,0,51,SHA'RE,No!
+0,0,52,TEAL'C,This is not your weapon. Where did you get it?
+0,0,53,APOPHIS,"Good choice, Teal'c. A perfect specimen."
+0,0,54,SHA'RE,Daniel! Daniel! Skaara! Skaara!
+0,0,55,APOPHIS,You may be the one.
+0,0,56,DANIEL,Sha're! Sha're!
+0,0,57,DANIEL,Bolah!
+0,0,57,BO'LA,There were so many. So many of them.
+0,0,57,DANIEL,It's all right. Just tell me what happened.
+0,0,57,BO'LA,It was Ra.
+0,0,57,JACK,What's going on?
+0,0,57,DANIEL,Ra is dead. Tau'pa Ra!
+0,0,57,BO'LA,"No, Ra. I saw. He took Sha're. He took Skaara into the chaapa'ai."
+0,0,57,DANIEL,Did you see? Did you see?
+0,0,57,JACK,"What's going on, Daniel? Could there be another Ra?"
+0,0,57,DANIEL,How the hell should I know? Should have left the barricade up. This is my fault.
+0,0,57,JACK,Come on. Come on.
+0,0,57,SAM,"Colonel, Ferretti needs medical attention now!"
+0,0,57,DANIEL,Go! Help him! I can send you back.
+0,0,57,JACK,"You're coming with us this time, Daniel. I've got orders."
+0,0,57,DANIEL,"I don't care about your orders, Colonel. My wife is out there. So is Skaara."
+0,0,57,JACK,"And the only way we're gonna get 'em back is if you come home with us. Ferretti might have seen those coordinates. Captain, do you have the video?"
+0,0,57,SAM,I got everything I need.
+0,0,57,FERRETTI,Too many.
+0,0,58,DANIEL,Lea. Lea.
+0,0,59,DANIEL,"After we go through the chaapa'ai, you have to bury it like we did before and then leave this place."
+0,0,59,BOY,You come back?
+0,0,59,DANIEL,"No. I can't. Nobody can, that's what I'm telling you. Not for a... long time. Now as soon as we're gone, I want you to close it. Bury it. Put a big heavy cover stone over it. Nothing good could ever come through this Gate, do you understand me?"
+0,0,59,BOY,"You came through it, Daniel."
+0,0,59,DANIEL,"Do you remember the story I told you? How the ancient Egyptians on Earth cut themselves off from Ra? Well, that is exactly what you have to do. Then in one year, one year from this day you take the cover stone away. I will try to bring Sha're home with me on that day, but if I don't make it back, if I don't, if I don't return then you must bury the Gate again forever. Cha'qua?"
+0,0,60,DANIEL,"You tell Sha're's father, one year."
+0,0,64,SOLDIER,Medic! Medic!
+0,0,64,SAMUELS,Close the iris! Close the iris!
+0,0,64,TECH,Iris locked.
+0,0,64,TECH,Wormhole disengaged.
+0,0,64,JACK,"What the hell is that, sir?"
+0,0,64,HAMMOND,That's our insurance against any more surprises. It's pure titanium - hopefully impenetrable.
+0,0,64,MEDIC,Get the gauze on him! We gotta stop the bleeding from his leg!
+0,0,64,HAMMOND,"What happened, Colonel?"
+0,0,64,JACK,"Base camp was hit while we were on recon, sir."
+0,0,64,HAMMOND,Same hostiles who attacked us?
+0,0,64,JACK,That's a fair guess. Jackson's wife and one of our kids was kidnapped.
+0,0,64,HAMMOND,Your kids?
+0,0,64,JACK,"From the previous mission, sir."
+0,0,64,DANIEL,"General, hi. Daniel Jackson. I'd like to be on the team that goes after them."
+0,0,64,HAMMOND,"You're not in any position to make demands, Jackson."
+0,0,66,TEAL'C,Chal'noc. Her.
+0,0,67,SHA'RE,Skaara! Skaara! No!
+0,0,67,TEAL'C,Your death cannot help her.
+0,0,67,SHA'RE,I am not afraid of you!
+0,0,69,JACK,Doc says he's gonna make it.
+0,0,69,KAWALSKY,: Guess so.
+0,0,69,JACK,You gonna stay here all night?
+0,0,69,KAWALSKY,": Yes, sir."
+0,0,70,JACK,Hey.
+0,0,70,DANIEL,"They don't know what to do with me, and I don't know what to do with myself."
+0,0,70,JACK,Come on. Let's get out of here.
+0,0,71,JACK,Nice catch.
+0,0,71,DANIEL,Thank you. Sorry. Gate travel always seems to make my allergies......
+0,0,71,JACK,Tell me about her.
+0,0,71,DANIEL,"She was the complete opposite of everyone else. She practically fell on the floor laughing every time I tried to do some chore they all took for granted, like grinding yafeta flour. I mean, have you ever tried to grind your own flour?"
+0,0,71,JACK,I'm trying to kick the flour thing.
+0,0,71,DANIEL,This is going straight to my head. What time is it anyway? I must have Gate lag or something.
+0,0,71,JACK,"Daniel for crying out loud, you've had one beer. You're a cheaper date than my wife was."
+0,0,71,DANIEL,"Yes, when am I going to meet your wife?"
+0,0,71,JACK,"Oh probably never. After I came back from Abydos the first time, she'd already left."
+0,0,71,DANIEL,I'm sorry.
+0,0,71,JACK,"Yeah so was I. I think in her heart she forgave me for what happened to our kid, she just couldn't forget."
+0,0,71,DANIEL,And what about you?
+0,0,71,JACK,I'm the opposite. I'll never forgive myself. But sometimes I can forget. Sometimes.
+0,0,72,OFFICER,Where are you taking me? I'm a sergeant in the U.S. Air Force. I demand to know where you're taking me. Let go!
+0,0,72,APOPHIS,Come.
+0,0,73,APOPHIS,Lovely. Full of life.
+0,0,74,APOPHIS,You could be the vessel for my future queen.
+0,0,74,APOPHIS,Yes. Yes. Very nice indeed. But I am not the one you must finally please.
+0,0,75,APOPHIS,Does she please you my love?
+0,0,76,APOPHIS,A shame. The ribbon device is used for a second time. This time the officer is killed
+0,0,76,APOPHIS,Send another!
+0,0,77,HAMMOND,"People, what's spoken of in this room is classified as SCI top secret. Colonel, what do we know about these hostiles that we didn't know yesterday?"
+0,0,77,JACK,Not a hell of a whole lot General. The Abydonian boys who survived the attack on the base camp thought it was Ra.
+0,0,77,HAMMOND,I thought he was dead. Gentlemen which is it?
+0,0,77,DANIEL,"Oh, he's dead, he's definitely dead. I mean the bomb I mean, he's got to be dead, right?"
+0,0,77,HAMMOND,Then who's coming through the Stargate?
+0,0,77,DANIEL,Gods.
+0,0,77,HAMMOND,What?
+0,0,77,DANIEL,"Not as in God, god. Ra played a god, the sun god. He borrowed the religion and culture of the ancient Egyptians he brought through the Gate, and then he used it to enslave them. You see, he wanted the people of Abydos to believe that he was the only one."
+0,0,77,SAM,So you're saying Ra's not the last of his race after all?
+0,0,77,KAWALSKY,: Maybe he's got a brother Ray.
+0,0,77,JACK,That's all we need.
+0,0,77,DANIEL,"Wait a minute. The legend goes, Ra's race was dying. He survived by taking over the body of his human host, an Egyptian boy. But who's to say more of his kind couldn't do the same thing? I mean it could happen any time, anywhere there's a Gate, I mean, this could be happening right now."
+0,0,77,HAMMOND,"Colonel, you've had the most experience in fighting this hostile. Assuming you'd have to defend yourself in the field, are you up to it?"
+0,0,77,JACK,We beat them once.
+0,0,77,HAMMOND,"I'll take that as a maybe. Captain Carter, you're confident that the Stargate will take us where we want to go with this new information?"
+0,0,77,SAM,"Well, they're feeding the revised co-ordinates into the targeting computer right now. It'll take time to calculate, but it should spit out two or three destinations a month."
+0,0,77,HAMMOND,"People, let's not fool ourselves here. This thing is both fast and dangerous, and we are so far over our heads we can barely see daylight. We would all be much better off if the Stargate had been left in the ground."
+0,0,77,SAM,"With respect, sir, we can't bury our heads in the sand. I mean think of how much we could learn. Think of what we could bring back."
+0,0,77,HAMMOND,"What you could bring back is precisely what I'm afraid of, Captain. However, the President of the United States happens to agree with you. In the event your theories pan out, he has ordered the formation of nine teams, whose duties will be to perform reconnaissance, determine threats and if possible, to make peaceful contact with the peoples of these worlds. Now, these teams will operate on a covert top secret basis. No one will know of their existence except the President and the Joint Chiefs. Colonel O'Neill?"
+0,0,77,JACK,Sir?
+0,0,77,HAMMOND,"Your team will be designated SG-1. The team will consist of yourself, Captain Carter"
+0,0,77,DANIEL,And me?
+0,0,77,HAMMOND,"Dr. Jackson, we need you to work as a consultant with the other SG teams from here. Your expertise in ancient cultures and languages are far too valuable to"
+0,0,77,DANIEL,"No. Look, I mean I know this is your decision, but I just, I really have to be on their team. My wife is out there General. I need to go."
+0,0,77,HAMMOND,"I'll take that under consideration. Major Kawalsky, you will head SG2."
+0,0,77,KAWALSKY,: I will?
+0,0,77,HAMMOND,Colonel O'Neill keeps telling me it's about time you had a command.
+0,0,77,JACK,I had a moment of weakness.
+0,0,78,SAMUELS,Ferretti's conscious sir.
+0,0,78,HAMMOND,Dismissed.
+0,0,79,SAM,I'll take over. Thanks. Hey Ferretti.
+0,0,79,JACK,"Ferretti. I know you're probably not feeling so hot, but we need something from you."
+0,0,80,SAM,"Looks like he's way ahead of you, Colonel."
+0,0,80,JACK,You saw all seven symbols? This is where they went
+0,0,80,JACK,You're sure.
+0,0,81,SAMUELS,"Colonel, I'd like to remind you that rescuing Dr. Jackson's wife is a secondary objective. In the event you fail to notify base camp within 24 hours SG-2 will scrub the mission and return without you."
+0,0,81,JACK,Understood.
+0,0,81,KAWALSKY,: Not gonna happen Colonel. SG2 won't leave without you.
+0,0,81,SAMUELS,"All right, let's confirm transmitter codes. Remember, only the right code will open the iris and if you lose your transmitter you cannot get home."
+0,0,81,SAM,"Understood, sir."
+0,0,81,HAMMOND,
+0,0,81,JACK,"Yes, sir. Let's move out."
+0,0,81,SAMUELS,: to Kawalski: Kind of wish I was going with you.
+0,0,81,KAWALSKY,: Yeah. I'm kind of glad you're staying behind.
+0,0,82,KAWALSKY,": Dammit, it's cold."
+0,0,82,JACK,"Okay, people, let's get the gear out! Let's move!"
+0,0,83,JACK,Anybody got a Kleenex?
+0,0,84,TEAL'C,You.
+0,0,84,SHA'RE,No!
+0,0,85,DANIEL,It must be some sort of ceremonial place. The Gate has to be a part of their spiritual culture. I'd say this place was built for worshippers.
+0,0,85,JACK,"Well let's just try to be out of here before the worshipees show up, huh? You figured out yet how to align this Gate to get back home?"
+0,0,85,DANIEL,Yeah. The device is the same as on Abydos. This symbol represents....
+0,0,85,JACK,You brief Kawalsky's team yet?
+0,0,85,DANIEL,Yes. This symbol represents....
+0,0,85,JACK,Good job.
+0,0,85,KAWALSKY,": We'll have to set camp where there's better cover, Colonel."
+0,0,85,WARREN,"Sir, I found what looks like a trail in the mountains. Looks like it hasn't seen traffic in a couple of days."
+0,0,85,JACK,Thank you Airman. Carter?
+0,0,85,SAM,We could set up a line of claymores along that ridge at ten meter intervals.
+0,0,85,JACK,"Sound about right, Kawalsky?"
+0,0,85,KAWALSKY,: Yeah that'll work.
+0,0,86,SHA'RE,No!
+0,0,87,APOPHIS,Come.
+0,0,87,SHA'RE,"No! No, no! Aah!"
+0,0,87,APOPHIS,This one has spirit.
+0,0,88,APOPHIS,"Does she please you, my love?"
+0,0,90,KAWALSKY,: This looks like a good spot right up here!
+0,0,90,JACK,All right. If we're not back in twenty hours
+0,0,90,KAWALSKY,: We'll come rescue your sorry asses.
+0,0,90,JACK,Negative. You'll go back through the Gate with the combination Daniel gave you before the iris is locked so you can't go back.
+0,0,90,KAWALSKY,: Yes sir.
+0,0,90,JACK,Hold down the fort.
+0,0,90,KAWALSKY,: Pick me up a t shirt.
+0,0,91,SAM,"So, Dr. Jackson, tell me about Sha're. How did you meet?"
+0,0,91,DANIEL,"Oh, Sha're. Well, she's......"
+0,0,91,JACK,She was a gift.
+0,0,91,DANIEL,She was actually from the elders of Abydos the first time we were there.
+0,0,91,SAM,And you accepted?
+0,0,91,JACK,Hold up.
+0,0,92,JACK,C'mon.
+0,0,93,JACK,All right Captain. Take your position fifty yards
+0,0,94,JACK,"Oh, for crying out loud. The man hasn't changed."
+0,0,95,DANIEL,Hi.
+0,0,96,DANIEL,We just came through the Stargate. The chaapa'ai?
+0,0,96,NATIVE,Chaapa'ai!
+0,0,97,DANIEL,"No, please don't do that..."
+0,0,97,JACK,Friends of yours?
+0,0,97,DANIEL,"Unless we want to give ourselves a bad reputation, I think we should avoid shooting the first people we meet on a new planet. Oh, please, you don't have to do this."
+0,0,97,NATIVE,Chula lasla?
+0,0,97,DANIEL,Lasla . Choose! They want to know if we're here to choose.
+0,0,97,JACK,What the hell.
+0,0,97,DANIEL,Sure. We can choose. Choosing is good. It's a derivation of Arabic combined with...
+0,0,97,JACK,"Yeah, yeah. All right, whatever. Just ask them to take us to the nearest village."
+0,0,97,DANIEL,"Um, would you take us to, um arish. Arish?"
+0,0,97,NATIVE,"Yah, ala, Chulak."
+0,0,97,NATIVE,Chulak.
+0,0,97,JACK,Chulak
+0,0,97,NATIVE,Chulak!
+0,0,97,DANIEL,Chulak. Sounds good.
+0,0,97,JACK,I hear it's nice this time of year.
+0,0,99,SAM,Why are they treating us like this?
+0,0,99,DANIEL,They think we're gods.
+0,0,99,JACK,Ok. We're gods. Now what?
+0,0,99,DANIEL,I have no idea.
+0,0,100,DANIEL,When in Rome.
+0,0,101,APOPHIS,Behold! Your queen.
+0,0,101,DANIEL,Sha're.
+0,0,101,APOPHIS,Kneel before your queen.
+0,0,101,DANIEL,"Sha're, it's me."
+0,0,103,SAMUELS,"You wanted to see me, sir?"
+0,0,103,HAMMOND,Once we seal the iris we could still get a transmission from our team.
+0,0,103,SAMUELS,"Yes, sir. But we couldn't be sure it's not the aliens or one of our own people under duress of torture. Sealing the Stargate is the best....."
+0,0,103,HAMMOND,How much longer do they have?
+0,0,103,SAMUELS,Just under two hour sir.
+0,0,104,SAM,Daniel? Daniel.
+0,0,104,DANIEL,Sha're.
+0,0,104,SAM,Easy. You've been unconscious for hours.
+0,0,104,DANIEL,No. I saw her.
+0,0,104,SAM,I know. We all did.
+0,0,104,DANIEL,I saw Sha're. She was...
+0,0,105,JACK,"If there's a way out of here I haven't found it yet. But, look what I did find."
+0,0,106,SKAARA,Daniel! You're okay.
+0,0,106,DANIEL,"Yeah, I think so."
+0,0,106,JACK,Easy big guy. Welcome back to the land of the conscious.
+0,0,106,SKAARA,O'Neill told me about Sha're.
+0,0,106,DANIEL,"Jack, help me. We can find her again."
+0,0,106,JACK,"Daniel. If we can't find a way out of here, the missions a bust anyway. They seal the Gate in just over ninety minutes. Come on Skaara. Let's find our way out of here."
+0,0,107,TEAL'C,What is this?
+0,0,107,JACK,It's a watch.
+0,0,107,TEAL'C,This is not Goa'uld technology. Where are you from?
+0,0,107,JACK,Earth.
+0,0,107,TEAL'C,Your words mean nothing. Where are you from?
+0,0,107,DANIEL,Excuse me.
+0,0,108,DANIEL,This is where we're from.
+0,0,110,KAWALSKY,"Warren, let's go! Rise and shine! The sun is... suns, are coming up. We're going to be all right."
+0,0,110,WARREN,"We can't go through another night like that, Captain!"
+0,0,110,KAWALSKY,"Yeah, gets a little chilly on this planet at night. Colonel should have sent us a radio message by now."
+0,0,110,WARREN,When do you have to make the decision? Whether or not to go back to the Stargate?
+0,0,110,KAWALSKY,That'll be about when hell freezes over.
+0,0,110,WARREN,I think that pretty much describes our current situation.
+0,0,110,KAWALSKY,We are not leaving here without the Colonel. Is that understood? Another fine day on Planet Kawalsky
+0,0,111,SAM,So Ra isn't dead after all.
+0,0,111,DANIEL,It wasn't Ra. It was Apophis.
+0,0,111,SAM,Who?
+0,0,111,DANIEL,"It's from Egyptian mythology. Ra was the sun god who ruled the day, Apophis was the serpent god, Ra's rival, who ruled the night. It's right out of the Book of the Dead. They're living it."
+0,0,111,SKAARA,We will save Sha're?
+0,0,111,JACK,I can't promise you anything at the moment.
+0,0,111,SKAARA,But you're a great warrior! We defeated Ra together!
+0,0,111,JACK,"Yeah, yeah, I know, but take a look around here. Look at what we're up against.We'll try."
+0,0,112,TEAL'C,"Sha'ka ha! Kree hol mel, Goa'uld!"
+0,0,112,JACK,What did he say?
+0,0,112,SKAARA,They are going to choose.
+0,0,112,SAM,Choose what?
+0,0,112,SKAARA,Who will be the children of the gods.
+0,0,113,TEAL'C,Jaffa!
+0,0,113,DANIEL,Sha're.
+0,0,114,DANIEL,"Jack, help me, please..."
+0,0,114,JACK,"Daniel, don't. Don't."
+0,0,115,TEAL'C,"Bena! Ya'wan, ya'duru! Kneel before your masters!"
+0,0,116,JACK,Skaara.
+0,0,117,TEAL'C,"Benah! Ya'wan, y' duru! Choose!"
+0,0,118,GOA'ULD,No.
+0,0,119,GOA'ULD,This one. We choose this one.
+0,0,120,GOA'ULD,This one's passionate.
+0,0,120,DANIEL,How much would I remember if you chose me?
+0,0,120,JACK,"Daniel, what are you doing?"
+0,0,120,DANIEL,Something of the host must survive.
+0,0,121,GOA'ULD,We choose...
+0,0,122,GOA'ULD,Him.
+0,0,123,SKAARA,Na'ney! Na'ney! O'Neill!
+0,0,123,JACK,Skaara!
+0,0,123,SKAARA,O'Neill! O'Neill!
+0,0,123,JACK,Skaara!
+0,0,124,SKAARA,O'Neill! O'Neill!
+0,0,125,APOPHIS,Kill the rest.
+0,0,126,JACK,I can save these people!
+0,0,127,JACK,Help me! Help me.
+0,0,127,TEAL'C,Many have said that!
+0,0,128,TEAL'C,But you are the first I believe could do it!
+0,0,129,JACK,Get out of the way!
+0,0,130,JACK,Come on! Let's move!
+0,0,131,SAM,Come on! Come on! Go! Move! Let's go! Come on! Go! There you go! Go! Come on!
+0,0,132,JACK,You going to be okay?
+0,0,133,JACK,"Hey, come on!"
+0,0,133,TEAL'C,I have nowhere to go.
+0,0,133,JACK,For this you can stay at my place. Let's go!
+0,0,134,JACK,What's your name?
+0,0,134,TEAL'C,Teal'c.
+0,0,135,JACK,"Teal'c, where will they take Skaara? The boy?"
+0,0,135,TEAL'C,"To the Stargate. After they've selected hosts for their children, they will return home."
+0,0,136,SAMUELS,"Sir, they have just under an hour until the deadline. We should have heard from them by now."
+0,0,136,HAMMOND,"A lot can happen in an hour, Major."
+0,0,137,JACK,We've got less than an hour. How we doing?
+0,0,137,SAM,We lost a few when we got to the forest.
+0,0,137,TEAL'C,They will be hunted down and killed. Anyone who does not exist to serve the gods is their enemy
+0,0,137,JACK,And that makes you...?
+0,0,137,TEAL'C,I am a Jaffa. Bred to serve so that they may live.
+0,0,137,DANIEL,I don't understand.
+0,0,138,JACK,What the hell is that?
+0,0,138,TEAL'C,"It is an infant Goa'uld, the larval form of the gods. I have carried one since I was a child, as all Jaffa carry one."
+0,0,138,JACK,"Well, get it out of there."
+0,0,138,TEAL'C,"In exchange for carrying the infant Goa'uld into maturity, a Jaffa receives perfect health and long life. If I were to remove it, I would eventually die."
+0,0,138,JACK,"Hell, if I were you, I'd take my chances."
+0,0,139,JACK,"All right, come on, people, let's go. Let's move!"
+0,0,139,TEAL'C,The boy you seek is no longer who he was.
+0,0,139,JACK,I don't want to hear that.
+0,0,140,JACK,Take cover!
+0,0,141,SAM,"Colonel, we're sitting ducks here!"
+0,0,143,JACK,Kawalsky
+0,0,143,KAWALSKY,Yeah!
+0,0,143,JACK,"Come on, folks!"
+0,0,144,JACK,Great shot! How many are there?
+0,0,144,KAWALSKY,A dozen. Maybe more. They're headed back through the Gate.
+0,0,144,JACK,What about Skaara?
+0,0,144,KAWALSKY,": He's with them.Colonel, we don't have much time before they lock us out. Warren! Casey! On my right!"
+0,0,145,JACK,No.
+0,0,146,JACK,No.
+0,0,147,KAWALSKY,Colonel! Sir!
+0,0,147,JACK,Skaara!
+0,0,148,JACK,Skaara.
+0,0,149,DANIEL,Did you see the symbols?
+0,0,150,SAMUELS,"Sir, the deadline has been reached. Standing by to seal off Stargate, sir. Awaiting your order, sir."
+0,0,150,HAMMOND,"In a minute, Major."
+0,0,151,CASEY,"Sir, we got movement in the trees. A lot of movement in the trees. We got hostiles, sir! Hostiles closing in!"
+0,0,151,KAWALSKY,"Okay, people, we're going on a little field trip. Daniel, get busy on that Stargate. We got company."
+0,0,152,KAWALSKY,"Captain, arm your claymores. Me and Casey and Warren will be the last men out."
+0,0,152,JACK,"Negative. That's my job. Captain, help Daniel. Once you've sent the signal, I want you to go through. Tell them we're bringing company."
+0,0,152,KAWALSKY,:Move! Move! Move!
+0,0,153,KAWALSKY,"Warren, give me an update."
+0,0,153,WARREN,"Sounds like a whole battalion, sir. Two hundred yards and closing."
+0,0,154,SAM,Dr. Jackson!
+0,0,154,DANIEL,"I've got it! I know it! I have it here. I have it here, I know I do."
+0,0,154,SAM,Come on!
+0,0,155,CASEY,"Sir, we got hostiles coming out of the trees!"
+0,0,156,SAMUELS,Sir.
+0,0,156,HAMMOND,All right. Seal it off. Lock out their transmitters.
+0,0,156,SAMUELS,"Yes, sir."
+0,0,157,JACK,Daniel!
+0,0,157,DANIEL,Here! Here! I found it!
+0,0,157,SAM,Go! Go! Go!
+0,0,157,CASEY,"We can't hold them, sir!"
+0,0,157,DANIEL,"Send the signal as soon as it opens, Captain."
+0,0,157,JACK,Pull 'em out!
+0,0,157,KAWALSKY,Fall back! Fall back!
+0,0,159,SAMUELS,"Sir, a wormhole has just been established on the other side."
+0,0,159,HAMMOND,Delay my last order! Do not seal the Gate or lock out their transmitter codes!
+0,0,159,SAMUELS,"Yes, sir."
+0,0,159,HAMMOND,Do we have a remote transmitter signal?
+0,0,159,HARRIMAN,"No signal yet, General."
+0,0,160,DANIEL,Is it working?
+0,0,160,SAM,"Well, let's hope so. If not, I'll be the first to know!"
+0,0,160,HARRIMAN,"Wait, there it is."
+0,0,161,DANIEL,"Come on, come on!"
+0,0,162,SAM,Hold your fire! They're refugees!
+0,0,162,HAMMOND,"I hope you know what you're doing, Captain."
+0,0,163,JACK,Hit the claymores!
+0,0,164,DANIEL,"Go! Go! Go! Stop! Come on, come on, let's go, let's go!"
+0,0,165,DANIEL,"We need cover here! Okay, come on."
+0,0,166,DANIEL,That's it!
+0,0,166,JACK,Go!
+0,0,167,SAM,They behind you?
+0,0,167,DANIEL,I hope so.
+0,0,168,SOLDIER,Go! Go
+0,0,168,KAWALSKY,Colonel! More hostiles at eight o'clock!
+0,0,169,KAWALSKY,Casey!
+0,0,171,SAM,Whoa!
+0,0,171,CARTER AND DANIEL,Hold your fire! Hold your fire!
+0,0,171,SAM,They're with us!
+0,0,174,SAM,Now! Lock it up! Lock it up!
+0,0,174,HARRIMAN,Closing iris! Wormhole disengaged.
+0,0,174,KAWALSKY,: Medic! Medic!
+0,0,174,JACK,You got him?
+0,0,174,MEDIC,"Yeah, I got him. Thanks."
+0,0,175,MEDIC,Stand back! Stand back! Let's get him into the infirmary! Get him inside.
+0,0,175,HAMMOND,Colonel O'Neill? Care to explain?
+0,0,175,SAM,"We can use the Stargate to send these people home, sir."
+0,0,175,HAMMOND,What's he doing here?
+0,0,175,JACK,General Hammond. This is Teal'c. He helped us.
+0,0,175,HAMMOND,Do you know what he is?
+0,0,175,JACK,"Yes, sir. I do. He's the man who saved our lives. And if you accept my recommendation, sir, he'll join SG-1."
+0,0,175,HAMMOND,That decision may not be up to you.
+0,0,175,MEDIC,Stand back! Let's get him off the ramp.
+0,0,176,JACK,You all right?
+0,0,176,KAWALSKY,"Yeah, I'm good."
+0,0,176,HAMMOND,"Colonel O'Neill, Major Kawalsky, the sure to be very interesting debriefing for SG units 1 and 2 will be at 0730."
+0,0,176,JACK,"Yes, sir."
+0,0,176,SAMUELS,All right. Let's get these people situated.
+0,0,177,DANIEL,"She's out there somewhere, Jack."
+0,0,177,JACK,I know. So's Skaara. f
+0,0,177,DANIEL,So what do we do?
+0,0,177,JACK,We find them.

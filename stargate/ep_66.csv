@@ -1,0 +1,388 @@
+Season,Episode,Scene,Character,Line
+0,66,0,STARGATE SG1,Episode 402
+0,66,0,"""THE OTHER SIDE""",By Brad Wright
+0,66,0,SERGENT DAVIS,Unscheduled offworld activation!
+0,66,0,AIRMAN,"Move, move, move, move, MOVE!!!!!!!!!!!!!!!!!"
+0,66,0,SAM,I still can't make it out ... try to filter out the subspace RF interference.
+0,66,0,JACK,Carter.
+0,66,0,SAM,"Colonel! Sir, this is the 5th incoming wormhole in the last hour and a half."
+0,66,0,JACK,"All right, I'm here 2 hours early ... When did YOU get here?"
+0,66,0,SAM,I ... haven't left yet.
+0,66,0,JACK,Didn't I ORDER you to get a life?
+0,66,0,SAM,"Yes, Sir, you did ... but, you see ..."
+0,66,0,DANNY,I just heard ... they sent a RADIO signal this time?
+0,66,0,SAM,"Yeah, but the frequency they're using is just outside the range of our equipment. We're trying to make the adjustment."
+0,66,0,JACK,What are YOU doing here?
+0,66,0,DANNY,"Well, someone's trying to contact US ... how often does THAT happen?"
+0,66,0,DAVIS,"We can recieve now, Major."
+0,66,0,SAM,
+0,66,0,MAN,This is the Urondan base ... have you reached the other side?
+0,66,0,SAM,"Oh, my God!"
+0,66,1,SAM,This is Major Carter of the United States Air Force. It is IMPERATIVE that you send NO ONE else thru the gate!
+0,66,1,DAVIS,"He can't hear you, Major. We still haven't matched the frequency."
+0,66,1,MAN,We believe this STARGATE is a portal to the home of our ansesters ... Our supplies are all but gone ... our defences are on the verge of collapse ... help us ... please!
+0,66,1,SAM,"Damn! All right! There were 4 offworld activations prier to this one, and the iris was closed the whole time ... How many impact events did the computer record?"
+0,66,1,DAVIS,3.
+0,66,1,JACK,So ... 3 dead.
+0,66,1,SAM,"Yes, Sir."
+0,66,1,DANNY,I'm ... gonna ... go ... look up Euronda.
+0,66,1,JACK,"Not your fault, Carter ... Move on."
+0,66,1,SAM,"Yes, Sir."
+0,66,2,MAN,"You kindred are besiged by an enemy ... supplies all but gone ... our defences ... Help us, please!"
+0,66,2,HAMMOND,"All right, assuming they make contact again ... assuming they transmit the coordinates to their world, What kind of help can we seriously offer?"
+0,66,2,DANNY,"Well, uh ... food ... clothing ... medical supplies ..."
+0,66,2,TEAL'C,Clearly they seek military assistance above all else.
+0,66,2,HAMMOND,Lord knows what they're up against.
+0,66,2,TEAL'C,"They, themselves may be Goa'Uld. Such a ruse would be keeping within their tacktics."
+0,66,2,SAM,"I don't think that's the case, Teal'C."
+0,66,2,DANNY,"They call themselves ... our ... ""Kindred""."
+0,66,2,HAMMOND,Some of whom have already met their deaths against a closed iris ... that's hardly the grounds upon which to build a dipliomatic relationship.
+0,66,2,SERGENT DAVIS,"Sir, we have another off-world activation! We've made the adjustments to our equipment, Major. Two way communication shouldn't be a problem this time!"
+0,66,2,SAM,"Thank you, Sergent."
+0,66,2,MAN,This is Alar from the nation state of Euronda. If anyone can hear me ...
+0,66,2,HAMMOND,"Alar, this is General Hammond of the United States Air Force ... can YOU hear ME?"
+0,66,2,ALAR,
+0,66,2,HAMMOND,We've heard your message and are consitering your request for help.
+0,66,2,ALAR,I am prepared to step thru the portal immediately.
+0,66,2,HAMMOND,We can not allow that.
+0,66,2,ALAR,May I ask why?
+0,66,2,HAMMOND,"We have in place an impenatrable shield called an IRIS, that would result in your death."
+0,66,2,ALAR,"Then, The three vollenteers we sent thru ..."
+0,66,2,HAMMOND,There was no way to determine if they were friend or foe.
+0,66,2,ALAR,"I see ... and ... that is still the case ... clearly, we must gain your trust."
+0,66,2,DAVIS,They're transmitting visual.
+0,66,2,SAM,How?!
+0,66,2,ALAR,"Clearly, you can see for yourself that we are ... kindred."
+0,66,2,HAMMOND,We do.
+0,66,2,ALAR,There is much my people can offer in exchange for your trust. If I could speak with you in person ...
+0,66,2,HAMMOND,We need to know more about this enemy you're facing.
+0,66,2,ALAR,"We have co-existed on this world for centuries. Now, they occupy the majority of Euronda's land mass."
+0,66,2,JACK,Rules out anybody WE know.
+0,66,2,SAM,How have you managed to survive for so long?
+0,66,2,ALAR,"Our facility is deep underground. Protected by defence fields, and our weapons technology is far more surperior, but now, one or two of their bombers have penatrated our airspace each day ..."
+0,66,2,DANNY,How did you find us?
+0,66,2,ALAR,"We discovered the stargate while creating the tunnels for our defences. There were writings on the antient stones ... We are under attack, I MUST return to the war room ... Please! ... Help us!"
+0,66,2,DANNY,"So, what do we do?"
+0,66,2,TEAL'C,"There is nothing we can do, DanielJackson, without the coordinates to their world."
+0,66,2,SAM,We've got them! He transmitted them before disengaging.
+0,66,2,DANNY,"I know it seems hopeless, and there's a lot of unanswered questions, but, this is the first time that desendants of Earth have actually called home. I mean, either we try to do ... something ... or we let them die."
+0,66,2,JACK,"It's your call, Sir."
+0,66,2,HAMMOND,Colonel ...
+0,66,2,DANNY,"Now, I already know what you're gonna say ..."
+0,66,2,HAMMOND,... you have a go.
+0,66,2,DANNY,... but from a humanitarian Point of view ... ... What?
+0,66,2,HAMMOND,"We can not and would not devoted the resorces to turn the tide of a world war. However, as Doctor Jackson pointed out, there arwe humanitarian concerns. We'll start with all the food and medical supplies you can take with you ... Major, perhaps ..."
+0,66,2,SAM,"We're on it, Sir."
+0,66,2,HAMMOND,"Colonel ... humanitarian concerns aside, we may have found an advanced civilization willing to share technology with us to help us fight the Goa'Uld."
+0,66,2,JACK,"That's my thoughts, Sir."
+0,66,2,HAMMOND,"I've already talked to the president and joint chiefs. If the Eurondan government is open to trade, you're aurthorized to negotiate. SG-1, you are to report back within 24 hours, if you do not, your GDO's will be locked out."
+0,66,2,JACK,You've got that look.
+0,66,2,TEAL'C,"To which look are you reffering, O'Neill?"
+0,66,2,DANNY,"The one that says ""I have misgivings about this mission, but deep down, I know we're doing the right thing"" ?"
+0,66,2,JACK,"No, the other one."
+0,66,2,DANNY,Ohhhh ...
+0,66,3,ALAR,You have come!
+0,66,3,SAM,"It's Alar, Sir! I think he need medical attention!"
+0,66,4,DANNY,"Teal'C! Gimme a hand, here!"
+0,66,4,WOMAN,Disarm! NOW! Where did you come from?!
+0,66,4,ALAR,"These are our Kindred of Earth! They have come to save us. I was on my way to the ...""Stargate"" ... to attempt to contact you again."
+0,66,4,WOMAN,The defence field is down to minimum sustainable strength.
+0,66,4,ALAR,"I told you our kindred would come, Ferral."
+0,66,4,FERRAL,You'll win the people's medal for this.
+0,66,4,JACK,Bombing's eased up.
+0,66,4,ALAR,"We are far more protected here where the defence field is strongest, then in the tunnels where we discovered the stargate."
+0,66,4,JACK,How's your head?
+0,66,4,ALAR,Well enough to show you WHAT you have come to save.
+0,66,4,SAM,"Take it easy, Alar. You might have a concussion."
+0,66,4,ALAR,"No, our beta canteen insures an immediate recovery, Major. I'm quite fine."
+0,66,4,TEAL'C,Supplies are being distributed as we speak.
+0,66,4,DANNY,"Apparently, they need ... everything."
+0,66,4,ALAR,Who is this?
+0,66,4,DANNY,"Uh ... Alar, this is Teal'C."
+0,66,4,ALAR,You are not of their kin.
+0,66,4,TEAL'C,"I am, in fact, a Jaffa ... though, like you, my ansestors are desendants of the Tau'Ri."
+0,66,4,DANNY,"Uh, the Tau'Ri is ... Earth."
+0,66,4,JACK,He's part of our team.
+0,66,4,ALAR,Is he? Then ... welcome. COME!
+0,66,4,TEAL'C,You appear to be a leader among your people.
+0,66,4,ALAR,"I am accorded the respect of my father ... he was a leader when the war began. Now that we are fewer in numbers, we all share in the daily work."
+0,66,4,DANNY,You DO know that the stargate is capeable of transporting your people to OTHER worlds?
+0,66,4,ALAR,"Yes, that seemed apparent."
+0,66,4,DANNY,Then why don't you evacuate thru the stargate?
+0,66,4,ALAR,Because of what I'm about to show you ...
+0,66,4,SAM,They're in stasis.
+0,66,4,ALAR,Their auganomic functions have been regulated so that their hearts beat only once every few minutes. We had little choice but to live underground in this facility. Resourses are limited. This is the only way to preserve the generation of my father.
+0,66,4,TEAL'C,May they be revived again?
+0,66,4,ALAR,Not until the day we reclaim our world.
+0,66,4,DANNY,How many are there?
+0,66,4,ALAR,"Thousands in here ... thousands more in another chamber like this one ... ... awaiting the end of a war that will not end. From this room, we conduct our national defence."
+0,66,4,SAM,For all of Euronda?
+0,66,4,ALAR,Yes.
+0,66,4,MAN,"A single enemy recon drone approaches our airspace, Sir."
+0,66,4,ALAR,"Thank you, Controller. Each station is capeable of piloting a formation of unmanned airofighters. Because of these Men and Women, enemy bombers rarely return home."
+0,66,4,TEAL'C,Most impressive.
+0,66,4,JACK,What about ground attack?
+0,66,4,ALAR,"The pilots are capeable of detering it, but the enemy hasn't risked a ground attack in several years."
+0,66,4,TEAL'C,For what reason? You are both outnumbered and surrounded. Why would they not press their advantage?
+0,66,4,FERRAL,The atmosphere of Eurona has been poisoned since the war began. The surface is unliveable.
+0,66,4,DANNY,Um ... um ... forgive me if this sounds uh ... What is there left to fight over?
+0,66,4,ALAR,It will not all ways be this way. An enemy craft is apporaching our parimeter ... would any of you care to attempt to shoot it down?
+0,66,4,FERRAL,The target is nearly an unmanned recognesis drone. It's looking for bomb damage.
+0,66,4,JACK,
+0,66,4,ALAR,"Think of it as a demenstration, Colonel. Are not your people more willing to come forth with assistance if you know what we have to offer?"
+0,66,4,JACK,"Sure. So, does this thing take quarters, or ..."
+0,66,4,FERRAL,You'll find the weapons system most intuative. The hand controls are secondary. Targeting and vectoring occur as a direct result of neuro interface.
+0,66,4,JACK,Carter?
+0,66,4,SAM,"Uh, it'll do whatever your mind wants it to do, Sir."
+0,66,4,JACK,Ah! WHOA! Thing's fast.
+0,66,4,FERRAL,You are pioleting several arofighters at once in formation.
+0,66,4,JACK,"YEah, got it ... 11:00 ... Looks like a biplane. Nice."
+0,66,4,ALAR,Well done.
+0,66,4,JACK,"Yeah! Not bad! Not bad for an old guy, huh? (The man just looks ... for lack of a better word ... F*^ked up"
+0,66,4,ALAR,"Olan is one of ouor best pilots, Colonel. But, he's spent most of his adult like in that chair, and years of exposure to the neuro interface is damaging. Very few of us, including myself can ever pilot again without risking what has happened to Olan."
+0,66,4,JACK,Excuse me?!
+0,66,4,ALAR,"Rest assured, Colonel. Your brief exposure with cause you no harm. Now, come! Let us celebrate our new alliance. I entended to save this bottle until the end of the war. May the friendship between our worlds be the first step toward that end. To Friendship!"
+0,66,4,FERRAL,To friendship.
+0,66,4,DANNY,Friendship.
+0,66,4,SAM,Friendship.
+0,66,4,JACK,Friendship.
+0,66,4,ALAR,You ... did not join in the pledge.
+0,66,4,TEAL'C,I do not consume alcohol.
+0,66,4,ALAR,Ah!
+0,66,4,FERRAL,"Were you impressed by our weapons system, Colonel O'Neill?"
+0,66,4,JACK,"Oh, yeah! Oh, yeah! We'll take a dozen!"
+0,66,4,FERRAL,This food you've brought is most flavorful.
+0,66,4,JACK,"We can do much better, believe me."
+0,66,4,FERRAL,You must understand that we have survived on nothing but hydroplonically grown yeast for many years.
+0,66,4,DANNY,Is THAT what this is?!
+0,66,4,SAM,Your power generation requirements must be enormous.
+0,66,4,ALAR,Do you not utalize controlled fusion on earth?
+0,66,4,JACK,*Controlled ...*
+0,66,4,ALAR,It is a most efficient means of power generation ... unfortunally the tutarian oxide fuel we require to operate our reators is now in short supply.
+0,66,4,SAM,"Heavy water! It's like regular water, Sir, except it's hydrogen nucleus contains two ..."
+0,66,4,JACK,
+0,66,4,ALAR,"In return, we can teach your people how to construct weapons systems such as ours ... erofighters, stasis devises, fusion reactors ..."
+0,66,4,JACK,Sounds fair. OK?
+0,66,4,SAM,"Medicine, Sir ..."
+0,66,4,JACK,Oh! Right! Uh ... we were very impressed with the beta cara ... candy ... stuff
+0,66,4,ALAR,Beta cantein ... of course!
+0,66,4,DANNY,Jack ...
+0,66,4,JACK,Daniel ...
+0,66,4,DANNY,Shouldn't we ask them what they want the heavy water for?
+0,66,4,JACK,"Oh, no, I don't think so ..."
+0,66,4,ALAR,"The power generated by your heavy water would be used to reenforse our defences, Doctor Jackson."
+0,66,4,JACK,Daniel?
+0,66,4,ALAR,"... and, in due course, to strike back at the enemy."
+0,66,4,JACK,Daniel? Shouldn't we have this discussion some other time?
+0,66,4,DANNY,No! I ... don't think so ...
+0,66,4,ALAR,Surely you can understand our desire to end this war that has lasted for a generation ...
+0,66,4,DANNY,"No, I do understand that, Alar, I do, it's just ... it's just that ... the stargate ... because it's capeable of transporting your people to another world entirerly ..."
+0,66,4,ALAR,"But I have told you, thousands of our people are in stasis ..."
+0,66,4,DANNY,"Well, take em out of stasis, and find a new home."
+0,66,4,ALAR,Then what would all this have been for? THIS ... is our home!
+0,66,4,DANNY,"I'm sorry, I just don't understand why you would want to continue to fight a war when there's another choice."
+0,66,4,JACK,Daniel ... you heard the man.
+0,66,4,DANNY,You said yoourself that the atmosphere was poisoned ... what is there left to win?
+0,66,5,CONTROLLER,"Alar, and enemy bomber has penatrated the outer perimeter."
+0,66,5,FERRAL,Defence stations.
+0,66,5,ALAR,Please excuse us. We;ll be in the War Room once you reach you decision.
+0,66,5,JACK,Next time i tell you to shut up ...
+0,66,5,DANNY,"I didn't hear you tell me to ""Shut up""."
+0,66,5,JACK,Too suttle for ya?
+0,66,5,DANNY,"For once, yes. Would you hear me out"
+0,66,5,JACK,Carter? Our standing orders ... what are they?
+0,66,5,SAM,"To ... seek new allies, and percure technologies to aid in the defence against the Goa'Uld."
+0,66,5,JACK,And have we carried out those orders?
+0,66,5,DANNY,We came here to HELP them.
+0,66,5,TEAL'C,"Is that not what we are doing, DanielJackson?"
+0,66,5,DANNY,"No ... their who world is in flames, and we're offering gasoline ... how is that gonna help?"
+0,66,5,TEAL'C,"We are, in fact, offering water ..."
+0,66,5,JACK,Thank you!
+0,66,5,DANNY,I was speaking mediforically.
+0,66,5,JACK,"WEll, Stop it! ... You're not being fair to Teal'C. Decision's made."
+0,66,5,DANNY,This mission has never had anything to do with helping these people has it? We came here to help ourselves!
+0,66,5,JACK,"Carter, Take Daniel back with you ... tell Hammond we struck a deal."
+0,66,5,SAM,"Yes, Sir."
+0,66,5,DANNY,"You don't give a DAMN what's gonna happen to them! You want their technology, and you're taking advantage of the situation!"
+0,66,5,JACK,
+0,66,5,SAM,"We're on our way, Sir."
+0,66,5,DANNY,This conversation isn't over!
+0,66,5,JACK,"Oh, you're right, Daniel! It's NEVER over with you! It's always the same damn thing!"
+0,66,5,DANNY,This has got nothing to do with me!
+0,66,5,JACK,Do you ever realize what they're offering?
+0,66,5,DANNY,But at what price?
+0,66,5,JACK,"Oh, for cryin' out loud!"
+0,66,5,DANNY,Where ya goin'?
+0,66,5,JACK,To see what I can do to help!
+0,66,7,SAM,"I am not defending him, Daniel! I just happen to agree with him!"
+0,66,7,DANNY,"Well, don't you realize what we would be doing?"
+0,66,7,HAMMOND,Major? Doctor?
+0,66,7,SAM,"Sir, Colonel O'Neill has negotiated access and avaliability to almost every Eurondan technology. In exchange for an unspecified quantity of Heavy Water."
+0,66,7,HAMMOND,That's all they want?
+0,66,7,SAM,That's all.
+0,66,7,HAMMOND,What do they want it for?
+0,66,7,DANNY,Thank you! Thank you for asking the question.
+0,66,7,SAM,"As you know, Sir, Heavy Water contains tutarium."
+0,66,7,HAMMOND,Which can be used to make nuclear power.
+0,66,7,SAM,"Yes, but they use it to fuel nuclear fusion generators."
+0,66,7,HAMMOND,Fusion?
+0,66,7,SAM,"According to Alar, the additional power would be enough to stave off defeat."
+0,66,7,HAMMOND,They're willing to share THAT technology as well?
+0,66,7,DANNY,"Of course, they're willing ... they're despirate!"
+0,66,7,SAM,"Yes, Sir... everything! and it is incrediable! They're at least 100 years ahead of us ... maybe more! But, if we don't act soon, they are going to be over run."
+0,66,7,HAMMOND,Sergent Siler?
+0,66,7,SILER,"I'll get right on it, Sir."
+0,66,7,HAMMOND,"Doctor, you don't approve?"
+0,66,7,DANNY,"You said yourself, we could not and would not devote the resourses necessary to win a war ... wha ..."
+0,66,7,HAMMOND,"Obviously, I was speaking in terms of military assets ... human lives."
+0,66,7,DANNY,"But, there was a moral issue?"
+0,66,7,HAMMOND,Yes.
+0,66,7,DANNY,"But if we could provide the power of all that and more in the form of water, then the moral issue just ... evaporates?"
+0,66,7,HAMMOND,"I shouldn't have to remind YOU ... that Apophis is alive, and at present, capeable of wiping us from the face of this Earth without contest. It is the mandate of this organization to make sure THAT doesn't happen!"
+0,66,7,DANNY,I understand that ... I do. We've only ever seen one side of this ... dowe even know why they're fighting?
+0,66,7,SAM,For their lives.
+0,66,7,DANNY,"Yes! Yes, and I was all for saving those lives, but we're about to go way, way ... WAY beyond that. We're about to turn the tide of a world war we know nothing about against an enemy that we know nothing about. Is that the right way to get their technology? Yes! But ... is it ... the right thing to do?"
+0,66,7,SAM,"It's a fair question, Sir."
+0,66,7,DANNY,Yes ... it is.
+0,66,7,FERRAL,How long?
+0,66,7,TEAL'C,MajorCarter and DanielJackson will return as soon as they are able.
+0,66,7,FERRAL,There are too many!
+0,66,7,JACK,Use a couple more pilots?
+0,66,7,FERRAL,Yes!
+0,66,7,MAN,"Aerofighter squadron veckering target ... enemy bombering incoming bearing 0,0,mark 3 ..."
+0,66,7,JACK,"Yeah, I see em."
+0,66,7,ALAR,This was all you were able to bring?!
+0,66,7,SAM,"On short notice, yes."
+0,66,7,ALAR,This short amount will not last a day!
+0,66,7,SAM,There's more coming ... we thought it would be best to bring what little we could as soon as possible.
+0,66,7,ALAR,More is on the way?! You are certain?!
+0,66,7,SAM,Much more ... Yes!
+0,66,7,ALAR,"Add the fuel to the rectors, and set the defence field to full power. A demonstration to the enemy ... we must show them we are strong once more!"
+0,66,7,DANNY,"In the meantime, we have ... questions."
+0,66,7,ALAR,"Yes, yes ... as soon as the attack is over, we will provide all that we have promiced. Come! It isn't safe."
+0,66,7,CONTROLLER,Enemy bombers over the city.
+0,66,7,JACK,"Teal'C, target the lead bomber, I'll take the other one."
+0,66,7,TEAL'C,"I have it, O'Neill."
+0,66,7,SAM,That one sounded close.
+0,66,7,ALAR,Directly above us in the old city. Let me show you another of the wonders we intend to share with you for all you've done. The field generator is capeable of repelling the force of many bombs like a great shield. It saved our people from destruction my entire life. You see? The fuel you brought has strengthened it again.
+0,66,7,SAM,How long will that last?
+0,66,7,ALAR,For several hours.
+0,66,7,SAM,I'm certain we'll be able to send more heavy water by then.
+0,66,7,ALAR,Yeah.
+0,66,7,JACK,Mine's gone for the deck. GOD!
+0,66,7,TEAL'C,O'Neill? Are you all right?!
+0,66,7,MAN,Enemy bomber destroyed.
+0,66,7,JACK,"Yeah, what the hell was that?!"
+0,66,7,FERRAL,The lead erofighter in your formation struck an enemy bomber head on.
+0,66,7,JACK,I saw PEOPLE in that thing! You said they were unmanned!
+0,66,7,FERRAL,"I said the recognesis craft was an unmanned drone. It presented an easy target, and therefore, a suitable demonstration. But their bombers ARE manned. You have killed several of our enemy, Colonel ... and we are grateful. (Jack does NOT look pleased!"
+0,66,8,EURONDENS,He is remembered.
+0,66,8,TEAL'C,FOr whom do you pledge this remembrance?
+0,66,8,ALAR,"My father ... thru his vision, our nation has survived."
+0,66,8,TEAL'C,I see.
+0,66,8,ALAR,"It is customary among our people to formalize such agreements as ours. In exchange for all our knowledge, technology, medicines, Earth will provide us with however much heavy water we require to end this war once and for all. Do not be allarmed, Colonel. Just 3 or 4 times that which you have provided on a daily basis."
+0,66,8,SAM,"That adds up to several metric tons a year, Sir."
+0,66,8,ALAR,Which is a small price to pay for what we have to offer in return.
+0,66,8,THALMA,"Alar, Listen."
+0,66,8,JACK,What?
+0,66,8,ALAR,"Silence. I hardly recognize it. When at full strength, our defence field make us as invonerable as when I was a boy. I propose we write down on paper what we all ready share in our hearts."
+0,66,8,DANNY,"Um, before we do that, I have a question."
+0,66,8,SAM,"General Hammond also would like to know, Sir."
+0,66,8,ALAR,"It's allright, Colonel. I don't mind."
+0,66,8,DANNY,How did this war start?
+0,66,8,ALAR,"The first enemy bombs fell along Euronda in a surprise attack. I was a boy of 9. I remember that night. I remember the floor of the room in which my father sequestered me SHOOK with each explosion ... I remember ... knowing that each bomber got thru ... ment ... that another building, another HOME ... another street in the city above me ... is gone. That is how this war began, Doctor."
+0,66,8,DANNY,And for that ... we only have your word.
+0,66,8,ALAR,Three of our best men died attempting to reach Earth thru your stargate.
+0,66,8,DANNY,"Well, that was an accident."
+0,66,8,ALAR,And we have only YOUR word.
+0,66,8,JACK,"Any more question,"
+0,66,8,DANNY,Yes. Uh ... I'd like to know a little more about your enemy. )
+0,66,8,ALAR,"Is this ... part of your barganing process , Colonel?"
+0,66,8,JACK,
+0,66,8,ALAR,What more can we offer you than everything we have?
+0,66,8,DANNY,Then why don't you just answer the question?
+0,66,8,ALAR,Colonel O'Neill? Do we have an agreement?
+0,66,8,JACK,We do.
+0,66,8,DANNY,Jack ...
+0,66,8,JACK,
+0,66,8,SAM,"Sir, if you're gonna go back and tell General Hammond, I would like to stay here and take a look at their fusion technology."
+0,66,8,ALAR,"It would be my pleasure to show you personally. I understand you shot down one of our enemy bombers, Colonel. Congratulations ... perhaps you'll try it again."
+0,66,8,JACK,I don't ... think so!
+0,66,8,ALAR,"Well, if you're conserned about lives lost, remember, they're YOUR enemy now. I look forward to your return. Which reminds me ... perhaps it would be best if ... if the jaffa did not return."
+0,66,8,JACK,Teal'C? Why? He hasn't said a word.
+0,66,8,ALAR,It's not what he said ... it's what he IS.
+0,66,8,JACK,"Well, he's different. I'll grant you that."
+0,66,8,ALAR,
+0,66,8,JACK,Right.
+0,66,8,ALAR,Major Carter! After you.
+0,66,8,JACK,We're not going.
+0,66,8,DANNY,Why?
+0,66,8,JACK,Teal'C and I are gonna have a look around first. You ... ask questions.
+0,66,8,DANNY,I thought you told me to ...
+0,66,8,JACK,
+0,66,8,DANNY,"Well, thank you for ... recognizing that."
+0,66,8,JACK,"Now, I'm saying this ... go ask questions... LOTS of questions!"
+0,66,8,ALAR,One single fusion reactor is capeable of generating power for the entire facility. I assume you extract tutarium from sea water?
+0,66,8,SAM,"Yes. 70% of the Earth's surface is ocean, so Heavy Water production shouldn't be a problem."
+0,66,8,ALAR,"The sea in which we used to extract heavy water as you call it, is now in enemy hands hundreds of miles away. You can see that the storage tanks are nearly empty."
+0,66,8,SAM,You must have been building this place long before the war started.
+0,66,8,ALAR,The war was inevidable.
+0,66,8,SAM,"Well, how long did you expect to stay down here?"
+0,66,8,ALAR,Until the air is free from poison. Excuse me.
+0,66,8,JACK,"So, what's your impression of Alar?"
+0,66,8,TEAL'C,That he is conceling something.
+0,66,8,JACK,Like what?
+0,66,8,TEAL'C,"I am not sure ... but he is conseling it. What is it, O'Neill?"
+0,66,8,JACK,They're the same! Every DAMN one of em's the same!
+0,66,8,DANNY,"Hey, Ferrel."
+0,66,8,FERREL,Doctor.
+0,66,8,DANNY,"Uh ... I just thought that since we're gonna be allies, I thought we should get to know a little bit about our new enemy. OK! uh ... you call them the enemy? Um ... understandably they're ... your enemy ... but, uh ... they must have a name. For example: I'm American. My grandfather was Dutch ... what do you ... call them?"
+0,66,8,FERRAL,Sometimes we call them breeders.
+0,66,8,DANNY,Breeders?
+0,66,8,FERREL,How they reproduce. Indescriminately ... with no reguard for Genetic purity.
+0,66,8,DANNY,Really? So ... they come in all shapes and sizes.
+0,66,8,FERREL,Yes.
+0,66,8,DANNY,And colors?
+0,66,8,FERREL,Yes!
+0,66,8,DANNY,Really?
+0,66,8,ALAR,"This storage facility contains plans, specifications, and formulas upon which our technology is based. Together, I'm sure we can find a way to transfer the information to your computers."
+0,66,8,SAM,"Alar, these pipes extend from the lowest level right up to the surface."
+0,66,8,ALAR,Yes.
+0,66,8,SAM,But you said the atmosphere was poisoned. It doesn't make any sense!
+0,66,8,MAN,Enemy bombers aproach the perimeter.
+0,66,8,ALAR,Engage them!
+0,66,8,DANNY,Jack!
+0,66,8,JACK,What'd you find out?
+0,66,8,DANNY,"ThEY did it! They started the war ... I don't know how, but they did it!"
+0,66,8,ALAR,Where is the fuel?
+0,66,8,JACK,There's been a delay.
+0,66,8,ALAR,"What sort of delay?! The enemy is attacking in forse, we NEED that fuel!"
+0,66,8,JACK,We just have to buy a little time ... Teal'C and I could help fight em off until it gets here.
+0,66,8,ALAR,Do it!
+0,66,8,JACK,"Stay on my wing, Teal'C."
+0,66,8,SAM,"(Well, for the smartest of the group, she's the last to realize"
+0,66,8,ALAR,"Now is not the time, MAJOR!"
+0,66,8,FERRAL,The defence field is at minimum sustainable strength.
+0,66,8,ALAR,Transfer energy from the stasis room.
+0,66,8,SAM,The Eurondans built this place long before the war started. They PLANNED it from the beginning!
+0,66,8,DANNY,All right. But how do they expect to win a war from underground?
+0,66,8,SAM,There are enormous gas pipes that run from holding facilities all the way up to the surface.
+0,66,8,DANNY,And the surface is poisoned!
+0,66,8,SAM,"They didn't just START a WAR, they were trying to exterminate them!"
+0,66,8,ALAR,It was HIS vision! My father saw that breeders were spreading across the face like a plague. MILLIONS of them! We don't know how so many of the managed to survive. But they do in spite of our best efforts. Contact your General Hammond! Tell him we need that fuel
+0,66,8,DANNY,We're not gonna do that.
+0,66,8,ALAR,
+0,66,8,FARREL,They're escorting the enemy bombers!
+0,66,8,WHAT?!?!,
+0,66,8,FARREL,He's attacking our own fighters!
+0,66,8,ALAR,
+0,66,8,JACK,I wouldn't follow us if I were you.
+0,66,8,NO!,
+0,66,9,ALAR,Wait! WAIT!!!! I could teach you everything I know! Just let me come with you! PLEASE! (The two soldiers go thru the gate.
+0,66,10,JACK,Close the iris.
+0,66,10,HAMMOND,"Do it! I take it, Colonel, you were unable to encure Eurondan technology?"
+0,66,10,JACK,"That's correct, Sir."
+0,66,10,HAMMOND,I'm sorry to hear that.
+0,66,10,JACK,Don't be.
+0,66,10,HAMMOND,We'll debrief in one hour.
+0,66,10,JACK,"Yes, Sir."

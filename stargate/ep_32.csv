@@ -1,0 +1,379 @@
+Season,Episode,Scene,Character,Line
+0,32,0,STARGATE SG1,Episode 212
+0,32,0,"""THE TOKRA 2""",By Jonathan Glassner Garshaw goes to see SG1
+0,32,0,GARSHAW,You wish to see me?
+0,32,0,JACK,Daniel.
+0,32,0,DANIEL,"Garshaw, could you at least tell us why you've turned down our request for an alliance?"
+0,32,0,GARSHAW,We have decided that your limited resources do not offer us enough of a reward to risk the high security breach that your knowledge of us will cause.
+0,32,0,JACK,That's it?
+0,32,0,DANIEL,"Well, at least allow us some time to try to find some technology, some skill, something that you don't have."
+0,32,0,GARSHAW,"I'm sorry, I don't believe it exists."
+0,32,0,JACK,So we are prisoners. You've looking like Goa'uld to me.
+0,32,0,GARSHAW,We are doing this for your protection as well as ours. Knowledge of our whereabouts makes you and your world a priority target for the Goa'uld System Lords.
+0,32,0,JACK,We're already a priority target.
+0,32,0,TEAL'C,They previously despatched two motherships to destroy us
+0,32,0,SAM,"There's another reason, isn't there? Something else bothers you about us."
+0,32,0,GARSHAW,"That is correct. None of you have volunteered to be a host to one of us who is dying! Now if you're so disgusted with the very thought of blending, how can we be associated with one another? I mean it is obvious that you have distaste for our very being."
+0,32,0,DANIEL,"No, it is simply a lack of understanding. We have no hatred for you at all."
+0,32,0,GARSHAW,Then be a host to Selmak.
+0,32,0,DANIEL,"Well I wish I could say I was okay with that, but."
+0,32,0,GARSHAW,The very thought sickens you. There is nothing more to be said. There will be no alliance. You will remain here until we say otherwise.
+0,32,2,SAM,Colonel Makepeace? Did anyone tell you how far along my father is?
+0,32,2,MAKEPEACE,"No, I was only told to get you back as soon as possible."
+0,32,2,SAM,He doesn't even know why I'm not there for him. He thinks I'm off somewhere working on some damn satellite dish or something.
+0,32,2,JACK,"We're gonna get you back there Carter. The good news is, there's eight of us now."
+0,32,2,DANIEL,That's good news?
+0,32,2,JACK,Yes. More manpower.
+0,32,2,TEAL'C,"Is this another one of your strange jokes, O'Neill?"
+0,32,2,JACK,"Ah, no."
+0,32,2,TEAL'C,"It would be impossible. There is only one way out, via the rings. We would then have to elude hundreds of Tok'ra."
+0,32,2,SAM,I for one don't want to hurt any of them.
+0,32,2,JACK,"Look, I'm not too thrilled about hurting anyone either. But keep in mind these people wanna make you a host, and as I recall you said that whole 'Jolinar Goa'uld in the head deal was one of the worst things that ever happened to you!"
+0,32,2,SAM,"That's before I understood it better. If I wasn't fighting her and I knew what it meant for Jolinar to be a Tok'ra, it might have been, I don't know, enlightening. I need to see Garshaw!"
+0,32,2,DANIEL,What?
+0,32,2,SAM,What is the one thing that they need the most?
+0,32,2,DANIEL,"Well, hosts, which we can't give them."
+0,32,3,GARSHAW,What is it?
+0,32,3,SAM,You said that the symbiote can cure most problems in a human.
+0,32,3,GARSHAW,Yes.
+0,32,3,MARTOUF,What is cancer?
+0,32,3,DANIEL,"It's a disease in humans where the cells grow out of control, you get tumours."
+0,32,3,GARSHAW,"Oh yes, it's a common ailment amongst your species. We cure it all the time, it's no problem."
+0,32,3,SAM,"Colonel, I think we should at least try to offer it to my Dad?"
+0,32,3,JACK,We might have a host for you.
+0,32,3,GARSHAW,You have a host for Selmak?
+0,32,3,SAM,Yes. My father. He's got cancer and if Selmak can save his life I think he'd be willing to try it.
+0,32,3,JACK,But you have to let us go back.
+0,32,3,GARSHAW,I will let two of you go. But the rest will remain to ensure that you will return.
+0,32,4,HAMMOND,"Colonel O'Neill, where's Colonel Makepeace, SG-3, they were supposed to extract only Captain Carter."
+0,32,4,JACK,"General, we need to talk."
+0,32,5,HAMMOND,"Captain Carter, I am truly sorry about your father, but I have to question the wisdom of what you're suggesting here. From what I've seen, this won't exactly be saving his life. It'll be more like giving his body to a Goa'uld."
+0,32,5,SAM,"No Sir, more like letting one share it."
+0,32,5,HAMMOND,"Jacob knows a lot about Earth, about the US military. This would be like handing over that information to the Goa'uld."
+0,32,5,SAM,To the Tok'ra.
+0,32,5,HAMMOND,You sure there's a difference?
+0,32,5,JACK,"Oh yes Sir, there's a difference, believe me. I won't even pretend to understand what the difference is, but there is one. One minute you're talking to a Goa'uld, the next minute you're talking to a regular guy. Person."
+0,32,5,SAM,Host.
+0,32,5,JACK,Host.
+0,32,5,HAMMOND,How do you know it isn't just a trick? We've seen the Goa'uld speak as humans before.
+0,32,5,JACK,"Well General, if these were your everyday run of the mill greasy arsed Goa'uld, they would have made us their hosts already."
+0,32,5,HAMMOND,"They were holding you prisoner, Colonel. Still are holding SG-3 and the rest of your team!"
+0,32,5,SAM,Only temporarily Sir. And they thought it was to protect us as much as them.
+0,32,5,JACK,"Yeah, I didn't buy that one myself, Sir."
+0,32,5,SAM,"General Hammond, please, I know my father would want to do this. He would have the opportunity to serve as the liaison between ourselves and possibly the most important ally we will ever have."
+0,32,6,TEAL'C,I would like to take this opportunity to express my admiration for your cause. It is both honourable and brave.
+0,32,6,GARSHAW,Thankyou Jaffa. I must say I feel the same about you. To break from Apophis and then turn to fight him shows great conviction of character.
+0,32,6,MARTOUF,"Master Garshaw, we just received word from our scout in the Shoran'ka quadrant. The Goa'uld System Lords have been told where we are. They have dispatched two motherships."
+0,32,6,GARSHAW,When will they arrive?
+0,32,6,MARTOUF,"Within the day, perhaps hours."
+0,32,6,GARSHAW,Start the evacuation!
+0,32,7,HAMMOND,"Clear the room, people."
+0,32,7,JACOB,I told you not to recall her.
+0,32,7,SAM,"Happy to see you too, Dad."
+0,32,7,HAMMOND,"You wanted me to tell you what Captain Carter does, so I thought maybe she could tell you herself."
+0,32,7,JACOB,Yeah? What happened to the classification?
+0,32,7,HAMMOND,It's still classified. But you just got clearance.
+0,32,7,JACOB,Why?
+0,32,7,SAM,"Well, believe it or not, we need your help, Dad."
+0,32,7,JACOB,What? The Pentagon wants me to deliver a message to God when I get up there?
+0,32,7,HAMMOND,Not exactly.
+0,32,7,JACOB,Well I don't plan to see the other guy.
+0,32,7,SAM,"Dad, have you ever heard of the Stargate program?"
+0,32,7,JACOB,"No, is that one of your sattellites?"
+0,32,7,SAM,"I don't work with satellites, Dad, that was just a cover."
+0,32,7,JACOB,"No kidding. I never would have guessed. So tell me, what do you do that's so great you don't want me to get you into the astronaut program?"
+0,32,7,SAM,"Well, this is gonna be a lot for you to take in at once."
+0,32,7,JACOB,Stop beating around the bush. What do you do?
+0,32,7,SAM,I travel to other planets. Much farther away than any astronaut goes.
+0,32,7,JACOB,So you're not going to tell me the truth.
+0,32,7,HAMMOND,"She is telling you the truth, Jacob."
+0,32,7,JACOB,"She goes to other planets. What, like in simulations?"
+0,32,7,HAMMOND,No. In reality.
+0,32,7,SAM,We discovered a piece of alien technology. It can send us to thousands of planets all over the galaxy.
+0,32,7,JACOB,"You're not kidding, are you."
+0,32,7,SAM,No.
+0,32,7,JACOB,Holy Hannah! So what do you want me to do?
+0,32,7,SAM,"Well, we'd like you to travel to one of these planets with us."
+0,32,7,JACOB,Why? So I can die there?
+0,32,7,SAM,"No. Actually, I'm hoping what we want you to do will cure your cancer."
+0,32,7,JACOB,They have a cure there? What's the catch?
+0,32,7,HAMMOND,"It's a doozie, Jacob, I won't lie to you on that."
+0,32,8,TECH,Chevron 6 locked.
+0,32,8,JACOB,So this is the alien thing you found?
+0,32,8,SAM,Yup.
+0,32,8,JACOB,And it sends you to other planets?
+0,32,8,TECH,Chevron 7 locked.
+0,32,9,JACK,"How about them apples, huh?"
+0,32,9,SAM,Let's go Dad.
+0,32,9,JACOB,"Does it,what does it feel like?"
+0,32,9,SAM,"You've handled worse, Dad."
+0,32,9,JACK,"It's a piece of cake, Sir."
+0,32,10,JACOB,You do that a lot?
+0,32,10,SAM,"Yeah, once or twice a week."
+0,32,10,JACOB,It beats the hell out of a shuttle on the back of a rocket.
+0,32,10,JACK,"Goes a lot further, too. You know, I was kind of expecting a little greeting party or something."
+0,32,10,JACOB,You sure this is another planet? It looks like Earth.
+0,32,10,SAM,"Yeah, we figure the Stargate system was built specifically to transport humans or something close to humans in physiology. So it seems to go mostly to places where the environment supports human life."
+0,32,11,JACK,Makepeace?
+0,32,11,MAKEPEACE,"Alright airman, carry on."
+0,32,11,JACK,What the heck's going on?
+0,32,11,MAKEPEACE,We're free.
+0,32,11,JACK,Then why are you still here?
+0,32,11,MAKEPEACE,"Well, we wanna be allies, right, so we're lending a hand with the evacuation."
+0,32,11,JACK,What evacuation?
+0,32,11,MAKEPEACE,"Come on, I'll explain as we go."
+0,32,11,SAM,"Dad, this is Teal'c. Teal'c, this my father."
+0,32,11,TEAL'C,It is an honor.
+0,32,11,DANIEL,This is where they've been stacking our stuff.
+0,32,11,TEAL'C,Chel nak.
+0,32,11,DANIEL,"Direct translation, very cool."
+0,32,11,JACK,"Okay, you wanna tell me what's going on now?"
+0,32,11,DANIEL,They're evacuating so we're free to go.
+0,32,11,JACK,Why?
+0,32,11,TEAL'C,The System Lords are ready to attack. The Goa'uld motherships are on the way.
+0,32,11,JACK,Oh.
+0,32,12,JACK,"Alright, where do we find Garshaw?"
+0,32,12,TEAL'C,We last saw her in the council chamber.
+0,32,12,JACK,"Alright boys, let's go. Call if you need me."
+0,32,12,SAM,Thanks.
+0,32,13,LANTASH,You have returned.
+0,32,13,SAM,"Yes. This is my father, Jacob Carter."
+0,32,13,LANTASH,Honoured.
+0,32,13,MARTOUF,I am Martouf. You have a very special daughter.
+0,32,13,JACOB,Why does he talk like that?
+0,32,13,SAM,"He's a Tok'ra Dad, I told you about them."
+0,32,13,JACOB,"Oh, so these are the aliens you were telling me about?"
+0,32,13,SAM,"Well, I don't know if I'd call them aliens, sort of half alien I guess. I mean, the outside is human, and the inside is shared between a human and a symbiote. Martouf is actually two different... souls, I guess, sharing the same body."
+0,32,13,JACOB,And that's what you want me to become. You gotta be kidding me.
+0,32,14,JACK,So fill me in. How'd the System Lords find them?
+0,32,14,TEAL'C,That is unknown.
+0,32,14,JACK,"Are we talking about a spy here, or what?"
+0,32,14,DANIEL,"Well, if that's the case, moving to another planet's not gonna do them much good."
+0,32,14,JACK,"Teal'c, you know those little tele-ball things?"
+0,32,14,TEAL'C,The long range visual communications device.
+0,32,14,JACK,Right. How small do they make those?
+0,32,14,TEAL'C,I have seen them small enough to fit in the palm of your hand.
+0,32,15,JACOB,I'm not sure I can do this Sam.
+0,32,15,LANTASH,"No-one wishes to pressure you in any way, Sir. The decision is yours, but before deciding, might I suggest that you take a moment to get to know the symbiote that wishes to blend with you."
+0,32,15,JACOB,This is her?
+0,32,15,SAM,"Actually, you can only see the host, the symbiote's inside her."
+0,32,15,JACOB,Inside her.
+0,32,15,SAM,"Talk to her Dad, get to know her."
+0,32,15,SELMAK,"If you agree to the blending, we could be together for a very long time."
+0,32,15,JACOB,You don't look so good.
+0,32,15,SELMAK,"You are no vision of beauty yourself, Sir!"
+0,32,16,JACOB,"It's alright, sorry."
+0,32,16,SAROOSH,I'm the one to whom you should be talking.
+0,32,16,JACOB,"You are the one I'm talking to. Why, why did your voice change like that?"
+0,32,16,SAM,That's the host talking now.
+0,32,16,SAROOSH,I am Saroosh. I am in the position to help you most.
+0,32,16,JACOB,How's that?
+0,32,16,SAROOSH,"I will die, Selmak will live on, you will take my place as host."
+0,32,16,JACOB,"Um, I don't understand."
+0,32,16,SAROOSH,"Selmak is a wonderful Tok'ra, she is selfless and caring, she is good company, she has a wonderful sense of humour."
+0,32,16,SAM,"Well that's good Dad, you can sit around for hours cracking yourself up."
+0,32,16,JACOB,That's funny.
+0,32,16,SAROOSH,"She's not far wrong. I've had almost two hundred years of laughter thanks to Selmak. I'm biased, of course, but I believe that Selmak is among the best educated of the Tok'ra. You will probably be overwhelmed by the knowledge and wisdom you will gain upon blending."
+0,32,16,JACOB,"So, I get all of this thing's, erm, what did you call it, in their head?"
+0,32,16,SAM,Symbiote.
+0,32,16,JACOB,Yeah. I get all its memories and stuff?
+0,32,16,SAM,"Yeah, Dad, something like that."
+0,32,16,SAROOSH,"Then I won't deceive you, Sir, we have some pretty awful things buried in our memory."
+0,32,16,JACOB,Such as?
+0,32,16,SAROOSH,"Memories of countless Goa'uld atrocities, the loss of the host before me, and you will feel the mourning for my loss."
+0,32,16,JACOB,Will you excuse me ma'am?
+0,32,17,JACOB,"I'm sorry. I didn't want my future, I guess you could call her soulmate, to see me like this."
+0,32,17,SAM,"Dad, you don't have to do this."
+0,32,17,JACOB,"Yes I do. My only other choice is death, and that's not acceptable. Look, don't worry, it's not just hearing all that stuff that made me lose my stomach, it's the chemo. And the trip through that damn Stargate thing."
+0,32,17,SAM,"It's okay. This is a lot of weird information for anyone to take in at once. Trust me, I know."
+0,32,17,JACOB,Okay.
+0,32,18,JACK,Garshaw?
+0,32,18,GARSHAW,What can I do for you?
+0,32,18,JACK,I think you might have a spy in your ranks.
+0,32,18,GARSHAW,"Nonsense, the Tok'ra are loyal for life!"
+0,32,18,TEAL'C,How then were you located by the System Lords?
+0,32,18,GARSHAW,How did you find us?
+0,32,18,DANIEL,Well we did have a spy in our ranks.
+0,32,18,TEAL'C,"Jolinar of Malkshur, through Captain Carter."
+0,32,18,GARSHAW,I suppose you know the name of the spy?
+0,32,18,JACK,I've got a pretty good idea.
+0,32,18,GARSHAW,Who?
+0,32,18,JACK,"Well, I don't wanna point fingers, but I'd keep my eye on Cordesh."
+0,32,18,GARSHAW,Cordesh? Why do you say that?
+0,32,18,JACK,"You folks make a habit of walking around with those little teleball things, what are they?"
+0,32,18,TEAL'C,He speaks of a long range visual communications device.
+0,32,18,GARSHAW,"We don't have those, we have no use for them. The system is not secure."
+0,32,18,JACK,Well your buddy Cordesh has one.
+0,32,18,GARSHAW,"Tok'ra kree! Tal shak Cordesh, kree!"
+0,32,18,JACK,Better stay here.
+0,32,18,DANIEL,We'll stay here.
+0,32,19,GARSHAW,"Cordesh, you must come with me and face questioning."
+0,32,19,CORDESH,I'm not what I appear to be! Cordesh is no longer! I couldn't stop him! I'm as guilty as he was!
+0,32,19,GARSHAW,"You must leave the tunnel and explain yourself, Cordesh."
+0,32,19,CORDESH,I don't deserve to remain among the Tok'ra.
+0,32,20,JACK,Ouch.
+0,32,21,JACOB,"Okay, what do I have to do?"
+0,32,21,MARTOUF,"First, Selmak would like to interview you."
+0,32,21,SELMAK,"If I am to spend the next hundred or more years with you as my host, do you not think I have the right to decide if I even like you?"
+0,32,21,JACOB,"What's not to like? Just ask my daughter, I'm a teddy bear."
+0,32,21,SAM,"Oh yeah, real teddy bear."
+0,32,21,SAROOSH,How do you feel about the Goa'uld?
+0,32,21,JACOB,Well you're the first one I've met.
+0,32,21,SAROOSH,I am not a Goa'uld.
+0,32,21,JACOB,"Ah, trick question?"
+0,32,21,SAM,"Remember, Dad, I tried to explain the difference."
+0,32,21,JACOB,"Right, right, I apologise. I guess I've never met a Goa'uld before. Although from what Sam and her people tell me, I don't think I like them much."
+0,32,21,SELMAK,"Tell me, Sir, are you a good man?"
+0,32,21,JACOB,"You're kidding, right?"
+0,32,21,SELMAK,"No, we'll be spending the rest of our lives together."
+0,32,21,JACOB,"Look, forgive me for being blunt, but you're dying, right?"
+0,32,21,SELMAK,"My host is, yes."
+0,32,21,JACOB,"And you'll die with her unless you and I, what did you call it? Blend, right?"
+0,32,21,SELMAK,Yes.
+0,32,21,JACOB,"And I'll die too, unless we do this. So my point is, good man, bad man, what difference does it make? We don't have a choice. And I don't mind telling you the whole idea scares the hell outta me. So can we just get it over with?"
+0,32,21,SELMAK,I have decided I like you.
+0,32,21,JACOB,Super.
+0,32,21,SELMAK,"But I must be sure that you understand, there will be no turning back. I cannot blend with you, cure your disease, then leave. To do so would probably kill us both."
+0,32,21,JACOB,"I understand. Let me ask you something though. After we do this, will I still be able to talk to my daughter?"
+0,32,21,SELMAK,"The way Saroosh talked to you, yes. But you and your daughter must understand, the blending may not work at all. I am very weak, and the damage to your body may be too extensive."
+0,32,21,JACOB,"In other words, we might die anyway."
+0,32,21,SELMAK,Yes.
+0,32,21,JACOB,Then can you give me five with my kid?
+0,32,21,SELMAK,Of course.
+0,32,21,LANTASH,"You must hurry, we don't have a lot of time."
+0,32,21,JACOB,"Listen Sam, I was never good at this stuff."
+0,32,21,SAM,"Dad, you don't have to say anything."
+0,32,21,JACOB,You gotta know one thing. How proud I am of you. I'm not good at saying these things enough.
+0,32,21,SAM,I think you just said it pretty well.
+0,32,21,JACOB,"Even when I thought you were this whizz satellite geek, I was proud. That's all I want to say."
+0,32,21,SAM,Please Dad.
+0,32,21,JACOB,"Hey, I know, I'm a pain in the arse. Maybe this Tok'ra lady will, sand off some of the rough edges. It might be a good thing, right?"
+0,32,21,SAM,Could be. The longer we wait the less chance there is.
+0,32,21,JACOB,"Okay, what do I do?"
+0,32,22,GARSHAW,Cordesh must be guilty of something or he would not have allowed himself to be buried.
+0,32,22,JACK,"What, he had a choice?"
+0,32,22,GARSHAW,I must thank you. You may have saved the Tok'ra a great many losses.
+0,32,22,JACK,You're welcome.
+0,32,22,GARSHAW,"But, you still have nothing to offer us."
+0,32,22,JACK,What?
+0,32,22,DANIEL,"Well, actually, I think we do."
+0,32,22,JACK,We do?
+0,32,22,DANIEL,"Well, the one thing you need the most we can provide. Hosts."
+0,32,22,JACK,Daniel.
+0,32,22,DANIEL,"Well, think about it, if it works for Sam's father, then there must be other people in similar situations."
+0,32,22,JACK,It's worth exploring.
+0,32,22,GARSHAW,It is.
+0,32,23,MARTOUF,We do not enter our hosts through the back of the neck. This just leaves a scar that many of us find unsettling.
+0,32,23,SAM,So why don't the Goa'uld do it this way too?
+0,32,23,MARTOUF,"They don't wish to remember the horror of their host's face whenever they see their own reflection in the mirror. You must step away, Captain Carter."
+0,32,23,JACOB,"Goodbye, kid. Now what?"
+0,32,23,SELMAK,Kiss me.
+0,32,23,JACOB,"You're kidding, right?"
+0,32,23,SELMAK,"No, I'm not."
+0,32,24,SELMAK,"Goodbye, dear friend."
+0,32,24,SAM,He's alive. Is he okay?
+0,32,24,MARTOUF,He's very sick. And Selmak is weak. She may not have the strength to heal him.
+0,32,24,SAM,"Well, is there anything we can do to help?"
+0,32,24,MARTOUF,Nothing. Only time will tell.
+0,32,24,MALE TOKRA,Our scouts have spotted the Goa'uld ships dropping from hyperspace. They will start attacking from the air and through the 'gate within hours. Garshaw orders that we must destroy the complex.
+0,32,24,SAM,We need time! Can we move him?
+0,32,24,MARTOUF,If we do so if will kill them.
+0,32,25,JACK,Scuse me.
+0,32,25,YOSUF,What are you doing?
+0,32,25,JACK,I'll apologise if I'm wrong. Cordesh had one of these.
+0,32,26,YOSUF,So there are two spies.
+0,32,26,JACK,Or not. Cordesh said he wasn't who he appeared to be.
+0,32,26,TEAL'C,"Goa'uld can jump hosts to hide, much as Jolinar of Malkshur."
+0,32,26,YOSUF,Cordesh?
+0,32,26,TOKRA,The plague that is the Tok'ra will soon be wiped out!
+0,32,26,GARSHAW,"I am sickened to think I once called you my friend, Cordesh, but I want you to know, the System Lords will fall, but you won't be alive to see it. Attempt to remove Cordesh from the host without harming her. Then put this traitor in one of the vanishing tunnels. I believe I shall be proud to call you friend."
+0,32,27,YOSUF,"Martouf, all tunnels but this one and the escape tunnel have vanished. All the other Tok'ra have gone to the new homeworld; we must go now!"
+0,32,27,SAM,But what about my father?
+0,32,27,YOSUF,"When and if he awakens, Selmak knows where we'll be. He can follow."
+0,32,27,DANIEL,"But the Goa'uld are coming, they'll capture him."
+0,32,27,YOSUF,"If he's captured, he will die before he will reveal our whereabouts."
+0,32,27,SAM,"Well, then take him with you!"
+0,32,27,JACK,Or we'll take him with us.
+0,32,27,MARTOUF,"I'm afraid that to transport him now, he will die. He needs to remain stationary until Selmak has completed her repairs."
+0,32,27,SAM,We can't just leave him here!
+0,32,27,MARTOUF,"I will remain with him. If I can get him out, I will. If not, I will allow the vanishing tunnels to consume us before the Goa'uld get here."
+0,32,27,GARSHAW,I cannot allow you to die in this way. We must leave now!
+0,32,27,SAM,I'll stay.
+0,32,27,GARSHAW,You are even more vulnerable since you contain the memories of Jolinar! I cannot allow you to stay. We must go now!
+0,32,27,JACK,"She's right, Captain. We have to go."
+0,32,27,SAM,"With respect, no, Sir. I am not leaving him here."
+0,32,27,MARTOUF,Captain Carter and I will both remain. I will assure that we will not be taken by the Goa'uld.
+0,32,27,SAM,"Please, Colonel. I need to be here."
+0,32,27,JACK,Right. Daniel? Teal'c? Let's go.
+0,32,28,YOSUF,We may not have much time before the Goa'uld come through the 'gate blocking our way.
+0,32,28,DANIEL,We can take you to our planet and then send you to your new home from there.
+0,32,28,JACK,"Daniel, start dialling home."
+0,32,28,DANIEL,Well shouldn't we wait for Carter?
+0,32,28,TEAL'C,O'Neill!
+0,32,28,JACK,Dial!
+0,32,30,SAM,"Oh God, I hope I've done the right thing bringing him here."
+0,32,30,MARTOUF,From what I understand the alternative was no better.
+0,32,30,SAM,True.
+0,32,31,HAMMOND,Can your man defend them against an attack?
+0,32,31,GARSHAW,Only minimally.
+0,32,31,DANIEL,"Garshaw, what will Martouf do if the Goa'uld get too close?"
+0,32,31,GARSHAW,"I regret that at the risk of capture, Martouf will destroy the underground compound, with himself and all your people with it."
+0,32,32,JACOB,Ahh.
+0,32,32,SAM,Dad?
+0,32,32,SELMAK,Martouf?
+0,32,32,MARTOUF,I am here.
+0,32,32,SELMAK,Should we not make our escape?
+0,32,32,MARTOUF,"Yes, we should."
+0,32,32,SAM,"Ah, is my Dad in there somewhere?"
+0,32,32,JACOB,"I'm here Sam. Oh man, talk about your hangover."
+0,32,32,SAM,How are you Dad?
+0,32,32,JACOB,I'm awful. Headache the size of Kuwait. There's too much stuff in here. Whoah!
+0,32,32,SAM,What?
+0,32,32,JACOB,No more arthritis! Holy Hannah! No more arthritis!
+0,32,32,MARTOUF,We should make our leave as soon as possible. This way.
+0,32,32,TECH,Still no SG-1 signal Sir.
+0,32,33,MARTOUF,The Goa'uld are attempting to come through the 'gate.
+0,32,33,SAM,Not if I dial out first! We'll go to Earth. You two can go wherever you need to from there.
+0,32,34,SAM,Did we open the gate or did they?
+0,32,34,SAROOSH,We have no choice!
+0,32,34,SAM,Wait!
+0,32,34,TECH,There's the signal.
+0,32,34,HAMMOND,Open the iris!
+0,32,35,SELMAK,I must give you thanks. You have saved my life and that of my new host. We thank you.
+0,32,35,GARSHAW,This is wonderful news.
+0,32,35,HAMMOND,Yes. Can we talk to your host?
+0,32,35,JACOB,"So when the little fella inside me is talking, do I sound like she does?"
+0,32,35,TEAL'C,That is correct.
+0,32,35,JACOB,"That's strange. I can feel myself talking, but it's not Me saying the words. You know?"
+0,32,35,JACK,Don't know. Take your word for it.
+0,32,35,DANIEL,How do you feel?
+0,32,35,JACOB,"Well, considering I got one of those things inside me, pretty damn good! Listen, George, because of this blending thing, I already know everything there is to know about the Tok'ra. You made the right call."
+0,32,35,HAMMOND,I hope so.
+0,32,35,JACOB,I would be proud to serve as liaison between the Earth and these people.
+0,32,35,HAMMOND,"Good. Well on that note, perhaps you can ask them to come with me to do a little debriefing."
+0,32,35,GARSHAW,I'm afraid we cannot. We must go.
+0,32,35,TEAL'C,You are safe here.
+0,32,35,GARSHAW,"Because of the spy, the Goa'uld may already be at the site the Tok'ra have moved to."
+0,32,35,SAM,You can't stay a little longer?
+0,32,35,MARTOUF,"No, we must go quickly and stop the tunnels there before they are grown."
+0,32,35,GARSHAW,We must move the Tok'ra to yet another new home. Do you not have a dialling device here?
+0,32,35,JACK,"Yeah, we slapped a little one together."
+0,32,35,GARSHAW,"Hmm, you made it yourself, impressive. Will you show it to me? I would like to put in the coordinates myself."
+0,32,35,HAMMOND,This way.
+0,32,35,MARTOUF,"I give you my word, I will watch over you father as if he were my own."
+0,32,35,SAM,Thankyou.
+0,32,35,MARTOUF,I look forward to seeing you again.
+0,32,35,SAM,So do I.
+0,32,35,JACOB,"It's ironic, ain't it?"
+0,32,35,SAM,What?
+0,32,35,JACOB,"I was trying to find you a better assignment and you didn't need it. Now you've found me the best assignment an old soldier could dream up. Thanks, kid."
+0,32,35,SAM,You're welcome. Do you have to go so soon?
+0,32,35,JACOB,"Yeah. I have to go. Apparently, I'm the oldest and wisest among us."
+0,32,35,SAM,Oh jeez.
+0,32,35,GARSHAW,There will come a time when the Tok'ra and the people of the Tau'ri will destroy the System Lords.
+0,32,35,JACK,This'll be a good day.
+0,32,35,DANIEL,This box has a signature in it we can recognise. Just send it through the gate and we'll know you want to contact us.
+0,32,35,GARSHAW,"Thankyou. Come, Selmak."
+0,32,35,JACOB,I love you.
+0,32,35,SAM,"I love you too, Dad."
+0,32,35,JACOB,"Selmak says, let me see if I can translate this, don't call us, we'll call you."

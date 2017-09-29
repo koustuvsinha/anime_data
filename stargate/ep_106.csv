@@ -1,0 +1,383 @@
+Season,Episode,Scene,Character,Line
+0,106,0,STARGATE SG1,Episode 520
+0,106,0,"""THE SENTINEL""",By Ron Wilkerson
+0,106,1,GREAVES,"Okay, Marul, go ahead."
+0,106,1,MARUL,Your friends will see me?
+0,106,1,GREAVES,Not right now. I'll send your greeting back with my report.
+0,106,1,MARUL,What shall I say?
+0,106,1,GREAVES,Anything you like.
+0,106,2,GREAVES,How about hello?
+0,106,3,MARUL,Hello.
+0,106,4,O'NEILL,The rat bastard.
+0,106,4,DANIEL,He came across as very nice.
+0,106,4,O'NEILL,The voice behind the camera.
+0,106,4,HAMMOND,"Colonel Shaun Greaves, formerly of the NID. He led an offworld team for Colonel Maybourne and was one of the members of that organisation convicted of high treason for his actions."
+0,106,4,DANIEL,And what was Greaves team trying to steal?
+0,106,4,HAMMOND,The Latonans possess a planetary defence they call the Sentinel. Which has apparently kept them safe from the Goa'uld for generations.
+0,106,4,CARTER,Well I can see why the NID would want to get their hands on it.
+0,106,4,O'NEILL,We put `em all away before they could.
+0,106,4,HAMMOND,Frankly I'm afraid Colonel Greaves team may have done something to the Sentinel device they haven't admitted to.
+0,106,4,O'NEILL,"Fiddlin' around with it, was it?"
+0,106,4,CARTER,"Well according to his report, the Latonans never granted Greaves team access to the Sentinel device before they were recalled and arrested."
+0,106,4,DANIEL,You don't think it's possible for an NID operative to lie?
+0,106,4,TEAL'C,I believe it is Daniel Jackson.
+0,106,4,DANIEL,Right. So if Greaves team disabled the Latonans only means of self defence...
+0,106,4,CARTER,We're responsible.
+0,106,4,O'NEILL,"Greaves is responsible, thank you."
+0,106,4,HAMMOND,"I doubt the Latonans would appreciate that distinction, Colonel."
+0,106,4,TEAL'C,Time will be of the essence. The Goa'uld forces SG9 encountered on Latona were most likely sent through the Stargate as a test.
+0,106,4,CARTER,To determine if the Sentinel was operational?
+0,106,4,DANIEL,And by now they will have reported back.
+0,106,4,TEAL'C,A Goa'uld mothership is most likely not far off if the Goa'uld believe that Latona may now be conquered.
+0,106,4,O'NEILL,"Might be a good time to try out that new guidance system on the UAV, sir."
+0,106,4,HAMMOND,I think that can be arranged.
+0,106,4,CARTER,"Sir, before we go anywhere, we need to talk to Greaves."
+0,106,4,O'NEILL,Why?
+0,106,4,CARTER,"Well, whether we like it or not, Sir, Colonel Greaves and Lieutenant Kershaw maybe the only people qualified to fix it."
+0,106,4,O'NEILL,I'll go.
+0,106,5,O'NEILL,You're dismissed.
+0,106,6,GREAVES,He's worried I might try to kill you.
+0,106,6,O'NEILL,"In that case, I insist."
+0,106,7,O'NEILL,Had many visitors lately? Maybourne stop by? See how the old team's doing?
+0,106,7,GREAVES,"What do you want, O'Neill?"
+0,106,7,O'NEILL,
+0,106,7,GREAVES,What about it?
+0,106,7,O'NEILL,I need to know what you did to screw it up and what I need to do to fix it.
+0,106,7,GREAVES,I'm more inclined to tell you where to shove it.
+0,106,7,O'NEILL,"As we speak, SG9 is either pinned down by the Goa'uld or dead, so let's just cut the crap, okay?"
+0,106,7,GREAVES,How is this my problem?
+0,106,7,O'NEILL,You're responsible. Zero one eight is defenceless because of you.
+0,106,7,GREAVES,Earth is defenceless because of you. You don't seem to have a problem with that.
+0,106,7,O'NEILL,"You stole technology from our allies. If I hadn't shut you down, they would have."
+0,106,7,GREAVES,"Do you really think the Asgard or the Tok'ra will really rush to our defence when the Goa'uld finally decide to stomp on us? That day is coming, Colonel. Don't kid yourself."
+0,106,7,O'NEILL,Okay. I guess I should go have a chat with Kershaw.
+0,106,8,GREAVES,"The Latonans didn't want to show us the Sentinel. We found it ourselves not far from the city. There was a force field guarding the device itself. Kershaw and I took almost two weeks to get in, take it apart and put it back together, good as new."
+0,106,8,O'NEILL,Not good as new. You did something wrong.
+0,106,8,GREAVES,"The only thing we did wrong was come back to base to meet our new CO. It's funny, at the time I was looking forward to meeting you."
+0,106,8,O'NEILL,I need you to write down exactly how you got in and exactly what I need to do to fix this.
+0,106,8,GREAVES,"If I do anything, anything, I want my sentence commuted."
+0,106,8,O'NEILL,I think that's understood going in.
+0,106,8,GREAVES,And you'll need to take us with you. Kershaw and me.
+0,106,8,O'NEILL,
+0,106,8,GREAVES,"Who do you think you are? We were good, Colonel. Every bit as good as you. We believed what we were doing was for the good of the country. And if you hadn't put me in here, we might have had our own Sentinel by now."
+0,106,8,O'NEILL,You done?
+0,106,8,GREAVES,I don't care how good Carter thinks she is or how cocky you are. The device is way too complicated for you to try and repair without us. You already know that or you wouldn't be here.
+0,106,9,DAVIS,
+0,106,9,CARTER,"Receiving telemetry. Confirming two staff cannons emplacements concealed twenty metres or so from the Gate. We got lucky sir, the cannons weren't able to down the UAV before it was out of their range."
+0,106,9,HAMMOND,Begin painting the targets as soon as the UAV reaches altitude. Close the blast doors and prepare to launch.
+0,106,9,DAVIS,Prepare to launch.
+0,106,10,CARTER,Target sierra one has been acquired.
+0,106,10,HAMMOND,"Sergeant, launch when ready."
+0,106,11,DAVIS,Missile away.
+0,106,14,CARTER,Sierra one has been destroyed. Attempting to acquire sierra two.
+0,106,14,GREAVES,How do you know those are the only emplacements guarding the Gate?
+0,106,14,O'NEILL,We don't.
+0,106,14,CARTER,Sierra two has been acquired by UAV.
+0,106,14,HAMMOND,Launch when ready.
+0,106,16,CARTER,Sierra two has been destroyed. But I can't confirm casualties. UAV switching to recon mode for stage 2.
+0,106,16,O'NEILL,That's us.
+0,106,16,HAMMOND,"Colonel, SG3 will take point."
+0,106,18,GREAVES,Kershaw.
+0,106,19,O'NEILL,"Major Lawrence, make it a clean sweep."
+0,106,19,LAWRENCE,"Yes, sir."
+0,106,19,O'NEILL,Why don't you go with them? Keep `em out of trouble. We'll be on your six in sixty seconds.
+0,106,19,LAWRENCE,
+0,106,20,GREAVES,I'll say this again. I don't like the thought of going into this unarmed.
+0,106,20,O'NEILL,And.... I don't care.
+0,106,20,KERSHAW,I feel better just knowing there's an archaeologist watching our back.
+0,106,20,DANIEL,"Yeah, which end do the bullets go in again?"
+0,106,21,GREAVES,I'd be happy to show you.
+0,106,22,O'NEILL,"Our mission objective is to fix whatever you screwed up. If you get any ideas other than that, I'll shoot you. Understood?"
+0,106,22,GREAVES,Yeah.
+0,106,22,O'NEILL,Move out.
+0,106,24,CARTER,No sign of SG3.
+0,106,24,O'NEILL,
+0,106,25,TEAL'C,Three jaffa warriors survived the missile attack. SG3 is in pursuit to prevent them from reporting our arrival. Major Lawrence suggests we continue on.
+0,106,25,O'NEILL,Colonel?
+0,106,25,GREAVES,You want me to take point without a weapon?
+0,106,25,O'NEILL,I want you to point Teal'c in the right direction.
+0,106,26,DANIEL,"Just out of curiosity, how many years did you take off their sentence if they managed to fix this?"
+0,106,26,O'NEILL,"Actually, they'll get a few more years out of this."
+0,106,26,DANIEL,More?
+0,106,26,O'NEILL,They were on death row.
+0,106,27,CARTER,So how did you manage to find the Sentinel if the Latonans didn't want to show it to you?
+0,106,27,KERSHAW,Maybe we're good?
+0,106,27,O'NEILL,"Bribed the locals, eh?"
+0,106,27,GREAVES,I see you've done your homework.
+0,106,27,DANIEL,Major Benton's preliminary report said the Latonans were egalitarian. They don't use currency of any kind.
+0,106,27,KERSHAW,They don't care about material things.
+0,106,27,O'NEILL,Everybody's got their price.
+0,106,28,GROGAN,Colonel?
+0,106,28,O'NEILL,Grogan.
+0,106,29,GROGAN,There was a jaffa patrol on my six most of the day. I decided to stop running and fight it out.
+0,106,29,TEAL'C,How long ago?
+0,106,29,GROGAN,Last night. I guess I passed out and they went right by me. They'll be long gone.
+0,106,29,O'NEILL,Where's the rest of your team?
+0,106,29,GROGAN,"Major Benton took a staff hit in the chest on our way back to the Gate. Tartman and Winters got away with me at first, but I'm the only one left Sir."
+0,106,29,CARTER,Here.
+0,106,30,GROGAN,This isn't supposed to be happening Sir. The Latonans have this device.
+0,106,30,O'NEILL,"We know, Lieutenant."
+0,106,30,CARTER,"We're here to fix it. Sir, should I radio SG3 and let them know Grogan's coming back to the Gate?"
+0,106,30,O'NEILL,"Negative Major. Teal'c, How soon should we expect the mothership here?"
+0,106,30,TEAL'C,"Of that I am unsure, O'Neill. It could be hours or perhaps even days."
+0,106,30,O'NEILL,"Grogan, can you get me into the city?"
+0,106,30,GROGAN,"There are jaffa patrols all over the damn place making sure the Latonans keep their curfew. But yeah, I can take you straight to Marul if you want."
+0,106,30,KERSHAW,That's a waste of time.
+0,106,30,CARTER,Why do you say that?
+0,106,30,KERSHAW,The Sentinel was built hundreds of years ago by Marul's ancestors. He has no clue how to use it.
+0,106,30,GREAVES,None of `em do.
+0,106,30,O'NEILL,"All right look, we're here to help these people."
+0,106,30,GREAVES,What the hell do you think you can do?
+0,106,30,O'NEILL,"Maybe give them another option other than being wiped out? Grogan, you good to go?"
+0,106,30,GROGAN,Mmm hmm.
+0,106,30,O'NEILL,"Good. Carter, you're in charge."
+0,106,30,CARTER,"Yes, sir."
+0,106,30,O'NEILL,Fix it.
+0,106,30,CARTER,"Yes sir. Good luck, sir."
+0,106,32,GROGAN,That's the main road leading in and out of the city.
+0,106,32,O'NEILL,"You wouldn't happen to know a back way in there, would you?"
+0,106,32,GROGAN,"Yes sir, I think I do."
+0,106,33,KERSHAW,This is it.
+0,106,33,DANIEL,What is?
+0,106,33,GREAVES,You've got to know it's there. We went right by it the first time.
+0,106,33,CARTER,"All right, you're on."
+0,106,33,TEAL'C,"Major Carter, it would be wise if we were to remain in a concealed position guarding the entrance."
+0,106,33,CARTER,Absolutely. At least until the force field's down.
+0,106,34,DANIEL,And how long will that take?
+0,106,34,KERSHAW,"Last time, it took just over 48 hours."
+0,106,34,CARTER,Well maybe Daniel can help you shave a couple of days off that estimate.
+0,106,36,JAFFA,You are not preparing for his arrival as I instructed. Your people ignore the curfew.
+0,106,36,MARUL,Because they do not understand it.
+0,106,36,JAFFA,It is a simple matter. Lord Svarog has claimed Latona as part of his domain. Your conquest will happen as sure as the sun will rise. Accept that and you may live to serve him.
+0,106,36,MARUL,My people have no desire to serve anyone.
+0,106,36,JAFFA,"When Svarog rains fire from the sky, they will beg for his mercy. And offer him their devotion."
+0,106,36,MARUL,No they will not.
+0,106,36,JAFFA,"They will, when those around them begin to die. This is my last warning."
+0,106,36,MARUL,Your Lord Svarog should not come. The Sentinel will send him away. You will all be sent away.
+0,106,36,JAFFA,"So you have said, for three days. Yet here I stand. The Sentinel is nothing more than a legend."
+0,106,36,MARUL,It is very real.
+0,106,36,JAFFA,Then my patrols will find it and destroy it.
+0,106,38,GROGAN,"It's all right, Marul, he's a friend."
+0,106,38,MARUL,From your world?
+0,106,38,GROGAN,That's right. He's come all the way from Earth just to see you.
+0,106,38,O'NEILL,I'm Colonel Jack O'Neill. We need to talk.
+0,106,40,KERSHAW,Please don't do that.
+0,106,40,DANIEL,"Doesn't really look much like a weapon, does it?"
+0,106,40,GREAVES,"Why don't you go make yourself useful, Dr Jackson, and go watch the front door with your friends?"
+0,106,40,DANIEL,Well I'd rather be trying to help you but you're approach looks completely random.
+0,106,40,KERSHAW,"The patterns change randomly, we're trying to keep ahead."
+0,106,40,DANIEL,Sounds?
+0,106,40,KERSHAW,The code to shut off the field is always changing relative to the harmonics between the tones in each pattern.
+0,106,40,DANIEL,And how many different patterns are there?
+0,106,40,KERSHAW,We've recorded over a hundred.
+0,106,40,DANIEL,Oh. So I should probably..
+0,106,40,GREAVES,Shut up.
+0,106,40,DANIEL,Yeah.
+0,106,42,MARUL,Your offer is kind but not necessary.
+0,106,42,O'NEILL,I think it is.
+0,106,42,MARUL,The Sentinel has not failed us in centuries. It will not fail us now.
+0,106,42,O'NEILL,What's taking it so long?
+0,106,42,MARUL,I've sent a messenger to the Sentinel to seek the answers to that question. Perhaps it is waiting. You will see. Our enemy will be sent away.
+0,106,42,O'NEILL,How exactly?
+0,106,42,MARUL,One moment they are there. The next they are gone in white light.
+0,106,42,O'NEILL,Gone where?
+0,106,42,MARUL,To the place our ancestors divined. We are only grateful our enemies are gone.
+0,106,42,O'NEILL,And that's it?
+0,106,42,GROGAN,"Their civilisation's technologically regressed, Sir. No one knows how anything works as long as it keeps working."
+0,106,42,O'NEILL,And you've seen this thing working?
+0,106,42,MARUL,"Oh yes. As a child, an enemy of our people came in a great ship. But it was sent away."
+0,106,42,GROGAN,"That's the story we get from just about everybody, Sir."
+0,106,42,O`NEILL,"Marul, do you remember a team of guys who came here from earth about 2 years ago?"
+0,106,42,MARUL,"Colonel Greaves, of course. He asked that he might see the Sentinel to learn its mysteries so that one day your people might be protected as we are. But to do that, that would be against our highest law. No one may see the Sentinel except its caretaker."
+0,106,42,O'NEILL,"Yeah, well they did anyway. They worked at night so no one would know. Somehow they got in, they took it apart, put it back together again but something's wrong. They're there right now, trying to fix it but we might be running out of time."
+0,106,42,MARUL,"What you say cannot be so. This flame burns to tell us the Sentinel is watching over us and in turn, is being watched over. As long as this flame burns, we can rest assured that we are safe from harm."
+0,106,42,O'NEILL,There's a battalion of jaffa in your city right now just waiting to harm you.
+0,106,42,MARUL,There is an inpenetrable barrier to the chamber.
+0,106,42,O'NEILL,They got past it.
+0,106,42,MARUL,Colonel Greaves gave me his word.
+0,106,42,O'NEILL,He lied.
+0,106,42,MARUL,Yet you speak the truth?
+0,106,42,GROGAN,He does Marul.
+0,106,44,CARTER,"Teal'c, come in."
+0,106,44,TEAL'C,A jaffa patrol.
+0,106,44,CARTER,"I count ten, maybe more. With luck, they'll pass right by us."
+0,106,44,TEAL'C,It is more likely they followed our tracks to this location.
+0,106,46,GREAVES,This is impossible.
+0,106,46,KERSHAW,Look we haven't been at it that long.
+0,106,46,DANIEL,Let me try.
+0,106,46,GREAVES,Do you have any idea how complicated this code is?
+0,106,46,DANIEL,"Yes I think so, just let me try."
+0,106,47,GREAVES,It's hit the fan already.
+0,106,48,GREAVES,"Give me your Berretta. You think you can help in here, well I can help out there."
+0,106,50,GREAVES,We have to take all of them out so they can't report back.
+0,106,51,CARTER,Jaffa patrol must have tracked us here. We can hold them off for now but get that force field down!
+0,106,52,KERSHAW,Do you know what you're listening for?
+0,106,52,DANIEL,The mathematical progression harmonic in each given pattern altered to it's spectral equivalent.
+0,106,54,MARUL,My people have depended on the Sentinel for 3 hundred years. It was created to be there always. So that we may feel free to pursue matters of the mind and spirit without fear of what is happening now. If what you say is true...
+0,106,54,O'NEILL,I didn't come all this way to lie to you.
+0,106,54,MARUL,How many will die?
+0,106,54,O'NEILL,I don't know. And I can't undo what's already been done. But we can still save hundreds of your people maybe all of them.
+0,106,54,MARUL,How?
+0,106,54,O'NEILL,We're prepared to evacuate as many people as possible and military support to get them to the Gate.
+0,106,54,MARUL,Leave our world?
+0,106,54,O'NEILL,I'm afraid so. As we speak a Goa'uld mothership could be on it's way here.
+0,106,54,MARUL,What will I tell them? The very people who doomed our world now ask us to trust our lives to them?
+0,106,55,SVAROG,For I am Svarog. From this day forth you will serve me!
+0,106,56,GREAVES,That's all of them I can see.
+0,106,56,CARTER,What the hell are you doing out here?
+0,106,56,GREAVES,Helping you out.
+0,106,56,CARTER,A mothership just opened up on the city.
+0,106,56,GREAVES,I saw.
+0,106,56,CARTER,"You need to get that force field down, that's the reason you're here."
+0,106,56,GREAVES,"Jackson wanted to try, I gave him a try. You were getting shot at so I backed you up. Or is it you don't like the idea of me with a gun? It's empty."
+0,106,57,CARTER,Get back in there.
+0,106,58,CARTER,"Teal'c, I wanna see what's taking so long. Keep an eye out."
+0,106,59,MARUL,That voice.
+0,106,59,O'NEILL,All part of the show.
+0,106,59,MARUL,The sky rained fire.
+0,106,59,O'NEILL,It's from a ship in orbit. One with really big speakers.
+0,106,60,WOMAN,Marul? Marul?
+0,106,60,MARUL,Has the messenger returned with any news?
+0,106,60,GROGAN,"There are jaffa patrols all over the place. If Marul's sent someone, I doubt they made it very far."
+0,106,60,MARUL,"Go home, Thee-eter."
+0,106,61,O'NEILL,Do you have any other way of defending yourself?
+0,106,62,O'NEILL,"Carter, come in."
+0,106,62,CARTER,Yes sir.
+0,106,62,O'NEILL,The mothership's here. Some guy named Svarog.
+0,106,62,CARTER,He's one of the System Lords sir. You should get out of there.
+0,106,62,O'NEILL,"Yeah, what's your progress?"
+0,106,62,CARTER,"Still working on the force field, sir."
+0,106,62,O'NEILL,"Major, people are starting to die here."
+0,106,62,CARTER,"Yes, sir. We're doing our best."
+0,106,62,O'NEILL,"You tell Greaves, if he doesn't fix that thing, I'll shoot him anyway."
+0,106,63,O'NEILL,"Marul, you have to make an announcement. Tell your people to evacuate the city and head to the Stargate."
+0,106,63,GROGAN,Many of your people could survive.
+0,106,64,O'NEILL,"You've got two options. Sit here and watch your city burn to the ground or surrender. If you surrender, they'll enslave your people. And they'll take some of them as hosts."
+0,106,64,GROGAN,Goa'uld are parasites. They take over the bodies of people.
+0,106,64,MARUL,My people are innocent. They have done nothing to deserve this.
+0,106,64,O'NEILL,"I can't stay here much longer, you got to make a decision."
+0,106,64,MARUL,But your friends may yet be able to repair the damage they have done?
+0,106,64,O'NEILL,This Goa'uld is not gonna wait for that. It's time to go. With or without you.
+0,106,64,KERSHAW,Dammit.
+0,106,64,DANIEL,"No you almost had it, you just had the last two colours in the wrong order."
+0,106,65,CARTER,"Go. Colonel, this is Carter, we've made it past the force field and we're starting to work on the Sentinel."
+0,106,66,TEAL'C,Warriors of Svarog are approaching in greater numbers.
+0,106,66,CARTER,"Understood Teal'c. We'll make our stand inside the cave. Keep them at bay as long as you can then get in here. Daniel, can you get that force field working again?"
+0,106,66,DANIEL,I'm on it.
+0,106,68,DAVIS,Incoming transmission. It's SG3 Sir.
+0,106,68,HAMMOND,Put it on speakers.
+0,106,68,LAWRENCE,"This is SG3 niner, come in."
+0,106,68,HAMMOND,What's your situation Major?
+0,106,68,LAWRENCE,A Goa'uld mothership is firing on the Latonan city from orbit. Goa'uld forces are heading towards our position. Battalion strength supported by gliders.
+0,106,68,HAMMOND,Can you hold the Stargate?
+0,106,68,LAWRENCE,Not without reinforcements Sir.
+0,106,68,HAMMOND,Understood. What's the status of SG1?
+0,106,68,LAWRENCE,They're out of radio range Sir. We've been out of contact for several hours.
+0,106,68,HAMMOND,"Very well Major. Hold the Stargate as long as you can, then get out of there. SG1 will just have to get the job done."
+0,106,68,LAWRENCE,Yes sir. SG3 niner out.
+0,106,69,DAVIS,"I'm sure they'll find a way, Sir."
+0,106,69,HAMMOND,It's not SG1 I'm worried about.
+0,106,69,DAVIS,Colonel Greaves?
+0,106,69,HAMMOND,"While stealing a powerful beam weapon from the people of P3Y294, Colonel Greaves turned the device against his pursuers, killing all three. We returned the stolen weapon but the Government of P3Y294 would have nothing further to do with us. I'll be in my office, Sergeant."
+0,106,69,DAVIS,Yes sir.
+0,106,70,KERSHAW,"Colonel, you know as well as I do that we left this exactly the way we found it."
+0,106,70,GREAVES,"We can't have, we missed something."
+0,106,70,KERSHAW,No we didn't. It must be something else.
+0,106,70,GREAVES,Either shut up or go help Jackson get the force field back on.
+0,106,72,CARTER,How many?
+0,106,72,TEAL'C,Several gliders. A battalion of warriors.
+0,106,72,DANIEL,"Ah, you're gonna want to be on this side when we get this thing up again."
+0,106,72,CARTER,Just tell us when.
+0,106,72,MARUL,Go. Save yourselves. I will remain here as long as this flame burns.
+0,106,72,O'NEILL,Marul?
+0,106,72,MARUL,"As long as it burns, the caretaker lives."
+0,106,72,O'NEILL,What caretaker?
+0,106,72,MARUL,He is not to be spoken of. It is against our law.
+0,106,72,O'NEILL,"Look, do you want your people to survive or not?"
+0,106,73,CARTER,I'm almost out of ammo!
+0,106,73,DANIEL,Get on this side.
+0,106,74,CARTER,Daniel!
+0,106,74,DANIEL,"If everyone would stop shooting for a second, maybe we could hear what we're doing."
+0,106,74,KERSHAW,"I got it. I got it. Go, go, go."
+0,106,75,GREAVES,Kershaw!
+0,106,76,KERSHAW,I'm hurt.
+0,106,77,CARTER,It's gonna be all right. They can't get past the force field. Colonel?
+0,106,79,O'NEILL,"Carter. Carter, if you can hear me, we've got to find someone called the caretaker. It's like a hermit who lives near the Sentinel, apparently takes care of it."
+0,106,79,GROGAN,Colonel!
+0,106,80,JAFFA,One of my patrols has discovered your Sentinel. Even now warriors of the Tau'ri endeavor to repair it. I cannot allow them to succeed. Tell me how to disable to force field.
+0,106,80,MARUL,That would be against our highest law.
+0,106,80,JAFFA,You would sacrifice your own life to defy me?
+0,106,80,MARUL,I would.
+0,106,81,CARTER,"Colonel O'Neill, come in. Force field must be blocking the radio signal."
+0,106,81,KERSHAW,We put it back the way it was. I know we did.
+0,106,81,GREAVES,Obviously we didn't.
+0,106,81,CARTER,"If Colonel Greaves can get it back in working order, we'll be the first to know."
+0,106,82,DANIEL,"Wait a second, I think I recognise some of these symbols. Their written language is similar to the people of P2A463."
+0,106,82,GREAVES,So?
+0,106,82,DANIEL,So it's possible they're related.
+0,106,82,GREAVES,Don't tell me you can read that.
+0,106,82,DANIEL,"No, I'm saying I recognise some of these symbols. On P2A463, these symbols mean life force, life energy."
+0,106,82,GREAVES,Life energy?
+0,106,82,DANIEL,These ones mean two as one.
+0,106,82,GREAVES,And that means?
+0,106,82,DANIEL,I have no idea but it must mean something otherwise they wouldn't have written it here.
+0,106,82,KERSHAW,"The caretaker, Colonel."
+0,106,82,GREAVES,Shut up!
+0,106,82,KERSHAW,What if the device is only part of the equation?
+0,106,82,GREAVES,You're guessing.
+0,106,82,KERSHAW,We both know there's nothing wrong with the Sentinel. We put it back the way it was. What if the caretaker did more than just look after it?
+0,106,82,TEAL'C,Tell us of this caretaker.
+0,106,82,KERSHAW,The night we found this place a Latonan man took us by surprise.
+0,106,82,CARTER,What happened?
+0,106,82,GREAVES,"He attacked us, I defended myself."
+0,106,83,KERSHAW,"Colonel, look out!"
+0,106,84,GREAVES,"My orders were to retrieve technology that could save Earth from the Goa'uld at all costs, Major. You know what that means."
+0,106,84,CARTER,You killed him?
+0,106,84,GREAVES,I defended myself.
+0,106,84,KERSHAW,"We should have taken him into the city. They could have saved him, we knew they could have. The caretaker, he begged us to."
+0,106,85,CARETAKER,Please. Please I don't wish to die.
+0,106,85,KERSHAW,"Colonel, maybe we can take him back to the city?"
+0,106,85,CARETAKER,"Yes, the city."
+0,106,85,GREAVES,That's not an option.
+0,106,85,KERSHAW,"But sir, he'll die if we just leave him here."
+0,106,85,GREAVES,"We have our orders, Kershaw."
+0,106,85,CARETAKER,Then allow me to touch the Sentinel.
+0,106,85,KERSHAW,Why?
+0,106,85,GREAVES,Shut him up.
+0,106,85,CARETAKER,Allow me to touch the Sentinel just once with my hand.
+0,106,85,GREAVES,"You're not going anywhere, you're not touching anything."
+0,106,85,KERSHAW,This is wrong.
+0,106,85,GREAVES,"It's his own damn fault for sneaking up on me like that. You got to think of the big picture here. The Sentinel could save Earth one day. We're talking about one life. One life, compared to billions of people."
+0,106,85,KERSHAW,We don't even know how it works.
+0,106,85,GREAVES,We'll find out.
+0,106,85,KERSHAW,"Will you allow me to give him something for the pain then, sir?"
+0,106,85,GREAVES,"Fine, but that's all we can do."
+0,106,85,CARETAKER,"When I die, Marul will know."
+0,106,85,GREAVES,"What do you mean, he'll know?"
+0,106,85,KERSHAW,"He told us if he were to die, the Latonans would know anyway."
+0,106,85,TEAL'C,How so?
+0,106,85,KERSHAW,"A flame in Marul's chamber would die with him. He wore a band around his wrist, it was a dead man's switch. I rigged it so nobody would know he was gone."
+0,106,85,DANIEL,Two forces as one. Man and machine.
+0,106,85,GREAVES,"No, no. We missed something, we just need to find out what it is."
+0,106,86,CARTER,Colonel.
+0,106,86,O'NEILL,"You know, now would be a good time to turn that thing on."
+0,106,86,JAFFA,Lower the force field or your friends will be killed.
+0,106,86,CARTER,Sir?
+0,106,86,O'NEILL,Don't do it Carter. That's an order.
+0,106,86,JAFFA,Jaffa.
+0,106,87,O'NEILL,"Arrgghhh! Blow it up, don't let them have it."
+0,106,87,JAFFA,Jaffa.
+0,106,88,O'NEILL,Arrgghh! Do it!
+0,106,88,CARTER,Yes sir.
+0,106,88,GREAVES,I can deactivate the force field.
+0,106,89,GREAVES,I can do it from here.
+0,106,89,CARTER,"I'm gonna let Colonel Greaves take down the force field, sir."
+0,106,89,O'NEILL,"Carter, I gave you a direct order."
+0,106,89,CARTER,"Yes, sir, I understand that. I think it's the right thing to do."
+0,106,91,CARTER,He's gone.
+0,106,91,TEAL'C,As are the jaffa.
+0,106,92,GROGAN,What just happened?
+0,106,92,CARTER,"The Sentinel was never damaged Sir, it just required a human component."
+0,106,93,DANIEL,Man and machine working together to become a weapon.
+0,106,93,TEAL'C,The Sentinel is indeed a device of great power. We would be wise to ask the Latonans if we may study it further.
+0,106,93,O'NEILL,Oh I think I know what they'd say.

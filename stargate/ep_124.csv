@@ -1,0 +1,342 @@
+Season,Episode,Scene,Character,Line
+0,124,0,STARGATE SG1,Episode 616
+0,124,0,"""METAMORPHOSIS""",By James Tichenor
+0,124,1,RUSH,Im sure Ill see you again.
+0,124,1,JONAS,Hey. With any luck Ill get sick.
+0,124,2,CARTER,"With any luck, Ill get sick?"
+0,124,2,JONAS,Lieutenant Rush is a nurse. She works in the infirmary.
+0,124,2,CARTER,So you were flirting?
+0,124,3,JONAS,Im thinking of asking her out.
+0,124,3,CARTER,Then you should.
+0,124,3,JONAS,"In Kelowna, its common for that request to be passed on by a friend."
+0,124,3,CARTER,Oh it is not.
+0,124,3,JONAS,You could at least find out for me if shed be receptive.
+0,124,3,CARTER,"Jonas, you are such a chickenshit."
+0,124,4,DAVIS,Unscheduled off world activation.
+0,124,5,CARTER,Who is it?
+0,124,5,DAVIS,"The Russian team, Major. And theyre requesting a medical team."
+0,124,5,CARTER,Open the iris. Page General Hammond and Colonel ONeill to the Gateroom.
+0,124,5,DAVIS,Yes sir.
+0,124,6,JONAS,I thought aliens werent allowed back to the SGC without prior permission?
+0,124,6,CARTER,Theyre not.
+0,124,7,ONEILL,Carter? Whats going on?
+0,124,7,CARTER,"Colonel Evanov and his team brought this visitor back with them, Sir."
+0,124,7,ONEILL,"Sergei, who the hells that?"
+0,124,7,ALEBRAN,I am Alebran.
+0,124,7,EVANOV,Alebran has vital information regarding the goauld Nirrti.
+0,124,7,ONEILL,What about her?
+0,124,7,ALEBRAN,She is experimenting on my people. Transforming us.
+0,124,7,EVANOV,I knew you would want to know what Nirrti was doing to these people. Since it was you who allowed her to go free.
+0,124,8,HAMMOND,"Colonel, whats going on?"
+0,124,8,ONEILL,"Ol Sergei brought this guy back from 367 without authorisation, Sir."
+0,124,8,HAMMOND,Youd better have a damn good reason.
+0,124,8,EVANOV,"General, Sir. Alebran and his people are innocent victims of the Nirrti. I felt certain you would wish to act."
+0,124,8,ALEBRAN,Colonel Evanov has promised you would help us.
+0,124,8,ONEILL,Has he now?
+0,124,8,FRAISER,Are you in pain?
+0,124,8,ALEBRAN,"It is nothing that I cannot endure. Please, I must know if you will help my people."
+0,124,8,FRAISER,"Sir, with your permission, Id like to take him to isolation room 3."
+0,124,8,HAMMOND,Very well.
+0,124,8,FRAISER,Come with me.
+0,124,9,EVANOV,"We found him near the Stargate after we performed a recon of Nirrtis fortress. Or I should say, he found us. Alebran has asked for our help to save his people being held prisoner inside."
+0,124,9,ALEBRAN,"I thought that she was helping us. Then I saw one of my people die in such a horrible way I realised... When I questioned her methods, she released me."
+0,124,9,JONAS,She let you go.
+0,124,9,ALEBRAN,"I was well enough to return home she said. When I arrived back in the village, everyone was dead. She lied to us. Those of us she took away, we were the last of our people. She was using us."
+0,124,9,ONEILL,You look okay to me.
+0,124,9,ALBRAN,"Please, do not be fooled by my appearance. I spent just as much time within the machine as the others. I know that I have been changed inside; I am not like I was before."
+0,124,9,CARTER,What kind of machine?
+0,124,9,ALEBRAN,Its one that sees inside of us. It allows her to manipulate that which we are made of.
+0,124,9,FRAISER,If hes talking about some sort of machine that can directly alter human DNA in real time...
+0,124,9,TEALC,You believe Nirrti is attempting to create a hoktaur.
+0,124,9,EVANOV,I am not familiar with that term.
+0,124,9,JONAS,It means advanced human.
+0,124,9,TEALC,Nirrti is most interested in creating the perfect human host in order to increase her power.
+0,124,9,ONEILL,"So, shes at it again."
+0,124,9,CARTER,"No, Sir. This is worse."
+0,124,9,FRAISER,"Sams right. Up till now, Nirrtis been using eugenics. Like with Cassandras people, selectively breeding only those that demonstrated specific genetic attributes."
+0,124,9,CARTER,"With a machine that can alter DNA and a population with which to experiment, Nirrti could create a new host or even alter the DNA of her current one."
+0,124,9,FRAISER,A Goauld with the powers of a hoktaur.
+0,124,9,JONAS,Obviously we cant let that happen.
+0,124,9,EVANOV,"As you know, Nirrti does not have the power and resources of the other Goauld. She has only a small number of jaffa in her service. I believe her capture or if necessary her assassination is quite possible."
+0,124,9,ONEILL,Sir?
+0,124,9,HAMMOND,Agreed.
+0,124,9,ONEILL,Can you get us in that fortress?
+0,124,9,ALEBRAN,No. I cannot go back.
+0,124,9,HAMMOND,Were offering to help your people Alebran.
+0,124,9,ALEBRAN,"No, there is no time. I feel it, somethings happening."
+0,124,9,EVANOV,Alebran believes Nirrti has the power to kill him even here.
+0,124,9,JONAS,Well what if she does?
+0,124,9,CARTER,Cassandra.
+0,124,9,FRAISER,"General, we need to find out if Alebran has a device similar to the one Nirrti placed in Cassandra."
+0,124,9,ONEILL,You mean like a bomb?
+0,124,9,HAMMOND,Go.
+0,124,9,FRAISER,Lets get him into x-ray. Lets move.
+0,124,9,ALEBRAN,"No, its too late."
+0,124,9,FRAISER,Breathe deeply. Lets go. Take it easy.
+0,124,10,EVANOV,What is happening?
+0,124,10,CARTER,"Several years ago, Nirrti placed a naquadah device inside a young girl in order to destroy the SGC."
+0,124,10,EVANOV,My team can take him back through the Stargate.
+0,124,10,CARTER,No. These devices are designed to detonate in close proximity to the Stargate.
+0,124,10,ALBRAN,You have to kill me.
+0,124,10,FRAISER,Just take it easy.
+0,124,10,ALEBRAN,Kill me. Kill me now!
+0,124,10,FRAISER,Give him a sedative. 2ccs valium.
+0,124,10,ALEBRAN,Please someone tell me what is happening?
+0,124,10,FRAISER,"Alebran, we need to take a chest x-ray."
+0,124,10,ALEBRAN,No!
+0,124,10,FRAISER,Get him down.
+0,124,10,ALEBRAN,No! Please kill me! Arrggghh!
+0,124,11,FRAISER,Everybody get back!
+0,124,12,EVANOV,
+0,124,12,JONAS,What happened?
+0,124,13,HAMMOND,This is Hammond. I want a hazmat team to Level 22 elevators immediately.
+0,124,13,FRAISER,Its like every cell in his body just broke down.
+0,124,13,CARTER,Nirrti must have written some kind of time delay right into his DNA.
+0,124,13,FRAISER,"Theres nothing we could have done, Sir."
+0,124,14,HAMMOND,"Colonel, how soon can your team be ready?"
+0,124,14,ONEILL,"Right away, Sir. Id like to take SG3 with me as back up."
+0,124,14,HAMMOND,Very well.
+0,124,14,EVANOV,"Allow my team to join SG1, General."
+0,124,14,ONEILL,"I dont think so, Sergei."
+0,124,14,HAMMOND,Not so fast Colonel.
+0,124,14,ONEILL,Sir?
+0,124,14,HAMMOND,Lieutenant Colonel Evanovs team has gathered valuable intelligence that could be useful to you.
+0,124,14,EVANOV,My team has scouted the entire area. I can get you right inside Nirrtis fortress.
+0,124,14,ONEILL,Fine. Get geared up.
+0,124,15,EVANOV,Thank you.
+0,124,16,ONEILL,General.
+0,124,16,HAMMOND,Like it or not a Russian team is operating out of the SGC. Ive been asked to integrate them more fully into our own operations.
+0,124,16,ONEILL,Does it have to be with my team?
+0,124,16,HAMMOND,Lieutenant Colonel Evanov is a fine officer. Im sure youll agree. Youll be in command.
+0,124,16,ONEILL,Yes sir. Ill remind him of that.
+0,124,17,EVANOV,So this is the path leading to the fortress. Guarded by jaffa.
+0,124,17,ONEILL,Not many.
+0,124,17,EVANOV,Only ten.
+0,124,17,ONEILL,"All right. Evanov, youre with us."
+0,124,17,EVANOV,
+0,124,19,CARTER,Theyre well positioned.
+0,124,19,ONEILL,"Were gonna need a diversion. Carter, Jonas, thats you."
+0,124,21,JAFFA,Kree Jaffa!
+0,124,23,EVANOV,Colonel!
+0,124,23,ONEILL,I got him.
+0,124,24,ONEILL,"Evanov, stay out here for now. Watch our six."
+0,124,24,EVANOV,Yes sir.
+0,124,25,CARTER,Colonel.
+0,124,25,WODEN,"Please, dont hurt us."
+0,124,25,JONAS,Were not here to hurt anyone. Weve come here to rescue you. Take you from this place.
+0,124,25,WODEN,"No, no, we cannot leave."
+0,124,25,ONEILL,"One step at a time, Jonas. Wheres Nirrti?"
+0,124,25,WODEN,She is not here.
+0,124,25,CARTER,Are you expecting her back?
+0,124,25,WODEN,Of course. For our treatment.
+0,124,25,JONAS,My name is Jonas.
+0,124,25,WODEN,I am Woden.
+0,124,26,JONAS,"Weve come from a place called Earth. To help, all of you."
+0,124,26,WODEN,That is not necessary. Nirrti is helping us.
+0,124,26,ONEILL,Excuse me?
+0,124,26,WODEN,She cares for us. Nirrti is our God.
+0,124,26,TEALC,Nirrti is of a race called the Goauld.
+0,124,26,CARTER,Theyre parasitical beings that use our kind as hosts.
+0,124,26,WODEN,We are very ill. Nirrti is curing us of our sickness.
+0,124,26,TEALC,That is most unlikely.
+0,124,26,WODEN,"When the God Nirrti came, a great plague had befallen our people. We were dying. With the machine, Nirrti has kept us alive."
+0,124,26,ONEILL,"Check it out. Dont take this wrong friend, if this is cured...."
+0,124,26,WODEN,My brother Alebran once looked as I do now. In time she will make him whole again.
+0,124,26,ONEILL,Alebran you say?
+0,124,26,TEALC,Your brother is dead.
+0,124,26,WODEN,Nirrti allowed him to return to our village.
+0,124,26,JONAS,Theres no one left alive at your village. Alebran told us himself.
+0,124,26,WODEN,Whh....
+0,124,26,ONEILL,"Might have been a different Alebran. Its a popular name. The point is, we need to know when and where Nirrtis coming back"
+0,124,26,EGAR,Very soon. And when she comes she will punish you.
+0,124,26,JONAS,Your people were never sick. Nirrtis been lying to you.
+0,124,26,WODEN,"No. No, the plague ravaged our people long before she came. Our village was almost wiped out."
+0,124,26,TEALC,It is possible she discovered them in this condition and took advantage of their situation.
+0,124,26,EGAR,She brought me to this place. She gave me back my life.
+0,124,26,CARTER,You said Nirrti would be returning for your treatments? What would happen if you didnt get them?
+0,124,26,WODEN,We would die.
+0,124,26,EGAR,We must receive treatment by tomorrow.
+0,124,26,CARTER,Their mutations might be unstable.
+0,124,26,JONAS,So what happened to Alebran will most likely happen to them too if they dont go back in that machine.
+0,124,26,CARTER,"Sir, this is an incredibly advanced piece of technology. My guess is that it was built by the Ancients."
+0,124,26,ONEILL,Can you figure it out?
+0,124,26,CARTER,"Not by tomorrow. Maybe with a few days and a lot of help. Were gonna need Nirrti, Sir."
+0,124,26,ONEILL,"Yeah. Figure out what you can. Im gonna go brief Evanov. Jonas, Tealc, take these fine folks somewhere where they can be comfortable for a while."
+0,124,26,EGAR,He intends to kill her.
+0,124,26,ONEILL,What?
+0,124,26,EGAR,You are planning to kill Nirrti.
+0,124,26,WODEN,"Are you certain, Egar?"
+0,124,26,EGAR,"Yes, even now..."
+0,124,26,ONEILL,No. First I intend to ask her in the nicest possible way to undo what shes done to you folks. Youre just gonna have to trust me. We came here to help you.
+0,124,26,WODEN,Only because you believe you are responsible for what has happened to us.
+0,124,26,ONEILL,Do what you can.
+0,124,27,EVANOV,Colonel.
+0,124,27,ONEILL,Nirrtis not home.
+0,124,27,EVANOV,She must have left while we were on Earth.
+0,124,27,ONEILL,Well apparently shes coming back. I want to set up an ambush.
+0,124,27,EVANOV,I will inform my men.
+0,124,27,ONEILL,Your team will be our back up. And we have to take her alive. Right now shes the only one who knows how to run that machine in there.
+0,124,27,EVANOV,Very well.
+0,124,27,ONEILL,"By the way, did you talk to any of the people in there other than Alebran?"
+0,124,27,EVANOV,No. Why?
+0,124,27,ONEILL,Probably nothing. Ill relieve you in two hours.
+0,124,28,JONAS,This is where you sleep?
+0,124,28,WODEN,Yes.
+0,124,29,JONAS,How did you..?
+0,124,29,EGAR,We cannot allow you to harm Nirrti.
+0,124,29,TEALC,We have no quarrel with your people. But I must insist you enter this cage.
+0,124,30,WODEN,And I must insist the same of you.
+0,124,31,JONAS,"Woden, youre making a mistake."
+0,124,31,WODEN,"No, it is you who has made the mistake, Jonas. She is coming."
+0,124,32,CARTER,"Jonas, Im already stymied here; I could really use your help. Jonas? Colonel, Jonas isnt responding on his radio."
+0,124,32,ONEILL,"Understood. Jonas, Tealc? Evanov, this is SG1 niner. Come in. Carter, stay put, Im on my way."
+0,124,32,CARTER,Yes sir.
+0,124,34,NIRRTI,Im sure youre aware that a second shot from this weapon will kill.
+0,124,34,ONEILL,This weapon kills on the first shot.
+0,124,34,NIRRTI,Then why havent you already fired?
+0,124,34,ONEILL,Because I need you alive.
+0,124,34,NIRRTI,You?
+0,124,34,ONEILL,"Yeah I know, its kinda hard to believe. But I need you to help these people."
+0,124,34,NIRRTI,I am helping them.
+0,124,34,ONEILL,"Yeah, I can see that."
+0,124,34,NIRRTI,"Appearances can be deceiving, Colonel ONeill."
+0,124,35,NIRRTI,"Now, as I said."
+0,124,35,ONEILL,Yeah.
+0,124,37,ONEILL,Carter?
+0,124,37,CARTER,Sir.
+0,124,37,ONEILL,"I really, really dont like that woman."
+0,124,37,CARTER,Yes sir.
+0,124,37,TEALC,ONeill.
+0,124,38,ONEILL,This is an unpleasant surprise.
+0,124,38,TEALC,Indeed.
+0,124,39,JONAS,Wodens telekinetic. Took our weapons right out of our hands just by thinking it.
+0,124,39,TEALC,Nirrti is clearly progressing in her attempt to create a hoktaur.
+0,124,39,JONAS,Maybe were too late?
+0,124,39,CARTER,"No, these genetic manipulations are unstable. Shes not there yet."
+0,124,39,JONAS,Egars telepathic. He did know Colonel ONeill intended on killing Nirrti.
+0,124,39,ONEILL,That was not my intention.
+0,124,39,CARTER,"Who knows what abilities these others possess? I mean, enhanced senses, superhuman strength."
+0,124,40,ONEILL,"Hey folks, how you doing? Jack ONeill, Earth. Listen; originally we came here to rescue you. But as you can see weve run into a bit of a snag. So if any of you can bend steel with your bare hands or happen to be more powerful than a locomotive, just raise your hand. Identify yourselves. Let us know where you are."
+0,124,41,JONAS,Must not know what a locomotive is.
+0,124,42,ONEILL,"Woodman, buddy. Listen, I think were dealing with a bit of a misunderstanding here."
+0,124,42,CARTER,Do you really think Nirrti will keep you alive with these powers after shes finished her experiments? Shes using you.
+0,124,43,ONEILL,Whatd she do to him?
+0,124,43,WODEN,You are next.
+0,124,43,ONEILL,"Ah, I think Im next."
+0,124,43,WODEN,Nirrti has asked for this one.
+0,124,43,ONEILL,And Im asking for you to take me instead...
+0,124,43,WODEN,No!
+0,124,44,ONEILL,"All right look. If you really can see in my mind, you know we came here to help you."
+0,124,44,EGAR,I did sense that when you first arrived. But when I looked deeper into our mind I realised you would sacrifice us all if necessary to destroy Nirrti.
+0,124,44,ONEILL,Thats not true.
+0,124,44,EGAR,You cannot lie to me. Come!
+0,124,44,CARTER,At least Ill find out how the machine works.
+0,124,45,NIRRTI,Major Carter. I am pleased to have such an excellent subject. I might even consider you for my new host.
+0,124,45,CARTER,Over my dead body.
+0,124,45,NIRRTI,"True, that is far more likely. Now, step inside."
+0,124,46,NIRRTI,"Now, lets see what youre made of."
+0,124,48,EVANOV,Colonel. Im sorry. I should never have allowed myself to be captured.
+0,124,48,ONEILL,Did you get a message off to your team?
+0,124,48,EVANOV,I tried. But my radio..
+0,124,48,ONEILL,Yanked right out of your hand?
+0,124,48,EVANOV,Yes. And at the same moment I was struck by a zatniktel that appeared from nowhere. My team would follow their standing orders to return to base if we were out of contact for this long.
+0,124,48,TEALC,Perhaps General Hammond will send reinforcements?
+0,124,48,ONEILL,Hopefully it wont come to that. What they do to you up there?
+0,124,48,EVANOV,I dont know for how long I was in the machine for what she did but something is different.
+0,124,48,ONEILL,Well get out of this.
+0,124,48,EVANOV,Where is Major Carter?
+0,124,49,NIRRTI,Enough. She has served her purpose. Bring me the one called Jonas.
+0,124,51,ONEILL,Carter. Come on.
+0,124,52,ONEILL,"Hey fellas! Want to do me a favour. Go on back, let her know that Im next, you should pick me."
+0,124,52,WODEN,Her will is my command.
+0,124,52,ONEILL,"Yeah, well, theres your mistake right there."
+0,124,53,EGAR,Jonas.
+0,124,54,JONAS,"You didnt see that coming, did you?"
+0,124,55,WODEN,Do not attempt that again.
+0,124,56,ONEILL,Carter?
+0,124,56,CARTER,Sir.
+0,124,56,ONEILL,You made it through. Youre gonna be all right.
+0,124,56,CARTER,"No sir, I dont think I am."
+0,124,57,NIRRTI,We have not met.
+0,124,57,JONAS,"No, but I have heard a lot about you."
+0,124,58,NIRRTI,You are not human.
+0,124,58,JONAS,Im human. Im just not from Earth. A Goauld like yourself took my ancestors from Earth thousands of years ago and enslaved them.
+0,124,58,NIRRTI,Sadly it was not I.
+0,124,59,NIRRTI,Those few thousand years on another world have changed you more than you know.
+0,124,60,CARTER,You in pain?
+0,124,60,EVANOV,Something is happening. I can feel it. Is there water?
+0,124,60,ONEILL,Well ask.
+0,124,60,CARTER,Try to rest.
+0,124,61,TEALC,I have been attempting to communicate with the other prisoners. But they also believe Nirrti is a God. They will not listen.
+0,124,61,ONEILL,Hes in pretty bad shape.
+0,124,61,TEALC,He appears to be suffering the same symptoms as Alebran.
+0,124,61,ONEILL,We got to get to that guy... whats his name?
+0,124,61,TEALC,Woden.
+0,124,61,ONEILL,No the other one.
+0,124,61,CARTER,Egar.
+0,124,61,ONEILL,"Yeah. I mean if he can read my mind, why cant he read Nirrtis?"
+0,124,61,CARTER,He cant read minds all the time or he would have known Jonas was gonna jump him.
+0,124,61,TEALC,Perhaps he is afraid to look into the mind of one he perceives as a God.
+0,124,62,ONEILL,What?
+0,124,62,CARTER,"Nothing, Im fine."
+0,124,62,ONEILL,Get some rest. Thats an order.
+0,124,65,JONAS,Why did you bring me here?
+0,124,65,NIRRTI,Because you are different.
+0,124,65,JONAS,Hows that?
+0,124,65,NIRRTI,You are much closer than the others. With my help you could complete the transformation.
+0,124,65,JONAS,And end up looking like those others?
+0,124,65,NIRRTI,"No. I assure you. You must know, that you are capable of much more than the petty tasks that life among the Tauri can offer."
+0,124,65,JONAS,I like my life the way it is.
+0,124,65,NIRRTI,I could make you more powerful than you could imagine. Powers you have seen in Woden and the others. Only a fraction of what I could give you.
+0,124,65,JONAS,Well that is definitely the most interesting offer Ive had in a very long time. But you cant risk giving me those kind of powers unless youre certain I wont use them against you.
+0,124,65,NIRRTI,Once I share those powers we could rule the galaxy together.
+0,124,65,JONAS,What about everyone else?
+0,124,65,NIRRTI,They are not necessary.
+0,124,65,JONAS,"Well, I can only imagine what it would be like to have powers like that. What would I do? I guess the first thing I would do would be to free my friends and all those other people you have caged up down there. And then I would destroy you. Not necessarily in that order but you get the idea."
+0,124,66,NIRRTI,Take him away and bring ONeill. Once you have seen what has already happened to the others perhaps you will change your mind.
+0,124,68,JONAS,Evanov?
+0,124,68,ONEILL,"Dead. Just like Alebran. Yeah thats right, Nirrti killed your brother. Go ahead; take a look in my mind if you dont believe me. Better yet, look into Nirrtis head."
+0,124,68,EGAR,That is forbidden.
+0,124,68,ONEILL,No kidding.
+0,124,68,JONAS,Because shes hiding something
+0,124,68,EGAR,She is a God. She would know.
+0,124,68,TEALC,She would not know because she is not a God.
+0,124,69,WODEN,ONeill is next.
+0,124,69,ONEILL,"Look, she just killed a good man. Shes gonna do the same thing to the rest of us."
+0,124,69,JONAS,"Together youre stronger than she is, you just dont realise it."
+0,124,71,ONEILL,"You know, youre right. I did want to kill her. But if youd look into her mind for a split second, youd want to do the same thing for what shes done to your people."
+0,124,72,NIRRTI,You should not have come here ONeill.
+0,124,72,ONEILL,Can you undo what youve done to Carter?
+0,124,72,NIRRTI,If I choose to.
+0,124,72,ONEILL,"I let you go once. We made a deal, I honoured it."
+0,124,72,NIRRTI,I told you then I would not have done the same.
+0,124,72,ONEILL,"Fix what youve done to Carter, let the rest of my team go, thats all I ask. You can do whatever you want to me."
+0,124,72,NIRRTI,"Yes, Colonel. I can."
+0,124,73,EGAR,Stop! What he says is true.
+0,124,73,WODEN,My brother?
+0,124,73,EGAR,She murdered him. She has murdered hundreds of our people. And she intends to do the same to us.
+0,124,73,NIRRTI,"Jaffa, kree!"
+0,124,74,NIRRTI,I command you!
+0,124,75,NIRRTI,Woden..
+0,124,75,ONEILL,Stop.
+0,124,75,NIRRTI,I am your God.
+0,124,75,ONEILL,"We need her alive. Woden, shes the only one who can help your people."
+0,124,75,NIRRTI,I can make you more powerful than your wildest dreams.
+0,124,76,ONEILL,Why did you do that?
+0,124,76,WODEN,She deserves to die.
+0,124,76,ONEILL,She was Carters only chance.
+0,124,76,EGAR,"Not so ONeill. Before she died, I looked into Nirrtis mind and took what I needed. Hurry, while there is still time."
+0,124,77,CARTER,Sir.
+0,124,79,EGAR,It is done. You are as you were before.
+0,124,79,CARTER,Thank you
+0,124,80,ONEILL,"Yes, thank you."
+0,124,80,WODEN,We can all be as we were before now that you have shown us the truth.
+0,124,80,ONEILL,"Hail Dorothy. The Wicked Witch is dead. Its a movie, Margaret Hamilton."
+0,124,80,CARTER,"Point is, with Nirrti gone you can get back to your lives, rebuild your village."
+0,124,80,JONAS,"We can help you out with food and supplies, get you back on track."
+0,124,80,CARTER,"Once we get to know each other a little better, Id really like a chance to study this machine."
+0,124,80,WODEN,"As soon as we have made our people whole again, we intend to destroy it."
+0,124,80,CARTER,But this is an incredibly advanced piece of technology.
+0,124,80,ONEILL,"Carter, dont you think it would be for the best?"
+0,124,80,CARTER,"Yes, sir. I guess it would."
+0,124,80,ONEILL,To Oz. Part of that movie.

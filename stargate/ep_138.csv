@@ -1,0 +1,448 @@
+Season,Episode,Scene,Character,Line
+0,138,0,STARGATE SG1,Episode 708
+0,138,0,"""SPACE RACE""",By Damian Kindler
+0,138,1,CARTER,"Sorry, I haven't changed, sir. The message said it was urgent."
+0,138,2,WARRICK,"Hello, again, Major Carter."
+0,138,2,CARTER,Warrick...
+0,138,2,WARRICK,It's good to see you again.
+0,138,2,CARTER,You too. What...what brings you here?
+0,138,2,WARRICK,"When last we spoke, you strongly reiterated your desire to gain access to Serakkin technology."
+0,138,2,CARTER,"Yes, of course."
+0,138,2,WARRICK,"Unfortunately, diplomacy between our respective leadership has been slow to develop."
+0,138,2,CARTER,I'm sure they're just being cautious.
+0,138,2,WARRICK,"As I was telling General Hammond and Dr. Jackson, I am here to offer you full access to the ion propulsion engines on the Seberus."
+0,138,2,CARTER,"Well...that's great. Sir, this could..."
+0,138,2,HAMMOND,"I've read your report, Major. I won't debate the value of the technology. But there's more..."
+0,138,2,WARRICK,"In return, I would like your help...to win a race."
+0,138,4,WARRICK,"It is called the Loop of Kon Garat. Every year the largest corporation on my planet, known as Tech Con Group, awards an extremely lucrative contract to the winner of the loop."
+0,138,4,JACKSON,A contract?
+0,138,4,WARRICK,It is a time-tested method to find the most qualified pilot with the best ship for the job. The race is open to anyone. There are few rules. The winner's ship must arrive first and intact.
+0,138,4,JACKSON,Let me just get this straight. The government of your planet is allowing you to share advanced technology with us in exchange for us helping you to win a race?
+0,138,4,WARRICK,Not exactly. I have arranged for a small group of you to come to Hebridan on a diplomatic visit. There is no rule preventing you from helping me in the race...and what you learn while you're there...
+0,138,4,JACKSON,So...unofficially.
+0,138,4,CARTER,How can we help?
+0,138,4,HAMMOND,Major.
+0,138,4,CARTER,"Can't hurt to ask, can it, sir?"
+0,138,4,WARRICK,The power system you used to recharge the Seberus when I was stranded...
+0,138,4,CARTER,A naquadah generator...
+0,138,4,WARRICK,"As you know, the Seberus has been through quite a lot. However, my diagnostic analysis of its systems showed greatly improved efficiency when supplemented by the naquadah generator."
+0,138,4,CARTER,I'd like to participate.
+0,138,5,WARRICK,"Well, actually, I was not asking you to join me."
+0,138,5,CARTER,"Well, why not? I'll have to interface the generator."
+0,138,5,WARRICK,Could you not just show me?
+0,138,5,CARTER,"Well, naquadah generators are very valuable to us. We're not about to let one out of our sight. Besides, you never know what issues could arise on the fly."
+0,138,5,WARRICK,"Major, I feel compelled to warn you of the danger. The Loop is not for the faint-hearted."
+0,138,5,CARTER,"Well, we take risks to obtain advanced technology all the time. For me, there would be no better way to learn about your ship than to see it in action."
+0,138,5,WARRICK,A victory would mean a great deal to me. I am not above accepting your offer.
+0,138,6,CARTER,With your approval...sir.
+0,138,6,HAMMOND,"Major, I expect you to evaluate the risk of this mission on an ongoing basis and act accordingly."
+0,138,6,CARTER,"As always, sir."
+0,138,7,CARTER,Hey...
+0,138,7,JACKSON,"Hey, you ready?"
+0,138,7,CARTER,"Yeah, just about."
+0,138,7,JACKSON,Warrick has set us up some meetings with the highest-ranking members of the Hebridian government and business community.
+0,138,7,CARTER,Bet Colonel O'Neill's really looking forward to that.
+0,138,7,JACKSON,"Oh, yeah. You really think this is worth it?"
+0,138,7,CARTER,"Absolutely. Why, don't you?"
+0,138,7,JACKSON,"No - yeah, I just...you just seem unusually...gung-ho."
+0,138,7,CARTER,Gung-ho?
+0,138,7,JACKSON,"This is kinda more than about attaining new technology for you, isn't it?"
+0,138,7,CARTER,You mean helping Warrick? He did once risk his life for me.
+0,138,7,JACKSON,"Yeah, I heard that. I just think that there's something else."
+0,138,7,CARTER,"Look, I know that this could be dangerous. But this is our job, right? It's what we signed on to do. We take risks in the hopes of achieving new levels of technology. If...and I stress if, participating in this race happens to be a little bit...I don't know..."
+0,138,7,JACKSON,Fun?
+0,138,7,CARTER,What's a girl to do?
+0,138,7,JACKSON,Nothin'. That's...that's just what I thought.
+0,138,8,HADRAIG,"I'm Ardal Hadraig and welcome back to TCNN's exclusive coverage of the 59th Loop of Kon Garat. Now, with the loop set to begin tomorrow morning, we have a startling new development to report. Perennial also-ran, Warrick Finn... ...announced today that his co- pilot will be a human from the planet we've come to know as Earth. Major Samantha Carter's participation... ...will mark the first inclusion of an alien in Loop history. A band of explorers happened upon him when his ship, the Seberus, crashed on an uncharted planet while transporting convicts to the outlying prison colonies. Now, the question on everyone's mind is will these Earthling bring Warrick luck a second time around? Continuing coverage of the Loop of Kon Garat is brought to you by Tech Con Ultra Sport Beverage. When you've got an ultra big thirst to quench, only Tech Con Ultra Sport will do."
+0,138,9,WARRICK,May I introduce you all to Eamon? He is responsible for making the Seberus what it is today. And he is my younger brother.
+0,138,9,O'NEILL,"Ah, yes...I see the family resemblance. It's uncanny, boys. It's like... Colonel Jack O'Neill...this is..."
+0,138,9,EAMON,"You just had to do it, didn't you? There was no stopping you."
+0,138,9,WARRICK,Eamon...
+0,138,9,EAMON,You really think the Seberus is incapable of winning this race without their help?
+0,138,9,WARRICK,Eamon! They saved me from certain death...and are responsible for my getting back home to Hebridan. I suggest you show some respect.
+0,138,9,EAMON,My apologies. I am honored to meet my brother's saviors. And you must be Major Carter. The one without whom we could not win the Loop.
+0,138,9,O'NEILL,"You know, I feel all warm and fuzzy... How 'bout you?"
+0,138,9,WARRICK,"Major Carter...if you are to be my co-pilot, you will need to know how the ship works."
+0,138,10,CARTER,What is this?
+0,138,10,WARRICK,A complete operations manual for the Seberus. I had it translated for you.
+0,138,11,CARTER,Thank you.
+0,138,11,O'NEILL,That's not our language.
+0,138,11,CARTER,It's mine...sir.
+0,138,11,O'NEILL,Right. He pats Sam's shoulder as Daniel walks to take a look at something else.
+0,138,12,EAMON,"Warrick, the long-range scanning control unit didn't come in again today. When I called, they said our credit..."
+0,138,12,WARRICK,"I will go myself and pick one up...after I get back from escorting Colonel O'Neill, Dr. Jackson and Teal'c to the Hebridan capital building."
+0,138,12,O'NEILL,T...you comin'?
+0,138,12,TEAL'C,Major Carter has requested that I remain so that I may assist her.
+0,138,13,O'NEILL,She did?
+0,138,13,CARTER,I did?
+0,138,13,TEAL'C,Indeed.
+0,138,13,CARTER,"Right...yes, thank you. Sam smiles."
+0,138,13,TEAL'C,I do not wish to disappoint Major Carter.
+0,138,13,O'NEILL,Yes...I know the feeling.
+0,138,13,WARRICK,Shall we?
+0,138,13,O'NEILL,Stay in touch.
+0,138,14,TEAL'C,"I am in your debt, Major Carter."
+0,138,14,CARTER,Indeed. She grins again and turns her attention back to the manual.
+0,138,16,CARTER,"With all your science and engineering, I'm a little surprised you don't have a power source that rivals this."
+0,138,16,EAMON,"Oh, they exist. We just couldn't afford one."
+0,138,16,CARTER,Ah...
+0,138,16,EAMON,"Warrick is desperate, Major."
+0,138,16,CARTER,How do you mean?
+0,138,16,EAMON,"He was gone a long time. We all thought he was dead. His wife, Athea...remarried and had children of her own now. Since his return, work has been scarce. He thinks this race is his chance to get his life back, Major. And he will do anything to win it."
+0,138,16,CARTER,What about you?
+0,138,16,EAMON,"Me? Well, I work for Tech Con. I design garbage disposal units for the food service division. Need I say more?"
+0,138,16,CARTER,No.
+0,138,16,WARRICK,"Eamon, I'm back."
+0,138,16,EAMON,Did you get the...
+0,138,16,WARRICK,Not yet. They just transmitted the race data.
+0,138,18,ANNOUNCER,"Tech Con Group - Progress and people, working in total harmony. The screen changes from a black background with spinning logo to a picture of a male talking head."
+0,138,18,HAGAN,"I'm Miles Hagan, president of the Tech Con Group. I wish to welcome you as an official contestant to the Loop of Kon Garat. Congratulations on qualifying. As always, the Loop will run through a course that consists of four distinct stages: defense... ...navigation, maneuverability and speed."
+0,138,18,EAMON,We know the course. Skip to the skip to the competition.
+0,138,19,HAGAN,"Let's meet your fellow pilots, shall we?"
+0,138,20,EAMON,I don't believe it...Jarlath.
+0,138,20,TEAL'C,Jarlath?
+0,138,20,WARRICK,I know him from my days of transporting convicts. He was caught running illegal weapons to the outer mining colonies. I thought he was in prison.
+0,138,20,CARTER,Looks like he's been paroled.
+0,138,20,WARRICK,"He's not our biggest problem. La'el Montrose, independent cargo runner from the parallel colonies. Her ship is very fast. And, worse still..."
+0,138,20,EAMON,Hmph...Muirios.
+0,138,20,WARRICK,His skill as a pilot is legendary.
+0,138,20,CARTER,Can we beat him?
+0,138,20,EAMON,"You'll get clobbered in the navigation phase, without a long range scanner control unit."
+0,138,20,WARRICK,I will get one.
+0,138,21,CARTER,What's this?
+0,138,21,WARRICK,Expensive.
+0,138,22,TAUPEN,Hello Warrick. Who's your friend?
+0,138,22,CARTER,Hi. Major Samantha Carter.
+0,138,22,TAUPEN,Ah. One of the Earthlings. I heard about you.
+0,138,22,WARRICK,We are here to pick up the scanner control unit I ordered.
+0,138,22,TAUPEN,"Look, Warrick..."
+0,138,22,WARRICK,Taupen...
+0,138,22,TAUPEN,"I'm running a business here, not a charity. Your credit's been over the maximum for months."
+0,138,22,WARRICK,The best chance of my paying you back is for me to win the Loop.
+0,138,22,TAUPEN,"I'm sorry, Warrick. I can't give you a new one. But you're in luck...I just picked up this re-conditioned unit this morning. It should work fine."
+0,138,22,WARRICK,"I will take it. Thank you. I promise, I will settle up things after..."
+0,138,22,JARLATH,"After you lose. You don't think he's good for it, do you? He doesn't stand a chance of winning the Loop."
+0,138,22,WARRICK,"Jarlath...still avoiding personal hygiene, I see."
+0,138,22,JARLATH,"Who'd your friend, Warrick? She looks nice. Golon Jarlath, Captain of the Oran. Very much at your service..."
+0,138,22,WARRICK,"Ignore him, Major."
+0,138,23,JARLATH,"Stay out of my way, Warrick, or I'll blow your pathetic ship to pieces."
+0,138,24,CARTER,Warrick...
+0,138,24,WARRICK,You're right. He is not worth it.
+0,138,25,EAMON,That's it. We're done. She's ready.
+0,138,26,TEAL'C,Do you believe the Seberus is capable of winning this race?
+0,138,26,EAMON,"I'd like to think we'd have won without the naquadah reactor. With it, I'd pretty much guarantee it. Hungry?"
+0,138,26,TEAL'C,That depends...
+0,138,26,EAMON,I'm sure we can find something that will suit you.
+0,138,28,HADRAIG,"And with the Loop set to being only minutes from now, I'm joined by race expert and two-time champion, Coyle Boron. Coyle, what's going through the pilot's minds right now?"
+0,138,28,BORON,"Well, Ardal, by the time you're at the starting bouys, there's nothing else to do but run your pre-flight check and hope all your hardware pays off. It's, uh, it's a tense time."
+0,138,28,HADRAIG,"Well, there's no question the stakes are high. This year's winner receives a lucrative contract with Tech Con's deep space exploration project. While anything else means massive debt and the acrid taste of bitter defeat. It's an interesting group of pilots this year, Coyle. Who do you like?"
+0,138,28,BORON,"Well, I think you've gotta like this kid, Muirios. He's got the talent, the ship and the experience to take it all."
+0,138,28,HADRAIG,"Now, what about Warrick and the Human woman? Any potential for an upset there?"
+0,138,28,BORON,They don't stand a chance.
+0,138,29,HADRAIG,"Well, the gaming experts agree. You can wager on the outcome of the Loop of Kon Garat at any of Tech Con Group's friendly gaming kiosks, conveniently located throughout urban centers near you. Tech Con Gaming Kiosks - If you don't play, you definitely won't win."
+0,138,30,CARTER,I'm getting the feeling that even a nice long look at an ion drive isn't enough. We're actually going to need one of these compression coils if we're going to have any chance at reproducing this technology.
+0,138,30,WARRICK,"If we win, I'll buy you one."
+0,138,30,CARTER,If we win?
+0,138,30,FLIGHT CONTROL,Prepare for race start. All pilots check in now.
+0,138,30,WARRICK,Flight control...this is the Seberus. Preparing for race start.
+0,138,31,WARRICK,"What do you want, Jarlath?"
+0,138,31,JARLATH,Just to tell you to drop out now and save that worthless junk barge you call a ship from being destroyed. Jarlath chuckles.
+0,138,31,WARRICK,"Eat greeven, Jarlath."
+0,138,31,JARLATH,You piece of...
+0,138,32,CARTER,Greeven?
+0,138,32,WARRICK,Don't ask.
+0,138,32,FLIGHT CONTROL,This is Tech Con Flight Control...stand by for race start.
+0,138,32,WARRICK,Ready or not...here...we...go...
+0,138,33,EAMON,The first stage is a test of each ship's defense capabilities.
+0,138,33,TEAL'C,Against what?
+0,138,34,CARTER,Those things are firing at us.
+0,138,34,WARRICK,Yes.
+0,138,35,WARRICK,Bring aft shields to full. That is auxiliary power.
+0,138,35,CARTER,Right. She pressed that button again and the presses another.
+0,138,35,WARRICK,Shields are holding.
+0,138,35,SHIBO,This is Captain Shibo of the Tritan. Losing shield power. Key systems are failing.
+0,138,35,WARRICK,Tritan...this is Warrick on the Seberus. Syphon primary power from your regulator and boost your shield strength.
+0,138,35,SHIBO,I can't. I've lost my interchange unit.
+0,138,35,WARRICK,Tritan...hold on. We're on our way to assist.
+0,138,35,SHIBO,"Too late. My engines are fried. I'm out, Warrick. Thanks, anyway."
+0,138,35,CARTER,Is he going to be okay?
+0,138,35,WARRICK,The drones cease firing when a ship has become disabled. That's it. We're clear.
+0,138,35,CARTER,Anyone ever die in this race?
+0,138,35,WARRICK,I told you it was dangerous.
+0,138,35,CARTER,I know.
+0,138,35,WARRICK,Are there no events such as this on Earth? Where Humans risk their lives?
+0,138,35,CARTER,"Yeah, a few."
+0,138,35,WARRICK,"Believe me, Major Carter, no matter how much winning may mean to me, I would never intentionally endanger your life...this ship..."
+0,138,36,CARTER,What now? I thought we were clear?
+0,138,36,WARRICK,Stage two. We're entering the coronasphere of our sun. It causes intermittent disturbances with the communication and navigation equipment. Eamon has designed shielding specifically for this phase.
+0,138,36,HADRAIG,"And so, after stage one, Muirios has the lead, followed closely by La'el Montrose and Golon Jarlath."
+0,138,36,BORON,"The Oran made quick work of those attack drones, let me tell ya."
+0,138,36,HADRAIG,And we've got stage two coming up fast.
+0,138,36,BORON,"That would be the coronasphere, Ardal. Because it's made up of ionized gases, you're basically flying through a thick layer of translucent plasma."
+0,138,36,HADRAIG,Wow...sounds hot.
+0,138,36,BORON,"Well, you can say that again. At this stage of the race, it's all about the shields. Does your ship have what it takes to survive that kind of super intense heat?"
+0,138,36,HADRAIG,And if it doesn't?
+0,138,36,BORON,You'd be instantly vaporized.
+0,138,36,HADRAIG,Interesting...in a horrifying sense. If you have a loved one who's close to death... Don't delay. Contact Tech Con Group Funeral Services today and make your loved one's farewell memorable beyond words. Tech Con Group Funeral Services: Helping you make peace with death.
+0,138,37,WARRICK,Initiating coronaspheric shielding.
+0,138,37,CARTER,Communications systems are...inoperative.
+0,138,37,WARRICK,They will come back.
+0,138,38,CARTER,What's going on?
+0,138,38,WARRICK,I do not know. We are losing engine power.
+0,138,39,CARTER,"Teal'c, Eamon...we are sending a distress signal. Our key systems are inoperative."
+0,138,40,CARTER,Engines are failing...
+0,138,40,TEAL'C,How does one respond?
+0,138,41,EAMON,Here...
+0,138,41,TEAL'C,"Major Carter, come in."
+0,138,41,CARTER,We can no longer maintain engine... static is heard.
+0,138,42,EAMON,They've lost all primary power. They're in trouble.
+0,138,44,WARRICK,Auxiliary power will not engage. We are on emergency storage cells.
+0,138,45,CARTER,What are you doing?
+0,138,45,WARRICK,The blast shields will help to block the radiation. So much for not risking your life.
+0,138,47,CARTER,What happened?
+0,138,47,WARRICK,The power diverter overloaded. This shouldn't have happened.
+0,138,47,CARTER,Can you fix it?
+0,138,47,WARRICK,No.
+0,138,47,TEAL'C,"Major Carter, Captain Warrick...do you read me?"
+0,138,47,WARRICK,We're here. Can you hear us?
+0,138,47,TEAL'C,Are you all right?
+0,138,47,WARRICK,The power diverter overloaded.
+0,138,47,EAMON,Impossible. I ran a full diagnostic three hours before the race.
+0,138,47,WARRICK,Unless...
+0,138,47,EAMON,Unless what?
+0,138,47,WARRICK,"It's hard to tell with all the damage, but if someone cut the connection to the regulation system..."
+0,138,47,CARTER,W-w-wait...somebody did this on purpose?
+0,138,47,EAMON,They would need detailed knowledge of the ship's systems.
+0,138,47,WARRICK,"I think they knew exactly where to hit us. And how to cover their tracks. Eamon, what can we do? We're being pulled towards the sun."
+0,138,47,EAMON,I know. Bypass the diverter and manually regulate power to the engines with the accelerator.
+0,138,47,WARRICK,It's dangerous.
+0,138,47,CARTER,More dangerous than flying into a sun?
+0,138,47,WARRICK,"We have to reconnect the naquadah generator over here, in order to bypass the diverter and supply power directly to the engines."
+0,138,47,CARTER,How much time do we have?
+0,138,47,WARRICK,Not much.
+0,138,48,HADRAIG,"And so, out of the 10 ships that started the Loop, only six remain, and that number may soon dwindle to five. For those of you just joining us, all I can say is...where have you been hiding? Now, Warrick Finn and his alien co-pilot have slipped back into last place. Looks like they ran into a little trouble during stage two."
+0,138,48,BORON,"That's right, Ardal. Latest telemetry updates place them dangerously close to the sun."
+0,138,48,HADRAIG,"Now, Warrick must be disappointed to be facing certain defeat and death, so early in the race."
+0,138,48,BORON,"You've got that right, Ardal. This is the moment where every pilot has to dig deep in that reservoir of desire and fortitude if they want to win. It's all about how badly you want it."
+0,138,48,HADRAIG,"Well, it sounds like maybe they could use a couple of bottles of Radon Shield 55 - new from Tech Con Cosmetics. Radon Shield 55 protects you and your whole family, from the intense radiation of the sun. Day in, day out, Radon Shield 55 keeps your fun factor up and your lesion count down. Available at quality Tech Con Family Outlets everywhere."
+0,138,49,EAMON,Someone must have snuck in here. Got into the ship.
+0,138,49,TEAL'C,Who would know the ship well enough?
+0,138,49,EAMON,"No one. The Seberus is a common model, but I've customized it significantly. Unless someone accessed the schematics on my computer at Tech Con."
+0,138,50,WARRICK,I'm done.
+0,138,51,CARTER,Me too.
+0,138,52,WARRICK,Let's hope this works.
+0,138,52,CARTER,If it doesn't?
+0,138,52,WARRICK,We fall into the sun and burn up...or worse.
+0,138,52,CARTER,Worse?
+0,138,52,WARRICK,"We could explode, right now."
+0,138,52,CARTER,Oh.
+0,138,52,WARRICK,Here goes...
+0,138,53,WARRICK,Let's get out of here.
+0,138,53,CARTER,"Teal'c, we got the power back online."
+0,138,53,TEAL'C,"That is good to hear, Major Carter."
+0,138,53,EAMON,I can't believe it.
+0,138,53,TEAL'C,What is it?
+0,138,53,EAMON,Someone did access my computer.
+0,138,53,TEAL'C,Who?
+0,138,53,EAMON,"His name is Del Tynan. He's my supervisor. I can't tell exactly what he got. If we're going to prove anything, we need to go to Tech Con. They won't let you in without clearance. You'll need a hat."
+0,138,54,CARTER,Three more ships have pulled out of the race and we've fallen pretty far behind the others.
+0,138,54,WARRICK,"If you wish, we can drop out now and avoid any further risk."
+0,138,55,O'NEILL,Carter? You there?
+0,138,55,CARTER,"Colonel, sir."
+0,138,55,O'NEILL,I got it to work. How's it going up there?
+0,138,55,CARTER,"We ran into a little trouble, but we're fine now."
+0,138,55,O'NEILL,Sure?
+0,138,55,CARTER,Yeah. How's it going down there?
+0,138,55,JACKSON,"Uh...good. We, uhm, we're going to help them bring a Stargate here and in exchange, we get an ion drive to study."
+0,138,55,CARTER,Really?
+0,138,55,O'NEILL,"Yes...so, no need to take any chances up there."
+0,138,55,CARTER,"I made a deal, sir. I'm gonna stick with it."
+0,138,55,O'NEILL,"Oh, having fun are we, Carter?"
+0,138,56,CARTER,Uhm...gotta go. We're pretty far behind at this point.
+0,138,56,O'NEILL,All right. Be careful.
+0,138,56,CARTER,We will. Thank you.
+0,138,56,O'NEILL,You're welcome.
+0,138,57,CARTER,"Okay...if we use the gravity of the sun to slingshot us around back onto the course, we should be able to pick up enough speed to get back into the race."
+0,138,57,WARRICK,Brilliant!
+0,138,58,RECEPTIONIST,Hi Eamon.
+0,138,58,EAMON,Hello. This is my cousin...
+0,138,58,TEAL'C,Murray.
+0,138,58,EAMON,Mm...twice removed. I just forgot a data unit in my office. Won't be long.
+0,138,59,RECEPTIONIST,You have to scan in...company policy.
+0,138,60,RECEPTIONIST,Sorry your brother isn't doing very well.
+0,138,60,EAMON,"Oh, me too."
+0,138,60,RECEPTIONIST,"Nice to meet you, Murray."
+0,138,61,EAMON,This is Tynan's office.
+0,138,61,TEAL'C,Does he not keep his office secure?
+0,138,61,EAMON,The company philosophy encourages mutual trust.
+0,138,62,EAMON,"Besides, no one is going to steal his plants. Everything of value is in here and the system is protected by a secret passcode. Fortunately, I put a program on my system, that records an intruder's passcode if someone attempts to access my personal files."
+0,138,62,TEAL'C,Then it is good you do not subscribe to the company philosophy.
+0,138,62,EAMON,Mmm.
+0,138,63,DS VOICE,This is an automated distress signal. The following pilot...
+0,138,63,JARLATH,Jarlath.
+0,138,63,DS VOICE,...is in need of assistance. Current status is...
+0,138,63,JARLATH,"Die, you rotting scrap of jetsam!"
+0,138,64,EAMON,This is worse than I thought. He has schematics for every ship in the race.
+0,138,64,TEAL'C,For the purpose of sabotaging the competition.
+0,138,65,EAMON,But not this one. This ship's been outfitted with boosters from Tech Con's prototype division. There's no way a private-sector pilot could get his hands on these.
+0,138,65,TEAL'C,To whom does that ship belong?
+0,138,65,EAMON,Muirios. Tynan has set him up to win. We have to warn Warrick.
+0,138,66,TYNAN,I don't think so.
+0,138,67,WARRICK,"Oran...this is the Seberus responding to your distress call. Jarlath, do you read?"
+0,138,67,JARLATH,Warrick?
+0,138,67,WARRICK,We are closing on your position. What is tour status?
+0,138,67,JARLATH,My status is mind your own business.
+0,138,67,WARRICK,You sent out a distress call.
+0,138,67,JARLATH,No I didn't. My computer did. Everything is fine.
+0,138,67,CARTER,Transmission indicates your life support is failing.
+0,138,67,JARLATH,My oxygen supply vented!
+0,138,67,WARRICK,That is what you get for not having any shields. The drones must have caused a leak.
+0,138,67,JARLATH,"Shut up, Warrick. Go back to losing the race."
+0,138,67,CARTER,You're gonna die if you don't let us help.
+0,138,67,JARLATH,"I don't need help, least of all from you."
+0,138,67,WARRICK,What about emergency reserves?
+0,138,67,JARLATH,I don't have any. I needed the room for additional weapons.
+0,138,67,WARRICK,Imbecile.
+0,138,67,JARLATH,I would rather die kissing space debris than board that barge you call a ship!
+0,138,68,WARRICK,He does not want to be rescued.
+0,138,68,CARTER,"Jarlath, hold on. We'll be there soon."
+0,138,69,JARLATH,I am not coming up there.
+0,138,69,WARRICK,We tried.
+0,138,70,CARTER,Come on!
+0,138,71,WARRICK,Can you move any slower?
+0,138,71,JARLATH,"You don't think you can still win, do you?"
+0,138,71,WARRICK,We are only this far behind because we were sabotaged.
+0,138,72,JARLATH,"A likely excuse. So was I, by the way."
+0,138,72,WARRICK,How so?
+0,138,72,JARLATH,The drones didn't cause the leak in my life support. I was never hit.
+0,138,72,CARTER,Somebody fixed the whole race?
+0,138,72,WARRICK,"It is not over, yet."
+0,138,72,JARLATH,Ha...what planet do you live on?
+0,138,72,WARRICK,Told you we should have left him to die.
+0,138,73,O'NEILL,Teal'c? Do you read? Teal'c? You still at Tech Con?
+0,138,74,TYNAN,"This is really unfortunate. You were a good employee, Eamon."
+0,138,74,EAMON,How could you do this?
+0,138,74,TYNAN,"How could I? How could I not? There's something your new friend, here, doesn't want you to know. The Serrakin are not to be trusted."
+0,138,74,TEAL'C,The Serrakin freed your ancestors from the Goa'uld.
+0,138,74,TYNAN,"For what purpose? Hmm? Sharing technology? Living in harmony? All lies. The Serrakin are seizing control or our world, piece by piece. Taking power and opportunity away from pure-blood Humans. Polluting our race by cross breeding. Weakening it by design. Don't you see? The Serrakin are no better than the Goa'uld."
+0,138,74,EAMON,"This is insane, Tynan. Our society was built by both races...for the good of all Hebridians."
+0,138,74,TYNAN,Is that why the Serrakin hold all the highest positions and Humans are treated like second class citizens?
+0,138,74,EAMON,That's not true...when Hagan finds out about this...
+0,138,74,TYNAN,"Hagan...is one of the primary architects of Human oppression on this planet. No, the winner of the Loop of Kon Garat will be a pure- blooded Human and that is merely the first step."
+0,138,74,EAMON,You're just mad because...you've been passed over for advancement three times.
+0,138,74,TYNAN,You think I'm the only one? There are enough of us to make a difference.
+0,138,74,EAMON,"Has it occurred to you that...maybe the reason you've been passed over...so may times is not because you're a Human, but...because you're a moron?"
+0,138,74,TYNAN,I am doing this to save my kind from the likes of you.
+0,138,75,EAMON,I guess not.
+0,138,76,HADRAIG,"Welcome back to TCNN's continuing exclusive coverage of the Loop of Kon Garat. Now, we have some startling developments to relate. Apparently, Warrick and the Earthling, Samantha Carter, have re-entered the race with a vengeance and are now pulling into a close third position. Coyle, what does this mean for Muirios?"
+0,138,76,BORON,"Well, he's had a commanding lead for the bulk of the competition, but he's gotta be wondering what Warrick's got on board that allowed him to make up that kind of distance so fast."
+0,138,76,HADRAIG,"Well, Coyle, perhaps he's using Ion Pro, a new engine additive from Tech Con Propulsion Systems."
+0,138,76,BORON,"Yes, perhaps."
+0,138,76,HADRAIG,"Ion Pro is guaranteed to improve drive performance, no matter what class ship you fly. Whether you're competing in the Loop of Kon Garat or just taking the kids to school, use Ion Pro in your power source. Ion Pro, from Tech Con Propulsion Systems: Your system wide experts in Ion drive technology."
+0,138,77,RECEPTIONIST,"I'm sorry, I can't let you inside the complex without clearance."
+0,138,77,JACKSON,We're looking for people we think are inside the building.
+0,138,77,RECEPTIONIST,"If you give me their names, I can check and see if they're here."
+0,138,77,JACKSON,Okay...one of them is named...
+0,138,77,O'NEILL,Eamon.
+0,138,77,JACKSON,Eamon.
+0,138,77,RECEPTIONIST,"And his cousin, Murray?"
+0,138,77,O'NEILL,Murray! Yes...that's them.
+0,138,77,RECEPTIONIST,Yes...they're here.
+0,138,77,JACKSON,"Good, can we go inside now?"
+0,138,77,RECEPTIONIST,No.
+0,138,77,O'NEILL,"All right...here's what I'd like you to do. Pick up that phone, call mister...whoever runs this place..."
+0,138,77,JACKSON,Hagan.
+0,138,77,O'NEILL,Hagan...
+0,138,77,RECEPTIONIST,"I'm sorry, but I just can't..."
+0,138,77,O'NEILL,We're old friends. Tell him Mr. Man-who-has-the-Stargate is here to see him. He'll understand.
+0,138,77,JACKSON,Stargate.
+0,138,77,O'NEILL,Go ahead...buttons...phone...
+0,138,77,RECEPTIONIST,"Mr. Hagan, please."
+0,138,77,O'NEILL,Nice.
+0,138,78,EAMON,"What are you going to do, Tynan? He's an alien from another planet. His people are going to miss him."
+0,138,79,MUIRIOS,"Tynan, respond."
+0,138,79,TYNAN,"What is it, Muirios?"
+0,138,79,MUIRIOS,It's the Seberus. Warrick is still in the race. He's gaining on my position.
+0,138,80,WARRICK,Hard left!
+0,138,81,JARLATH,What was that? You said left!
+0,138,81,WARRICK,"Oh, did I? Sorry."
+0,138,81,JARLATH,This is a waste of time! We don't have a chance! You're just gonna get us killed!
+0,138,81,CARTER AND WARRICK,Shut up!
+0,138,82,MUIRIOS,"Well, how did this happen? You said the Seberus would be disabled. That I was guaranteed to win."
+0,138,83,TYNAN,"You will win, Muirios. Just focus on what you have to do. I'll take care of the Seberus. This is Tynan calling the Seberus. I know you can hear me."
+0,138,83,WARRICK,"What do you want, Tynan?"
+0,138,83,TYNAN,"I only intended to disable your ship, but your stubbornness as forced my hand. I have your brother and one of the visitors from Earth. So, drop out of the race...now."
+0,138,85,HAGAN,Dr. Jackson...Colonel O'Neill... Sorry to keep you waiting. It's so nice to see you again. What can I do for you?
+0,138,85,JACKSON,"Uhm, we think a...member of you group might, somehow, be lost...inside your building...with, uh, with one of your employees."
+0,138,85,HAGAN,Lost? That seems unlikely.
+0,138,85,O'NEILL,Well...you've gotta know the guy.
+0,138,85,HAGAN,Of course...come with me.
+0,138,86,WARRICK,We were gaining on them. We had a chance.
+0,138,87,JARLATH,You're going to let a little thing like your brother's life stop you from winning the race?
+0,138,87,CARTER AND WARRICK,Shut up.
+0,138,88,TYNAN,Muirios...La'el Montrose is gaining on you.
+0,138,88,MUIRIOS,"Yes, I know. You were supposed to take care of her."
+0,138,88,TYNAN,I thought I did. She must have overcome the problem. Lose her.
+0,138,88,MUIRIOS,I'm trying.
+0,138,88,TYNAN,Try harder. Do whatever you have to.
+0,138,89,TYNAN,Get rid of them. Take them away.
+0,138,90,HAGAN,"Hello, Del."
+0,138,90,TYNAN,Mr. Hagan...
+0,138,91,JACKSON,Nice outfit. You guys okay?
+0,138,91,TEAL'C,Indeed.
+0,138,91,O'NEILL,"How many times have I told you, don't get caught by the bad guys?"
+0,138,91,HAGAN,"How could you do this, Del?"
+0,138,91,TEAL'C,He claims he was protecting his people from a Serrakin conspiracy to enslave the Humans of this world.
+0,138,91,TYNAN,I did what I had to. You're kind are a disease.
+0,138,91,EAMON,"The only disease here is greed. If he was protecting anything, it's a deal he made with Muirios. Which, I suspect, was quite lucrative."
+0,138,91,HAGAN,The reason you've been passed over for advancement is because you've been under investigation for corruption for over a year. We couldn't prove anything until now.
+0,138,91,TYNAN,I intend to file a protest with the employment council.
+0,138,91,HAGAN,"Employment is the least of your worries, right now, Del."
+0,138,92,EAMON,"Warrick, Major Carter...It's Eamon. Are you there?"
+0,138,92,WARRICK,"Eamon, are you all right?"
+0,138,92,EAMON,Teal'c and I are both safe. Now get back in the race...and win...if you can.
+0,138,93,JARLATH,You must be out of your mind!
+0,138,93,WARRICK,"Do not say a word. Major, give me all you've got."
+0,138,93,CARTER,"Max power...Warrick, I hate to say it, but Jarlath might be right. Muirios has too big a lead. We'll never catch him. He cheated. I can't believe they'll still let him take first prize."
+0,138,93,WARRICK,Unless we can keep Muirios from crossing the finish line first.
+0,138,93,CARTER,How can we do that?
+0,138,93,JARLATH,"Oh, that's easy. Just...get me close."
+0,138,93,WARRICK,The closest we will get is when the double back past us after the final turn.
+0,138,93,JARLATH,It'll have to do.
+0,138,94,CARTER,What are you doing?
+0,138,94,JARLATH,Re-routing the conduit from your fancy power device and doubling it back through the communications array.
+0,138,94,CARTER,Why? So we can ask him to lose?
+0,138,94,JARLATH,"Humorous. More like tell him. This will allow us to send a blast transmission. If my aim is correct, it'll temporarily freeze the command controls on Muirios' ship."
+0,138,94,WARRICK,You are even crazier than I thought.
+0,138,94,JARLATH,Never was much of a pilot. But weapons? It's an art.
+0,138,94,WARRICK,They're coming around the final turn.
+0,138,95,CARTER,He's trying to take out La'el's ship.
+0,138,95,JARLATH,I don't think so.
+0,138,96,WARRICK,Well done.
+0,138,96,JARLATH,Ah...don't make me sick.
+0,138,97,HADRAIG,Unbelievable! What a finish! La'el Montrose has won the Loop of Kon Garat! What happened to Muirios?
+0,138,97,BORON,It was his race to lost and he lost it. It looks like some kind of beam weapon caused his ship's power to fail.
+0,138,97,HADRAIG,Opening the door for La'el Montrose to take it all. You have got to love that there are no rules in this race.
+0,138,97,BORON,"It's what makes this competition so special, Ardal. I must say, in all my years, I haven't seen anything like it."
+0,138,97,HADRAIG,"Well, you must be particularly surprised, since you picked Muirios to win."
+0,138,97,BORON,"Yes, I was wrong about that."
+0,138,97,HADRAIG,"And you also said that Warrick wouldn't be in contention, and yet he came very close to finishing this race."
+0,138,97,BORON,"Yes, I was wrong about that too."
+0,138,97,HADRAIG,Any predictions for next year?
+0,138,97,BORON,"Well, I'd rather not say..."
+0,138,98,HADRAIG,"All right, then. We'll be right back with post-race interviews after a word from our sponsor: Corso's Temporal Eatery - where your whole family can eat what they want, when they want. Part of the Tech Con Group family of restaurants."
+0,138,99,WARRICK,Sorry we did not win.
+0,138,99,CARTER,It was still worth it.
+0,138,101,CARTER,Hey...
+0,138,101,JACKSON,Hey.
+0,138,101,CARTER,I just hear from Warrick. The winner of the race hired him as co-pilot on her new contract with Tech Con.
+0,138,101,JACKSON,That's great.
+0,138,101,CARTER,Yeah. He sounded really happy.
+0,138,101,JACKSON,You don't.
+0,138,101,CARTER,I'm fine.
+0,138,101,JACKSON,You've still got that ion drive to study.
+0,138,101,CARTER,I know...very cool.
+0,138,101,JACKSON,You're just sore that you lost.
+0,138,101,CARTER,"Well, come on. It wasn't fair...bunch of cheaters."
+0,138,102,JACKSON,"So, whatcha gonna do?"
+0,138,102,CARTER,Next year...I'm gonna kick butt.

@@ -1,0 +1,304 @@
+Season,Episode,Scene,Character,Line
+0,78,0,STARGATE SG1,Episode 414
+0,78,0,"""SERPENT'S VENOM""",By Peter DeLuise We begin on the lovely planet of Chulak. A child walks thru a tent.
+0,78,0,CHILD,"Father, he's coming!"
+0,78,0,FATHER,"Yes, I know. You are not to be here."
+0,78,0,CHILD,"But, Father ---"
+0,78,0,FATHER,Go! Now!
+0,78,1,FATHER,"After all this time, it is really you."
+0,78,1,TEAL'C,Ma'kar of the Gomai Foothills.
+0,78,1,TEAL'C,You are the one called Rak'Nor.
+0,78,1,RAK'NOR,It is an honor to finally meet you.
+0,78,1,TEAL'C,"And I , you."
+0,78,1,MA'KAR,We have heard much of your return to Chulak.
+0,78,1,TEAL'C,"It is time for Jaffa to stop whispering about freedom, and begin to show our true power."
+0,78,1,MA'KAR,A power we can only hope is greater than that of the gods.
+0,78,1,TEAL'C,
+0,78,1,MA'KAR,"Their power is real, and stronger than ever. Even Heru-Ur, and the other System Lords fear Apophis. He commands the vast army of Sokar."
+0,78,1,TEAL'C,An army of Jaffa.
+0,78,1,MA'KAR,You KNOW of what happened here on Chulak at the hands of Apophis.
+0,78,1,TEAL'C,"Yes, I know how many were slaughtered. But, I also know that those left alive are ready to rise against him. The Jaffa are the foundation upon which the false gods have built their empires. We can tear them down."
+0,78,1,RAK'NOR,"To do so, We will have to fight our own kind."
+0,78,1,TEAL'C,"As the Goa'Uld have forced us to do in their names for countless generations. Only now, we will fight for the freedom of ALL Jaffa."
+0,78,1,MA'KAR,Rak'Nor has the loyalty of a great many here on Chulak.
+0,78,1,TEAL'C,"So, Bra'Tac has heard from you, and I from him. It is the word of our friend Ma'Kar that has brought me here tonight. In their hearts, many Jaffa believe as we do. Those with the strength and the courage must speak out. We must fear the Goa'Uld no longer. Those who wish to join our cause must be united. Kol'Na of the High Cliffs Hak'Nor of the Cordi Plains have already agreed to meet at the Chapa Groves tomorrow."
+0,78,1,RAK'NOR,Then I will --- meet with THEM as well. And this --- blasphemous rebellion will finally be crushed. Hash'Ak Cree! Shol'Va!
+0,78,2,TECH,Receiving IDC transmission. It's the Tok'Ra.
+0,78,2,GH,Open the Iris.
+0,78,2,JACK,Teal'C?
+0,78,2,SAM,Tok'Ra.
+0,78,2,JACK,Too bad.
+0,78,2,TECH,"There's no traveler en route, Sir, but there's a transmission being sent."
+0,78,2,JACOB,"Looks like my vacation is over. Thanks to our good friend, Tannith, we were able to intercept this conversation between Apophis & Heru-Ur. It took place less than an hour ago."
+0,78,2,DANNY,Sounds like they've agreed to meet.
+0,78,2,SELMACK,"Currently, Heru-Ur is aligned with the System Lords against Apophis."
+0,78,2,SAM,Or so the System Lords presume.
+0,78,2,SELMACK,Exactly. An alliance between Apophis and Heru-Ur could overwhelm all the other system lords combined.
+0,78,2,JACK,And that would be --- bad?
+0,78,2,SELMACK,"One enemy is easier to target than many. Our spies believe that Apophis has agreed to the meeting because he is willing to use such an alliance to topple the system lords. Afterwards, he will deal with Heru-Ur. If he succeeds ---"
+0,78,2,JACK,Galactic badness! Huge!
+0,78,2,DANNY,"So, what do we do?!"
+0,78,2,SAM,Find a way to sabotage the alliance.
+0,78,2,SELMACK,"Doctor Jackson, Have you seen symbols like this before?"
+0,78,2,DANNY,"Well, it looks similar to Phoenician letters, but I can't be sure."
+0,78,2,SELMACK,We believe it is a technical manual. None of our Tok'Ra linguists could translate it.
+0,78,2,JACK,"Um, excuse my denseness, but --- what does this have to do with --- anything?"
+0,78,2,SELMACK,The hatred and mistrust between Apophis and Heru-Ur goes back a long time.
+0,78,2,SAM,"So, if we can get them to fight each other ---"
+0,78,2,SELMACK,"They both control the 2 largest armies of the Goa'Uld. A war between them would decimate both sides, and return the balance of power back to the system lords. Which, for now, is much more preferable to one all-powerful Goa'Uld."
+0,78,2,DANNY,"Wait, I think I've got it! It's uh --- 3 to the blue, 4 to the orange, and --- and 3 to the blue. Sounds like some sort of color coated combination for a lock."
+0,78,2,SELMACK,Excellent! We may have a chance now. If you will accompany me ---
+0,78,2,JACK,
+0,78,2,JACOB,"I was gonna tell ya, Jack. (LOL@ JACOB!!!!"
+0,78,2,JACK,
+0,78,2,DANNY,"The meeting will be taking place at a region of space known as the Tobin System. The Tobin Civilization, originating from Earth thousands of years ago, has been extinct for a number of centuries, but one of their legacies is the equivalent of a large mine field in space."
+0,78,2,JACK,"As close as you can get to neutral territory, Sir."
+0,78,2,SAM,"The mines, originally designed to protect the planet will actually hone in on a wide variety of energy signals, including that of Goa'Uld weaponry."
+0,78,2,GH,"So, if either Heru-Ur or Apophis decided to open fire, they would be destroyed by the mines.?"
+0,78,2,JACOB,"We'll take the cargo ship I came in. If we leave immediately, we can reach the minefield before the meeting, and reprogram the mine to hit Apophis's ship."
+0,78,2,GH,"So, he'll thing Heru-Ur's behind it?"
+0,78,2,SAM,Exactly.
+0,78,2,JACOB,"The problem is , the mines are in constant motion. Repositioning themselves randomly."
+0,78,2,GH,"So, how can you reprogram them?"
+0,78,2,JACK,"That's a little bit of a concern for me, Sir."
+0,78,2,JACOB,The mines have sophisticated inertial engines that are unaffected by gravitational conditions.
+0,78,2,SAM,"Basically, we should be able to safely use the cargo ship's rings to pull a mine inside."
+0,78,2,JACOB,"At which point, I'll pattern the ship to match it's movements."
+0,78,2,DANNY,The Tok'Ra have what they believe is the Tobin manual to how the mines work.
+0,78,2,JACOB,"Yeah, unfortunately, certain aspects of the translation have previously eluded us. Now, with Dr. Jackson's help, we can use the manual to reprogram the mine to hone in on a specific energy signal. One of our operatives aboard Apophis's ship will have planted a beacon that will broadcast that energy signal."
+0,78,2,SAM,"The mine will think that Apophis's ship is firing a weapon, move towards it, and explode."
+0,78,2,GH,Sounds very risky.
+0,78,2,JACK,Insane might be another word.
+0,78,2,JACOB,"Obviously, I'm gonna need Dr. Jackson, and there might be some complicated mathematical calculations to be done, Sam would be a big help, too. Of course, Colonel O'Neill is --- always fun to have around. The timing is critical, George."
+0,78,2,GH,"Then, you have a go."
+0,78,3,RAK'NOR,"Do not think your punishment is over, Shol'Va!"
+0,78,3,GOA'ULD,
+0,78,3,WHO DO YOU SUPPOSE IS MORE WELL-KNOW,
+0,78,3,RAK'NOR,"Many know of Teal'C, but all Jaffa fear you, My Lord."
+0,78,3,I WILL BE AROUND LONG AFTER YOU'RE GONE.,
+0,78,3,"ON, EVERY TEAR YOU SHED --- WILL BE",
+0,78,3,TEAL'C,Never!
+0,78,3,LET US NOT ARGUE --- ABOUT THE FUTURE.,
+0,78,3,JACK,Where is he?
+0,78,3,SAM,He's on 18.
+0,78,3,JACK,"Jacob, do you really think the Goa'Uld are stupid enough to fire on each other in a mine field?"
+0,78,3,JACOB,"No, and we don't want them to. The ultimate goal is to get them into an all-out war, where both their fleets will be seriously weakened."
+0,78,3,SAM,You think that's gonna happen?
+0,78,3,JACOB,"If he thinks Heru-Ur's ambushing him, Apophis will most likely retreat. However, his next move will be to order his armies to attack Heru-Ur's planet."
+0,78,3,JACK,What are you doing?!
+0,78,3,DANNY,I could use a hand here.
+0,78,3,JACK,Sure you GOT everything?
+0,78,3,DANNY,Wanna try to reprogram that mine without the proper translations?
+0,78,3,JACK,Thought of a laptop?
+0,78,3,DANNY,"Well, I had one, I just couldn't get Beck's Ancient Phonetian Symbolisms on CD at Archeology . com, so ---"
+0,78,4,JACK,"Still going with the gold, Huh? Is there something different here?"
+0,78,4,JACOB,"I had the bulk head removed. Once we've moved the mine inside, we're gonna need all the room we can get."
+0,78,4,DANNY,What about the escape pods?
+0,78,4,JACOB,"If that mine touches anything in here, the escape pods aren't gonna do us any good."
+0,78,4,DANNY,Oh.
+0,78,5,JACK,Do you understand any of that?
+0,78,5,SAM,"It's all Phoenician to me, Sir."
+0,78,5,RAK'NOR,"Drink! It is only water. Do you not drink because you wish to die sooner? It is not recording now. You will not appear weak by quenching your thirst. Surely, you must realize that Ter'Ok will not let you die before he has gotten what he wants from you. I swear on my father's name that this is only water."
+0,78,5,TEAL'C,What is the name of your father?
+0,78,5,RAK'NOR,Swearing on his name means nothing if you do not know who he was. My father was called Delnor.
+0,78,5,TEAL'C,I know that name!
+0,78,5,RAK'NOR,"Yes, when you were first prime, you spared his life after Apophis ordered him killed."
+0,78,5,TEAL'C,I remember.
+0,78,5,RAK'NOR,"When you turned against Apophis, my father believed it was a sign. He spoke out against the gods, and supported you. He seared the mark of the serpent from my forehead. He --- He said I was free!"
+0,78,5,TEAL'C,You are!
+0,78,5,RAK'NOR,"Other Jaffa worriers began to believe. Like my father, they followed Bra'Tac, who said what you had done would begin a Jaffa rebellion. He said, that one day, all Jaffa would be free from enslavement at the hands of the Goa'Uld."
+0,78,5,TEAL'C,He spoke of the truth.
+0,78,5,RAK'NOR,No! It was blasphemy! The Goa'Uld are GODS! Look at yourself now! Why will you not admit it?!
+0,78,5,TEAL'C,Why do you not believe as your father believes?
+0,78,5,RAK'NOR,"My father believes nothing anymore! He is dead! My father was a stupid fool, and Apophis killed my whole family because of it. He who died him self , and was reborn. Returning to slay Sokar --- He with the power to slaughter millions in a instant. He commands the greatest army the Goa'Uld have ever known, how could he be anything BUT a god?! I was fortunate enough to realize that in time to save myself."
+0,78,5,TOR'AK,
+0,78,5,TEAL'C,He would die first!
+0,78,5,THE GOA'ULD FOR FORGIVENESS. AS YOU,
+0,78,6,JACOB,We've reached the Tobin System.
+0,78,6,SAM,
+0,78,6,JACOB,Hundreds of thousands. Prepare to activate the rings.
+0,78,6,JACK,"Jacob, what's with the --- ear thing?"
+0,78,6,JACOB,It's a heads-up display that'll help me fly the ship while keeping the mine centered in the hold.
+0,78,6,JACK,And --- how hard is that gonna be?
+0,78,6,JACOB,"Well, considering what I have to avoid out there, Hard. Clear the rings! Now, Sam. Alright! Get on it!"
+0,78,6,DANNY,Uh-OH!
+0,78,6,JACK,What?
+0,78,6,JACOB,What? Don't you recognize the symbols?
+0,78,7,DANNY,"What symbols?! (Jack picks up his head as if to say, ""Tell me you're kidding!"""
+0,78,8,"SAVE YOURSELF, TEAL'C! IT IS NOT TOO",
+0,78,8,WOULD BE DEAD! WHY ADMIT THE GOA'ULDS,
+0,78,8,NOT TO BREAK YOU! NOT TO TORTURE YOU!,
+0,78,8,BEYOND IF YOU DIE THIS WAY. SHA MEL,
+0,78,8,TEAL'C,"Cree-Shac, Shel Nok!"
+0,78,8,JACOB,There should be a panel that opens and allows access to the inside. Try underneath.
+0,78,8,SAM,"I think there's some thing here, Dad. Can you raise the bomb any higher? It looks like a circle with a cross on it."
+0,78,8,DANNY,That could be it.
+0,78,8,SAM,
+0,78,8,JACOB,I'm pretty sure you touch it.
+0,78,8,JACK,
+0,78,8,JACOB,"The last time a Tok'Ra was sent to attempt this, they were never heard from again."
+0,78,8,JACK,"Well, that's news!"
+0,78,8,DANNY,"No, I think that's it."
+0,78,8,SAM,You THINK?
+0,78,8,DANNY,"Okay, I--- I'm SURE that's it. Wait! Wait ! wait! Wait! Wait! Wait, wait!"
+0,78,8,HEY!!!!,
+0,78,8,DANNY,"No, no! Sorry! That's it, I'm sure of it."
+0,78,8,JACOB,Don't touch it anywhere but inside the opening!
+0,78,8,SAM,Daniel? What do these mean?
+0,78,8,DANNY,"Um, those indicate the various frequencies the mine is sensitive to."
+0,78,8,SAM,"So, we need to erase them all, and input only the ones we want, right?"
+0,78,8,DANNY,Right.
+0,78,8,JACK,"(Stooping down, and practically laying in Sam's lap!"
+0,78,8,DANNY,I have NO idea!
+0,78,9,ROK'NOR,Te'Rok grows frustrated by you.
+0,78,9,TEAL'C,He thought he was recording my humiliation. Instead he was only recording his own.
+0,78,9,RAK'NOR,Do you not believe that your soul will be forever punished?
+0,78,9,TEAL'C,The Goa'Uld are parasites. They use Jaffa as incubators until they are ready to take human hosts. I have seen the world from which they originated. I have stood beside the swamps from which they first rose. They are merely flesh and blood just like you or I!
+0,78,9,LIES!!!!,
+0,78,9,TEAL'C,"Why would I lie?! If there was a chance that they were GODS, If I thought that my SOUL would be forever punished? WHY would I LIE?!?! They have manipulated our bodies. So, too, are the manipulating our minds with"
+0,78,9,RAK'NOR,"You believe this so strongly, that you risk dying in SIN?"
+0,78,9,TEAL'C,"I believe it so strongly , that I FIGHT to live with every last bit of strength that I have, so that one day, enough Jaffa will believe as I do --- enough to end the Goa'Uld , and free us ALL forever!"
+0,78,10,DANNY,Three to the --- blue.
+0,78,10,SAM,Which way is blue?
+0,78,10,DANNY,That's a good question.
+0,78,10,SAM,
+0,78,10,DANNY,3 notches. OK --- 4 to the orange. Three to the blue.
+0,78,10,SAM,Uh --- Dad?
+0,78,10,JACK,"Jacob? Jack grabs her feet, and pull her from under the bomb. He helps her up, and they move behind the bulk head ) JACOB!!"
+0,78,10,JACOB,I know! I have a problem here!
+0,78,10,JACK,
+0,78,10,JACOB,Thanks! How much longer?
+0,78,10,SAM,"Not sure, why?"
+0,78,10,JACOB,Someone's coming. I'm cloaking the ship. It's Apophis.
+0,78,10,SAM,"3 to blue. Uh, it's flashing green. Green is good?"
+0,78,10,DANNY,No.
+0,78,10,SAM,Bad?
+0,78,10,DANNY,Bad.
+0,78,10,SAM,How bad?
+0,78,10,DANNY,"Very, very, bad!"
+0,78,10,SAM,Dad?! We may need Selmack's help here!
+0,78,10,JACOB,All right. Jack?! You're gonna haveta take the stick!
+0,78,10,JACK,What? Really?!
+0,78,10,JACOB,"Take the HUD. Keep the mine center circle, and avoid hitting anything out there."
+0,78,10,JACK,Ok! OK! I've got it! I got it. WHOA! WHOA! WHOA! WHOA! Hoe! Hoe!
+0,78,10,JACOB,Huh?
+0,78,10,JACK,I'm cool. I'm all right. It's not so easy.
+0,78,10,JACOB,What's going on?
+0,78,10,SAM,The crystals are flashing green.
+0,78,10,DANNY,I think it's gonna explode.
+0,78,10,JACOB,De-Activate it.
+0,78,10,DANNY,"I don't know how. If you enter the wrong combination, a failsafe is enacted, and you have 5 minutes to --- enter the right combination --- or the --- mine explodes."
+0,78,10,JACOB,"Apophis is already here. If we release the mine now, and it explodes, the mission will be ruined."
+0,78,10,DANNY,"And if we don't release the mine now, we'll be ruined."
+0,78,10,JACOB,"Then, enter the right combination!"
+0,78,10,SAM,We tried. What does Selmack say?
+0,78,10,JACOB,Try again.
+0,78,10,DANNY,
+0,78,10,TOR'AK,
+0,78,10,JAFFA,"My lord, Heru-Ur hails you. (Lord is not capitalized like"
+0,78,10,HERU-UR,
+0,78,10,JACOB,Heru-Ur's ship is here.
+0,78,10,ONAK RE GAT HERU-UR!,
+0,78,10,ONAK KLA KEELA VUROK!,
+0,78,10,MAK SHEL LO KOMO ASHMA!,
+0,78,10,JACOB,"Heru'Ur is saying Apophis's forces are great, but not great enough to match the collective army of the system lords. With his assistance, the battle will be swift and end in their favor."
+0,78,10,JACK,Apophis?
+0,78,10,JACOB,"He wants to know what Heru-Ur wants in exchange. Heru-Ur wants to maintain domination over all that is currently his, plus that which is currently owned by Chronus."
+0,78,10,JACK,"He has to know, Apophis will screw him eventually."
+0,78,10,JACOB,"Heru-Ur is offering Apophis a gift. A token to show his honor and loyalty. After Apophis accepts, they will swear an oath to solidify their bond."
+0,78,10,JACK,What's he offering?
+0,78,10,HERU-RU,
+0,78,10,JACOB,Teal'C!
+0,78,10,DANNY,Teal'C's on Chulack.
+0,78,10,JACK,Apparently not.
+0,78,10,JACOB,"Apophis is gonna think the deal over. As soon as he makes up his mind, the transfer will take place."
+0,78,10,SAM,"Uh, Dammit! This is NOT working!"
+0,78,10,DANNY,"This doesn't make an since! It clearly says 3 to blue, 4 to orange, and --- 3 to blue!"
+0,78,10,JACOB,How much time do we have?
+0,78,10,SAM,Less than a minute.
+0,78,10,DANNY,
+0,78,10,SAM,"Wait, wait! What about zero?"
+0,78,10,DANNY,What?
+0,78,10,SAM,Zero. Why didn't you say zero?
+0,78,10,DANNY,Uh --- be --- because there's no zero in the Phoenician numerical system.
+0,78,10,JACOB,What if the Tobin added it?
+0,78,10,SAM,He's right! Inventing technology with this level of sophistication would require a zero.
+0,78,10,DANNY,Why?
+0,78,10,SAM,Just trust me! It's a math thing.
+0,78,10,DANNY,"So, I've been off by one this whole time?"
+0,78,10,SAM,30 seconds.
+0,78,10,DANNY,"Uh, uh, uh --- OK, then , uh, uh, 2 to blue, 3 to orange, and , and 2 to blue. That's it!"
+0,78,10,JACOB,They got it!
+0,78,10,SAM,"Now, we enter the right frequency."
+0,78,11,TEAL'C,"So that Apophis can revive me, and begin again?"
+0,78,11,JACK,You know what'll happen to Teal'C if Apophis gets a hold of him.
+0,78,11,JACOB,Anything we do in attempting a rescue would give us away.
+0,78,11,JACK,Yeah? So?
+0,78,11,JACOB,"So, you know as well as I do that bigger things are at stake here. He's your friend, I know. But we've both had to deal with losses like this in battle situations. Tok'Ra operatives have already given their lives, and others are at great risk on those ships right now --- All for the sake of this mission. I'm sorry, Colonel, but Teal'C is expendable."
+0,78,11,DANNY,"One, two, three --- done!"
+0,78,11,SAM,We're done!
+0,78,11,JACOB,All right! I have to deploy.
+0,78,11,JACK,If they start shooting at each other
+0,78,11,JACOB,They'd better not yet. We're still in the middle of this minefield. Deploy.
+0,78,11,SAM,Nothing's happening.
+0,78,11,JACOB,Our operative could have been compromised.
+0,78,11,DANNY,"Or, we reprogrammed the mine wrong. No! --- I'm --- sure we reprogrammed --- the mine --- right."
+0,78,11,"KOMAH ATA , HERU-UR!",
+0,78,11,HERU-UR,
+0,78,11,JACOB,Apophis has agreed to the alliance.
+0,78,11,SAM,"Dad, Teal'C risked his life to save all of us when we came to rescue you on Netu. You OWE him. We all do."
+0,78,11,DANNY,"Wait, how is Heru-Ur gonna transport Teal'C to Apophis's ship?"
+0,78,11,JACOB,He would probably use rings.
+0,78,11,SAM,"Well, then we can save Teal'C the same way that he saved us --- by intercepting the matter stream!"
+0,78,11,JACOB,It won't work while the ship is in stealth.
+0,78,11,JACK,Then uncloak it.
+0,78,11,JACOB,It would take some pretty fancy flying.
+0,78,11,JACK,It's you ship!
+0,78,12,RAK'NOR,"I've never seen anyone endure such torture! Yet, none of it comes CLOSE to what Apophis will do to you. He will kill you 1,000 times!"
+0,78,12,TEAL'C,Of that I am certain.
+0,78,12,RAK'NOR,And you will NEVER admit that he's a god?!
+0,78,12,TEAL'C,Never!
+0,78,12,RAK'NOR,"You are --- either insane, or ---"
+0,78,12,TAKE HIM DOWN! THE SHOL'VA IS TO BE,
+0,78,12,DO YOU THINK YOU ARE DOING --- SHOL'VA?!?!?!,
+0,78,12,RAK'NOR,"My lord, you are KILLING him!"
+0,78,12,RAK'NOR,"My lord --- (He takes the Taser, and puts it in Tor'Ak's neck"
+0,78,13,JACK,What happened?
+0,78,13,JACOB,We missed him!
+0,78,13,SAM,"So, what now?"
+0,78,13,JACOB,We'd better get out of here!
+0,78,13,HERU-UR'S JAFFA,"My lord, a cargo ship attempted to intercept the matter stream."
+0,78,14,JACOB,It looks like you programmed the mine right! It's gone straight for Apophis's ship.
+0,78,15,WHAT IS THIS?!,
+0,78,15,SARPENT GUARD,Heru-Ur transported HIM instead of the Shol'Va.
+0,78,16,SERPENT GUARD,Heru-Ur attacks!
+0,78,16,APOPHIS,(Standing up! WHOO! I'm a goner!
+0,78,16,IT IS DECEPTION!,
+0,78,16,JACK,We gotta go back for Teal'C.
+0,78,16,JACOB,And do what?
+0,78,16,JACK,Something!
+0,78,16,JACOB,It's too late.
+0,78,17,JACOB,That's NOT possible!
+0,78,17,JACK,"Apparently, it is."
+0,78,17,JACOB,"The Goa'Uld have never been able to cloak an entire mother ship before, let alone an entire fleet!"
+0,78,18,SAM,They're protecting Apophis's ship!
+0,78,18,JACOB,They're allowing him to escape. The sensors are picking up a glider that seemed to have escaped from Heru-Ur's ship before it exploded.
+0,78,18,DANNY,Uh --- Heru-Ur HIMSELF?!
+0,78,18,JACOB,We can't let him get away. Onak Sha Cree! Shal Goa'Uld!
+0,78,18,MAN,Goah Sha Cree! Loe Goa'Uld!
+0,78,18,JACOB,"I asked him which god he worshiped, and he answered with a Tok'Ra password. This is Jacob Carter! Identify yourself!"
+0,78,18,RAK'NOR,My name is Rak'Nor.
+0,78,18,JACOB,Who are you? How did you know how to answer my hail?
+0,78,18,RAK'NOR,I am the Jaffa who helped Teal'C escape.
+0,78,18,JACK,How do we know that?
+0,78,19,TEAL'C,"It is good to hear your voice, O'Neill."
+0,78,19,JACK,"Glad ya made it, Teal'C."
+0,78,19,TEAL'C,As am I.
+0,78,19,JACOB,We can rendezvous on the third moon of Tishner.
+0,78,19,RAK'NOR,We will meet you there.
+0,78,19,DANNY,"Well, I guess we stopped the alliance."
+0,78,19,SELMACK,"Unfortunaly, it is the worse possible result."
+0,78,19,JACK,No war.
+0,78,19,SELMACK,No. We could not have predicted that Apophis would bring a clocked fleet into the minefield.
+0,78,19,SAM,So what now?
+0,78,19,SELMACK,Apophis will easily absorb Heru-Ur's forces into his own. He is now a bigger threat than ever before.

@@ -1,0 +1,348 @@
+Season,Episode,Scene,Character,Line
+0,76,0,STARGATE SG1,Episode 412
+0,76,0,"""TANGENT""","By Michael Cassutt We begin at an airport on runway 18. Sam, Jack, Danny, and Major Davis are standing out there ."
+0,76,0,SAM,Teal'C was ordered to push the envelope. I'm sure he'll be back soon.
+0,76,0,JACK,"Well, that'd be nice."
+0,76,0,DANNY,Where else would he go?
+0,76,0,JACK,Good point.
+0,76,1,JACK,"Well, here we go."
+0,76,2,GH,"Is there a problem, Colonel?"
+0,76,2,JACK,"No, Sir. Not at all. I'm sure Teal'C just felt he'd take her for a spin --- Around the world."
+0,76,2,GH,"Well, while we're waiting, I have someone who'd like to meet your team."
+0,76,2,MAJOR DAVIS,"Colonel Jack O'Neill, Major Samantha Carter, Doctor Daniel Jackson, allow me to introduce Lieutenant General Vidrine."
+0,76,2,GV,Colonel.
+0,76,2,JACK,General.
+0,76,2,GV,Major.
+0,76,2,SAM,General.
+0,76,2,GV,Doctor.
+0,76,2,DANNY,General.
+0,76,2,GV,General Hammond has told me nothing but good things.
+0,76,2,JACK,"Has he, Sir? Well, then I'm sure he's left something out."
+0,76,2,GV,Such as?
+0,76,2,JACK,(Loosing the smile very quickly!
+0,76,2,TEAL'C,"Look immediately to the southwest, O'Neill."
+0,76,3,WOOO-HOOO-HOOO!,
+0,76,4,GV,
+0,76,4,DAVIS,
+0,76,4,JACK,"Lookin' good, Teal'C. Give us another fly-by, low and slow."
+0,76,4,TEAL'C,As you wish.
+0,76,4,DAVIS,"It's a hybrid craft, Sir, made with a combination of good ol' American know-how, and 2 Goa'Uld Death Gliders that SG-1 recovered a couple years ago."
+0,76,4,GV,It may be the most impressive aircraft I've ever seen!
+0,76,4,SAM,"Oh, it's more than that, Sir. Up till now, we haven't had a platform from which we could launch an attack on a Goa'Uld ship --- now we do."
+0,76,4,GV,What makes it fly?
+0,76,4,SAM,"It's difficult to explain, Sir. The power plant doesn't exert force against gravity so much as take enertia out of the equation. Even pilots are immune to ordinary G forces. We don't completely understand the physics ---"
+0,76,4,GV,"Major, I'll just accept the fact that it flies. (Good save, General!"
+0,76,4,SAM,"Yes, Sir."
+0,76,4,JACK,"Oh, it flies, yes, Sir!"
+0,76,4,GV,"I always like to get a view of the man in the cockpit. How does she fly, Son?"
+0,76,4,TEAL'C,The vehicle preformed within the expected paremiters.
+0,76,4,JACK,
+0,76,4,DAVIS,"Upon completion of a fight-test program, we hope to deploy the X-301 as an orbital defense craft under your command, Sir."
+0,76,4,GV,"In all seriousness, if that's all right with you, Colonel, , How effective can a single fighter be against a potential fleet of Goa'Uld warships?"
+0,76,4,TEAL'C,That is what these tests endeavor to determine.
+0,76,4,GV,Let's find out. What's next?
+0,76,4,JACK,"I take second seat for an air-to-air live fire test, Sir."
+0,76,4,GH,"Our SGC control room will serve as Mission Control, Sir."
+0,76,4,GV,"Light that candle, boys."
+0,76,4,JACK,"Yes, Sir."
+0,76,4,TEAL'C,Does General Vidrine wish to perform some sort of candle burning ritual?
+0,76,4,JACK,"Yes, that's it, exactly."
+0,76,5,JACK,Request permission to proceed with weapon's test.
+0,76,5,DAVIS,"You're a go, Digger 1."
+0,76,5,TEAL'C,Proceeding to target area.
+0,76,5,SAM,Copy that. You're a go for phase 2.
+0,76,5,DANNY,That's them?
+0,76,5,DAVIS,"The X-301 is equipped with stelth technology which normally wouldn't show up on radar, so we've installed a special transmitter for the test."
+0,76,5,SAM,These blims represent the target drones. X-301 is carrying 2 AIM-120A air-to-air missles.
+0,76,5,GV,"Major, are you suggesting a slammer missle would be capeable of taking out a Goa'Uld mother ship?"
+0,76,5,SAM,"If it's armed with a naquada-enhanced warhead, and modified with a shield frequency modulator , Yes, Sir!"
+0,76,5,TEAL'C,Beginning attack run now.
+0,76,5,SAM,"Digger 1, you're going to overshoot!"
+0,76,6,JACK,Uh --- Teal'C ? Target's back that way.
+0,76,6,TEAL'C,I am no longer controlling it.
+0,76,6,JACK,Excuse me?!
+0,76,6,TEAL'C,The craft is no longer accepting input from the controls. The drive is @ full power.
+0,76,7,JACK,"Flight, I'm declaring an emergency."
+0,76,7,TEAL'C,The ejection system has malfunctioned.
+0,76,7,JACK,"We are NO LONGER in control of the vehicle. I repeat, we have lost control and can not eject. Please advise."
+0,76,7,SAM,"Digger 1, Digger1? This is flight. They're not responding."
+0,76,7,DAVIS,We're experiencing atmospheric interference.
+0,76,7,GV,Major Carter?
+0,76,7,SAM,"The glider was setting up target drones when it accelerated into a steep vertical climb. It's off our radar, we're attempting to reaquire ---"
+0,76,7,DANNY,Are you saying they've gone into orbit?
+0,76,7,SAM,I'm saying they're headed straight out into space.
+0,76,7,GV,You said the 301 was capable of space flight.
+0,76,7,SAM,"Yes, Sir, it is, but that wasn't part of the test."
+0,76,7,DANNY,Teal'C wouldn't do this intentually. There has to be something wrong.
+0,76,7,GH,A malfunction?
+0,76,7,SAM,"Must be, Sir."
+0,76,7,GH,Get me the shuttle action officer @ space command.
+0,76,7,SAM,"The shuttle won't be able to reach them , Sir, unless we can find some way to turn them around."
+0,76,7,GH,It's all we've got!
+0,76,7,DAVIS,"We're got NASA's deep-space tracking looking for the glider now. With the DSP & NORAD data, they should be able to get a hack on it and hopefully restore communication."
+0,76,7,JACK,"Uh --- flight, this is Digger 1 --- Cheyenne, we have a problem!"
+0,76,7,TEAL'C,"If you think it is Earth, yes."
+0,76,7,JACK,It's --- shrinking.
+0,76,7,TEAL'C,"It's size remains constant, rather, it is we who are moving away @ extreme velocity. These instruments indicate drive shut down. We are no longer accelerating."
+0,76,7,JACK,"Well, that's good."
+0,76,7,TEAL'C,
+0,76,7,MY LORD APOPHIS!,"Shol'Va! To all those who would turn against their god, know this!--- For your insolence, you will DIE in the cold of space. What is rightfully mine will return to ME!"
+0,76,7,JACK,Was that who I think it was? And did he just say what I think he said?!
+0,76,7,TEAL'C,"If you think it was Apophis, and if you think he said the device from which this craft is constructed contains a device to return this glider to his home world, then,yes."
+0,76,7,JACK,He also mentioned something about DYING
+0,76,7,TEAL'C,--- In the cold of space.
+0,76,7,JACK,"Right! Well, the ol' boy hasn't lost his touch, has he? (AQ! Has to say: Nope, My lord hasn't!"
+0,76,7,DANNY?,Digger 1 come in. Jack or Teal'C please respond. Nothing!
+0,76,7,DAVIS,
+0,76,7,DANNY,"General, maybe we should contact our allies capable of space flight. Tell em our situation."
+0,76,7,GH,"Proceed, Doctor. SG-2 will be standing by to assist."
+0,76,7,GV,How fast is the glider going now?
+0,76,7,DAVIS,Roughly a million miles an hour. At least they're no longer accelerating.
+0,76,7,GV,"George, maybe it would be best if I returned to the pentegon. See what our people can contribute from that end. YOU bring them home."
+0,76,7,GH,"Yes, Sir."
+0,76,7,SAM,"Sir, I have an idea, but a whole lotta things have got to go right for it to work."
+0,76,7,JACK,"Cheyenne, we have a problem!"
+0,76,7,SAM,(After freaking out
+0,76,7,GH,Why haven't they responded?
+0,76,7,SAM,"We'll have to wait for it, Sir."
+0,76,7,DAVIS,"It's a time lag, Sir. The time it takes for our signal to travel from earth to the X-301 and back."
+0,76,7,JACK,How are we on consumeables?
+0,76,7,TEAL'C,We have sufficient power and life surport for several days.
+0,76,7,JACK,"Several DAYS --- Well, that's something. How long will this thing take to get to where ever it's going?"
+0,76,7,TEAL'C,"Assuming this device is programmed to return to Apophis's home world, Several Hundred years."
+0,76,7,JACK,Several HUNDRED?
+0,76,7,YEARS!,
+0,76,7,JACK,"Yeah, just uh --- let me do the math on that --- carry the four ---"
+0,76,7,TEAL'C,"The instillation of this device was clearly the result of my betrayel of Apophis. Before I became SHOL'VA, such a device would have been un necessary."
+0,76,7,JACK,So ---?
+0,76,7,TEAL'C,"I am indirectly responsible, O'Neill."
+0,76,7,JACK,"Oh, stop it. We'll be fine."
+0,76,7,DANNY,Digger 1 come in.
+0,76,7,JACK,"There, see?"
+0,76,7,DANNY,"Jack or Teal'C , please respond!"
+0,76,7,JACK,"Yeah, flight. Digger one --- we read you --- we have lost control of the craft to some sort of recall device. Apparently, the scum-sucking, slimey snake-assed Apophis"
+0,76,7,SAM,"Colonel, you're so far out, there's already a time lapse of a few minutes, so conversation is gonna be a problem. We've received some preliminary tracking data from deep space network. The glider is going to pass relatively close to Jupitor. We're hoping if we can somehow nudge your trajectory just a bit, you can perform a sling-shot manuver back toward earth. Message ends 1430 zulu."
+0,76,7,DAVIS,"A time lag. Good thinking , Major."
+0,76,7,SAM,"It would take a few minutes for our radio signal to get that far out, even AT the speed of light."
+0,76,7,JACK,"--- flight. Digger one --- we read you --- we have lost control of the craft to some sort of recall device. Apparently, Apophis"
+0,76,7,SAM,Dammit! I was counting on them having at least SOME ability to maneuver it! I don't know how to swing them around Jupiter without reaction control systems! We're hoping we can somehow nudge your trajectory so you can do a sling-shot menuver back to earth. Message end: 1430 zulu.
+0,76,7,JACK,Message understood @ 1433 Zulu. OK! How do we do that?!
+0,76,7,TEAL'C,"Without control of our thrusters, we are incapeable of nudging."
+0,76,7,JACK,"Right. Uh, flight, this is Digger 1. We have NEGATIVE --- nudging capeabilities. Stand by, flight. Teal'C, the weapons system we installed shouldn't be affected, right?"
+0,76,7,TEAL'C,"What are you consitering, O'Neill?"
+0,76,7,JACK,Our Missles.
+0,76,7,TEAL'C,At this velocity a great deal of thrust would be required to significally alter our trajectory.
+0,76,7,JACK,We JUST need a nudge.
+0,76,7,TEAL'C,I am unsure of that specific measurement.
+0,76,7,JACK,"Uh, flight. Digger 1 . We've got 2 AIM-120 Alpha rocket moders that may, I'll say again , MAY, be @ our desposal."
+0,76,8,JACK,"Uh, flight. Digger 1 . We've got 2 AIM-120 Alpha rocket moders that may, I'll say again , MAY, be @ our desposal. Can we over ride the release meconism and keep em attached thru burnout? If so, we need to calculate where, when, and duration of burn. Digger 1 @ 1458"
+0,76,8,GH,Major Davis?
+0,76,8,DAVIS,"They want to cook off the missles, Sir."
+0,76,8,GH,What for?
+0,76,8,SAM,"If we can get enough delta V out of the missles' rocket motors, our plan might still work. We'll need an over ride procendure. Can you do it?"
+0,76,8,DAVIS,That's the easy part.
+0,76,8,SAM,"Talk them thru it. I'll need half an hour to make the burn calculations,Sir."
+0,76,8,DAVIS,"Half an hour? Major, don't get me wrong, but the margin for error for this ---"
+0,76,8,SAM,
+0,76,8,DAVIS,"I realize that! They thrust in the wrong direction, they hit Jupiter."
+0,76,8,SAM,"Wait any longer, and we're too late. Sir?"
+0,76,8,GH,Do it.
+0,76,8,DAVIS,
+0,76,8,JACK,"Slow down, for cryin' out loud!(As Davis continues, Jack gets a dazed over look on his face! He must be thinking, that he reminds him of someone."
+0,76,8,SAM'S TURN!,"Fire missle 2 followed by missle 1. I know this sounds like a lot, guys, but it's what we have to do. Commence at any point from 1622 ZULU. This is flight. 1618 ZULU."
+0,76,8,JACK,That's right about now. When ever you're ready.
+0,76,8,TEAL'C,Air to air mode bore.
+0,76,8,JACK,Update?
+0,76,8,TEAL'C,Update.
+0,76,8,JACK,"Ready. Flight, this is digger 1, we've updated and are ready to begin burn. Selecting--- Missle 2 and --- 4---3---2---1---"
+0,76,8,TEAL'C,Weapons are releasing!
+0,76,8,LOOK OUT!!!!!!!!!!!!,
+0,76,8,SAM,"Preliminarty data coming in. Digger 1, this is flight. We have no joy on the burn. I'm sorry, Colonel, but the missles just didn't have enough thrust. Your current trajectory takes you out of the solar system and towords the oort cloud, which you should reach in a --- in a few months. We're all still thinking down here, so, don't give up. 1813 ZULU."
+0,76,8,SAM,"We're all still thinking down here, so, don't give up."
+0,76,8,JACK,Cabin pressure's holding. We didn't spring a leak --- though I may have just --- taken one!
+0,76,8,TEAL'C,Our situation has indeed worstened.
+0,76,8,JACK,Ya think?!
+0,76,8,TEAL'C,Indeed. The impact of the missle has damaged both power and life surpport.
+0,76,8,JACK,"I've always wanted to see the OORD cloud, so there's that. Flight, this is Digger 1. Failed burn caused damage to our power systems, and life support."
+0,76,8,DAVIS,"No pupolsion of any kind, and this attempt to change their course has damaged both life support and power systems. For the moment, we'll have complete shutdown of all nonessential systems."
+0,76,8,DANNY,Maybe they could try to disconnect what ever it is that blocked them out in the first place.
+0,76,8,GH,It's worth considering.
+0,76,8,SAM,"No, Sir, I don't think it is."
+0,76,8,DANNY,Why not?
+0,76,8,SAM,We have to assume there's a failsafe meconism to prevent the pilot from attempting just that.
+0,76,8,DAVIS,We don't know that for a fact.
+0,76,8,SAM,"Yeah, but it makes sence. At this point, I recommend we on the life surport."
+0,76,8,DAVIS,The engineers who designed the craft are running senerios now. They can scrub CO2. Oxygen and power are gonna be a problem now. It's going to get COLD up there.
+0,76,8,GH,Doctor Jackson?
+0,76,8,DANNY,"The Tollen don't have a space crart fast enough, or close enough to get there with in a year."
+0,76,8,GH,And the Tok'Ra?
+0,76,8,DANNY,"Uh --- yeah! I spoke with Anise personally. She said they had a scout ship within a day or so of earth, Barely, but it's on a covert mission to a Goa'Uld-occupied world, and the High Council doesn't want to expose the operative by --- making --- contact."
+0,76,8,DAVIS,"Then, why would they bother to tell you that much?"
+0,76,8,DANNY,They hope that the operative will complete the mission and report back in time to help Jack and Teal'C.
+0,76,8,GH,I assume Anise refused to say where & what this covert mission was.
+0,76,8,DANNY,"And to understand not wanting to jeopardize the life of a Tok'Ra important to BOTH of us. I mean , I sort of lost my temper, but she said she was doing us a favor, by telling us as much as she did."
+0,76,8,SAM,"Maybe she was! I mean, we know a scout ship's maximum speed from our mission to Netu. We also know it's a Goa'Uld-occupied world relatively close to Earth, so"
+0,76,8,DAVIS,So --- that narrows it down.
+0,76,8,SAM,"Yes, it does. Sir, with your permission"
+0,76,8,GH,Granted!
+0,76,8,TEAL'C,Navigation --- off. Fire control systems --- off.
+0,76,8,JACK,Targeting computer --- off.
+0,76,8,TEAL'C,Illumination to minimum setting.
+0,76,8,JACK,Is that all we can shut down?
+0,76,8,TEAL'C,"The radio, O'Neill."
+0,76,8,JACK,"Right --- Flight, this is digger 1 @ one niner 52 ZULU. We have initiated power conservation, and will have to eliminate the downlink. We'll reconfigure for a comm pass 5 minutes before and after every hour."
+0,76,8,DANNY,"This is flight. Hold tight, guys. We got a new plan. We're trying to reach you with a Tok'Ra scout ship. Message ends @ What time is it? Uh --- 1947 ZULU."
+0,76,8,JACK,"Uh --- flight, Digger 1, we would prefer to do SOMETHING. Tell us how to fix this thing, we'll fly ourselves home."
+0,76,8,DANNY,
+0,76,8,SAM,"This is P2C-257. This is the ONLY Goa'Uld-occupied world which is remotely within a scout ships range of Earth , at maximum speed. The Tok'Ra operative MUST be there."
+0,76,8,GH,What are the risks?
+0,76,8,SAM,"Well, Sir. SG-14 spent several days there watching the Goa'Uld mining operation. They managed to get in and out without being detected."
+0,76,8,GH,There's still the matter of identifying the Tok'Ra operative.
+0,76,8,SAM,Anise said it was someone important to both of us.
+0,76,8,DANNY,Someone we know.
+0,76,8,SAM,At least that's what we're hoping.
+0,76,8,DANNY,"We know what the risks are, Sir, and we're ready."
+0,76,8,GH,I can see that. You have a go.
+0,76,8,SAM,"Thank you , Sir. Tell them to hang on, Sir. We'll get there."
+0,76,8,GH,"Digger 1, this is Hammond. Doctor Jackson and Major Carter are procuring a craft fast enough to rescue you,but you're going to have to hang on for at least 24 hours. I know that sounds like a long time, and I know you want to do some thing to get your selves out of this, but the best thing you can do is conserve your energy. Hammong out"
+0,76,8,JACK,24 hours.
+0,76,8,TEAL'C,Our current life surport and power will not last 12 hours.
+0,76,8,JACK,Let me do the math ---
+0,76,9,SAM,We may have to go into the mine.
+0,76,9,DANNY,What about contacting the operative by radio?
+0,76,10,JACOB (YAY! ),Are you out of your mind?!?!
+0,76,10,SAM,We were looking for you.
+0,76,10,THAT WOULD HAVE VAPORIZED A SIZABLE,
+0,76,10,SAM,You SAW us?
+0,76,10,JACOB,"Yes, The ship was cloaked --- CLOAKED being the operative word. Now, they know we're here."
+0,76,10,SAM,Colonel O'Neill and Teal'C need your help.
+0,76,10,JACOB,What happened?
+0,76,10,DANNY,They're stranded in a disabled glider headed into space.
+0,76,10,SAM,This was the only ship within range.
+0,76,10,JACOB,"Good enough. Well, let's go."
+0,76,10,GH,"What is it, Major?"
+0,76,10,DAVIS,"General, Sir, Major Carter and Doctor Jackson are now abord a Tok'Ra Scout ship being pioleted by her father, Sir. We're designating it Digger 2."
+0,76,10,GH,"I call that good news, Major. What's the problem?"
+0,76,10,DAVIS,"We've only received the one coaded message, Sir. Before they made the jump into hyper space. Now, by my calculations, even @ the ship's top speed --- Colonel O'Neill and Teal'C will be dead by the time they arrive."
+0,76,10,JACK,What do you say we turn up the heat?
+0,76,10,TEAL'C,We must conserve as much power as possible.
+0,76,10,JACK,"By the way, I've done the math ---"
+0,76,10,JACK,"So, what do you say we turn up the heat? It's cold in here."
+0,76,10,TEAL'C,I am aware.
+0,76,10,JACK,"You know, I've already done that --- freezing to death thing, and it's just not as enjoyable as it sounds. So, if we just consiter there's no chance ---"
+0,76,10,TEAL'C,There IS a chance.
+0,76,10,JACK,24 minus 12 ---
+0,76,10,TEAL'C,"If I placed myself in an extremely deep state of Kel'No'Reem, my heart rate will decrease, and our oxygen requirement will be lowered considerably."
+0,76,10,JACK,Who will I talk to?
+0,76,10,TEAL'C,"There is little to say, O'Neill. We have fought and won many battles together. It has been an honor to serve the Tau'Ri by your side. We are brothers."
+0,76,10,JACK,"Wow, that's uh ---"
+0,76,10,TEAL'C,"Is there anything you wish to say, O,Neill?"
+0,76,10,JACK,What could I POSSIBLY say after that? Back at ya!
+0,76,10,TEAL'C,"If we are to die, we die well."
+0,76,10,JACK,We could do better.
+0,76,11,SAM,Vibration.
+0,76,11,JACOB,"No kidding. We're at 132% of maximum speed. If we don't shake apart first, we might just get there."
+0,76,11,DANNY,Is that WISE?
+0,76,11,NO!,
+0,76,11,OH!,
+0,76,12,SELMACK,You did not know about the recall mechonism?
+0,76,12,SAM,"Well, apparently, Apophis didn't need a recall device until Teal'C planted the seeds of rebellion on Chulack. We didn't have a clue."
+0,76,12,SELMACK,"The devices are new, even to the Tok'Ra."
+0,76,12,SAM,You could have told us!
+0,76,12,SELMACK,You could have told us of your intentions.
+0,76,13,DANNY,"Uh, yes, why didn't we?"
+0,76,13,JACOB,"Same reason we didn't. Politics. So, how do you intrend to get them out the glider once we get there? I mean, there's no chance it'll fit in the cargo bay."
+0,76,13,DANNY,We were hoping you could kinda --- like --- beam them out.
+0,76,13,JACOB,"Beam them out? What am I , Scotty?"
+0,76,13,SAM,"I have an idea, Dad. Colonel O'Neill and Teal'C are gonna have to take a leap of faith."
+0,76,13,JACK,"This is Digger 1 --- 1011 --- ZULU. Teal'C's meditating to conserve oxygen --- I'm trying to sleep, but it's hard.--- CO2 levels --- are high.--- headache --- is bad. --- send asprin. --- I estimate --- three hours. --- this is --- Digger --- 1 ."
+0,76,13,SAM,What's wrong.
+0,76,13,JACOB,Nothing's wrong. Not yet.
+0,76,13,DANNY,But there will be something wrong?
+0,76,13,JACOB,"Well, let's just say I'd like to stop for a second and make some repairs, but this is not a particually safe part of town to pull over."
+0,76,13,OH!,
+0,76,13,JACOB,"And, what were you thinking, anyway? Retrofitting a death glider? You should have known better. The technology you're screwing around with is way over your head!"
+0,76,13,SAM,That is the most arrogant --- I can't believe that that just came out of your mouth!
+0,76,13,JACOB,"Well, it's the truth."
+0,76,13,SAM,You of all people should know ---
+0,76,13,JACOB,I am uniquely qualified to know just how technologically infantile the human race is.
+0,76,13,INFINTILE?!?!?!,
+0,76,13,JACOB,"Yes, in comparison with the Goa'Uld and Tok'Ra, you're very young."
+0,76,13,SAM,Yo---you are so---
+0,76,13,JACOB,"There's nothing wrong with being young, but you've gotta learn to take small steps. You can't just slap a US Air Force sticker on the side of a DEATH GLIDER, and call it yours. Advancement like that has to be earned."
+0,76,13,DANNY,"Um, aren't the Goa'Uld,and the Tok'Ra,for that matter, uh --- where they are by stealing the technology from other races?"
+0,76,13,YES!,
+0,76,13,JACOB,"Yes, but the Tok'Ra were flying around in ships like these when most of the people on earth thought it was flat."
+0,76,13,SAM,What's that?
+0,76,13,JACOB,What I was afraid of. We've over taxed the drives.
+0,76,13,DANNY,Are we still in a bad part of town?
+0,76,13,JACOB,"The worst. We can probably get the drives back online, but it's gonna take a few minutes."
+0,76,13,DANNY,Excuse me? Is THAT what I think it is?
+0,76,13,SAM,Can we cloak the ship?
+0,76,13,JACOB,Nah. All main power systems are off line. Can you speak with the Goa'Uld dialect?
+0,76,13,DANNY,"The dialect , yes."
+0,76,13,JACOB,"That's all you need. When they try to make contact with you, place your hand here, and use your imagination. Take your hand away, and it'll broadcast. Sam, can you give me a hand."
+0,76,13,JACK,"Trying to sleep, but it's hard. CO2 levels are high. Headache is bad. Send asprin. I estimate three hours. This is Digger 1."
+0,76,13,DAVIS,"Shall I respond, Sir?"
+0,76,13,GH,Do we have any information to pass on?
+0,76,13,DAVIS,"No, Sir. Not since Major Carter reported they boarded the scout ship."
+0,76,13,GH,Let the man try to sleep.
+0,76,13,DAVIS,"Yes, Sir."
+0,76,13,GOA'ULD,Krae tal shal mak! Heru'Ur!
+0,76,13,DANNY,Mak tal shree! Lo tak meka satak OZ!
+0,76,13,HERU'UR?,Mok Tal OZ?!??!?!?!?!
+0,76,13,DANNY,Mak Tal OZ KREE!!!!!!!!!!!!!!!!!!!!!!
+0,76,13,HERU'UR,"Kal tek shree, tak monak!"
+0,76,13,JACOB,"Alright, we're almost finished."
+0,76,13,DANNY,"That's good, because I don't think they bought my act."
+0,76,13,JACOB,Why? Who'd you say you were?
+0,76,13,DANNY,The great and powerful ---OZ!
+0,76,13,SAM,Almost there!
+0,76,13,SAM,Punch it!
+0,76,13,GH,It's been almost 3 hours. I'd like to send a final message to Colonel O'Neill.
+0,76,13,DAVIS,"Yes, Sir."
+0,76,13,SAM,"This is digger 2, we are in the solar system, and preparing for retrieval. We estimate our time to station keep with digger 1 is 4 minutes. Stand by. We're trying to make contact with Digger 1, Sir, without success. Digger 1, this is Carter. Do you read?"
+0,76,13,JACOB,Are we too late?
+0,76,13,SAM,I think they're unconscious.
+0,76,13,DANNY,"Well, we have to wake them up somehow."
+0,76,13,SAM,"Dammit, Colonel! We haven't come all this way to take you home in a box, now WAKE UP!!!!!!!!!!!!!!"
+0,76,13,JACOB,Let me give them a nudge.
+0,76,13,SAM,Colonel O'Neill? Carter? Carter!
+0,76,13,SAM,"Yes, Sir!"
+0,76,13,SAM,"Hi, Sir. We're gonna find a way to get you back home safe and warm. What's your reserve Oxygen statis?"
+0,76,13,JACK,Uh --- I don't ---- WHAT?!?!
+0,76,13,SAM,What's your reserve Oxygen status?
+0,76,13,JACK,"Carter, is that you?"
+0,76,13,SAM,"Sir, we're over here ready to bring you home. You're gonna have to trust me. He's suffering from anoxia, oxygen deprivation. Do you trust me , Sir?"
+0,76,13,JACK,Sure!
+0,76,13,SAM,Good! Is Teal'C conscious?
+0,76,13,JACK,Teal'C? Teal'C?!
+0,76,13,TEAL'C,O'Neill?
+0,76,13,JACK,"Look, It's Carter! She wants to talk to you!"
+0,76,13,TEAL'C,Major Carter! Little Oxygen remains.
+0,76,13,SAM,Cabin pressure?
+0,76,13,TEAL'C,Also very low.
+0,76,13,SAM,"We copy that. So we want you do exactly as we say. First, remove your restraints. Then on my mark, blow the canapy of the glider, then push off."
+0,76,13,TEAL'C,We will die!
+0,76,13,SAM,Negative! It'll be alright if it's only for a few seconds.
+0,76,13,JACOB,"Teal'C, the only way we can bring you abord is with the ring transporter. That means you have to be clear of the glider. Got it?"
+0,76,13,TEAL'C,I understand.
+0,76,13,JACOB,"Good. I need you at least 5 meters from the scout ship, close together. Stand by until I get into position."
+0,76,13,JACK,"Jacob, is that you?!"
+0,76,13,JACOB,"Yes, it is, Jack. Now do what we tell you."
+0,76,13,JACK,Did you know your ship's bigger than ours?
+0,76,13,SAM,"Colonel, we need you to consentrate."
+0,76,13,JACK,Blow the canopy.
+0,76,13,SAM,"On my mark, not before."
+0,76,13,JACK,Right!
+0,76,13,SAM,"Make sure your helmets are secure, and set your oxygen at 100%. You'll need to prebreath the last breaths in deep breaths holding each one in. You'll need to power the system before you blow the canopy. Then disconnect the umbilical, and exhale as much as possible. Stand by!"
+0,76,13,JACOB,We're in position. Stand by in the hold.
+0,76,13,SAM,"Colonel, Teal'C? Are you ready?"
+0,76,13,JACK,Ready!
+0,76,13,SAM,Three --- two --- one ---mark!
+0,76,14,DANNY,They're all right!
+0,76,14,SAM,"Flight, this is digger 2 . We have Colonel O'Neill & Teal'C aboard! THEY'RE BOTH ALIVE!!!! Welcome aboard!"
+0,76,14,JACK,Jacob --- Thanks for stopping by!
+0,76,14,JACOB,What the hell? I was in the neighborhood! Ya need a lift home?
+0,76,14,JACK,"Yes, Sir. Thank you."
+0,76,16,DAVIS,

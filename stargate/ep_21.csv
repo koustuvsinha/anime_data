@@ -1,0 +1,318 @@
+Season,Episode,Scene,Character,Line
+0,21,0,STARGATE SG1,Episode 201
+0,21,0,"""THE SERPENTS LAIR""",By Brad Wright The team are on the Goa'uld mothership
+0,21,0,JACK,Captain Carter?
+0,21,0,SAM,Sir?
+0,21,0,JACK,Were you able to put enough C4 around this ship to make a dent?
+0,21,0,SAM,"We placed charges where they should generate secondary explosions. So, yes, sir. Should make a helluva dent."
+0,21,0,JACK,Thank you Captain.
+0,21,0,SAM,"Given enough time, I might be able to figure out.."
+0,21,0,JACK,Negative. We should expect some of their reinforcements through that door any second. Stand by to detonate your charges on my order.
+0,21,0,SAM,"Yes, sir."
+0,21,0,DANIEL,Wait.
+0,21,0,JACK,"Daniel, if we don't stop them now, we may never stop them."
+0,21,0,DANIEL,"Yeah, I know that."
+0,21,1,DANIEL,Let's just make as big a dent as possible. Okay?
+0,21,1,SAM,"Ready and awaiting your order, sir."
+0,21,1,JACK,"Okay. Well, I suppose now is the time for me to say something profound. Nothing comes to mind. Let's do it."
+0,21,1,TEAL'C,O'Neill. Apophis' ship approaches.
+0,21,1,DANIEL,We overheard in the Gateroom he said he would rejoin Klorel once they came out of the shadows.
+0,21,1,JACK,"Teal'c, if we can knock out this ship, will it stop them?"
+0,21,1,TEAL'C,It will not. Apophis' vessel is equipped with defence shields. He will still be able to destroy your cities from high above.
+0,21,2,JACK,Tell me those C4 charges are on automatic timer.
+0,21,2,SAM,They're on automatic timer.
+0,21,2,JACK,"Good, how long do we have?"
+0,21,2,SAM,24 hours.
+0,21,2,JACK,24 hours?
+0,21,2,SAM,"At the time, sir, I thought we were still light years away."
+0,21,3,JACK,"Just a minute! Teal'c, work with me buddy. Is there any other way outta here?"
+0,21,3,TEAL'C,None.
+0,21,4,JACK,Cover up. This is turning out to be a bad day.
+0,21,7,TEAL'C,O'Neill?
+0,21,7,JACK,"Teal'c. Teal'c, I can't see."
+0,21,7,TEAL'C,I am blinded as well. It will pass.
+0,21,7,JACK,What the hell was that?
+0,21,7,TEAL'C,"A Goa'uld shock grenade. Though extremely painful, its effects are temporary."
+0,21,7,JACK,That's good to hear.
+0,21,8,JACK,Ow! God! Ow!
+0,21,8,SAM,"Colonel? Sorry, sir. It's just so dark."
+0,21,8,JACK,"Oh, Carter! It's all right. I like your attitude."
+0,21,8,DANIEL,It isn't dark. We're blind. And we failed.
+0,21,8,JACK,"All right, take it easy Daniel. We've been in worse situations than this."
+0,21,8,TEAL'C,Not to my knowledge.
+0,21,8,JACK,Thanks Teal'c.
+0,21,8,DANIEL,"Right now, they're getting ready to wipe out the major cities of Earth. They'll do it from orbit, out of reach."
+0,21,8,JACK,Daniel..
+0,21,8,DANIEL,"Jack, I've already been through this once before. I've seen this before."
+0,21,8,JACK,"Daniel, will you relax? You've been through it before and you survived. We're just having a bad day."
+0,21,8,SAM,"Colonel, I think I'm starting to see something."
+0,21,8,TEAL'C,My sight returns as well.
+0,21,8,JACK,"Now that's what I wanna hear. Carter, if someone comes in here, you bite them in the hand."
+0,21,8,SAM,"Yes, sir."
+0,21,9,BRA'TAC,"Tal kree, shak!"
+0,21,9,JAFFA,"Forgive me, master. I will not fail Klorel again."
+0,21,9,BRA'TAC,No. You will not.
+0,21,11,HAMMOND,What the hell are you doing here?
+0,21,11,SAMUELS,"Reporting for duty, sir. I'm to co-ordinate with the Pentagon."
+0,21,11,HAMMOND,By whose order?
+0,21,11,SAMUELS,The Chairman of the Joint Chiefs. At the request of Senator Kinsey. He did try to contact you.
+0,21,11,HAMMOND,"Maybe you can tell me why our forces haven't gone on full alert? If we don't get our assets moving now, they'll be caught on the ground."
+0,21,11,SAMUELS,The current thinking at the Pentagon is to do nothing that would alert the Goa'uld we know they're there.
+0,21,11,HAMMOND,Let me guess whose bright idea that was.
+0,21,11,SAMUELS,"General Hammond, may I speak freely? I know I seem to have lost your respect, sir, for whatever reason, but we wouldn't be in this situation, that is, at the brink of war with the Goa'uld, if you had heeded my advice and buried the Stargate in the first place."
+0,21,11,HAMMOND,"Was that, I told you so, Colonel Samuels?"
+0,21,11,SAMUELS,I'm not here to point fingers. Sir. I'm here to co-ordinate out pre-emptive strike against the Goa'uld ships. That's if the President approves. The Joint Chiefs are briefing him now.
+0,21,11,HAMMOND,And with what do you intend to strike?
+0,21,11,SAMUELS,"A new weapon, sir. I've helped to oversee its development at Area 51 with Colonel Maybourne. Two prototypes are being prepared for launch at Vandenberg Air Force base as we speak. If all goes well, history should mark this day by two brilliant and unexplained flashes in the night sky. The world should never know how close we came to Armageddon."
+0,21,12,APOPHIS,Kel Klorel?
+0,21,12,BRA'TAC,Your son was struck down by the humans on Klorel's vessel.
+0,21,12,APOPHIS,He has been placed in his sarcophagus?
+0,21,12,BRA'TAC,"Yes my Lord, but his wounds were great. It will take time to revive him."
+0,21,12,APOPHIS,What of the humans?
+0,21,12,BRA'TAC,I thought to wait until Klorel.
+0,21,12,APOPHIS,No! Execute them now!
+0,21,12,BRA'TAC,I will see to it myself.
+0,21,13,JAFFA,We hold our position. The humans of this world still send no challenge.
+0,21,13,APOPHIS,Yet they find their way to my son. We will attack their world when Klorel has risen again. They will pay a hundredfold for their insolence.
+0,21,13,JAFFA,"Kel'sha, Apophis."
+0,21,14,SAMUELS,The Goa'uld's unexplained delay is buying us the necessary time to prepare. We'll launch a strike as soon as they enter orbit.
+0,21,14,HAMMOND,What makes this weapon of yours so special?
+0,21,14,SAMUELS,"An otherwise ordinary Mark 12A warhead has been enriched by the alien material, naqahdah."
+0,21,14,HAMMOND,The Stargate element?
+0,21,14,SAMUELS,"Yes sir. As you know, a small amount of the raw ore was found by SG5 and brought back some months ago. The warheads should now yield in excess of 1000 megatons. each. We call them our Goa'uld busters. Our plan is to launch two rockets simultaneously into retrograde orbit. Now, the naqahdah-enriched warheads themselves are made of the same material as our stealth aircraft and should go undetected by their radar."
+0,21,14,HAMMOND,Assuming the Goa'uld have anything remotely like radar.
+0,21,14,SAMUELS,"It's our best shot, sir. And I'm sure the President agrees or he wouldn't have initiated countdown. Currently we stand at T minus 3 hours. We'll hold at two minutes while the Goa'uld come within range. It's going to work Sir. The Goa'uld should be taken completely off guard."
+0,21,14,HAMMOND,"If you're wrong, every country on Earth will be caught off guard. If it were up to me, I'd strongly recommend .."
+0,21,14,SAMUELS,"With respect, sir, it's not up to you."
+0,21,15,DANIEL,"Well on the bright side, my hand isn't blurry any more."
+0,21,15,JACK,Teal'c?
+0,21,16,JACK,Bra'tac?
+0,21,17,JACK,"Oh, God!"
+0,21,17,BRA'TAC,Fools! Hassac! You doom yourselves. It is all I can do to keep you alive. Do you know all I have done to regain the trust of Apophis and join this campaign? Hmm? Hmm?
+0,21,17,TEAL'C,"Tek'matte, Bra'tac."
+0,21,17,BRA'TAC,"Hello again, old friend. Your son grows strong. One day, he will be a great warrior. But you should not have come."
+0,21,17,TEAL'C,I stand by my friends. I believe this world may be our only hope in one day overcoming the false gods.
+0,21,17,BRA'TAC,"Yes. As pathetic as that might seem at the moment, I agree."
+0,21,17,DANIEL,You do?
+0,21,17,BRA'TAC,I may have even been able to save this world had you not interfered.
+0,21,17,JACK,Hey! What do you think we've been trying to do? It is our world you're talking about.
+0,21,17,BRA'TAC,"Enough, human! This is not the place to talk of these things. I have been ordered by Apophis himself to execute you. An order I intend to disregard. Come!"
+0,21,17,SOLDIER,"Kill the gate, Corporal."
+0,21,17,CORPORAL,"Yes, sir!"
+0,21,18,HAMMOND,They still haven't moved from this position?
+0,21,18,HARRIMAN,"No, sir. Not for the last 18 hours."
+0,21,18,HAMMOND,What in God's name are they waiting for?
+0,21,18,SAMUELS,"My mission analysis team at the Pentagon believes they're waiting to see what moves we make. Amazingly, neither the Russians nor the Chinese have detected the Goa'uld presence yet. Of course, they're not looking. So, from space, we should appear to be a vulnerable and unsuspecting world."
+0,21,18,HAMMOND,"Got them just where you want them, do you Samuels?"
+0,21,18,HARRIMAN,"Sir, there may be another reason why they haven't attacked. WE just completed the computer enhancement. There was an energy burst; coming from what we think may be the bridge of one of the ships, recorded at 1750 hours. Just before they stopped."
+0,21,18,SAMUELS,That's it?
+0,21,18,HAMMOND,"For all we know that flash, whatever it was, could be part of the ships normal function."
+0,21,18,HARRIMAN,"Except that the burst came from within the ship itself, sir, and it was fairly powerful."
+0,21,18,SAMUELS,Maybe an explosion? An accident?
+0,21,18,HAMMOND,Or sabotage?
+0,21,18,SG1.,
+0,21,18,SAMUELS,"I hardly think so. For one thing, it's impossible to gate to a ship. Forgive me, sir, I know how important SG-1 is to you but this is wishful thinking."
+0,21,18,HAMMOND,"So's your plan, Colonel. That hasn't stopped us from going ahead with it."
+0,21,18,TURNER,"General Hammond, sir, the first group on the Alpha list has just arrived."
+0,21,18,HAMMOND,Thank you.
+0,21,19,BRA'TAC,Here are you weapons. You will need them.
+0,21,19,JACK,"Bra'tac, you mentioned something about saving the world. Care to elaborate on that?"
+0,21,19,BRA'TAC,"By assaulting Klorel, you have made that impossible."
+0,21,19,DANIEL,Why?
+0,21,19,BRA'TAC,"Among the Goa'uld, a Pharaoh's power is more often challenged by their son's than by their enemies. Once we had joined battle with your world, I was prepared to lead my wing against Apophis, in Klorel's name."
+0,21,19,TEAL'C,Apophis would assume your attack was ordered by Klorel and reciprocate. A daring plan.
+0,21,19,BRA'TAC,I had hoped to drive a stake of mistrust between them. Now I fear they will bond against their common enemy.
+0,21,19,JACK,What bond? Klorel's dead.
+0,21,19,BRA'TAC,He will rise again.
+0,21,19,DANIEL,The sarcophagus.
+0,21,19,JACK,Wait a minute. You put him in that thing to bring him back?
+0,21,19,BRA'TAC,I knew it would delay the attack until he arose. Perhaps when the warships of your world attack.
+0,21,19,SAM,"Excuse me, did you say the warships of our world?"
+0,21,19,BRA'TAC,Surely you have such vessels?
+0,21,19,DANIEL,"Well, we have a number of.. of..."
+0,21,19,O'NEILL/DANIEL,Shuttles.
+0,21,19,BRA'TAC,These shuttles. They are a formidable craft?
+0,21,19,JACK,Oh yeah. Bad day.
+0,21,21,HAMMOND,"Ladies and Gentlemen, as you have all been made aware."
+0,21,21,HARRIMAN,Chevron 4 encoded.
+0,21,21,HAMMOND,"...this nation, the entire world, faces a deadly threat."
+0,21,21,HARRIMAN,Chevron 5 encoded.
+0,21,21,HAMMOND,"With this knowledge, you have all volunteered for a mission intended to preserve human kind. You've been chosen because you represent the best we have in all fields of expertise."
+0,21,21,HARRIMAN,Chevron 6 encoded.
+0,21,21,HAMMOND,"What you have not yet been told, for reasons of security, is where you're going or how you're going to get there."
+0,21,21,HARRIMAN,Chevron 7 locked.
+0,21,22,HAMMOND,"You're going to step through that. Once through the Stargate, you will find yourself on the opposite side of the galaxy. A place we call Alpha site. If we do not prevail, you, and those that follow, will call it,home. A new colony. Godspeed."
+0,21,23,KLOREL,"Kel'mak tak, Tau'ri! Let us burn their world to ashes!"
+0,21,24,HARRIMAN,They're moving.
+0,21,24,SAMUELS,Restart the countdown. Hold at T minus 20 seconds. We'll launch the weapons the moment they settle into orbit.
+0,21,25,TEAL'C,We accelerate. Klorel has risen.
+0,21,25,BRA'TAC,"Then the campaign has begun. Once we launch, we will do what damage we can."
+0,21,25,JACK,How many in your wing?
+0,21,25,BRA'TAC,Three.
+0,21,25,JACK,Three?
+0,21,25,BRA'TAC,Teal'c makes four.
+0,21,25,JACK,"Oh well, four."
+0,21,25,BRA'TAC,I have trained these warriors since they were Chal'ti. They have sworn their lives to me. It is no simple thing to ask.
+0,21,25,JACK,"And we appreciate it, believe me. But what are the odds of taking out a ship like this with four gliders and maybe a shuttle?"
+0,21,25,TEAL'C,"A Goa'uld attack vessel is heavily armed, shielded, and capable of launching a legion of gliders against us. I would say slim."
+0,21,25,JACK,"Okay, call me a pessimist, but I think it's time for a new plan."
+0,21,25,BRA'TAC,"We offer to lay down our lives for your world, human. You cannot ask more."
+0,21,25,JACK,"No, I can't. But I think a better idea is to get the other guys to lay down their lives for their world first.How long before the C4 goes?"
+0,21,25,SAM,"41 minutes, sir."
+0,21,25,JACK,"Okay, with any luck at all, this ship is gonna blow within the hour. It might be a good idea for us to get to the other one. Can you do that?"
+0,21,26,SAMUELS,That's it. They're in a geo-synchronus orbit over the United States. Lock in that attack profile and advise the President we are go for launch.
+0,21,27,HARRIMAN,Vandenberg reports a good launch.
+0,21,27,SAMUELS,"Yes! I'm sorry sir. For what it's worth, I seriously doubt SG1 is aboard those alien ships."
+0,21,27,HARRIMAN,Weapons should reach their targets in four minutes.
+0,21,27,HAMMOND,"In the meantime, let's keep moving these people through to the Alpha site."
+0,21,27,HARRIMAN,"Group nine, prepare to disembark."
+0,21,27,SAMUELS,"Sir, we might as well wait and see the result of our strike before moving more people through."
+0,21,27,HAMMOND,I don't think so.
+0,21,27,SAMUELS,Evacuation may be unnecessary.
+0,21,27,HAMMOND,"From your mouth to God's ears, Colonel."
+0,21,28,BRA'TAC,Have you more of this 4C?
+0,21,28,JACK,It's called C4.
+0,21,28,SAM,And the answer is no. We used it all to take out this ship.
+0,21,28,DANIEL,Well you guys must have something left.
+0,21,28,BRA'TAC,We shall have to cross that bridge when we come to it.
+0,21,28,JACK,"You know, that particular cliché doesn't always work."
+0,21,29,HARRIMAN,The warheads have separated. One minute to go.
+0,21,29,HAMMOND,Any indication of countermeasures?
+0,21,29,SAMUELS,I don't think they're gonna know what hit 'em.
+0,21,30,JAFFA,"My lord, they launch weapons against us."
+0,21,30,APOPHIS,Let them come.
+0,21,31,HARRIMAN,30 seconds to impact. Still no countermeasures.
+0,21,31,SAMUELS,"Go, go."
+0,21,32,JAFFA,"Their weapons approach, my lord. You must activate the shield."
+0,21,33,APOPHIS,"Klorel, tal'shak! Tal'shak!"
+0,21,34,HARRIMAN,"Impact in seven, six, five.."
+0,21,35,DANIEL,"Whoa, what was that?"
+0,21,35,TEAL'C,Something may have impacted the shields.
+0,21,36,HARRIMAN,Space Command say the warheads struck some kind of energy field just prior to impact. No damage.
+0,21,36,SAMUELS,That's impossible!
+0,21,36,HARRIMAN,
+0,21,37,BRA'TAC,Not bad. The pel'tak is two decks above. This way!
+0,21,38,HAMMOND,"Yes sir, the EMP caused by the explosion has already affected our satellite communications. It will be difficult to warn the general public in time to do anything but cause mass panic. Mr President, I strongly recommend that we maintain the highest defence condition at this time and you should board Air Force One. Yes, sir."
+0,21,39,APOPHIS,"Klorel, it is time. You will burn their first city to the ground."
+0,21,39,KLOREL,"Father, the host you chose for me is strong. I fear I may need more time in the sarcophagus to gain strength."
+0,21,39,APOPHIS,You are strong enough! You are my son!
+0,21,39,KLOREL,"Yes, Father."
+0,21,39,APOPHIS,Do not disappoint me.
+0,21,40,JACK,Looks clear.
+0,21,40,BRA'TAC,No. There are sentries in every corridor.
+0,21,40,JACK,"Carter, how many grenades?"
+0,21,40,SAM,Two left.
+0,21,40,BRA'TAC,Grenades?
+0,21,40,TEAL'C,A crude explosive device.
+0,21,40,BRA'TAC,No! Observe and learn.
+0,21,41,BRA'TAC,Hmm.
+0,21,41,JACK,Not bad.
+0,21,42,TURNER,"General Hammond, sir. Major Castleman reports Alpha teams 12 and 13 are briefed and ready to disembark."
+0,21,42,HAMMOND,Send them through.
+0,21,42,SAMUELS,General. Maybe we should consider using the Stargate as a strategic weapons platform.
+0,21,42,HAMMOND,How?
+0,21,42,SAMUELS,By sending a bomb to the co- ordinates that Dr Jackson was talking about. Or to Chulak.
+0,21,42,HAMMOND,"We already tried to send a team through to Dr Jackson's co- ordinates, it won't work. And I can't think of any military reason to wipe out the people of Chulak."
+0,21,42,SAMUELS,"Well sir, since I am no longer wanted or needed here, I respectfully request permission to join one of the teams headed for the Alpha site, at least there..."
+0,21,42,HAMMOND,"Permission denied. The idea is to send the best and brightest, Colonel. When the time comes, you will stand alongside the men and women of this command, in defence of this facility."
+0,21,42,SAMUELS,But sir!
+0,21,42,HAMMOND,I ask no more or less of myself. Dismissed!
+0,21,43,JACK,"All right, here's what we do..."
+0,21,43,BRA'TAC,I will lead. You will follow.
+0,21,43,JACK,Right.
+0,21,43,BRA'TAC,You will know when it is time.
+0,21,43,DANIEL,Whoa. You're just gonna walk in there alone?
+0,21,43,BRA'TAC,I am Klorel's loyal servant.
+0,21,44,KLOREL,Bra'tac.
+0,21,44,BRA'TAC,"My lord, Klorel."
+0,21,44,KLOREL,Come. Witness the power of your god.
+0,21,44,BRA'TAC,I cannot.
+0,21,44,KLOREL,Why do you defy me?
+0,21,44,BRA'TAC,Because you are not a God. You are a parasite within a child and I despise you.
+0,21,44,KLOREL,"Jaffa, kree ty! I am your god!"
+0,21,45,KLOREL,And you will feel my wrath!
+0,21,45,BRA'TAC,I die free!
+0,21,46,JACK,"Let's go! Daniel, watch our backs!"
+0,21,47,KLOREL,"Jaffa, tal'shak!"
+0,21,48,DANIEL,Jack!
+0,21,49,DANIEL,Arrgh!
+0,21,50,JACK,"Daniel, Dammit!"
+0,21,50,DANIEL,I'm dead anyway. Just get outta here!
+0,21,50,JACK,"I am not leaving you here, Daniel."
+0,21,50,DANIEL,Get outta here! You're just gonna blow up with the other ship anyway! What difference does it make? Go! Just go! I'll stay and watch your back.
+0,21,51,JACK,He's staying behind.
+0,21,51,BRA'TAC,Come.
+0,21,54,APOPHIS,"Kree, jaffa!"
+0,21,54,BRA'TAC,Come. Come.
+0,21,54,TEAL'C,"If you fire upon us, I will kill Klorel!"
+0,21,54,APOPHIS,"Bra'tac, how dare you betray me?"
+0,21,54,BRA'TAC,I have spent 133 years worshipping false Gods. No more!
+0,21,55,SAM,"Colonel, the C4 on the other ship goes in six minutes."
+0,21,55,JACK,How do we blow this ship?
+0,21,55,BRA'TAC,"When we were on Klorel's vessel, I directed it closer to this one."
+0,21,55,TEAL'C,"If we destroy the shield generator of this vessel, both will be destroyed in the explosion. Two birds with but one stone."
+0,21,55,BRA'TAC,This way.
+0,21,56,APOPHIS,"You disappoint me, my son."
+0,21,56,KLOREL,"Father, please forgive me."
+0,21,57,BRA'TAC,"The shield generators are far below. There, in the very bowels of the ship. We must climb down several decks, through the length of the ship. Then taking our weapons, we must.."
+0,21,58,JACK,Grenades.
+0,21,58,TEAL'C,This vessel is no longer protected by an energy field.
+0,21,58,SAM,So that's it?
+0,21,58,TEAL'C,That is it.
+0,21,58,JACK,"I think what the Captain is asking is, what now?"
+0,21,58,BRA'TAC,Now we die.
+0,21,58,JACK,Well that's a bad plan. Where are the glider bays from here?
+0,21,59,HARRIMAN,"Sir, Space Command reports the two ships seem to be moving closer together."
+0,21,59,HAMMOND,What's the status of the shuttle Endeavor?
+0,21,59,HARRIMAN,On the pad and standing by.
+0,21,59,HAMMOND,We've got to find out what's going on up there.
+0,21,60,JACK,"Carte, you and I will go in first. We'll take up positions to.... Never mind."
+0,21,60,BRA'TAC,Observe.
+0,21,61,BRA'TAC,Now that was a grenade! Come!
+0,21,62,BRA'TAC,"Human, put this on."
+0,21,62,JACK,Will you please stop calling me human?
+0,21,64,APOPHIS,No!
+0,21,66,DANIEL,"Beta site, beta site."
+0,21,67,JACK,Our time is up. We have got to go.
+0,21,67,SAM,Punch it.
+0,21,71,HARRIMAN,"Sir, sir, we've got reports from all over the country. A huge fireball in the night sky!"
+0,21,72,JACK,Bra'tac? Bra'tac! You okay?
+0,21,72,BRA'TAC,"Not bad, for an old man."
+0,21,72,SAM,Colonel? Come in.
+0,21,72,JACK,"We're okay, Captain."
+0,21,72,SAM,Same here sir. But I don't think we bought ourselves much time. Our glider's had it.
+0,21,72,TEAL'C,I concur.
+0,21,72,SAM,We got cooked pretty bad in the explosion.
+0,21,72,JACK,Captain?
+0,21,72,SAM,"We're low on power and in a fairly low orbit, so I don't imagine it will be too much longer before we burn up in Earth's atmosphere."
+0,21,72,JACK,"Captain, take a look up."
+0,21,73,SAM,It's beautiful.
+0,21,73,JACK,"Yes, it is."
+0,21,73,SAM,We saved it sir.
+0,21,73,JACK,"Yes, we did."
+0,21,74,HARRIMAN,Incoming traveller! Incoming traveller! It's SG-1's signal sir.
+0,21,74,HAMMOND,Open the iris.
+0,21,75,HAMMOND,Dr Jackson! Was SG-1 aboard one of those ships?
+0,21,75,DANIEL,"Ah, yes."
+0,21,75,HAMMOND,"Well, well how did you get"
+0,21,75,DANIEL,"There was a Stargate aboard the ship we were on. So once I realised we were close enough to use Earth as a point of origin, I dialled P3X 984."
+0,21,75,HAMMOND,The Alpha site?
+0,21,75,DANIEL,"Yeah, well they called it the Beta site in the alternate reality."
+0,21,75,HAMMOND,Where's the rest of SG-1?
+0,21,76,SAM,"It's gonna be a beautiful sunset, sir."
+0,21,76,JACK,"You know, Captain, this wasn't such a bad day after all."
+0,21,76,SAM,Not bad at all.
+0,21,76,BRA'TAC,"We die well, Teal'c."
+0,21,76,TEAL'C,"More than that, old friend. We die free."
+0,21,76,JACK,Or not.
+0,21,78,HAMMOND,Master Bra'tac. Words cannot express our gratitude.
+0,21,78,BRA'TAC,"You are Hammond, of Texas?"
+0,21,78,HAMMOND,I am.
+0,21,78,BRA'TAC,Your warriors serve you well.
+0,21,78,HAMMOND,I know they will be sorry to see you return home so soon.
+0,21,78,BRA'TAC,"I must return, before word of our rebellion reaches Chulak. My place is there."
+0,21,78,SOLDIER,"This way, sir, we want to ask you some questions before you leave."
+0,21,79,JACK,Not bad at all.
+0,21,79,HAMMOND,
+0,21,80,SAM,Daniel.
+0,21,81,JACK,Space monkey. Yeah!

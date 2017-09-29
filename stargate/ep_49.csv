@@ -1,0 +1,418 @@
+Season,Episode,Scene,Character,Line
+0,49,0,STARGATE SG1,Episode 307
+0,49,0,"""DEAD MAN SWITCH""",By Robert C. Cooper
+0,49,1,O'NEILL,What's your reading Major?
+0,49,1,CARTER,It should be around here somewhere.
+0,49,1,DANIEL,"Teal'c, you said the UAV must have been shot down by the Goa'uld, yet we've seen no sign of civilisation."
+0,49,1,CARTER,It's hard to tell. The sensors went offline as soon as it was hit.
+0,49,1,TEAL'C,Over here.
+0,49,2,CARTER,Looks like it's been hit by a staff blast.
+0,49,2,DANIEL,"It doesn't make any sense. When a Goa'uld occupies a planet, they usually control the Stargate. This Gate had no markings of any..."
+0,49,3,DANIEL,Found something.
+0,49,3,O'NEILL,Fall back.
+0,49,4,CARTER,"Uh, sir?"
+0,49,4,O'NEILL,All right. Heads up.
+0,49,5,ARIS BOCH,Your weapons will not penetrate the shield!
+0,49,6,ARIS BOCH,"However, mine will."
+0,49,7,O'NEILL,Who are you?
+0,49,7,ARIS BOCH,Aris Boch. Perhaps you've heard of me?
+0,49,7,O'NEILL,"Uh, not I. Teal'c?"
+0,49,7,TEAL'C,I have not.
+0,49,7,ARIS BOCH,Well that's disappointing. I'm one of the galaxy's greatest hunters.
+0,49,7,O'NEILL,Not ringing a bell. Sorry.
+0,49,7,ARIS BOCH,Well I know you. Captain Samantha Carter. Dr Daniel Jackson. The Jaffa traitor Teal'c. And Colonel Jack O'Neill.
+0,49,7,O'NEILL,"Well, fancy that. We're famous."
+0,49,7,ARIS,Drop your weapons.
+0,49,7,O'NEILL,And if we don't?
+0,49,7,ARIS,Do we really have to get so dramatic?
+0,49,7,O'NEILL,Why not?
+0,49,8,ARIS,You were thinking of the personal defence shields the Goa'uld use. The ones which allow slower moving objects to pass through. Wouldn't make a very effective trap now would they?
+0,49,8,O'NEILL,You can't blame a girl for trying.
+0,49,8,ARIS,Are you kidding? That's exactly what I'd expect from you. Now drop your weapons...or I'll kill someone.
+0,49,9,ARIS,"I'm sure you're thinking about escaping so you should know I've disabled the Stargate dialling device. Even if you did overpower me, which is unlikely, you'll never get off this planet."
+0,49,10,ARIS,This way.
+0,49,11,ARIS,Everybody stop. Drop your gear.
+0,49,11,DANIEL,I don't suppose we could talk about this?
+0,49,11,ARIS,Inside.
+0,49,11,O'NEILL,Inside what?
+0,49,11,ARIS,Barokna.
+0,49,12,ARIS,Inside.
+0,49,13,TEAL'C,It is a Goa'uld cargo transport. The ship's of an older design. I have never before seen the cloaking technology.
+0,49,13,ARIS,It's an upgrade.
+0,49,14,ARIS,Let's go.
+0,49,15,CARTER,"Sir, he's not Goa'uld."
+0,49,15,O'NEILL,And? But? So? Therefore?
+0,49,16,TEAL'C,It sounds as if Aris Boch has left the vessel.
+0,49,16,O'NEILL,"Well, what do you say we use the time to find a way out of this, huh?"
+0,49,16,DANIEL,"Even if we could find a way out of here, he said he disabled the Stargate."
+0,49,16,O'NEILL,"Teal'c, how fast will this unit fly?"
+0,49,16,TEAL'C,I believe it is capable of travelling twice the speed of light.
+0,49,16,O'NEILL,Nice. Home for dinner.
+0,49,16,CARTER,"Uh, sir, if you're thinking of trying to steal the ship and fly it back to Earth, even at 372,000 miles per second, it would still take us at least 10 years to get that far."
+0,49,16,O'NEILL,Shoulda let the dog out.
+0,49,20,ARIS,Back up with the others. Now.
+0,49,21,ARIS,All I have to do is flinch a little bit and this will spray enough toxic gas to kill everybody in one breath.
+0,49,22,ARIS,"Dr Jackson, if you don't mind.. treating my wound."
+0,49,22,DANIEL,I'm an archaeologist.
+0,49,22,ARIS,"I know, but you're also a doctor."
+0,49,22,DANIEL,Of archaeology.
+0,49,22,ARIS,Never mind. Captain... you must have some medical training.
+0,49,22,CARTER,"Actually, I'm a Major now."
+0,49,22,ARIS,"Oh! Well how very important. I'll inform the galaxy. Can you get over here now and help me, Major?"
+0,49,23,ARIS,This with this and then this.
+0,49,24,ARIS,Argh!
+0,49,24,CARTER,Sorry.
+0,49,24,ARIS,Yeah!
+0,49,24,O'NEILL,So? Who shot you?
+0,49,24,ARIS,I wouldn't step any closer.
+0,49,24,O'NEILL,Just... showing my concern
+0,49,24,ARIS,"Well, like I said before, capturing you was unintentional. The real reason I'm here is to catch a Goa'uld."
+0,49,24,O'NEILL,You hunt Goa'uld?
+0,49,24,ARIS,I hunt anyone of value.
+0,49,24,DANIEL,Which Goa'uld are you hunting?
+0,49,24,ARIS,His name is Kel'tar.
+0,49,24,DANIEL,I haven't heard of him before.
+0,49,24,ARIS,"Well, contrary to popular human belief, the Earth is not the centre of the galaxy."
+0,49,24,TEAL'C,I have not heard of him either.
+0,49,24,ARIS,Have you met every Goa'uld? I haven't. The only thing I know is that Sokar has discovered Kel'tar's plotting against him.
+0,49,24,O'NEILL,So you work for Sokar?
+0,49,24,ARIS,No.
+0,49,24,O'NEILL,"Self employed, then? Independent contractor? Rogue warrior?"
+0,49,24,ARIS,I give to the Goa'uld what they want and they give back to me what I want in return.
+0,49,24,CARTER,How do you keep from getting killed?
+0,49,24,ARIS,Takes talent.
+0,49,24,O'NEILL,"So, how do you keep from getting killed?"
+0,49,24,DANIEL,"So, what do you expect to get for us?"
+0,49,24,O'NEILL,Daniel?
+0,49,24,DANIEL,Just curious.
+0,49,24,ARIS,"Well, Teal'c is worth the most. The System Lords would love to make a good example of him. And Carter here... well she has the memories of the Tok'ra Jolinar. And you, O'Neill, you're considered, well, you're a pain in the Mikta!"
+0,49,25,O'NEILL,Neck?
+0,49,25,TEAL'C,No.
+0,49,25,DANIEL,What about... what about me?
+0,49,25,ARIS,You? Well I'll be happy to get a day's rations for you.
+0,49,25,DANIEL,"Oh, a day's rations."
+0,49,25,O'NEILL,Trade you.
+0,49,25,DANIEL,"I'm just saying, if we know what we're worth, maybe there's something we can offer for our freedom."
+0,49,25,CARTER,Done.
+0,49,25,ARIS,Good. Back over there.
+0,49,26,ARIS,Dr Jackson is right. There is something you can do.
+0,49,26,O'NEILL,Let's hear it.
+0,49,26,ARIS,"Well, you help me capture a Goa'uld and I'll let you go."
+0,49,26,O'NEILL,He's worth that much?
+0,49,26,ARIS,Twice as much as all of you put together.
+0,49,26,O'NEILL,Twice?
+0,49,26,DANIEL,Twice.
+0,49,26,ARIS,"What, are you gonna argue?"
+0,49,26,O'NEILL,Why do you need our help anyway?
+0,49,26,ARIS,"Hey, I take help whenever I can get it. You see, this injury is gonna take time to heal and I don't have that luxury. Sokar can figure out everything I can figure out. If I want to trade Kel'tar back to Sokar, I gotta get to him first."
+0,49,26,DANIEL,How do we know we can trust you?
+0,49,26,ARIS,"Well, my word is good on over 2000 planets."
+0,49,26,O'NEILL,There are billions.
+0,49,26,TEAL'C,It would appear we have no choice.
+0,49,26,ARIS,"Yes. Choiceless. I mean, guys, come on! What's the big deal? It's a Goa'uld. I hate Goa'uld. You hate `em. Everybody hates Goa'ulds."
+0,49,26,O'NEILL,"Yeah, okay. We'll do it."
+0,49,26,ARIS,Good. You and you come with me. You two stay here.
+0,49,27,O'NEILL,"Oh no, now wait a minute..."
+0,49,27,ARIS,Uh uh. Uh uh uh.
+0,49,27,O'NEILL,Choiceless?
+0,49,27,ARIS,"You see, that's why I like you. You're quick. Let's go."
+0,49,27,O'NEILL,Oh yeah.
+0,49,31,ARIS,"You trust me, I trust you."
+0,49,32,DANIEL,What's that?
+0,49,32,ARIS,Drink.
+0,49,33,O'NEILL,So what exactly do you have in mind regarding the capture of this Goa'uld? What's was his name? Kevlar?
+0,49,33,ARIS,Kel'tar. You two are gonna surrender to him.
+0,49,33,O'NEILL,That's a bad plan.
+0,49,33,DANIEL,What if he's in the mood to shoot first and take prisoners later?
+0,49,33,ARIS,That's your problem. Let's go.
+0,49,33,O'NEILL,"You know, if you really were the greatest bounty hunter in the galaxy you'd grab that Goa'uld yourself and turn us all in."
+0,49,33,ARIS,"What, and miss the chance of watching the great Jack O'Neill in action? Look, do you want to know how I became the greatest bounty hunter in the galaxy?"
+0,49,33,O'NEILL,More than life itself.
+0,49,33,ARIS,"I'm the greatest because I'm alive. That's it. Period. I'm not greedy. If I can catch a Goa'uld equipped with all kinds of fancy toys without risking my neck, that's a damn good compromise."
+0,49,33,O'NEILL,Fancy toys?
+0,49,33,ARIS,All you gotta do is get close enough to shoot `em with a zat'n'ktel.
+0,49,33,O'NEILL,Okay. Found a flaw in your plan.
+0,49,33,ARIS,What's that?
+0,49,33,O'NEILL,"Well, we're exactly one zat gun short of actually having a zat gun."
+0,49,33,ARIS,A zat gun?
+0,49,33,O'NEILL,"Drop the ""n'ktel""."
+0,49,33,ARIS,I guess it does save a bit of effort.
+0,49,34,O'NEILL,You're giving me a working zat gun?
+0,49,34,ARIS,"Well, if it didn't work it wouldn't do you any good. I'm trusting you."
+0,49,35,DANIEL,"Jack, he disabled the DHD and Sam said we can't fly that ship all the way home."
+0,49,35,O'NEILL,So we'll fly it to a closer planet with a Stargate.
+0,49,35,DANIEL,Good thinking.
+0,49,35,O'NEILL,It happens.
+0,49,38,DANIEL,Well this is the place.
+0,49,38,O'NEILL,Yeah. How'd he open that door?
+0,49,38,DANIEL,It opened when he said that word.
+0,49,38,O'NEILL,Voice activated. What was the word?
+0,49,38,DANIEL,"Uh, bark something."
+0,49,38,O'NEILL,"Almond bark. Barcalounger, Beetlejuice!"
+0,49,38,DANIEL,Barkna. It was Barkna.
+0,49,38,O'NEILL,"Well, if it was Barkna, the door'd be opening, wouldn't it?"
+0,49,38,DANIEL,This was your idea.
+0,49,38,O'NEILL,You're the linguist.
+0,49,38,DANIEL,"Well, I don't remember."
+0,49,38,O'NEILL,"Well, try!"
+0,49,38,DANIEL,"Okay, well, I said, ""Can we talk about this?"" He said ""Inside""."
+0,49,38,O'NEILL,"I said, ""Inside what?"" He said..."
+0,49,38,DANIEL,"He said ""Barokna""!"
+0,49,39,O'NEILL,Gesundheit.
+0,49,41,DANIEL,"Okay, he opened the door by pressing a combination of..."
+0,49,43,O'NEILL,Teal'c?
+0,49,43,TEAL'C,O'Neill?
+0,49,43,O'NEILL,Yeah! How do you open this thing?
+0,49,43,TEAL'C,There are six symbols on the pad. You must enter the correct combination of five.
+0,49,43,O'NEILL,How many combinations could there be?
+0,49,43,DANIEL,Oh boy.
+0,49,43,O'NEILL,Yeah.
+0,49,44,O'NEILL,"Listen, in the meantime, tell me how to fly this thing."
+0,49,44,TEAL'C,First you must locate the main steering console.
+0,49,45,O'NEILL,Daniel? Would you come here a moment? What do you think this is?
+0,49,45,DANIEL,Looks like a countdown.
+0,49,45,O'NEILL,"Of course it is! Oh, Teal'c, would these kind of ship s have any kind of self-destruct mechanism?"
+0,49,45,TEAL'C,It is possible.
+0,49,46,DANIEL,We just lost a digit.
+0,49,46,O'NEILL,Of course we did.
+0,49,46,CARTER,Oh boy.
+0,49,47,O'NEILL,"So, Teal'c, how does one override the self-destruct?"
+0,49,47,TEAL'C,Open the cowling in the centre console. There should be three delmacs.
+0,49,48,TEAL'C,Crystals. There should be three crystals.
+0,49,48,DANIEL,There's only two. The middle one's missing.
+0,49,48,O'NEILL,We're missing one!
+0,49,48,TEAL'C,Then there is no way to override the self-destruct.
+0,49,48,DANIEL,We just lost another digit. Aris must have the other crystal.
+0,49,48,O'NEILL,Go.
+0,49,51,ARIS,Hey! What were you guys thinking?
+0,49,52,ARIS,Only I can fire that.
+0,49,53,ARIS,Put the weapon down.
+0,49,53,O'NEILL,You put the crystal back.
+0,49,53,ARIS,What if I don't?
+0,49,53,O'NEILL,You won't blow up your ship.
+0,49,53,ARIS,Maybe I will.
+0,49,53,O'NEILL,While you're in it?
+0,49,55,ARIS,Now it's set.
+0,49,55,O'NEILL,Put the gun down.
+0,49,55,ARIS,"Colonel, you think I'd give you a weapon that would work on me?"
+0,49,56,ARIS,Ooh! Tickles!
+0,49,56,DANIEL,Then why did you pretend to be knocked out?
+0,49,56,ARIS,"Well, let's just say I wanted to see you guys sweat a little. Now, did we learn something here?"
+0,49,57,ARIS,Ouch!
+0,49,58,ARIS,Let's go.
+0,49,59,ARIS,"You know, I very disappointed. I thought we had something good going."
+0,49,59,O'NEILL,Oh come on. What did you expect?
+0,49,59,ARIS,"Well, I offered a fair deal. I trusted you."
+0,49,59,O'NEILL,Oh please.
+0,49,59,DANIEL,We're sorry. Is the deal still on the table?
+0,49,59,ARIS,How could I trust you now?
+0,49,59,O'NEILL,"Look, your plan sucks."
+0,49,59,ARIS,Okay. We all go together this time.
+0,49,59,O'NEILL,"Yeah, you know, we're gonna need our stuff."
+0,49,59,ARIS,"Well, some of that shouldn't be a problem."
+0,49,60,DANIEL,So you don't seem to have much of a problem trading human lives like commodities.
+0,49,60,ARIS,Oh you Earthlings and your morality! Has it ever occurred to you that someone outside your solar system might not see things the way you do?
+0,49,60,CARTER,Why don't the Goa'uld just take what they want from you and kill you?
+0,49,60,ARIS,"They don't kill me because I deliver. As long as I'm alive, there'll always be a next time."
+0,49,60,CARTER,Why don't they just make you a host?
+0,49,60,ARIS,Because they can't. They tried a long time ago when they first came to my home planet. But there's something about my race's physical makeup that rejected a Goa'uld blending. I don't know why.
+0,49,60,CARTER,That's incredible.
+0,49,60,ARIS,"Oh yeah, so incredible they wiped out most of my people because of it."
+0,49,60,DANIEL,But not you?
+0,49,60,ARIS,I managed to impress them. My people have always been strong and skilled. That's why the Goa'uld kept the youngest as slaves and killed the rest.
+0,49,60,DANIEL,"Well you could have your freedom, there must be lots of planets where the Goa'uld wouldn't find you."
+0,49,60,ARIS,"What freedom? They killed my wife, but my son still lives. He's a slave in one of Sokar's naqahdah mines. One day I hope to capture a prize valuable enough to trade for his freedom as well as mine. Let's keep moving."
+0,49,62,O'NEILL,Wow! These are cool.
+0,49,62,ARIS,At the end of that riverbed is the cave where I last encountered Kel'tar.
+0,49,62,O'NEILL,You said he had some fancy toys?
+0,49,62,ARIS,"Yeah, at the very least a small hand device. Plus, when I approached the cave, energy blasts fired at me from several directions."
+0,49,62,O'NEILL,"Okay, how about another zat?"
+0,49,63,ARIS,"You shoot that Goa'uld first chance you get. I'll stay here, set a shield trap."
+0,49,63,O'NEILL,I though you'd wanna watch us work?
+0,49,63,ARIS,I trust you.
+0,49,63,O'NEILL,You do?
+0,49,63,ARIS,Sure. And Major Carter stays with me.
+0,49,63,O'NEILL,Unacceptable.
+0,49,63,ARIS,It's not negotiable. You don't return and I turn her over to Sokar.
+0,49,63,O'NEILL,Yeah.
+0,49,65,O'NEILL,"So Teal'c, how does one Goa'uld fire weapons from several directions?"
+0,49,65,TEAL'C,Tacs.
+0,49,65,O'NEILL,Tac'n'ktels?
+0,49,65,TEAL'C,Tacluchnatagamuntorons.
+0,49,66,TEAL'C,Tacs.
+0,49,66,O'NEILL,What are they?
+0,49,66,TEAL'C,Automatic remote weapons.
+0,49,67,O'NEILL,Heat seeking?
+0,49,67,TEAL'C,So it would seem.
+0,49,68,TEAL'C,Surrender!
+0,49,69,O'NEILL,Put your hand down!
+0,49,70,KORRA,You are Teal'c. The shol'va.
+0,49,70,O'NEILL,Is that a host?
+0,49,71,KORRA,You are SG-1. From Earth.
+0,49,71,O'NEILL,"Yeah, apparently we're well known."
+0,49,71,KORRA,My name is Korra.
+0,49,71,DANIEL,We were told it was Kel'tar.
+0,49,71,KORRA,No. Please help me.
+0,49,71,O'NEILL,Help you?
+0,49,71,KORRA,I am not Goa'uld. I am Tok'ra.
+0,49,73,ARIS,"I don't have to tie you to a tree or anything unpleasant like that, do I?"
+0,49,73,CARTER,No. What is that?
+0,49,73,ARIS,Watching your friends.
+0,49,73,CARTER,How?
+0,49,73,ARIS,Magic.
+0,49,73,CARTER,Naqahdah. The zat guns. That's how you track the Goa'uld. You use their own technology against them.
+0,49,74,CARTER,"You know, the fact that your race rejects the Goa'uld symbiote could be very valuable to us. To all humans all over the galaxy. It could be the key to defeating the Goa'uld."
+0,49,74,ARIS,I doubt it.
+0,49,74,CARTER,If they couldn't use us as hosts...
+0,49,74,ARIS,"I told you before, I don't understand this immunity."
+0,49,74,CARTER,"Well, we'd have to run some tests."
+0,49,74,ARIS,You do not possess anything of equal value worth trading for.
+0,49,74,CARTER,Your son is being held as a slave. We could help you get him back. Would that be valuable enough for you?
+0,49,74,ARIS,That's impossible.
+0,49,76,TEAL'C,His injuries are severe.
+0,49,76,DANIEL,What now?
+0,49,76,O'NEILL,Can you talk?
+0,49,76,KORRA,Yes.
+0,49,76,O'NEILL,All right. Here's what's happening. There's a guy out there..
+0,49,76,KORRA,Aris Boch.
+0,49,76,O'NEILL,Yeah. He's got us trapped on this planet and he's holding a member of our team hostage.
+0,49,76,KORRA,"Samantha Carter, the daughter of Jacob, host to Selmak."
+0,49,76,O'NEILL,"So you've got good information. Here's the deal. He said if we can catch you, he'd let us go home."
+0,49,76,KORRA,I will not allow myself to be turned over to Sokar.
+0,49,76,O'NEILL,Can you prove you're a Tok'ra?
+0,49,76,KORRA,"I only have my word. If Samantha Carter were here, she would recognise me."
+0,49,76,DANIEL,"Aris must have known Sam would be able to verify whether Korra, Kel'tar, whatever his name is, is telling the truth about being a Tok'ra."
+0,49,76,O'NEILL,"Well, as far as I'm concerned, you could be Goa'uld using the old ""I'm a Tok'ra"" thing to get us to help you."
+0,49,76,KORRA,What did he tell you about me?
+0,49,76,DANIEL,Just that your name was Kel'tar and you were an enemy of Sokar.
+0,49,76,KORRA,"I was working in Sokar's ranks as a spy. I cam to believe Sokar had learned my true identity. I managed to escape by stealing the cargo ship. It took me several weeks to travel here, the closest planet with a Stargate not under Goa'uld control. Aris was already here guarding the Gate. He had anticipated my plan."
+0,49,76,TEAL'C,Aris Boch claimed the vessel was his.
+0,49,76,KORRA,"It belongs to Sokar. And Aris likely plans to trade it back to him, along with us. All of us."
+0,49,78,ARIS,So what's it like to have one of those things bore itself into your brain and possess you?
+0,49,78,CARTER,I couldn't tell you.
+0,49,78,ARIS,Oh come on. What are you saying?
+0,49,78,CARTER,You wouldn't understand.
+0,49,78,ARIS,"What's the difference? They're all the same  Tok'ra, Goa'uld..."
+0,49,78,CARTER,Is that really what you think?
+0,49,78,ARIS,They all have different stories but the same bad blood.
+0,49,78,CARTER,"No. It's not true. And if you really hate the Goa'uld, you'd try to learn more about the Tok'ra."
+0,49,78,ARIS,"Well, I wasn't much good at school."
+0,49,78,CARTER,"Well, trying to defeat the Goa'uld is better than the alternative."
+0,49,79,CARTER,What? What is so funny?
+0,49,79,ARIS,"Oh the whole thing is amusing when you know just how insurmountable the task is. Defeating the Goa'uld. Yeah, oh, admirable! But amusing."
+0,49,79,CARTER,"If enough of the right allies work together, the task might not be so insurmountable."
+0,49,79,ARIS,"You mean me. Well, I couldn't help you as much as you think."
+0,49,79,CARTER,You mean you won't. You know what I think? I think you care. And I don't think you like what you do nearly as much as you pretend to.
+0,49,79,ARIS,I think you should shut up.
+0,49,80,CARTER,What is that?
+0,49,80,ARIS,Water.
+0,49,80,CARTER,What you put in it.
+0,49,80,ARIS,Flavour.
+0,49,81,KORRA,Aris told you about his wife and son?
+0,49,81,O'NEILL,Oh yeah.
+0,49,81,KORRA,It's a lie. He has none. Never did.
+0,49,81,DANIEL,So why does he do this?
+0,49,81,O'NEILL,Greed.
+0,49,81,KORRA,Not exactly. It is true that his race cannot be used as hosts. And most were slaughtered by the Goa'uld. Those that were kept alive were addicted to a substance called roshna. It was given to them in their water.
+0,49,81,O'NEILL,That blue stuff?
+0,49,81,KORRA,"Now after many generations, Aris Boch's race cannot live without the roshna. They depend on it. It keeps them subservient. If he stops taking the roshna, he will die."
+0,49,81,DANIEL,"So whatever the reason, he has no choice?"
+0,49,81,KORRA,I do not defend him. Aris Boch has endeared himself to the Goa'uld by being unscrupulous. He indiscriminately both hunts guilty and innocent only caring about whether they have any trading value.
+0,49,81,O'NEILL,"Well, we have to get Carter away from him."
+0,49,81,KORRA,Does this mean you believe me?
+0,49,81,O'NEILL,Not just yet. But I'm starting to get that choiceless feeling all over again.
+0,49,81,KORRA,"I cannot be turned over to Sokar. He has methods of extracting information. There are other Tok'ra operatives in his midst, who I will not betray."
+0,49,81,O'NEILL,I understand. Can you walk?
+0,49,82,KORRA,I will not burden you.
+0,49,82,TEAL'C,It is no burden.
+0,49,82,KORRA,You must leave your weapons.
+0,49,82,O'NEILL,Why?
+0,49,82,KORRA,"As long as you carry Goa'uld technology, he will know our position."
+0,49,83,O'NEILL,Great.
+0,49,86,CARTER,What's wrong?
+0,49,86,ARIS,I don't see them and they're not moving. Either the Goa'uld got them or they're not playing by the rules.
+0,49,86,CARTER,So what does that mean?
+0,49,89,O'NEILL,It's a trap.
+0,49,89,TEAL'C,I will go.
+0,49,89,O'NEILL,"No, no. I will."
+0,49,89,DANIEL,What are we supposed to do?
+0,49,89,O'NEILL,Well he's gonna have to show himself eventually. Can you take him?
+0,49,89,TEAL'C,I can.
+0,49,89,O'NEILL,All right.
+0,49,92,O'NEILL,Carter.
+0,49,93,O'NEILL,Carter. Where is he?
+0,49,96,O'NEILL,Carter. Cart.. Carter! Come on. You passed out again. You all right?
+0,49,96,CARTER,Yeah. What did I miss?
+0,49,97,O'NEILL,"Oh, not too much. Oh, by the way, the Goa'uld Aris wanted us to catch, he claims to be a Tok'ra named Korra. Ring a bell?"
+0,49,97,CARTER,"Yeah, it does."
+0,49,97,O'NEILL,He said you'd recognise him.
+0,49,97,CARTER,Maybe. We can't let Aris trade a Tok'ra.
+0,49,98,O'NEILL,"Oh yeah! Way to play hard to get, boys."
+0,49,98,ARIS,"Well, give me a little credit."
+0,49,98,O'NEILL,Why's that?
+0,49,98,ARIS,"Well I have what I wanted. The rest of you, you're free to go."
+0,49,98,DANIEL,You're keeping your end of the bargain?
+0,49,98,ARIS,I gave my word.
+0,49,98,CARTER,"I know you don't think you have another choice but there must be another way. If you take Korra, a lot of Tok'ra may die."
+0,49,98,ARIS,I've already communicated with Sokar. One of his motherships will be entering orbit around this planet any time now.
+0,49,98,KORRA,I will not betray the lives of other Tok'ra.
+0,49,99,O'NEILL,What the hell did you do that for?
+0,49,100,ARIS,Poison? That's very un-Goa'uld like. Why would he do that?
+0,49,100,CARTER,To save the lives of other Tok'ra.
+0,49,100,ARIS,Since when does a Goa'uld care about another Goa'uld?
+0,49,100,CARTER,"I've told you, the Tok'ra are not the same."
+0,49,100,ARIS,Sokar's on his way.
+0,49,100,O'NEILL,Are you having second thoughts here?
+0,49,100,ARIS,I have to give him something.
+0,49,100,TEAL'C,Take me.
+0,49,100,O'NEILL,Forget it.
+0,49,100,TEAL'C,I am the most valuable I trade next to the Tok'ra.
+0,49,100,O'NEILL,I don't care.
+0,49,100,TEAL'C,I will go. Take me.
+0,49,101,ARIS,That'll be Sokar.
+0,49,102,ARIS,Okay. Brief moment of weakness. Teal'c comes with me.
+0,49,102,O'NEILL,That just is not gonna happen.
+0,49,102,ARIS,No other way. Last chance to take that Tok'ra and get the hell out. You might need this.
+0,49,103,CARTER,Missing piece of the DHD. Teal'c...
+0,49,103,TEAL'C,We are choiceless.
+0,49,103,O'NEILL,We'll find you.
+0,49,103,ARIS,"Oh, this is so beautiful. Really, I'm starting to tear up here, you know? But we gotta go. Now."
+0,49,106,ARIS,Here we go.
+0,49,108,KORRA,What happened?
+0,49,108,DANIEL,Teal'c went in your place.
+0,49,108,O'NEILL,"Come on, let's get outta here."
+0,49,110,ARIS,It's a pretty noble thing you're doing.
+0,49,110,TEAL'C,You have made a sacrifice as well.
+0,49,110,ARIS,"I guess I never knew the Tok'ra were different, you know. So what made you betray Apophis?"
+0,49,110,TEAL'C,The Goa'uld are enslavers of worlds. The humans value freedom.
+0,49,110,ARIS,"You don't really think the Tok'ra and the humans have a chance of overthrowing the Goa'uld, do you?"
+0,49,110,TEAL'C,I do.
+0,49,110,ARIS,I don't think so.
+0,49,110,TEAL'C,I would rather serve with those willing to die trying.
+0,49,110,ARIS,I really don't wanna do this. I hate the Goa'uld as much as you do.
+0,49,112,CARTER,Oh my God.
+0,49,112,O'NEILL,What the hell...?
+0,49,113,KORRA,Escape pods.
+0,49,115,O'NEILL,Where's Teal'c?
+0,49,115,TEAL'C,I am here O'Neill.
+0,49,115,O'NEILL,Yes!
+0,49,115,DANIEL,You okay?
+0,49,115,TEAL'C,I will be fine.
+0,49,115,CARTER,What happened?
+0,49,115,ARIS,We had some technical difficulties which I communicated to Sokar's ship just after I accidently removed this.
+0,49,116,CARTER,Glad to have you back Teal'c.
+0,49,116,KORRA,"Somehow, I must find a way to pay tribute to what you have done for me and the Tok'ra."
+0,49,116,TEAL'C,There is no need.
+0,49,116,ARIS,"Hey, guys, what about me? Don't I get a thank you?"
+0,49,116,CARTER,For doing the right thing for a change?
+0,49,116,ARIS,"Well, that's kind of a backhanded show of appreciation, but I'll take it."
+0,49,116,DANIEL,Won't Sokar be angry?
+0,49,116,ARIS,"Well, hopefully he thinks I'm dead. By the time her figures it out, I'll be long gone."
+0,49,116,CARTER,What about the substance you need?
+0,49,116,KORRA,The roshna.
+0,49,116,ARIS,There are plenty of Goa'uld out there I could trade with.
+0,49,116,O'NEILL,"Well, we'd better get back to the Stargate."
+0,49,116,ARIS,"Oh, Dr Jackson...I was lying to you before. The price on your head is much more than a day's ration. Actually the Goa'uld want to see you dead as much as anyone for figuring out the Stargate."
+0,49,116,DANIEL,Thank you. That doesn't make me feel any better.
+0,49,116,ARIS,Major.
+0,49,117,ARIS,"Who knows, maybe some day someone will figure out a way for what's left of my people to be free of the Goa'uld. And that would be something worth trading for."

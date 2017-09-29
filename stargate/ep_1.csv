@@ -1,0 +1,399 @@
+Season,Episode,Scene,Character,Line
+0,1,0,STARGATE SG1,Episode 102
+0,1,0,"""THE ENEMY WITHIN""",By Brad Wright Briefing Room.
+0,1,0,HAMMOND,"Gentlemen, these planets designated P3A-575 and P3A-577 have been submitted by Captain Carter's team as possible destinations for your next mission. SG units 1 and 2 will operate concurrently."
+0,1,0,JACK,"You know, I'm kind of partial to P3A-575 if you don't mind taking P3A-577."
+0,1,0,KAWALSKY,No I'll take 577.
+0,1,0,JACK,I'm not married to it.
+0,1,0,KAWALSKY,"No, no it's."
+0,1,0,JACK,I want to be fair about it. How about we flip for it?
+0,1,0,HAMMOND,How about you go where I tell you. As far as I'm concerned.
+0,1,1,WALTER,Inbound traveller! Repeat Inbound traveller!
+0,1,1,KAWALSKY,Damn those Goa'uld's are persistent.
+0,1,1,JACK,I think we pissed them off.
+0,1,1,WALTER,Closing the iris.
+0,1,1,HAMMOND,Alert! All defence teams stand by. Set the base auto destruct countdown at 3 minutes.
+0,1,1,KAWALSKY,We're not going anywhere as long as the Goa'uld keep up these attacks.
+0,1,1,DANIEL,They can't keep them up forever. Can they?
+0,1,1,JACK,Whoa!
+0,1,1,SAM,Once they realise our Gate's inpenetrable they should just give up.
+0,1,1,KAWALSKY,Part of me just wants to let them through. Give them the fight they're looking for.
+0,1,2,WALTER,"Radiation team, move in."
+0,1,2,JACK,"Well there have got to be worse ways to go, I suppose."
+0,1,2,DANIEL,You don't think the Goa'uld are sending people through do you?
+0,1,2,JACK,It would be like bugs on a windshield.
+0,1,2,WALTER,"Team reports all clear, sir."
+0,1,2,HAMMOND,"All right, stand down from alert and abort the countdown."
+0,1,3,JACK,Kawalsky. What's the matter?
+0,1,3,KAWALSKY,Headache. Took a fistful of aspirin but nothing helps.
+0,1,3,JACK,Get down to the infirmary. Get it checked out. Go on.
+0,1,3,KAWALSKY,"Sir, I think I'll do that. Sir, with your permission?"
+0,1,3,HAMMOND,"By all means Major, I need you to lead your team to P3575."
+0,1,3,WALTER,Inbound traveller! Inbound traveller!
+0,1,3,HAMMOND,Reset the countdown. Here we go again. All defence teams remain in position.
+0,1,3,DANIEL,So this iris is gonna hold right?
+0,1,3,SAM,Pure titanium. Less than three micrometers from the event horizon. It won't even allow matter to fully re-integrate.
+0,1,3,JACK,": So this iris is gonna hold, right?"
+0,1,3,SAM,"If it doesn't, the failsafe device will detonate, this whole mountain will vaporise and there'll be nothing to worry about."
+0,1,3,JACK,"Good, I feel much better."
+0,1,5,HAMMOND,Come.
+0,1,6,HAMMOND,I can understand how Kawalsky feels. This job gives me a headache too.
+0,1,6,JACK,What's the bad news General?
+0,1,6,HAMMOND,Not much for small talk are you Colonel?
+0,1,6,JACK,How was your weekend? Get any fishing in?
+0,1,6,HAMMOND,I'm rejecting your request to have Teal'c join SG-1. Wasn't my choice. A Colonel Kennedy is en route from the Pentagon right now. He'll be asking your friend some questions.
+0,1,6,JACK,What kind of questions?
+0,1,6,HAMMOND,"What we're up against. Troop strength, technology, weaponry."
+0,1,6,JACK,"I'd like to know the answers to those questions too, sir. But after they're done asking them.."
+0,1,6,HAMMOND,"There'll be more questions. Possible tests. After all he's carrying the larval form of a hostile, a very formidable enemy, inside his body."
+0,1,6,JACK,What kind of tests are we talking about?
+0,1,6,HAMMOND,Maybe you haven't noticed Colonel. But he's the first alien species we've actually run into. You don't think that qualifies your friend as a subject of scientific interest?
+0,1,6,JACK,Subject?
+0,1,6,HAMMOND,He is what he is Colonel.
+0,1,6,JACK,"With all due respect Sir, I don't think he saved the lives of my team or came over to our side so he could become a damn guinea pig for US military intelligence."
+0,1,6,HAMMOND,Back up Colonel. He switched sides once. Are you 100% positive he won't switch back?
+0,1,6,JACK,Yes Sir.
+0,1,6,HAMMOND,"Well you're alone in that assertion. Colonel Kennedy arrives within the hour. I promise Teal'c will be treated with dignity and respect for as long as he remains a guest of this facility. Beyond that, I can't promise a damn thing. Dismissed Colonel."
+0,1,7,JACK,"Hey, am I interrupting anything?"
+0,1,7,TEAL'C,Yes.
+0,1,7,JACK,Why don't I come back?
+0,1,7,TEAL'C,The people from Chulak?
+0,1,7,JACK,We sent the last of them through the Gate just before the Goa'uld started knocking at the door.
+0,1,7,TEAL'C,Good.
+0,1,7,JACK,Thanks to you. So how long do you think they'll keep it up?
+0,1,7,TEAL'C,"One, perhaps two more attempts. They will believe their weapons have destroyed you. They will not send warriors through for some time to make sure of your destruction."
+0,1,7,JACK,"Well they'll be in for a surprise, huh?"
+0,1,7,TEAL'C,Your iris will be closed. They will be crushed.
+0,1,7,JACK,Surprise.
+0,1,7,TEAL'C,Am I a prisoner?
+0,1,7,JACK,Yeah.
+0,1,7,TEAL'C,I understand.
+0,1,7,JACK,"We're not exactly living up to your expectations of us, are we? You see, Teal'c, we've been living alone in our little corner of the galaxy for awhile and I think the people I work for, just need to get to know you a little better. I mean your knowledge of the Goa'uld alone makes them a little curious."
+0,1,7,TEAL'C,I will give that knowledge freely.
+0,1,7,JACK,"Yeah, I know you will and we'll put it to good use."
+0,1,7,TEAL'C,I will pledge my allegiance to this world.
+0,1,7,JACK,"I'm just not sure that's ever going to be enough for them to trust you. To be honest with you, I think they're scared of you."
+0,1,7,TEAL'C,I understand.
+0,1,7,JACK,"You must be used to that by now, huh?"
+0,1,7,TEAL'C,I am a jaffa. I have served as a warrior for your enemy. I have carried your enemy within me.
+0,1,7,JACK,Yeah. Well it's kind of a human thing. We tend to be afraid of things we don't know.
+0,1,7,TEAL'C,Why are you not afraid?
+0,1,7,JACK,"Teal'c, I saw you stand up to a God and refuse to kill. I saw you make that decision."
+0,1,7,TEAL'C,Yes.
+0,1,7,JACK,In that moment I learned everything I needed to know to trust you.
+0,1,7,TEAL'C,"If I had killed you then, I would not be here now."
+0,1,7,JACK,Neither would I.
+0,1,7,TEAL'C,I will prove my allegiance O'Neill.
+0,1,7,JACK,"Teal'c, I sure wish you didn't have to."
+0,1,7,TEAL'C,When I do? You will show me this world?
+0,1,7,JACK,Oh you bet. Just not all at once though. It's big.
+0,1,8,DOCTOR,"And these headaches Major, they started when you came back from your last mission?"
+0,1,8,KAWALSKY,Yeah and they've been getting worse.
+0,1,8,DOCTOR,Anybody else on the team experience these symptoms?
+0,1,8,KAWALSKY,No. Why?
+0,1,8,DOCTOR,It could be a reaction to Gate travel.
+0,1,8,KAWALSKY,"Look Doc, just give me a horse pill for the pain, or something. It's a damn headache."
+0,1,9,DOCTOR,What's this? You didn't notice this?
+0,1,9,KAWALSKY,What? Notice what?
+0,1,11,DANIEL,So the device should be on every planet we find. I studied the one on Abydos for months. It's sort of like a..
+0,1,11,SAM,Telephone.
+0,1,11,DANIEL,I like that. In order to get back home all you have to do is dial Earth. Which is what we're here to talk about so. What is Major Kawalsky doing in the embarkation room?
+0,1,12,SAM,"Colonel O'Neill and General Hammond to the embarkation room, now!"
+0,1,13,JACK,Charlie?
+0,1,13,DANIEL,Major Kawalsky?
+0,1,13,KAWALSKY,Jack? What am I doing here?
+0,1,14,JACK,"Hey, we gotta a sick man here! Was the Doctor here before?"
+0,1,14,KAWALSKY,I don't remember.
+0,1,14,WARNER,"Sorry, Dr Nimziki was supposed to be on call. Dr Warner, Chief Surgeon. What's the problem?"
+0,1,14,KAWALSKY,Headache.
+0,1,14,JACK,"Little more than a headache, Doc. He just had a blackout."
+0,1,14,WARNER,We'll do an MRI right away. See what's going on in there.
+0,1,14,JACK,"Take care of him, Doc. We need him."
+0,1,15,KENNEDY,Thank you.
+0,1,15,HAMMOND,Welcome Teal'c. This is Colonel Kennedy.
+0,1,15,KENNEDY,"I'm extraordinarily pleased to meet you, sir."
+0,1,15,HAMMOND,"Colonel Kennedy's job is to gather information,knowledge, about our potential enemies."
+0,1,15,TEAL'C,I offer my knowledge of the Goa'ulds. I offer myskills as a warrior in defeating them. I pledge my honour and my life to this world.
+0,1,15,KENNEDY,Well thank you.
+0,1,15,HAMMOND,"This is just an informal meeting, son. Take a seat."
+0,1,15,KENNEDY,"I have a lot of questions to ask so if there are no objections. What can you tell us about the power source the Goa'uld use to power their weapons, ships?"
+0,1,15,TEAL'C,Nothing.
+0,1,15,KENNEDY,I see. Do you yourself have an understanding of the physics behind the Stargate?
+0,1,15,TEAL'C,No.
+0,1,15,KENNEDY,I see.
+0,1,15,TEAL'C,Knowledge of Goa'uld magic is forbidden.
+0,1,16,JACK,It's not magic Teal'c. They just want you tothink that. Permission to barge in Sir?
+0,1,16,KENNEDY,Colonel O'Neill. I was hoping to meet you. Your mission report from Chulak made for the most engrossing analysis of my career.
+0,1,16,JACK,Well thanks. What was your favourite part?
+0,1,16,HAMMOND,Perhaps now is not the time Colonel?
+0,1,16,JACK,"General, you know what I went and did? I told Teal'c how we all respect a persons rights in this country."
+0,1,16,KENNEDY,"I assure you, there is nothing untoward taking place here, Colonel. Please, join us."
+0,1,16,JACK,Thank you. Hey Teal'c.
+0,1,16,TEAL'C,O'Neill.
+0,1,16,JACK,"That's Teal'c with an apostrophe. T- E- A- L, apostrophe, C."
+0,1,16,HAMMOND,Colonel.
+0,1,16,JACK,Yes sir.
+0,1,16,KENNEDY,"Very well, Teal'c. What can you tell me about the Goa'ulds?"
+0,1,16,TEAL'C,They rule by force. Their numbers were very few but theyare growing.
+0,1,16,KENNEDY,How many worlds do they control?
+0,1,16,TEAL'C,Many hundreds. Perhaps more.
+0,1,16,KENNEDY,And should we expect to encounter these Goa'ulds everywhere we go?
+0,1,16,TEAL'C,It is possible. But there are many more worlds the Goa'ulds have no use for. On those worlds the people are abandoned and left to fend for themselves.
+0,1,16,KENNEDY,Is there a leadership or Government with which we could negotiate a peace.
+0,1,16,TEAL'C,"Some, like Apophis, are great Kings and rule over manyworlds as their Gods but they have no need for peace. If they could kill you, they would."
+0,1,16,KENNEDY,"Could they? They have spacecraft, right?"
+0,1,16,TEAL'C,"Yes. Without a Stargate, such a journey would take many months, perhaps even years. It would take many vessels, many slave armies."
+0,1,16,JACK,"We're not that much of a nuisance, just yet."
+0,1,16,KENNEDY,"These slaves, where do they come from?"
+0,1,16,TEAL'C,"There is a tale of a primitive world the Goa'uld discovered millenia ago. The Tau'ri. The First World where forms of this type first evolved. It is said the Goa'uld harvested among the primitives,"
+0,1,17,KENNEDY,"Teal'c, beings of this form evolved here on Earth."
+0,1,17,TEAL'C,This world..?
+0,1,17,JACK,Is the world you're talking about Teal'c. Ra came here. If our ancestors hadn't rebelled and buried the Stargate...
+0,1,17,TEAL'C,You would not have become strong enough to challenge them.
+0,1,17,KENNEDY,Then the galaxy is populated by the ancient people of Earth.
+0,1,17,HAMMOND,There could be millions by now.
+0,1,17,TEAL'C,Then you are their greatest hope. And mine.
+0,1,19,SAM,"I'm gonna drop by the Control room. By the silence around here, it seems as if the Goa'ulds have finally given up. When was the last time you slept?"
+0,1,19,DANIEL,I don't know.
+0,1,19,SAM,Doesn't help when the whole base goes on alert every two hours.
+0,1,19,DANIEL,"No it's not that, it's just that my mind races and I can't stop thinking about Sha're, where she is, what she's become."
+0,1,19,SAM,But you can't stay awake forever.
+0,1,19,DANIEL,"I can try. No, you're right, I'll meet you at the next briefing."
+0,1,21,WARNER,All right.Major Kawalsky? We're all done here but I'm taking you off active duty as of now. Major?
+0,1,23,SAM,"Kawalsky, what the hell are you doing?"
+0,1,24,SAM,Close the blast doors. Emergency in the Control Room! Emergency in the Control Room!
+0,1,24,KAWALSKY,Help me!
+0,1,24,JACK,Kawalsky!
+0,1,25,JACK,"Don't shoot! Don't shoot, don't shoot."
+0,1,26,SAM,"You know they won't let you out of this mountain alive? When those doors open, they'll shoot on sight. You know that!"
+0,1,27,HAMMOND,What the...?
+0,1,27,DANIEL,Someone inside the elevator hit the emergency stop.
+0,1,27,HAMMOND,Get those doors open!
+0,1,27,JACK,Get them open.
+0,1,27,KAWALSKY,Well it's about time. Gimme a hand here.
+0,1,27,JACK,"Charlie, what the hell's going on?"
+0,1,27,KAWALSKY,"I don't have a clue, Colonel, but she's hurt bad. We have to get her to the infirmary."
+0,1,28,WARNER,The parasite's wrapped around his spine.
+0,1,29,JACK,It's a Goa'uld. Probably an infant.
+0,1,29,DANIEL,They think that the reason it hasn't been able to take you over completely is it's not mature yet.
+0,1,29,JACK,It's what's causing your blackouts.
+0,1,29,KAWALSKY,What are you saying? I got one of those parasites in me? Well how in the hell does that happen?
+0,1,29,JACK,We were kinda hoping you could tell us. You didn't feel it happening?
+0,1,29,KAWALSKY,No.
+0,1,29,DANIEL,When was the first time you blacked out?
+0,1,29,KAWALSKY,"I was here. We'd just come back through from Chulak. I thought it was just coming back through the Stargate. We were helping that kid, Casey was his name. It was a sharp... oh god Jack. I thought I wrenched my neck. Anyway, Casey, he was all right, they took him out of there. Oh god, Jack, you gotta help me. You gotta get this thing out of me."
+0,1,29,JACK,That's the plan.
+0,1,30,WARNER,I've taken Major Kawalsky off all pain medication to increase his alertness. It should increase his ability to resist.
+0,1,30,HAMMOND,When can you remove it?
+0,1,30,WARNER,It would be an extremely complex operation. The parasite has literally woven itself around his nervous system.
+0,1,30,HAMMOND,Can it be done or not?
+0,1,30,WARNER,"Without killing him, possibly. Without making him a quadraplegic, that's a whole different story."
+0,1,30,HAMMOND,You just tell me who you need to assist. Anyone in the world. I'll have them here within 24 hours.
+0,1,30,WARNER,Yes sir.
+0,1,31,KAWALSKY,"When I was out, did I hurt anybody?"
+0,1,31,JACK,There's one man dead. A few more hurt.
+0,1,31,DANIEL,Captain Carter's gonna be all right. I was just gonna check on her actually.
+0,1,31,KAWALSKY,Oh I didn't mean to..
+0,1,31,DANIEL,"No, she doesn't blame you."
+0,1,31,JACK,"You're not responsible Charlie. It's not your fault. It's that damn thing that's inside of you. Look, as soon as they know how to do it, they'll cut it out of you. Right now, you got to fight it."
+0,1,31,KAWALSKY,"I don't mind telling you, this is scaring me big time."
+0,1,32,KENNEDY,"Teal'c, stand and face this way please."
+0,1,32,TEAL'C,What is the emergency? They would not tell me.
+0,1,32,KENNEDY,That's none of your concern now.
+0,1,32,JACK,Kawalsky's become infected with a Goa'uld.
+0,1,32,TEAL'C,And you wish to see if I still carry the Goa'uld within me?
+0,1,32,KENNEDY,"Yes, now, please."
+0,1,33,JACK,"God, I hate those things. Have you seen enough?"
+0,1,33,KENNEDY,You understand we had to look and see?
+0,1,33,TEAL'C,What are its demands?
+0,1,33,JACK,So far it's only managed to rear its butt ugly head whenever Kawalsky blacks out. But it's already killed a man.
+0,1,33,TEAL'C,Then there will be a struggle for the host body. It must have sought a host in desperation before it was mature.
+0,1,33,HAMMOND,We intend to remove it before that happens.
+0,1,33,TEAL'C,"It will kill the host if you try. Once it is one with the host, it is capable of killing him."
+0,1,33,JACK,"So, what do we do?"
+0,1,34,JACK,"Charlie, we got General Hammond for you."
+0,1,34,KAWALSKY,"General, please. You gotta tell them to do something. The pain is too much."
+0,1,34,HAMMOND,"We are, Major. You just have to hold on."
+0,1,34,KAWALSKY,"Now don't you give me that good soldier crap, General. You order them to cut this damn thing out of me!"
+0,1,34,JACK,Teal'c says if they do that you might die.
+0,1,34,KAWALSKY,I don't care!
+0,1,34,JACK,Look Charlie. They want to talk to it.
+0,1,34,KAWALSKY,What! What the hell is there to talk about?!
+0,1,34,TEAL'C,We must offer it life to save yours.
+0,1,34,KAWALSKY,No! No! I want you to kill it!
+0,1,34,TEAL'C,We must talk to the Goa'uld within you.
+0,1,34,KAWALSKY,"Jack, please help me, Jack!"
+0,1,34,JACK,"Charlie, just let them do their job will ya?"
+0,1,34,KAWALSKY,"No! Don't let them do this, Jack! I want you to kill it!"
+0,1,34,WARNER,His heart rate just doubled.
+0,1,34,KAWALSKY,Kill it! Kill it! Kill it! Kill it! Kill it!
+0,1,35,KAWALSKY,Nemes Kree! I won't speak to the traitor. You are their leader?
+0,1,35,HAMMOND,I am.
+0,1,35,KAWALSKY,Speak.
+0,1,35,HAMMOND,I'm General George Hammond of the United States Air Force. Commander-in-Chief of the SGC. And you are?
+0,1,35,KAWALSKY,Interested only in returning through the Stargate. Now!
+0,1,35,HAMMOND,You are in no position to make demands. I have a proposition.
+0,1,35,KAWALSKY,Release me now or I will destroy you!
+0,1,35,HAMMOND,"If you leave this man's body, we will allow you to live and send you back through the Stargate in your natural form."
+0,1,35,KAWALSKY,This body is mine!
+0,1,35,HAMMOND,If you are unwilling to leave we will be forced to surgically...
+0,1,35,JACK,Teal'c! Hold him!
+0,1,35,KAWALSKY,Release me now or I will destroy you!
+0,1,35,HAMMOND,Do not attempt to escape!
+0,1,35,KAWALSKY,I command you!
+0,1,35,HAMMOND,"We will open fire! Colonel, stand aside!"
+0,1,35,KAWALSKY,Release me now!
+0,1,36,KAWALSKY,Don't shoot!
+0,1,36,JACK,Don't shoot!
+0,1,36,HAMMOND,Hold your fire!
+0,1,36,KAWALSKY,"Oh, oh God!"
+0,1,36,HAMMOND,"It's all right, son. I won't put you through that again."
+0,1,36,KAWALSKY,"Oh Jack, what did I do?"
+0,1,36,JACK,"Nothing, you just got a little mouthy. Nothing serious."
+0,1,36,HAMMOND,Dr Warner? I want to know the minute that godforsaken thing can be taken out if my officer. Is that clear?
+0,1,36,WARNER,Yes sir.
+0,1,36,HAMMOND,This conversation is over.
+0,1,37,HAMMOND,"As you were people. In light of the day's events, Colonel Kennedy has chosen to make certain recommendations to my superiors that I want to share with all of you. Colonel Kennedy?"
+0,1,37,KENNEDY,I know that many of you have served with Major Kawalsky so please forgive me if what I am about to suggest appears in any callous. But I believe surgical removal of the parasite may be a mistake.
+0,1,37,JACK,"General, this is a waste of time Kawalsky does not have."
+0,1,37,KENNEDY,"Dr Warner, what are Major Kawalsky's chances of surviving this procedure?"
+0,1,37,WARNER,10. 12% at most.
+0,1,37,KENNEDY,"And the parasite? It is an intelligent being after all, isn't it Colonel? I believe I first read that in your report."
+0,1,37,WARNER,The parasite itself would not survive the procedure.
+0,1,37,KENNEDY,"So, we're faced with destroying one life in the hopeless attempt to save another. You see the ethical dilemma?"
+0,1,37,JACK,"No, I don't."
+0,1,37,WARNER,"My team and I are completely prepared to perform the procedure, sir. We'll do our best."
+0,1,37,KENNEDY,Of course you will Doctor. Please don't misunderstand. We all wish the invading parasite in Major Kawalsky's body could be safely removed. The facts are the facts.
+0,1,37,SAM,"I'm sorry, what was your point?"
+0,1,37,KENNEDY,"If we proceed with this operation, Major Kawalsky will have died in vain."
+0,1,37,SAM,And if we don't?
+0,1,37,KENNEDY,"Well let's consider that for a moment. These infant Goa'uld's, they're so young, so fragile in their larval state that they require a.. I'm sorry what was it you called yourself?"
+0,1,37,TEAL'C,Jaffa.
+0,1,37,KENNEDY,"For want of a better translation, a what? Incubator? How is it they are so intelligent?"
+0,1,37,TEAL'C,A Goa'uld is born with all the knowledge of all Goa'uld's that came before it.
+0,1,37,DANIEL,Genetic memory. That's amazing.
+0,1,37,KENNEDY,Yes it is. All the knowledge of the Goa'uld. I just want you all to think on that before we just throw it away.
+0,1,37,JACK,I've thought about it. You thought about it? I think we've all thought about it. Any more thinking to be done.
+0,1,37,HAMMOND,Colonel.
+0,1,37,KENNEDY,Imagine if we could convince that Goa'uld to share that knowledge.
+0,1,37,TEAL'C,A Goa'uld would not willingly share.
+0,1,37,DANIEL,"Teal'c is right. To them, we're nothing. Less than nothing, I mean think about it, they've taken on the roles of our ancient gods. What does that tell you?"
+0,1,37,KENNEDY,All right. What if we just studied it? How much could we learn from that? What if we just faced up to the fact that Major Kawalsky's slim chances of survival and realise that the greatest enemy mankind may ever face has just been delivered right to our doorstep. Even if we let it return through the Stargate as a gesture of good faith. How much could...?
+0,1,37,HAMMOND,"Just what kind of an officer are you Colonel?! As long as there is a snowball's chance in hell that my officer will come out of this procedure alive, we'll go ahead with it."
+0,1,37,KENNEDY,"With respect General, I feel I should take this to my superiors."
+0,1,37,HAMMOND,"Me, I'll probably just call the President and get approval right from the horse's mouth. But sure, you go right ahead Colonel. Talk to your superiors. In the meantime people, let's get the job done."
+0,1,38,WARNER,Do you have any sense the new anaesthetic is working better than the last one we tried?
+0,1,38,TEAL'C,Yes.
+0,1,38,WARNER,But your not sure? There's no communication at all between you and the symbiote?
+0,1,38,TEAL'C,A jaffa does not communicate with the Goa'uld it carries.
+0,1,38,WARNER,"Well keep your fingers crossed. Nurse, you can stop this IV and release the patient, we'll go with this one."
+0,1,39,JACK,They're getting ready.
+0,1,39,KAWALSKY,It's about time.
+0,1,39,JACK,How's the pain?
+0,1,39,KAWALSKY,"Maybe I'm just getting used to it. Listen Jack, if this doesn't work..."
+0,1,39,JACK,"Hey, come on, it's a cake walk."
+0,1,39,KAWALSKY,"It hurts to talk, will you shut up for a second? I wanna be cremated. I don't want there to be anything left of that thing inside me. You make sure, all right?"
+0,1,39,JACK,"Look, can we not talk about this?"
+0,1,39,KAWALSKY,"When am I gonna talk about it Jack, this could be my last conversation?"
+0,1,39,JACK,"Oh for crying out loud, it's not your last conversation."
+0,1,39,KAWALSKY,"Hey, I spoke to the Doc, he told me the odds. Don't give me any crap."
+0,1,39,JACK,"Okay, it's our last conversation."
+0,1,39,KAWALSKY,Your gonna be off on some other planet anyway.
+0,1,39,JACK,"Yeah,P3A575."
+0,1,39,KAWALSKY,Whatever. This was gonna be my first real command. I was looking forward to it.
+0,1,39,JACK,"You still can, Charlie."
+0,1,39,KAWALSKY,"They got me all tied up here. Give me your hand. I want you to know, no matter what happens, it was an honour to serve with you."
+0,1,39,JACK,"Listen, I gotta ask you something. It's not easy for me."
+0,1,39,KAWALSKY,We're friends.
+0,1,39,JACK,"If you don't make it, can I have your stereo? What?"
+0,1,39,KAWALSKY,It hurts to laugh.
+0,1,39,JACK,You all right?
+0,1,39,KAWALSKY,Never better.
+0,1,41,WARNER,"I've held back on the use of anaesthetic until it can be administered to both patient and creature simultaneously. Major Kawalsky, we're going to begin the operation."
+0,1,41,KAWALSKY,"I wanna say something. General Hammond, sir."
+0,1,41,HAMMOND,I'm here son.
+0,1,41,KAWALSKY,"If this doesn't work, I want you to give the order. I wanna wake up as me or not at all."
+0,1,41,HAMMOND,"You have my word, son."
+0,1,41,NURSE,Scalpel.
+0,1,41,DOCTOR,Injecting anaesthetic.
+0,1,42,WARNER,All right. Start the clock. I'm making the first incision. Separating the primary ganglia attaching the parasite to the spinal cord now. It's coming away more easily than I'd hoped. Must be the anaesthetic.
+0,1,43,SAM,At least it's going well.
+0,1,43,DANIEL,"That's fantastic. If we can reverse what's happened to the Major, then there's still a chance for Sha're."
+0,1,43,SAM,Let's hope.
+0,1,44,WARNER,The ganglia are still constricting periodically. Obviously there still seems to be some sign of life in this symbiote. I don't know how. Scissors.
+0,1,44,NURSE,Scissors.
+0,1,44,WARNER,There are thin filaments extending up and into the brain. I'm going to sever them.
+0,1,45,WARNER,Hold him still!
+0,1,45,HAMMOND,What's happening?
+0,1,45,WARNER,"I don't know sir, I don't think it was anything I did. I'd like to proceed."
+0,1,45,HAMMOND,How much longer?
+0,1,45,WARNER,Almost there. Almost. I'm taking it out now. I think we did it. Close for me.
+0,1,45,HAMMOND,Well done everyone.
+0,1,46,JACK,That's right Dorothy. It was all a dream.
+0,1,46,WARNER,Can you move your fingers. Toes.
+0,1,46,JACK,Hey.
+0,1,46,WARNER,"Congratulations Major, you've already exceeded my wildest expectations."
+0,1,46,KAWALSKY,Thirsty.
+0,1,46,JACK,Here. Easy big fella. You're not drinking for two any more.
+0,1,46,KAWALSKY,I made it.
+0,1,46,JACK,"See, I told you. Piece of cake."
+0,1,47,KENNEDY,"I heard the operation was a complete success, sir. Congratulations. And I have my orders to return to Langley."
+0,1,47,HAMMOND,Don't let the door hit your ass on the way out.
+0,1,47,KENNEDY,"With Teal'c, sir, I have his travel orders as well."
+0,1,47,HAMMOND,"You do realise without his co operation in finding an anaesthetic, the operation might have been a failure? I think we owe him something for that."
+0,1,47,KENNEDY,"Unfortunately, Teal'c is now carrying the only living Goa'uld available for study and we do need to study it, sir, make no mistake on that. These aliens are possibly the greatest threat this country has ever known."
+0,1,47,HAMMOND,"I'm well aware of the threat, Colonel. This facility is the front line. It's the reason this command exists. We just go about things differently around here."
+0,1,47,KENNEDY,"I see, well, I'll make the transport arrangements in the morning."
+0,1,47,HAMMOND,You do that.
+0,1,48,DANIEL,"Anyway, Colonel Kennedy's probably gonna want to take it with him so if you wanna see it once before...."
+0,1,48,KAWALSKY,Are you talking about that thing in my head?
+0,1,48,JACK,Daniel thinks it's fascinating.
+0,1,48,DANIEL,"No, I just thought you might wanna see it."
+0,1,48,KAWALSKY,"Nooo, thanks."
+0,1,49,SAM,"Hey, I just heard. They're shipping Teal'c out to Langley. Kennedy's taking him with him."
+0,1,49,JACK,What?
+0,1,49,DANIEL,What for?
+0,1,49,SAM,Study. That's Kennedy's word.
+0,1,49,JACK,Right. Like a damn lab rat. Apparently Kennedy's ethics are selective.
+0,1,50,KAWALSKY,"Listen, in case the Colonel can't talk him out of it, I'd like a minute alone with Teal'c before they ship him out. He helped get me through this. I gotta thank him."
+0,1,50,SAM,"Okay, I think that can be arranged."
+0,1,51,KAWALSKY,"Hey, come on over here. Let me shake hands with the man who helped save my life. I'd like a minute alone with my friend. I'll make it an order, does that make you feel better?"
+0,1,52,KAWALSKY,Jaffa! What they removed was merely a dead husk. I had already become one with the host. I give you this chance: Serve me and you may live.
+0,1,52,TEAL'C,I will not.
+0,1,52,KAWALSKY,Then die.
+0,1,54,HAMMOND,"Colonel, I'm doing everything I can."
+0,1,54,JACK,"So because he wasn't born on this particular planet, he doesn't have any rights any more, is that it."
+0,1,55,WALTER,Major?
+0,1,56,WALTER,Arrghh! Arghh!
+0,1,57,WARNER,What happened?
+0,1,57,TEAL'C,The Goa'uld has won. It's taken control of him.
+0,1,57,WARNER,How?
+0,1,57,TEAL'C,It deceived us.
+0,1,58,KAWALSKY,Jaffa! Kal Shak!
+0,1,58,TEAL'C,You cannot pass.
+0,1,59,JACK,What?
+0,1,59,WALTER,He set the co-ordinates for Chulak.
+0,1,59,HAMMOND,He set the auto destruct sequence on the failsafe.
+0,1,59,JACK,How'd he have the code?
+0,1,59,HAMMOND,I don't know but I need two ranking officers to override and you're it.
+0,1,59,JACK,All right that did it. Open the blast doors.
+0,1,60,JACK,Teal'c! Hold him there!
+0,1,61,JACK,Shut it down! Now!
+0,1,62,TEAL'C,He was your friend.
+0,1,62,JACK,My friend died on the table.
+0,1,63,SAM,"If anything, the fact that he knew how to set the auto destruct code proves there's hope for Sha're and Skaara."
+0,1,63,DANIEL,How?
+0,1,63,SAM,Cos only Kawalsky could have known that code.
+0,1,63,DANIEL,So something of the host must survive?
+0,1,64,HAMMOND,"Oh absolutely. That's good to hear. Oh anytime Sir, you just come on down, we'd be glad to have you. Well hell Sir, he's right here, why don't you tell him yourself. I'm sure he'd like to hear it from you."
+0,1,64,KENNEDY,Yes Mr President? Yes Sir.
+0,1,65,HAMMOND,Colonel O'Neill. Is SG-1 ready to ship out?
+0,1,65,JACK,We are Sir.
+0,1,65,HAMMOND,Then you have a go for a standard recon mission on P3575.
+0,1,65,JACK,Yes Sir.
+0,1,66,TEAL'C,Reporting as ordered.
+0,1,66,JACK,Sir. It's sir.
+0,1,66,TEAL'C,Sir.
+0,1,66,HAMMOND,Welcome aboard son.
+0,1,66,SAM,"The MALP reports conditions on the planet are favourable,"
+0,1,66,JACK,Well?

@@ -1,0 +1,478 @@
+Season,Episode,Scene,Character,Line
+0,147,0,STARGATE SG1,Episode 717
+0,147,0,"""HEROES I""",By Robert C. Cooper
+0,147,1,BREGMAN,So you getting the full thing?
+0,147,1,JAMES,Just about yeah ...
+0,147,1,BREGMAN,Well ... instead of zooming back why don't you pull back a little.
+0,147,1,OK.,
+0,147,1,BREGMAN,Get it into context a bit.
+0,147,2,BREGMAN,Keep going back ... yeah that's good ... yeah ... wow that's amazing.
+0,147,3,RONDEL,Yes it is. Mr. Bregman?
+0,147,3,BREGMAN,Yes.
+0,147,3,RONDEL,"Colonel Tom Rondel, Cheyenne Mountain Complex. Public affairs liaison."
+0,147,3,BREGMAN,*chuckles* That's quite a mouthful. Call me Emmett.
+0,147,3,RONDEL,"Yes, sir."
+0,147,3,BREGMAN,
+0,147,3,JAMES,"Tech sergeant Dale James, sir."
+0,147,3,BREGMAN,Camera
+0,147,3,WICKENHOUSE,"Airman first class Shep Wickenhouse, sir."
+0,147,3,BREGMAN,Doing sound.
+0,147,3,RONDEL,"Well, it's a pleasure meeting you sir, but what are you doing here?"
+0,147,3,BREGMAN,"We're getting some establishing shots, first of many I hope while we're waiting. In fact we should get a shot of ... a shot of you, colonel."
+0,147,3,RONDEL,"Sorry, but you're not authorized to begin until you've been briefed by General Hammond."
+0,147,3,BREGMAN,"I've already been briefed ... Tom is it? By the defense department. What's the problem? We're cleared to shoot here. Maybe you guys haven't been cleared, you been cleared? Sorry ... what ... what is the problem?"
+0,147,3,RONDEL,General Hammonds ready to see you now.
+0,147,3,BREGMAN,
+0,147,3,WICKENHOUSE,This should be fun.
+0,147,3,JAMES,Oh yeah.
+0,147,3,RONDEL,General Hammond sir.
+0,147,3,SCENE,Entering Hammonds Office.
+0,147,3,RONDEL,This is Mr. Bregman
+0,147,3,BREGMAN,"I am very excited to be here, sir. *puts hand out which Hammond ignores*"
+0,147,3,HAMMOND,"You may find we're not all quite as giddy as you are about this project, Mr. Bregman."
+0,147,3,BREGMAN,"Giddy? Err ... well, I personally prefer professionally excited I think I said, excited to be here General. I haven't been giddy since ... well you wouldn't want to know about that."
+0,147,3,HAMMOND,No.
+0,147,3,BREGMAN,No.
+0,147,3,HAMMOND,I just want to be as clear as I can upfront.
+0,147,3,BREGMAN,Sure.
+0,147,3,HAMMOND,"Your presence is highly unorthodox, and I will not let it threaten the security of any on-going missions or the safety of my people."
+0,147,3,BREGMAN,"Well, I've already been frisked three times, we can make it a fourth time, make it personally, get to know each other a little better general come on ... I'm sorry."
+0,147,3,HAMMOND,I consider it my responsibility to protect my people's interest ...
+0,147,3,BREGMAN,I understand.
+0,147,3,HAMMOND,"Quite frankly, I feel it's appropriate to warn you that no one around here wants to be part of your reality show."
+0,147,3,BREGMAN,"Oh ... I see ... You know General; I think you're probably well aware, that there were film cameras on the beaches of Normandy decades before Survivor debuted on CBS. Personally I think it's an outrageous oversight that the Stargate hasn't been chronicled up to this point. President --"
+0,147,3,HAMMOND,"That's because its top secret, only a handful of people will see anything you shoot ..."
+0,147,3,BREGMAN,"So far, General ... so far. Eventually ... inevitably this program is going to be disclosed to the American people and to the whole world, and I like to think that this little film we're doing here, might in some small way provide insight to what's really been going on here for the last six years."
+0,147,3,HAMMOND,*smiling* What has been going on?
+0,147,3,BREGMAN,"*chuckling* You know what General ... I respect what you're doing here, I can respect that you want me out of the here ... but the United states President invited me here to do this."
+0,147,3,HAMMOND,You see that red phone ... you wouldn't be here if he hadn't.
+0,147,3,BREGMAN,Well then I hope I can expect the full co-operation of you and your personnel.
+0,147,3,HAMMOND,To the letter of these orders.
+0,147,3,BREGMAN,"To the letter. I see ... I see, thank you."
+0,147,3,HAMMOND,You have high expectations to meet.
+0,147,4,RONDEL,General.
+0,147,6,RONDEL,Maybe it's my opinion but with respect
+0,147,6,BREGMAN,What's that?
+0,147,6,RONDEL,Through out history the best documentaries have taken a cinema verity function; let the subject tell its own story.
+0,147,6,BREGMAN,"Yeah, tell you what Tom. I think that's an interesting point of view and ... err ... mostly, if not totally crap especially in situations like this, you know if this story was going to tell itself, you know what then there would be Stargate updates on the nightly news. like this ... I mean if this, the other point ... the other point in the sense that we should probably start with the soft approach make people feel comfortable, gain their trust you know what ... we'd be here a year. These soldiers conceal things for a living"
+0,147,6,RONDEL,They're airman sir; we're the United States Air Force.
+0,147,6,BREGMAN,"These Airman conceal things for a living, and the only way I am going to get anything out of these people is not by the ... ... look at that ... not by the ... what did you say the cinema verity approach ... its going to be by the wringing it out of them approach, that's the only way."
+0,147,6,RONDEL,Mr. Bregman as far as I'm concerned you are strictly to document what is going on ...
+0,147,6,BREGMAN,I know.
+0,147,6,RONDEL,Not to pursue anything that might be prejudicial to air force personnel.
+0,147,6,BREGMAN,"Why don't you call me Emmett, OK?"
+0,147,6,RONDEL,If someone were to offer something up in an interview.
+0,147,6,BREGMAN,*Looking behind Tom* Is that who I think it is?
+0,147,6,RONDEL,That's Colonel Jack O'Neill ... *ready to carry on*
+0,147,7,BREGMAN,"Colonel O'Neill, hi ..."
+0,147,7,O'NEILL,"I like vanilla over chocolate, My favorite color is paradoh, I think Tibet should be free and if I could have dinner with anyone in the world it would be Mary Steenburgen. *enters elevator pushes button*"
+0,147,7,BREGMAN,No I'm just trying to ... Mary Steenburgen?
+0,147,7,O'NEILL,"Yeah, don't you think she's nice?"
+0,147,7,BREGMAN,"*stands between the doors* no no ... look, look ... *Jack pushes button again* I'm just trying to get a minute of with you."
+0,147,7,O'NEILL,Look I really don't have time ... I've got ... errr ... briefing.
+0,147,7,BREGMAN,I understand. *Puts hand out* I'm Emmett Bre--
+0,147,8,BREGMAN,"No look I'm not going to be able to get a perspective on this whole Stargate program *doors start to close, he pushes them* program without you colonel, so when is a good time for you?"
+0,147,8,O'NEILL,Anytime's good ... just send me a memo. *Pushes him out*
+0,147,8,BREGMAN,Memo.
+0,147,9,RONDEL,Really sensed he's starting to trust you.
+0,147,10,SCENE,"In the control room, Sam, flinching as Shep trying put a mic on her."
+0,147,10,BREGMAN,"Don't worry about it, he only looks unprofessional. *Sam smiles* Now ... Major, General Hammond warned me that people might be a little less enthusiastic about all this."
+0,147,10,CARTER,"Yeah, we did have a bad experience with a TV crew last year ..."
+0,147,10,BREGMAN,"The Prometheus incident, I know the air force insisted on their own crew."
+0,147,10,CARTER,I think that you might also be sensing reluctance from a few people around here to put themselves up on a pedestal; I mean we are just doing our jobs.
+0,147,10,BREGMAN,Just a job. I consider it my job to put you up on a pedestal because this Job looks to me nothing but to be extraordinary and from what I read from you file the same can be said about you personally.
+0,147,10,CARTER,"See, now I'm blushing."
+0,147,10,BREGMAN,"So you are, think we should start; you'll look good on camera. Alright let's go guys ... *sits down, so does Sam* Are you ready?"
+0,147,10,CARTER,No ... *Dale is hold some doohickey*
+0,147,10,BREGMAN,What are you doing? You don't need a light meter ... the women is glowing. Lets get rolling.
+0,147,10,JAMES,Rolling
+0,147,10,BREGMAN,Sound?
+0,147,10,WICKENHOUSE,Full.
+0,147,10,BREGMAN,
+0,147,10,CARTER,"*Looks from him to the camera, nervous smile and ... * Hi ..."
+0,147,10,SCENE,"Corridor, Daniel and Emmett turn the corner; obviously this is the news cam. Through out the scene shots from behind showing the crew filming."
+0,147,10,BREGMAN,I don't think I've asked this sort of question before ... in my entire career ... but what was like to be ... well ... dead?
+0,147,10,JACKSON,"Well, I wasn't exactly dead ..."
+0,147,10,BREGMAN,"Oh, you were ... what's the word? Transcended."
+0,147,10,JACKSON,"Ascended ... err ... emm ... ahh ... well, I actually did have the unfortunate experience of dieing first ... slowly and err ... quite painfully."
+0,147,10,BREGMAN,"Well, in your mission file, it says your human ... I'm quoting here ... your human body transformed into energy a bright white light rose above the hospital bed. Is that ..."
+0,147,10,JACKSON,Yeah.
+0,147,10,BREGMAN,accurate. So ... well could you ... *they stop* Dr. Jackson could you ... I don't know ... elaborate ... I mean what did it feel like? *Daniel's Pager goes off.*
+0,147,10,JACKSON,"*hand in pocket trying to get pager* Well, I don't know I really don't remember much after that. *Looks at pager eyes wide.* Will you excuse me. *rushes past*"
+0,147,11,BREGMAN,"Come on, come on ... go go. *entering Daniel's office.* Dr. Jackson?!"
+0,147,12,BREGMAN,What is it? What is it?
+0,147,12,JACKSON,Itsamassfragemantiwas
+0,147,12,BREGMAN,"Sorry, could you just slow down ... what?"
+0,147,12,JACKSON,"It's the mass fragment I collected from P3X-298 ... It was covered in the domestic, pre dynastic period of Egypt here on Earth."
+0,147,12,BREGMAN,And what is it ... Could you get a shot of this.
+0,147,12,BREGMAN,And ... ah ... what is the significance of that?
+0,147,12,JACKSON,It's Fascinating.
+0,147,12,BREGMAN,"It's ... OK ... back up, back up ... err ... that's it ... it's fascinating? Why were we running?"
+0,147,12,JACKSON,Oh I just wanted to see if you'd chase me
+0,147,12,BREGMAN,
+0,147,12,BREGMAN,Turn it off. *Screen blinks out*
+0,147,12,SCENE,"A lab, someone's working with a blow torch and then Dr. Lee comes into the shot, carrying a helmet. The film crew filming."
+0,147,12,LEE,"*Bangs on hat* Kevlar will not stop the energy from a staff weapon. And the armor plating and other bullet proof protection gets super heated from the plasma so while it would stop the penetration, the wearer is essentially trapped in what becomes their own personal microwave oven ... and ... you know ... not a good idea ... anyways ... what we've been working on is this *pulls out a black material* a ceramic polymer which will resist the heat, stop the blast and fits into a standard SG vest. *in background can see Siler being fitted out* which sergeant siler will now demonstrate for us ... *oooh look Teal'c*"
+0,147,12,BREGMAN,"Sorry, wouldn't it be better if I *to camera* No no, shoot them. *camera shifts to Siler* don't you think it would be more interesting if ... if I were in the vest."
+0,147,12,LEE,"No, no, no, no, no."
+0,147,12,BREGMAN,Why isn't it safe?
+0,147,12,LEE,What ... of course it's safe it's not like we've never done this before.
+0,147,12,BREGMAN,So why don't I?
+0,147,12,LEE,No.
+0,147,13,SILER,"Away from the face, big guy. *Fire, and he's going going, gone*"
+0,147,14,SILER,It's all good! I'm fine!
+0,147,14,LEE,*Emmett is gob smacked* you see yeah ... he does that all the time.
+0,147,14,SCENE,"Sam, in control room."
+0,147,14,CARTER,"The control room is sort of like the air traffic control tower of the base, we monitor all Gate activity from here."
+0,147,14,BREGMAN,So ... what are all these blinking lights about ... for example what are those lights over there.
+0,147,14,CARTER,Err well; this monitors the gates massive power consumption required for generating Outgoing wormholes.
+0,147,14,BREGMAN,Uhm ...
+0,147,14,CARTER,"Interestingly, in our study of off-world DHDs we found that our gate actually draws 10% more wattage than offworld gates, now that far exceeds any potential loss due to our manmade interface. We think it has to do with the way the superconductive crystals inside the gate absorb electrical energy, but we're also trying to demonstrate that the DHDs are some how producing a purer more efficient source of power."
+0,147,15,BREGMAN,Could we get a shot of the gate spinning?
+0,147,15,CARTER,"Yeah, sure it's really cool steam comes out of it and everything."
+0,147,15,BREGMAN,Right.
+0,147,15,DAVIS,"Ah, Major ... *whisper*"
+0,147,15,CARTER,Err ... sorry guys there's an SG team due to embark on a mission.
+0,147,15,BREGMAN,"Well, that's great. We'll get a shot of them leaving."
+0,147,15,CARTER,Actually ... You're going to have to leave.
+0,147,15,BREGMAN,Could I ask you a question ... You've been ... Sorry you can stop shooting ... cut.
+0,147,15,SCENE,"Offworld, forestry planet. Stargate is opened SG-13 step through. Gate shuts down."
+0,147,15,DIXON,
+0,147,15,BALINSKY,*Looking at compass* That way.
+0,147,15,DIXON,"I'll take point, Wells, Bosworth -- you're rear guard five meter spread. Keep your eyes open."
+0,147,15,BALINSKY,The malp showed no indication of any recent Goa'uld activity on this planet.
+0,147,15,DIXON,"Yeah, well -- I don't see any indication of anything here."
+0,147,15,BALINSKY,Take the usual bet on that sir.
+0,147,15,DIXON,Sure. Wells?
+0,147,15,WELLS,Ah ... abandoned naquada mine.
+0,147,15,DIXON,Boring. Good odds. Bosworth?
+0,147,15,BOSWORTH,I'm going to put my money on trees sir.
+0,147,15,DIXON,Bosworth's disqualified for being a smartass. I'll go with two headed aliens.
+0,147,15,WELLS,Hostile or friendly sir?
+0,147,15,DIXON,"One head good, one head bad. Balinsky?"
+0,147,15,BALINSKY,Oh ... ruins of an ancient city.
+0,147,15,DIXON,"Yeah, you wish."
+0,147,15,SCENE,"Still offworld, SG-13 walk by some trees."
+0,147,15,DIXON,"Yeah, all night screaming, projectile vomiting, nuclear diapers. You have no idea. The reason they make them so damn cute is so you won't smother them in their sleep."
+0,147,15,WELLS,"Sir, you have four kids."
+0,147,15,DIXON,"Yeah, why do you think I love my job so much? Don't get me wrong I love the little buggers to death but trust me, having four kids makes going through the Stargate and facing off alien bad guys look like nothing. This is relaxing."
+0,147,15,WELLS,Then why'd you have four?
+0,147,15,DIXON,"Well, ones pretty bad but you figure you got to have two so the little guy can have a brother or sister right? Then you have two boys and the wife says she wants a girl, so you figure hell three can't be much worse than two right? But you don't relise your brain is fried because you haven't slept and after three, four is no big deal so then you're so deep in that nothing seems to matter anymore. Its chaos. You just try to make it through each day alive. In the end you spend all the energy you have left trying to get them into bed, only to lay awake praying they don't get hooked on drugs, hurt, or worse, wind up dead in an alley some where."
+0,147,15,WELLS,"Can't wait, sir."
+0,147,15,DIXON,"Ah miracle of birth my ass, I'll tell you what a miracle is birth control that works."
+0,147,15,SCENE,
+0,147,15,DIXON,"Well, I'll be damned. *we get a shot of an ancient city*"
+0,147,15,BALINSKY,I win.
+0,147,15,SCENE,"Control room, Sam comes down the stairs, Jack's drinking coffee."
+0,147,15,CARTER,Sir? Did you do your interview yet?
+0,147,15,O'NEILL,Yeah ...
+0,147,15,CARTER,Mary Steinbergen
+0,147,15,O'NEILL,"She's so hot. *Sam smiles* Carter, can you tell me the reason for this documentary again?"
+0,147,15,CARTER,"Didn't you read the memo? *Jack gives her a look, as they head downstairs.* ah ... officially it's to chronicle the 1,000th trip through the Stargate but I think there's more to it than that."
+0,147,15,O'NEILL,"1,000 you say."
+0,147,15,CARTER,I know hard to believe we've been at it this long.
+0,147,15,O'NEILL,There should be a cake.
+0,147,15,SCENE,"Daniel's Lab, Emmett is interviewing him."
+0,147,15,BREGMAN,
+0,147,15,JACKSON,Not much.
+0,147,15,BREGMAN,
+0,147,15,JACKSON,"Ah well, thankfully I have most of those memories back, there are still a few ... holes."
+0,147,15,BREGMAN,
+0,147,15,JACKSON,"No, no they didn't, they were actually landing pads for Goa'uld motherships."
+0,147,15,BREGMAN,No I'm quoting from a speech you made before you were introduced to the Stargate and I presume that at that time you knew nothing about landing platforms or motherships right?
+0,147,15,JACKSON,"Right, no."
+0,147,15,BREGMAN,Until you were introduced to Catherine Langford.
+0,147,15,JACKSON,Right.
+0,147,15,BREGMAN,And she's the one who introduced you to the Stargate program.
+0,147,15,JACKSON,Right.
+0,147,15,BREGMAN,So ... why?
+0,147,15,JACKSON,Why what?
+0,147,15,BREGMAN,*Sigh* Why did she do that?
+0,147,15,JACKSON,"I don't know, you'd have to ask her."
+0,147,15,BREGMAN,
+0,147,15,JACKSON,"Errr ... no, retired actually, but you never know."
+0,147,15,SCENE,"Oh look, Teal'c ... His turn for interview."
+0,147,15,BREGMAN,"Sorry I'm just reading your file here, it's fascinating ... I suppose I should ask you ... immediately here ... you're an alien?"
+0,147,16,BREGMAN,"Well, not to you but to us you would be ... anyways you were the highest ranking officer in the service of one of our alien enemies and you turned against them. Why did you turn against them ... when you did?"
+0,147,17,BREGMAN,"I'm sorry, why are you sitting there if you don't intend to answer any of my questions."
+0,147,17,TEAL'C,Because I was requested to by General Hammond.
+0,147,17,BREGMAN,"I see and he didn't happen to mention to you, that part of the interview process involved actually saying something."
+0,147,17,TEAL'C,No.
+0,147,17,BREGMAN,
+0,147,18,BREGMAN,Maybe you don't ... let me rephrase. Colonel Jack O'Neill is your immediate superior Officer ... OK maybe not in terms of species but he's your commanding Officer.
+0,147,18,TEAL'C,Indeed.
+0,147,18,BREGMAN,Good ... OK ... Good. Let's move forward ... and is there anything you can tell us about him?
+0,147,18,TEAL'C,"If you wish to learn of Colonel O'Neill, perhaps you should interview Colonel O'Neill."
+0,147,18,BREGMAN,
+0,147,18,SCENE,"Offworld, in the ruins."
+0,147,19,DIXON,How long?
+0,147,19,BALINSKY,I don't know. why we just got here ...
+0,147,19,DIXON,An hour ago.
+0,147,19,BALINSKY,"Well, I need more time, look at this place, I mean it's incredible."
+0,147,19,DIXON,"Yeah, you seen one crumbled city ..."
+0,147,19,BALINSKY,Sir. This place was built by the ancients.
+0,147,19,DIXON,You sure?
+0,147,19,BALINSKY,"Yes these markings, this stone and architecture ... oh Dr. Jackson is going to die when he sees this."
+0,147,19,DIXON,"What, again?"
+0,147,19,BALINSKY,Funny. Oh *grabs his stuff runs off.*
+0,147,19,DIXON,Don't go far.
+0,147,20,BOSWORTH,It looks like an alien.
+0,147,20,WELLS,Shut up.
+0,147,20,BOSWORTH,"Yeah, remember that thing we ran into on P2X-787?"
+0,147,20,WELLS,Get lost.
+0,147,20,BOSWORTH,Yeah ... See that thing was easy on the eyes by comparison.
+0,147,20,DIXON,"*grabs pic* Let me see, that's pretty scary wells."
+0,147,20,WELLS,That's my unborn son sir.
+0,147,20,DIXON,How can you tell? *Wells points at image* I don't know Wells; I wouldn't paint the room blue just yet.
+0,147,21,BALINSKY,Take cover.
+0,147,22,BALINSKY,Colonel now!
+0,147,23,DIXON,Hold.
+0,147,24,WELLS,What the hell is it?
+0,147,24,SCENE,Opens on Kinsey.
+0,147,24,KINSEY,"Like the people who are now serving here at the SGC, the youth of tomorrow will one day have to defend the free spirit of mankind. And not just on our fair planet, but out there through the Stargate, in the vastness of the galaxy of untold evil with powers we've never seen before are still waiting to pray upon us ..."
+0,147,24,BREGMAN,*looks like he just woke up* OK ... cut ... Senator ... great ... thank you so much for doing this it was really terrific of you to do this ...
+0,147,24,KINSEY,People deserve it ...
+0,147,24,BREGMAN,"Yes we're trying our best And senator don't take this the wrong way but it sounded a bit prepared like a speech I don't think you'll like the results. What if we do it off the cut, I throw things at you see how you respond ..."
+0,147,24,KINSEY,No ...
+0,147,24,BREGMAN,No?
+0,147,24,KINSEY,No ... If you want anything else from me ...
+0,147,24,BREGMAN,"Yes, actually ... erm ... Senator ..."
+0,147,24,SCENE,"Opens on Jack in commissary, doing a report and eating, doors open to Kinsey."
+0,147,24,KINSEY,"Colonel ... As I'm sure you know, I'm here to be apart of this piece these good men are putting together to document the fine work *Emmett whispers something to Dale* you're doing here at the SGC."
+0,147,24,O'NEILL,No I didn't know that.
+0,147,24,KINSEY,"Well, I'm sure there was a memo *Jack looks over at Emmett and Dale, who have started filming.*"
+0,147,24,O'NEILL,"Well, did you tell them about the time that you tried to get this place shut down or the time you had Hammond by the short ..."
+0,147,24,KINSEY,"I'd suggest you watch what you say colonel, slanders a serious offence."
+0,147,24,O'NEILL,Yes So I hear.
+0,147,24,KINSEY,I have always been a strong supporter of this program ... I admit I was critical in the past but that was only because of the unrealized potential I see this operation as having.
+0,147,25,KINSEY,How did your interview go colonel?
+0,147,25,O'NEILL,It was short yet oh so sweet.
+0,147,25,KINSEY,"The president wants you to play ball with this, I hope your not intending to disappoint our commander in chief. I would think you would want to show your appreciation for his backing over the years."
+0,147,25,O'NEILL,"Kinsey, what are you doing here? I mean last time anyone checked you were trying to discredit the guy."
+0,147,25,KINSEY,His term is up. My running mate and I are merely pointing out to the American people * Jack gives cameras a look* we think we can do a better job and when that time comes I know we can count on your vote colonel.
+0,147,25,O'NEILL,Yeah that'll happen.
+0,147,25,KINSEY,And I want you to know this ... if elected this program can count on our full support.
+0,147,25,O'NEILL,*to camera* you want to get this?
+0,147,25,BREGMAN,Sure
+0,147,25,O'NEILL,"*to Kinsey* you smarmy, self-righteous, Opportunistic ass ..."
+0,147,25,O'NEILL,"You are nothing but a *something here can't hear it over Davis's voice over the PA, it's VERY loud!* son of a bitch."
+0,147,25,KINSEY,Duty calls.
+0,147,25,O'NEILL,I was done
+0,147,25,BREGMAN,"Colonel, what is this off world activation something ... what's that?"
+0,147,25,O'NEILL,Won't know until I get there.
+0,147,25,BREGMAN,"Well, that great, we're going ... where's there?"
+0,147,25,O'NEILL,There is here for you. *walks out*
+0,147,25,RONDEL,Ongoing activity *motions for filming to be stopped*
+0,147,25,SCENE,"Control room, SG-1 there, talking to Dixon and Balinsky via malp."
+0,147,25,DIXON,Balinsky wants to stay sir.
+0,147,25,O'NEILL,You see anything else worth staying for Dave?
+0,147,25,DIXON,Hard to say.
+0,147,25,BALINSKY,We need to finish searching these ruins.
+0,147,25,HAMMOND,How long?
+0,147,25,BALINSKY,A day or two. maybe more ...
+0,147,25,JACKSON,Be nice to send up a UAV get an aerial overview.
+0,147,25,HAMMOND,Permission to stay granted. I'll send SG3 as back up. Any sign of a threat you get out of there immediately colonel.
+0,147,25,DIXON,Understood sir.
+0,147,25,CARTER,In the mean time I can run some tests on the device see what it's been doing there.
+0,147,25,HAMMOND,Send the device back and report in on the hour.
+0,147,25,DIXON,"Yes sir, SG-13 out."
+0,147,26,O'NEILL,Sir ... ermm ... its not that I don't appreciate all your hel-
+0,147,26,HAMMOND,I knew Kinsey and Bregman were headed you way and I thought you might be looking for an excuse to get away colonel.(I did find it odd that he called for O'Neill!
+0,147,26,O'NEILL,"I thought as much sir, and I just wanted to express my deep and unyielding love for you sir."
+0,147,26,RONDEL,General if you have a moment Mr. Bregman would like a word.
+0,147,26,SCENE,"Hammonds office, Hammond is reading from a file, Emmett is pacing."
+0,147,26,HAMMOND,"Exempts from said clearance from all current activities which have not yet been reviewed by this office, that being the Pentagon ..."
+0,147,26,BREGMAN,Current activity ... Breathing is a current activity.
+0,147,26,HAMMOND,My interpretation is that you have not been authorized to know anything about the most recent unscheduled activations.
+0,147,26,BREGMAN,"*sitting down* General, a little leeway."
+0,147,26,HAMMOND,"I said that I was going to hold you to the letter of these orders. Mr. Bregman. Give it up. *Emmett gets up to leave, opens door and turns back.*"
+0,147,26,BREGMAN,You know ... Colonel O'Neill ...
+0,147,26,HAMMOND,is currently unavailable.
+0,147,26,BREGMAN,"General *comes back in* the president, the president of the United States is giving me his full support. Why are you resisting?"
+0,147,26,HAMMOND,"I'm not resisting, I'm following orders. My opinion is that I don't think my people need to be put under a microscope. Cameras don't just record things; they change what they record simply by being there. The work these people do is hard enough without them feeling that every breath they take is being preserved for judgment."
+0,147,26,BREGMAN,Maybe it should be ...
+0,147,26,HAMMOND,Excuse me ...
+0,147,26,BREGMAN,"I said Maybe it should be ... *Shutting the door* the pentagon has allowed journalists to be embedded in the army, forces before this. You know that. Under fire, under pressure. So what's seen, what's heard and what's read is the truth."
+0,147,26,HAMMOND,I think we're through ...
+0,147,26,BREGMAN,I don't ... I don't disagree with you general ... *Red phone rings.*
+0,147,26,HAMMOND,"Excuse me. *Picks up phone hand over receiver, waiting for Emmett to leave. He does.*"
+0,147,26,SCENE,"In Sam's lab, she's working in the ... mess ... device."
+0,147,26,CARTER,You ever seen anything like this?
+0,147,26,TEAL'C,I have not ...
+0,147,26,CARTER,"Well, Its definitely a remote program of some kind, the storage capacity of the memory crystals is immense, but so far all I've found are detailed images of the ruins. You know It makes sense we use a Malp, why wouldn't the Goa'uld."
+0,147,26,TEAL'C,"The Goa'uld are scavengers, it is quite possible they got the idea from us."
+0,147,26,CARTER,"*Nods, smiles* so you do your interview with the documentary crew yet?"
+0,147,26,TEAL'C,
+0,147,26,CARTER,I have to admit I can't wait to hear what everyone else said.
+0,147,26,TEAL'C,I did not say much.
+0,147,26,CARTER,"*Smiles, and the mocking* really? That is surprising it's usually so hard to shut you up. *he raises an eyebrow, as Sam starts grinning*"
+0,147,26,TEAL'C,I found the entire experience ... unpleasant
+0,147,26,CARTER,*Nods* they want to talk to me again.
+0,147,26,TEAL'C,Did your interview not go well either?
+0,147,26,CARTER,"Well, I thought it was fine but apparently I look ... nervous."
+0,147,27,SCENE,"Corridor, film crew setting up Emmett comes round the corner."
+0,147,27,BREGMAN,What is the meaning of off world activation ... what is that all about?
+0,147,27,RONDEL,I am not privy to that information.
+0,147,27,BREGMAN,"Oh, you wouldn't tell me even if you knew, would you?"
+0,147,27,RONDEL,I have my orders to ...
+0,147,27,BREGMAN,"You remind me of those miners we use to have in the gulf, who use to censor our reports ..."
+0,147,27,RONDEL,"Look, it's not as if we're conspiring to cover up the truth ..."
+0,147,27,BREGMAN,"Oh, sure ..."
+0,147,27,RONDEL,And censoring reports in combat just makes sense.
+0,147,27,BREGMAN,Makes sense?
+0,147,27,RONDEL,You cannot jeopardize the lives of troops involved on ongoing missions.
+0,147,27,BREGMAN,"Makes no sense. This is a documentary not the news, what are you telling me they're broadcasting this to the enemy on some other planet? Look I have been denied access to several prior mission files, you know why? Because no one wants me to know how close we've come to ... well, why don't you tell me Tom, you're not conspiring to cover up the truth are you? Why don't you tell me ... come close to what?"
+0,147,27,RONDEL,Being compromised ...
+0,147,27,BREGMAN,"Being compromised that's a euphemism for you. Being compromised. *Dale grins* Close to the brink of planetary annihilation, is probably more accurate ... That's why we're not allowed to film these on-going activities because every time they open that gate there is a chance that something could go cataclysmically wrong ..."
+0,147,27,WICKENHOUSE,"In which case it wouldn't matter what we had on tape, would it? *Dale laughs*"
+0,147,27,BREGMAN,What did you say ... what did you say ... That it doesn't matter? If that's you're opinion then if you had any integrity at all you would resign before I have to replace you.
+0,147,27,WICKENHOUSE,"I would rather be replaced, than court-martialed. I'm not going to do anything I'm not authorized to do."
+0,147,27,BREGMAN,See it's that attitude ...
+0,147,27,RONDEL,"The bottom line is the SGC is not going to let any of this off, until the ..."
+0,147,27,BREGMAN,"Well, what's the difference then, why not shoot it and decide later."
+0,147,27,RONDEL,Not up to me.
+0,147,27,BREGMAN,Not up to me ... not up to me ... that's great.
+0,147,28,BREGMAN,Colonel ... Colonel we're all set up for you right here ... we're all set up ...
+0,147,28,O'NEILL,Briefing. *Jack rushes past them head down the corridor to control room*
+0,147,28,BREGMAN,"Yeah, no ... Colonel. Colonel. Colonel! *Jack stops and turns.* You know I'm going to get you on camera sooner or later even if all I get is a series of you avoiding getting got."
+0,147,28,O'NEILL,Fire away. I hope shots of my ass serve you well.
+0,147,28,BREGMAN,*To crew* alright pack up ... what are we doing here?
+0,147,28,SCENE,"Opens on an image of Sam, being recorded."
+0,147,28,BREGMAN,How do you feel about Colonel O'Neill?
+0,147,28,CARTER,"ah ... *Smiles* ... He's an amazing man. After everything he's done, he's still modest, quite self effacing actually. He even likes people to think he's not as smart as he really is. Bottom line: He's an incredibly strong leader who's given more of himself for this program than anyone has given for ... *thinks* well ... anything I can imagine."
+0,147,28,BREGMAN,You spend a lot of time together outside of work?
+0,147,28,CARTER,err ... we don't get much time outside of work. When we do our personal interests are little different .
+0,147,28,BREGMAN,did you ever hear the expression: opposites attract.
+0,147,28,CARTER,*smiles* we have a very professional relationship
+0,147,28,BREGMAN,Really? Do you ... Professional? After everything you've been through ... You must of ... maybe if it's not too much to say ... faced death together.
+0,147,28,CARTER,"Yeah ... not unlike countless Military personnel through out the years ... look I won't deny there's not a bond between us ... Daniel and Teal'c are also like family to me. Colonel is first and foremost my superior officer. Even if there was potential for something more ... and I'm not saying that there is err ... our military positions, and the very nature of our jobs wouldn't allow for it. *swallows, kinda nods. Definitely nervous."
+0,147,28,SCENE,Sergeant Davis being filmed in control room.
+0,147,28,DAVIS,"Well, basically when the gate is dialing I say cheveron 1 encoded, cheveron 2 encoded, and so on ... incrementally up to the 7th cheveron which is a little different because that's when the wormhole connects ... err ... when that happens I like to shakes things up a little bit and just say cheveron 7 locked *grinning*"
+0,147,28,BREGMAN,Locked ... That's great ... that's good. Anything else?
+0,147,28,DAVIS,Oh yea ... I'm responsible for this *places his hand on the palm scanner* close the iris ... *Iris shuts* Open the Iris. *Iris ... ... opens*
+0,147,28,BREGMAN,Huh.
+0,147,28,DAVIS,*sits back grinning proudly nodding his head as if to say ' impressive right.'* That's pretty much my job right there.
+0,147,28,BREGMAN,That's it.
+0,147,28,DAVIS,Yeah pretty much ...
+0,147,28,BREGMAN,I think you're being a little modest.
+0,147,28,DAVIS,"Awww ... don't get me wrong ... it's really rewarding ... it really is ... and we have tried various automated scenarios, but err ... the SG teams just agree that you know ... when they send their iris code ... through the wormhole they like to know that there's ... erm ... a real person on the other ... other end, someone that they can trust to get it right. And ... er ... that gives me and the other gate technicians, a great sense of pride."
+0,147,28,BREGMAN,Sure ... that's good.
+0,147,28,SCENE,"Daniel's Lab, all his stuff is out on his desk."
+0,147,28,BREGMAN,ah ... Dr. Jackson ... Hi
+0,147,28,JACKSON,Hey ... how's it going?
+0,147,28,BREGMAN,oh ... you're packing ... you're going on a mission off ... I'm sorry I forgot the expression ...
+0,147,28,JACKSON,Off world.
+0,147,28,BREGMAN,Off world. Is that ... so you're going?
+0,147,28,JACKSON,No ... Nope just ... err going through my pack.
+0,147,28,BREGMAN,ah ... that's a camera you use right ... *picks up camera*
+0,147,28,JACKSON,Yeah ...
+0,147,28,BREGMAN,I've seen hours and hours of your footage ... hours of it ... inscription and ruins and artifacts.
+0,147,28,JACKSON,*grins* cool huh?
+0,147,28,BREGMAN,I wondered if you get the opportunity maybe you could point your camera at some ... action you know for a change ... you think?
+0,147,28,JACKSON,"See that's the thing ... when there is action ... I'm too busy to be pointing a camera ... You know ... I'm running, shooting, trying to get back that kind of thing ..."
+0,147,28,BREGMAN,"I understand ... Its just that ... you know ... for me ... I've heard a lot about these amazing events, unfortunately my medium is visual I can't tell the real story unless I have pictures you know ... I'm not suggesting you put anybody in danger, not yourself, but you know ... if the opportunity arises ... you know ... just take a second and just point your lens at something that moves"
+0,147,28,JACKSON,"Right ... well, I'm not really scheduled to go on a mission off world ... for another couple of days ..."
+0,147,28,BREGMAN,Oh ... no ... no ... If it's there shoot it ...
+0,147,28,JACKSON,Right ...
+0,147,28,BREGMAN,Just not the inscriptions all the time ... just some action would be good ... action *leaves*
+0,147,28,SCENE,"Sam's lab, she's still working on mess ... Daniel walks in."
+0,147,28,JACKSON,Hey ...
+0,147,28,CARTER,Hey ... one sec ...
+0,147,28,JACKSON,You ... err ... want me to translate something?
+0,147,28,CARTER,Yeah ... I'm just trying to get the interface connection more stable SG-13 really kicked the crap out of this thing. *keeps twisting wires and stuff.* its system log seems to be isolated on a separate crystal from memory control.
+0,147,28,JACKSON,"You know Bregman actually had the nerve to suggest that all that archive video footage I gave him was boring *Sam looks at him, obviously unsure what to say to that. * ahem ... OK here's what really bugs me, the only reason he's here is because this president's on his way out and he knows it right ... He just doesn't want to look bad if and when the Stargate program ever goes public. None of this is about truth it's all about political posturing."
+0,147,28,CARTER,"Man, he really grilled me on that."
+0,147,28,JACKSON,What why the Stargate program should go public?
+0,147,28,CARTER,Yeah.
+0,147,28,JACKSON,What'd you say?
+0,147,28,CARTER,Babbled incoherently.
+0,147,28,JACKSON,I mean could you imagine if it ever did.
+0,147,28,CARTER,"I try not to think about it *gets connection, computer blinks to writing, Sam adjust it so it's a lovely clear picture* There."
+0,147,28,JACKSON,This is mostly just technical stuff.
+0,147,28,CARTER,Anything jump out at you?
+0,147,28,JACKSON,"Well, here's where it encountered SG-13. Uh-oh ..."
+0,147,28,CARTER,"What ... what ... ""Uh-Oh?"""
+0,147,28,JACKSON,"Well, after it engaged shields and weapons it activated a long range communicator."
+0,147,28,SCENE,"Control room, Hammond is talking to Colonel Dixon."
+0,147,28,HAMMOND,"Colonel Dixon, this is General Hammond. We have reason to believe the Goa'uld probe sent out a transmission prior to your disabling of it. I'm ordering you to return to Stargate Command immediately."
+0,147,29,DIXON,Roger that sir ... Estimated arrival time 15 minutes. Dixon out. *to Balinsky* Pack it up Doctor we're going home. *on radio* Wells. Bosworth.
+0,147,30,WELLS,Wells here.
+0,147,30,DIXON,"Bring it home boys, we're booking out."
+0,147,30,WELLS,Roger that sir. Wells out.
+0,147,30,BOSWORTH,about time.
+0,147,31,BOSWORTH,*on radio* Taking fire. *scene moves back to Dixon* Wells has been hit.
+0,147,31,DIXON,"*Points at Balinsky* Get to the gate. *on radio* SG niner, requesting assistance. *Both make a run*"
+0,147,31,SCENE,"Infirmary, Janet is being interviewed, reading from files."
+0,147,31,FRAISER,
+0,147,31,BREGMAN,Obviously not incurable right ... or
+0,147,31,FRAISER,"Well, fortunately there was a tok'ra symbiote in need of a temporary host at the time ... It managed to do the trick."
+0,147,31,BREGMAN,I don't understand a word you just said but it sounds amazing that colonel O'Neill is alive.
+0,147,31,FRAISER,"*grins* Yeah, I never know what's next ... you just ... a try and keep your head on straight ... then again we also set a lot of broken bones and subscribe a ton of antibiotics so ..."
+0,147,31,BREGMAN,But still it sometimes must be overwhelming right?
+0,147,31,FRAISER,"Yeah, you know it's funny, you think all the training, everything we know about medicine ... really it amounts to very little ... I Mean often I'm faced with situations that there really is nothing I can do ..."
+0,147,31,BREGMAN,Is there an upside?
+0,147,31,FRAISER,"Are you kidding me? I think the reason we all manage persevere is because we feel that we're on the brink of understanding so much more ... and not just about medicine but about who we are, you know ... and where we came from, what the future has in store, how ... how we fit into the grand scheme of things"
+0,147,31,BREGMAN,"That unscheduled off ... we've heard that before, is that an unusual thing?"
+0,147,31,FRAISER,"No, it happens from time to time."
+0,147,31,BREGMAN,And ... what ... what does it mean?
+0,147,31,FRAISER,Your guess is as good as mine.
+0,147,31,BREGMAN,
+0,147,31,WICKENHOUSE,"Yeah, we're good sir."
+0,147,31,BREGMAN,
+0,147,31,FRAISER,This ...
+0,147,31,BREGMAN,"Yeah, we're done ... appreciate it. Errr ... anything you can. *Shep accidentally hits Emmett with the mic* Ow ..."
+0,147,31,WICKENHOUSE,Sorry ...
+0,147,31,BREGMAN,"I'm glad the pentagon sent you ... just go away ... erm ... listen, I was just wondering ... it seems like the unpredictable happens here a lot."
+0,147,31,FRAISER,*laughs* yes ... pretty much.
+0,147,31,BREGMAN,yeah ... err ... yeah ... and you're not going to be needed for this thing
+0,147,31,FRAISER,Well if I am they know where to find me ...
+0,147,31,BREGMAN,"*Dale starts filming them* I was just asking because I was thinking of getting something to eat in the cafeteria, which I'm not even sure where ..."
+0,147,31,FRAISER,"It's a ... that way. *points behind her, with the file less hand.*"
+0,147,31,BREGMAN,And I was wondering if ...
+0,147,31,FRAISER,If I'd like to join you ...
+0,147,31,BREGMAN,Yeah ...
+0,147,31,FRAISER,
+0,147,31,BREGMAN,What are you doing?
+0,147,31,JAMES,I'm just white balancing.
+0,147,31,BREGMAN,"Well, go balance the white somewhere else ... OK? *moves away then back.*"
+0,147,31,OK ...,
+0,147,31,BREGMAN,Somewhere else!
+0,147,31,FRAISER,I'm going to dup these *Camera goes on SILER*
+0,147,31,OK ...,
+0,147,31,FRAISER,yeah
+0,147,31,BREGMAN,great.
+0,147,31,SCENE,"Opens on Balinsky, in briefing room"
+0,147,31,BALINSKY,"Wells is alive, but he's been hurt badly and he can't be moved."
+0,147,31,O'NEILL,*walks in* How many Jaffa?
+0,147,31,BALINSKY,I don't know
+0,147,31,O'NEILL,5? 10? 100? What?
+0,147,31,BALINSKY,"err ... Colonel Dixon counted six ... they were able to fend them off, they're holding a position protecting wells."
+0,147,31,HAMMOND,Did the Jaffa come through the gate?
+0,147,31,BALINSKY,"No no ... they had to come by ship, SG-3 was covering the gate ..."
+0,147,31,O'NEILL,The gate's clear?
+0,147,31,BALINSKY,Half of SG-3 was still there when I left.
+0,147,31,O'NEILL,General
+0,147,31,HAMMOND,Take SG's 5 and 7 and Dr. Fraiser.
+0,147,31,O'NEILL,Thank you sir.
+0,147,31,HAMMOND,Colonel.
+0,147,31,O'NEILL,"Yes sir ... I know ... it sounds like an ambush to me to but there's nothing else we can do, right?"
+0,147,31,HAMMOND,Right. GO.
+0,147,31,SCENE,"Commissary. Emmett's sitting across from Janet, who's eating fruit salad. Emmett's watching her his left hand up on his forhead, the gold of his WEDDING RING catching the light! She looks up."
+0,147,31,BREGMAN,"oh I'm sorry. I was just ... I was just thinking that, you have a very natural quality ... I mean on camera. You let me film ... You allow the people to see ... grace under pressure."
+0,147,31,FRAISER,Mmmm ... are you ... err ... flirting with me?
+0,147,31,BREGMAN,"Aahaha ... well, see I on the other hand am very clumsy under pressure."
+0,147,31,FRAISER,"*Laughs* Well, I've seen worse. So ... err ... what's with the ring?"
+0,147,31,BREGMAN,"Oh, er ... it's sentimental ... my wife died a few years ago. So how do any of you have a personal life?"
+0,147,31,FRAISER,"We don't really, I spend most of my time outside work with my daughter."
+0,147,31,BREGMAN,Oh so ... you're married.
+0,147,31,FRAISER,No ... no ... she's adopted ... *waits till he drinks his coffee* she's from another planet. *Eats*
+0,147,31,BREGMAN,Er ... would you be willing to talk about that on camera?
+0,147,31,FRAISER,You know I'd rather ...
+0,147,31,AIRMAN,Excuse me ma'am ... you're required in the ready room immediately.
+0,147,31,FRAISER,Thank you. *to Emmett* Sorry.
+0,147,31,BREGMAN,It's OK ...
+0,147,31,SCENE,"Corridor, Tom talking to film crew."
+0,147,31,RONDEL,"Let's go, gentlemen."
+0,147,32,JACKSON,It's all because I wanted an aerial survey.
+0,147,32,CARTER,It took me to long to work out the probe sent a transmission.
+0,147,32,O'NEILL,None of that matters now.

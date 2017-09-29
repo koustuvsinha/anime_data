@@ -1,0 +1,339 @@
+Season,Episode,Scene,Character,Line
+0,40,0,STARGATE SG1,Episode 220
+0,40,0,"""SHOW AND TELL""",By Jonathan Glassner Gateroom
+0,40,1,TECH,Unauthorised incoming traveller! Clear the ramp!
+0,40,2,HAMMOND,Who is it?
+0,40,2,TECH,"No idea, sir. SG-5 and SG-14 are out, but neither are due until tomorrow."
+0,40,2,HAMMOND,No iris code?
+0,40,2,TECH,"No, sir."
+0,40,2,HAMMOND,"I did not give the order to open the iris, mister!"
+0,40,2,TECH,"I did not open it, sir!"
+0,40,2,HAMMOND,"Well, close it. Get that iris closed, Sergeant!"
+0,40,2,TECH,"Im trying, but the computer keeps overriding it, sir."
+0,40,3,DANIEL,General.
+0,40,3,HAMMOND,Search him.
+0,40,3,JACK,General? If I may suggest allowing Carter to do it? She can detect other stuff.
+0,40,3,SAM,"Hello. Whats your name? Okay. My name is Sam. I have to check you for things you probably know nothing about, but just in case."
+0,40,4,SAM,"Well, hes not Goauld or Jaffa. I cant sense any naqahdah. As far as I can tell, hes clean."
+0,40,4,JACK,Whats he doing here?
+0,40,4,CHARLIE,I am here to warn you.
+0,40,5,JANET,"Well, as far as I can tell, hes human."
+0,40,5,JACK,"No bomb in the chest? A little biohazard in the tooth, maybe?"
+0,40,5,JANET,"Checked for both. Hes no threat to us as far as Im able to tell, but hes pretty weak. Im guessing hes malnourished."
+0,40,5,SAM,Whats your name?
+0,40,5,CHARLIE,Your name is Colonel ONeill.
+0,40,5,JACK,How dyou know that?
+0,40,5,CHARLIE,My mother told me.
+0,40,5,JACK,Your mother?
+0,40,5,CHARLIE,Yes.She says I am to speak only with you.
+0,40,5,JACK,"Well, these people are my friends. You can trust them."
+0,40,5,CHARLIE,Mother says to speak only to you.
+0,40,5,JACK,Okay. Why me?
+0,40,5,CHARLIE,Because Mother has observed you and determined she likes you. You are one who can be trusted.
+0,40,5,JACK,"Well, thank you, maam! How long have you been watching me?"
+0,40,5,CHARLIE,For many weeks.
+0,40,5,JACK,Weeks?
+0,40,5,CHARLIE,"Yes. She first saw you on another planet and she followed your team through the Stargate at that time. She observed you all until your team returned with the one called Tonane. Based on your actions at the time, Mother believes you are the only honourable leader among your people. It was only your team who did not want to steal Tonanes mineral."
+0,40,5,JACK,Then why not trust the rest of my team?
+0,40,5,CHARLIE,"Because you are the leader. Mother insists I speak no further unless it is with you, alone."
+0,40,5,HAMMOND,"Lets step into the corridor for a few moments, folks."
+0,40,6,JACK,So what do I call you?
+0,40,6,CHARLIE,I do not have a name.
+0,40,6,JACK,Whats your mom call you?
+0,40,6,CHARLIE,Son.
+0,40,6,JACK,Its not much of a name.
+0,40,6,CHARLIE,No. Its more of a description.
+0,40,6,JACK,"Yes, it is."
+0,40,6,CHARLIE,Mother says you too have a son.
+0,40,6,JACK,I had one. Hes gone now.
+0,40,6,CHARLIE,What was his name?
+0,40,6,JACK,Charlie.
+0,40,6,CHARLIE,Charlie. I like Charlie. Its a good name. Can I be called Charlie?
+0,40,6,JACK,"Yeah, sure, if thats what you want."
+0,40,6,BOY/CHARLIE,"Okay, Colonel ONeill. I am Charlie."
+0,40,6,JACK,"Hi, Charlie. Call me Jack."
+0,40,6,CHARLIE,Jack.
+0,40,6,JACK,So where are you from?
+0,40,6,CHARLIE,A planet called Reetalia.
+0,40,6,JACK,Nice place?
+0,40,6,CHARLIE,"Used to be, until most of the Reetou were destroyed by mean creatures with glowing eyes."
+0,40,6,JACK,Thats the Goauld. Sorry to hear that.
+0,40,6,CHARLIE,Thats why Im here  to warn you.
+0,40,6,JACK,"Well, thank you, Charlie, but we already knew about the Goauld."
+0,40,6,CHARLIE,Not the Goauld. Its the Reetou rebels who intend to eliminate you.
+0,40,7,SAM,"We did a level one analysis on the iris mechanism. It behaved as if control was being commandeered from the main computer by an override, like it was being controlled from another keyboard somewhere. We have software specialists picking it apart right now."
+0,40,7,HAMMOND,"Colonel ONeill, any more insight into the boy?"
+0,40,7,JACK,"The best I can tell, sir, the kid survived a Goauld massacre."
+0,40,7,JANET,"Well, that would explain Mom. See, it would be a natural psychological defence mechanism. Hes convinced himself that she never left him  that her spirit, for lack of a better word, is always with him."
+0,40,7,DANIEL,"Well, how did he know about the Salish?"
+0,40,7,JACK,How did he know about my kid?
+0,40,7,DANIEL,Iis it possible that hes some sort of psychic?
+0,40,7,JANET,Maybe well turn something up in our examinations.
+0,40,7,TEAL'C,"For the immediate, should not our concern be the threat of the planned Reetou attack?"
+0,40,7,SAM,"This doesnt make much sense. I mean, the Goauld attack the Reetou, so the Reetou rebels attack us?"
+0,40,7,HAMMOND,"We need to determine the validity of what little information the boys given us. Tealc, Id like you to accompany Colonel ONeill to see him. Listen to his description of the attack on the Reetou and let me know if it appears to follow normal Goauld tactics."
+0,40,8,JANET,"There you go. See, that didnt hurt at all, did it?"
+0,40,9,CHARLIE,Jaffa!
+0,40,9,JACK,"Get that a lot? Charlie, Charlie, Charlie! Its okay."
+0,40,9,CHARLIE,"Hes a Jaffa! He wants to kill me, just like he killed the Reetou."
+0,40,9,JACK,"No, no! No, no, no. Hes a good Jaffa. In fact, he saved my life one time. He hates the Goauld as much as you do."
+0,40,9,CHARLIE,No!
+0,40,9,JACK,"Oh, for cryin out loud. Look, Mom. You said you trust me, right? Well Im tellin you, Tealc is okay. In fact, all my friends here at the base are okay. Okay?"
+0,40,9,CHARLIE,Shes over there.
+0,40,9,JACK,Okay.
+0,40,9,CHARLIE,"Mother says to trust only you, and the other members of your team."
+0,40,9,JACK,"Good. Thank you. Charlie, Tealc. Tealc, Charlie."
+0,40,9,TEAL'C,I am pleased to meet you.
+0,40,9,JACK,"Listen, Charlie. We have to ask you some questions about the attack on your people. Can you talk about that?"
+0,40,10,TEAL'C,"I am sorry, ONeill. I must leave this room."
+0,40,10,JACK,"Excuse me, Charlie. Mother."
+0,40,11,JACK,Whats the matter?
+0,40,11,TEAL'C,My symbiote became agitated when I entered the room.
+0,40,11,JACK,Any idea why?
+0,40,11,TEAL'C,"I can tell you only this, ONeill. In all of my years, I have never experienced a symbiote so disturbed. There is something unusual about this child, ONeill. I advise you to use extreme caution in his handling."
+0,40,11,JACK,I was planning on it.
+0,40,11,TEAL'C,"You have seen it yourself. In the hands of the Goauld, a child is nothing more than a potent weapon."
+0,40,11,JACK,"Well, Carter and Fraiser checked him out for all the threats we encountered from the other kids."
+0,40,11,JANET,"I didnt find any apparent threat to us, but hes in worse shape than I thought, the poor kid. Several of his major organs have congenital defects."
+0,40,11,JACK,"Oh, God."
+0,40,11,JANET,"Its like Mother Nature put him together in a hurry and got everything just a bit wrong. His heart valves are defective, his renal function is a mess, and I have serious questions about his lungs. Im afraid without some very aggressive medical intervention, he wont live to be much older than he is."
+0,40,11,JACK,Can you help him?
+0,40,11,JANET,"Maybe, but he may be bey ond anything our medicine can do. Theres something else. Charlies CAT scan. Now, if you look along the lower part of the brain stem, this is the part where normal humans have what is called the reticular formation. Its the part of the brain that determines alertness, our perception of things. Charlies is twice the size of ours. And that could explain why he knew you had a son. It may also explain why he had such an effect on Tealcs symbiote"
+0,40,11,JACK,"So, what, hes got ESP? Some telekinetic thing going on?"
+0,40,11,JANET,"I dont know. Im a sceptic on such things, but ..."
+0,40,11,JACK,It would explain a lot.
+0,40,12,JACK,"So Charlie, tell us why the Reetou want to attack us."
+0,40,12,CHARLIE,Its not the central authority of the Reetou. Its only the Reetou rebel faction.
+0,40,12,JACK,"Alright, why do the rebels want to attack us?"
+0,40,12,CHARLIE,Because the glowing-eye people attacked the Reetou.
+0,40,12,DANIEL,The Goauld?
+0,40,12,CHARLIE,The rebels believe that the glowing-eye people are too powerful to destroy directly. They believe they can only be destroyed by attrition.
+0,40,12,JACK,"Attrition, what does that mean?"
+0,40,12,DANIEL,Attrition is the gradual diminution of strength or number by ...
+0,40,12,JACK,I know* what the word* means. I meant in context.
+0,40,12,SAM,My God. They must want to kill all possible hosts. They must think that if the Goauld have no new hosts to infest that theyll eventually die out.
+0,40,12,DANIEL,By attrition.
+0,40,12,CHARLIE,Yes.
+0,40,12,SAM,Well thats insane! There are billions of possible Goauld hosts all throughout the galaxy.
+0,40,12,TEAL'C,And they are not all human.
+0,40,12,CHARLIE,Mother agrees. That is why the central authority of the Reetou sent us here.
+0,40,12,DANIEL,"Charlie, Im curious. Are you a Reetou?"
+0,40,12,CHARLIE,No. I am of your species.
+0,40,12,DANIEL,Is your mother a Reetou?
+0,40,12,CHARLIE,Of course.
+0,40,12,DANIEL,And is that why we cant see her?
+0,40,12,CHARLIE,Yes.
+0,40,12,DANIEL,"Well, if youre one of us, why can you see her?"
+0,40,12,CHARLIE,Cos Im special.
+0,40,12,DANIEL,Youre special. How?
+0,40,12,CHARLIE,Mother created me to serve as an intermediary.
+0,40,12,DANIEL,She created you.
+0,40,12,CHARLIE,"Yes. She hoped I would be older before we came, but my accelerated growth caused my body to begin failing, so we had to come sooner."
+0,40,12,HAMMOND,"Captain, youre our physics expert here. Is it possible that theres a creature standing here that we cant perceive?"
+0,40,12,SAM,"Theoretically it is possible, sir, yes. I mean, according to quantum physics, matter exists both in particles and waves. If the Reetou waves are exactly a hundred and eighty degrees out of phase with ours right down to the subatomic level, then their light and sound waves would be undetectable by us."
+0,40,12,JACK,"So, what? Prepare for an attack by an invisible army?"
+0,40,12,TEAL'C,"If there is a Reetou in this room, it came through the Stargate. And it is capable of controlling the iris."
+0,40,12,HAMMOND,"Son, how did your mother do that?"
+0,40,12,CHARLIE,I am no longer called Son. Call me Charlie.
+0,40,12,HAMMOND,"Charlie, how did your mother control the iris?"
+0,40,12,CHARLIE,"Mother came ahead of me weeks ago. She observed you and how you operate the iris. Then, when the time came, she opened it for me, just as you do."
+0,40,12,HAMMOND,She just typed it into the computer?
+0,40,12,SAM,"That is how the computer behaved, sir, as if it was being overridden by another console."
+0,40,12,DANIEL,So the Reetou can operate things in our phase?
+0,40,12,CHARLIE,Yes.
+0,40,12,JACK,Carter?
+0,40,12,SAM,"It is possible, sir, but it doesnt seem very likely."
+0,40,12,CHARLIE,Mother is growing impatient with your narrow-mindedness.
+0,40,13,HAMMOND,Stand down!
+0,40,13,JACK,I assume that came from
+0,40,13,CHARLIE,Mother.
+0,40,13,JACK,Mother.
+0,40,14,HAMMOND,Theories? Suggestions?
+0,40,14,SAM,It seems obvious that this Reetou exists.
+0,40,14,JACK,Well heres a question. How do we deal with an invisible threat?
+0,40,14,SAM,We need a way to detect them.
+0,40,14,JACK,That would be helpful.
+0,40,14,TEAL'C,I have that way. It seems my symbiont can sense this creature.
+0,40,14,JACK,"Okay, limited helpfulness right there."
+0,40,14,TEAL'C,Explain.
+0,40,14,JACK,"Can it tell us where exactly in a room a Reetou is, how many there are, what theyre doing, etcetera?"
+0,40,14,TEAL'C,It was not that specific. It only detected a presence.
+0,40,14,JACK,So limited.
+0,40,14,TEAL'C,"Perhaps if my symbiote can detect this creature, the Goauld can also sense them."
+0,40,14,JACK,Thats a good point. They had to see them to wipe them out.
+0,40,14,TEAL'C,Perhaps the TokRa can be of assistance.
+0,40,14,HAMMOND,"It could be our best hope. Captain Carter, Doctor Jackson, signal the TokRa."
+0,40,14,SAM,"Yes, sir."
+0,40,16,JACOB,"Hello, Sam."
+0,40,16,SAM,"Dad, we have a little bit of a situation and we may need Selmaks help."
+0,40,16,JACOB,"Selmak, Selmak, Selmak. I thought maybe you just wanted to see your old man."
+0,40,16,SAM,"I do, Dad."
+0,40,16,HAMMOND,"But this time we do need your symbiote, Jacob."
+0,40,16,JACOB,"Nice to see you too, George"
+0,40,17,SELMAK,"It is an honour to once again return to your planet, General. What can we do for you?"
+0,40,17,HAMMOND,Have you ever heard of something called a Reetou?
+0,40,17,SELMAK,"Yes, why?"
+0,40,17,HAMMOND,We may have one here.
+0,40,17,SELMAK,"Tok'ra kree! Takl'an onobl'on. Please send him back to where we came from. In the meantime, take me to this Reetou."
+0,40,18,JACK,"Hey, Charlie. How you feeling?"
+0,40,18,CHARLIE,Tired. Really tired.
+0,40,18,CHARLIE,For crying out loud!
+0,40,19,JACK,"Charlie? Charlie, its alright. Its okay. Its alright, hes not a Goauld,hes a TokRa. Theyre okay."
+0,40,19,SAM,Dad?
+0,40,20,JACOB,Oh! You are correct. There is a Reetou in that room. Takram. This will illuminate the Reetou if it is there. Follow me.
+0,40,22,JACK,Jacob?
+0,40,23,CHARLIE,Please dont hurt her!
+0,40,23,JACK,My God!
+0,40,23,HAMMOND,Hold your fire.
+0,40,23,SAM,She couldve hurt us a long time ago if thats what she intended.
+0,40,23,JACOB,"TokRa, kree."
+0,40,24,JACK,Whoa. I owe you an apology.
+0,40,24,CHARLIE,"I wouldnt lie to you, Jack."
+0,40,24,JACK,"I know that. Im sorry. Charlie, I want you to do me a favour."
+0,40,24,CHARLIE,What?
+0,40,24,JACK,"You and your mom stay in this room until I get back. Nobodys gonna hurt you, I promise, neither of you. Okay?"
+0,40,24,CHARLIE,Okay.
+0,40,24,JACK,Okay.
+0,40,25,JACK,"Will somebody please explain to me how that thing, could be the kids mother?"
+0,40,25,DANIEL,He said their leaders created him to communicate with us. They must have cloned him or engineered him somehow.
+0,40,25,JANET,All theyd need is some human DNA and it would be possible to construct him in a lab. It would also explain the extra reticular formation in his brain could have been genetically engineered to allow him to perceive this Reetou mother.
+0,40,25,JACK,But how do they do something that advanced and leave the kid so screwed up?
+0,40,25,JANET,"Genetically engineering a human child would be a very precise exercise, Colonel. Changing one set of genes to alter the reticular formation could have numerous additional ramifications."
+0,40,25,SAM,"Even though we cant see them, these Reetou can definitely see us."
+0,40,25,TEAL'C,Which puts us at a great strategic disadvantage. I understand why the Goauld would want to eliminate them.
+0,40,25,JACK,"Theyre Goauld, Tealc. Thats their job."
+0,40,25,JACOB,The Reetou are a pretty peaceful race. The Goauld wiped most of them out just because they were a possible threat.
+0,40,25,DANIEL,"Okay, but how did the Goauld wipe them out?"
+0,40,25,JACOB,They were able to isolate the emissions that we are sensitive to and develop a device that would expose the creatures. This is a Transphase Eradication Rod. The TokRa have managed to rip off several versions of this device. Its also capable of terminating a Reetou.
+0,40,25,JACK,"Well do me a favour, will you? Dont terminate this Reetou. I promised the kid."
+0,40,25,HAMMOND,It appears this Reetou came to warn us of an impending rebel attack.
+0,40,25,JACOB,"Yeah. The Reetou rebels are kind of like terrorists are here on Earth,nasty guys. They could do a lot of damage here, folks, kill a lot of people."
+0,40,25,JACK,How many are there?
+0,40,25,JACOB,"Dont know, but I do know their MO. They work in small groups of five suicide infiltrators. They sneak in, they split up, plant destructive devices, and try to maximise the damage before theyve even been detected. But they usually attack Goauld planets. Any idea why they want to attack here on Earth?"
+0,40,25,SAM,Apparently to destroy all possible hosts.
+0,40,25,DANIEL,Is it possible that they can get through our iris?
+0,40,25,JACOB,No. Their molecules wouldnt reintegrate any more than yours or mine.
+0,40,25,SAM,Can our weapons even touch them?
+0,40,25,JACOB,"Earth weapons will not be as effective as a TER, but since the Reetou are somewhat affected by solid matter in our phase, your weapons might at least slow them down."
+0,40,25,JACK,"But essentially, wed be shooting at nothing."
+0,40,25,JACOB,You bet. Pretty tough to shoot at a moving target that you cant see. Even with TERs its tough. Best weapon is advanced intel  knowing where theyll come from and how.
+0,40,25,JACK,"Well, I should talk to Mom. She might know where this rebel staging planet is."
+0,40,25,DANIEL,"Wait a minute. Say she does give us the address where theyre coming from, isnt it kinda risky to go looking for them? I mean, its possible we may let more of them through to Earth and not even know it."
+0,40,25,JACOB,"If weve got TERs, well be able to see them."
+0,40,25,HAMMOND,"We need some intelligence, Doctor Jackson. Its the only way well know what were up against."
+0,40,26,CHARLIE,Mother says not to cry.
+0,40,26,JACK,Cryings okay.
+0,40,26,CHARLIE,She says the boys of your culture do not cry.
+0,40,26,JACK,"Not true. In fact, theres an official list of reasons for which crying is a good thing."
+0,40,26,CHARLIE,Mother is leaving.
+0,40,26,JACK,"Now, see, thats a good reason. Mom leaving, I believe, is number six on the list of good reasons. Actually, six is Mom says shes leaving in a couple of days, five is Mom leaving immediately. Four, of course, is Mom already left. Now three, three is huge, one of the bigger ones on the list."
+0,40,26,CHARLIE,Shes still here. Shes leaving as soon as she has told you everything that can help.
+0,40,26,JACK,Shes not taking you with her?
+0,40,26,CHARLIE,She wants to leave me here with my own kind.
+0,40,26,JACK,"Well, for what its worth, I think shes right. I think you should stay here. Youd be better off."
+0,40,26,CHARLIE,"I think I belong with you, Jack."
+0,40,26,JACK,"Look, Charlie, before she leaves, do you think she could tell us where we can find these rebel Reetoos?"
+0,40,26,CHARLIE,She says shell show me the address.
+0,40,26,JACK,Thatd be great.
+0,40,26,CHARLIE,Jack? Could I be your son for a while?
+0,40,26,JACK,"I dont know, Charlie. I dont think youd want that."
+0,40,26,CHARLIE,Yes I do. Youd be great. I can tell.
+0,40,26,JACK,"Ill tell you what. Lets deal with these Reetou, then well talk about it, okay?"
+0,40,26,CHARLIE,Okay.
+0,40,26,JACK,Okay.
+0,40,27,TECH,
+0,40,27,JACOB,"This is a bit of overkill, George. I told you, these rebels work in five-man squads. Therell only be five, maybe ten of them there."
+0,40,27,HAMMOND,"I dont wanna take any chances, Jacob. Okay, listen up! Colonel ONeill is in charge of this operation."
+0,40,27,TECH,
+0,40,27,HAMMOND,"Colonel, I wanna remind you that this is a recon mission only. Do not engage the enemy unless you have no choice."
+0,40,27,JACK,"Cant engage what you cant see, sir."
+0,40,27,HAMMOND,"Do your best for them not to see you, Colonel."
+0,40,27,TECH,
+0,40,27,JACK,"Alright. Here we go, kids. Move out!"
+0,40,28,SELMAK,Looks clear
+0,40,28,JACK,"Clear. Lets go do some snooping around, what do you say? You stay with SG-12, watch our six. Backsides."
+0,40,28,SELMAK,"Colonel, the Reetouh are present in that direction"
+0,40,28,JACK,How many?
+0,40,28,SELMAK,I don't know
+0,40,29,JACK,Woah. Five or ten
+0,40,30,HAMMOND,So you would say threat assessment is high?
+0,40,30,JACK,"Oh, yeah!"
+0,40,30,SAM,"There were a lot of them, sir."
+0,40,30,TEAL'C,They are indeed invisible.
+0,40,30,HAMMOND,Youre sure none of them came through with you?
+0,40,30,JACOB,"Cant be sure, but I dont think so. Selmaks trauma stopped a few seconds after we got through the Gate, and my guard did a TER sweep of the room."
+0,40,30,JACK,"Course, it would only take one to open the iris, correct?"
+0,40,30,SAM,"Well, we could put palm scanners into the iris control system to prevent that. I mean, I assume they dont have palms."
+0,40,30,HAMMOND,"Take who you need and do it now, Captain."
+0,40,30,SAM,"Yes, sir."
+0,40,30,HAMMOND,"Colonel, lets go see the boy."
+0,40,32,SAM,"Okay, that should....Tealc?"
+0,40,33,SAM,"Colonel ONeill, are you with Charlie now? And Moms there? I think we may have a stowaway Reetou who came back with us. Yeah"
+0,40,34,JACK,You alright?
+0,40,34,JACOB,Strong Reetou.
+0,40,35,JACK,Damn it.
+0,40,35,HAMMOND,Anyone get a count?
+0,40,35,JACK,"We had four here, plus that one in the Control Room."
+0,40,35,JACOB,"Yeah, its one of their terrorist teams. They didnt wanna be seen until their destruction had already started."
+0,40,35,JACK,So what will they do?
+0,40,35,JACOB,Some of them will try to get out of the base and start making a mess of things.
+0,40,35,JACK,How?
+0,40,35,JACOB,"They have cross-phasal explosives, each one as powerful as a small nuke. I hate to tell you this but those four Reetou rebels could level a couple of cities and take a lot of people with them."
+0,40,35,JACK,Sweet
+0,40,38,SAM,"Weve dimmed the lights to get a better contrast on the TERs and weve shut down all access to this floor and sub 27, so hopefully theyre trapped in here with us."
+0,40,38,JACK,"Well, assume they are. Well do a sweep of all three access corridors, sealing as we go. Try to corral them. Jacob, Carter, Chue: C-8. Tealc, Rothman, Brecker, C3. Daniel, Plunkett, youre with me. Lets move out."
+0,40,39,TEAL'C,Seal Blast Door C-3 East.
+0,40,40,JACOB,Reetou!
+0,40,40,SAM,Come on!
+0,40,41,JACK,Seal Blast A7 West.
+0,40,41,DANIEL,"Jack, what happens if they come through the door behind us?"
+0,40,41,JACK,What? Dont do that!
+0,40,42,JACK,Damn it.
+0,40,44,SAM,Dad! You okay?
+0,40,44,JACOB,Not really. Get the damned thing! Selmak can take care of me.
+0,40,44,GO!,
+0,40,46,JACK,"You, me, on three."
+0,40,46,DANIEL,There are people in there.
+0,40,46,JACK,"I know! On three,"
+0,40,48,JACK,Hit the deck!
+0,40,49,CHARLIE,Mother!
+0,40,49,DANIEL,Dont shoot!
+0,40,50,CHARLIE,Mother!
+0,40,51,JACK,Ahh!
+0,40,51,JANET,"Easy, sir."
+0,40,51,JACK,"Alright, that hurts. Give me a count."
+0,40,51,SAM,I got one.
+0,40,51,TEAL'C,I also eliminated one.
+0,40,51,DANIEL,"And we got two, and Mother got one. I guess that makes five."
+0,40,51,SAM,"So that should be all of them, right?"
+0,40,51,JACK,"Well, lets make sure. Take a team and do a sweep of the base, Captain."
+0,40,51,SAM,"Yes, sir."
+0,40,51,JACK,Oh God. Im sorry.
+0,40,52,JACK,Doc? Doc!
+0,40,52,JANET,Give me a hand over here. Lets go! Get him up on the bed.
+0,40,52,JACK,Easy.What?
+0,40,52,JANET,"I dont know. His pulse is very weak. I may be able to stabilise him for now but you have to remember, sir, he has two major organs about to fail."
+0,40,52,JACK,Oh come on. Hes just a kid. Youve got all this fancy equipment around here
+0,40,52,JANET,"Colonel, Im sorry, but I dont think so."
+0,40,52,SELMAK,Let us take him. He will be in good hands
+0,40,52,JACK,Can the TokRa help him?
+0,40,52,SELMAK,Yes
+0,40,52,DANIEL,"Excuse me, isnt he a little young to be a host?"
+0,40,52,SELMAK,"He is young, but the Tok'ra symbiote that we introduce to his mind can teach him. He will grow up with the advantages that great wisdom brings."
+0,40,52,JACK,Two key words there: grow up.
+0,40,52,JANET,"The Tokra are probably the only way thatll happen, sir."
+0,40,52,JACK,Do it.
+0,40,53,JACOB,Keep the TERs. Well get you more as soon as they become available.
+0,40,54,JACK,"You know, theres another rule that says its okay to be sad when youre saying goodbye to a new friend."
+0,40,54,CHARLIE,"I wanna stay with you, Jack."
+0,40,54,JACK,"Well, Jacobs gonna take you to a place where you can get well. I cant do that. But you know what?"
+0,40,54,CHARLIE,What?
+0,40,54,JACK,Ill come visit. Youll come visit. Okay?
+0,40,54,CHARLIE,I guess.
+0,40,54,SELMAK,"I warn you. The Reetou are guileful creatures, and you are at the disadvantage of not being able to sense them as my Jaffa friend and I can."
+0,40,54,SAM,"Well, weve installed the hand scanner, so they cant open the iris at least."
+0,40,54,SELMAK,You are the only one Teal'c. Please be diligent. They will not give up. They will attempt to send more infiltrators.
+0,40,54,JACOB,George.
+0,40,54,SAM,"Bye, Dad."
+0,40,54,JACOB,You take care.
+0,40,54,SAM,You too.

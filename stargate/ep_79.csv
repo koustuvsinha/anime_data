@@ -1,0 +1,374 @@
+Season,Episode,Scene,Character,Line
+0,79,0,STARGATE SG1,Episode 415
+0,79,0,"""CHAIN REACTION""",By Paul Mullie Control Room. General Hammond comes down the stairs to be met by Technician Davis.
+0,79,0,HAMMOND,Report
+0,79,0,TECHNICIAN DAVIS,"It's SG1 sir, they're under fire."
+0,79,0,HAMMOND,"Colonel O'Neill, this is General Hammond. Your report status?"
+0,79,0,O'NEILL,We're pinned down. Carter was able to dial the Gate. We're trying to get clear to come through.
+0,79,0,HAMMOND,"Open the iris. Evacuate the Gate room.Colonel O'Neill, we're taking fire. Report. Colonel O'Neill?"
+0,79,0,TECH,Sir?
+0,79,0,HAMMOND,Give them some more time.
+0,79,3,O'NEILL,So essentially we were ambushed on the way back to the gate.
+0,79,3,CARTER,We almost didn't make it out.
+0,79,3,HAMMOND,If you delayed much longer you wouldn't have. I was about to close the iris.
+0,79,3,O'NEILL,"Well considering the SGC was taking fire, kinda glad you waited as long as you did Sir."
+0,79,3,HAMMOND,Strictly speaking if I'd followed procedure you'd all be dead right now.
+0,79,3,CARTER,Well Sir every time we go through the stargate it's a calculated risk.
+0,79,3,HAMMOND,I realise that Major. But frankly I'm getting tired of sending good people out there never knowing if they're going to come back. I've had enough.
+0,79,3,DANIEL,"I'm sorry Sir, what are you saying?"
+0,79,3,HAMMOND,I wanted you all to be the first to know. Effective immediately I'm stepping down as commander of the SGC.
+0,79,5,HAMMOND,Come to see me off Colonel?
+0,79,5,O'NEILL,Nope.Come to talk you out of this.
+0,79,5,HAMMOND,Thank you. You can finish later.
+0,79,5,AIRWOMAN,Yes sir
+0,79,5,HAMMOND,"Jack, weren't you there for my goodbye speech?"
+0,79,5,O'NEILL,"Yes I was. Of course. You know that. And it was lovely General but do you really think I'd believe you're quitting because we ran into a little trouble out there? Hell, we've been presumed dead before."
+0,79,5,HAMMOND,I don't have to explain myself to you Colonel.
+0,79,5,O'NEILL,"No Sir you don't, you're my commanding officer. But could you throw me a bone???"
+0,79,5,HAMMOND,Jack this has been a long time coming. I'm asking you to respect my decision and accept it. When I took over this command the stargate was inactive. This was suppposed to be a quick and easy assignment on my way to retirement.
+0,79,5,O'NEILL,General. Need I remind you I was retired. Somethings are worth changing your plans for.
+0,79,5,HAMMOND,I've had enough.
+0,79,6,HAMMOND,Let me just say it's been a pleasure serving with all of you.
+0,79,6,CARTER,We'll miss you Sir.
+0,79,6,DANIEL,Won't be the same without you Sir
+0,79,6,TEAL'C,"On Chulak, when a great warrior retires from the field of battle it is custom to sing a song of lament. Fortunately we are not on Chulak."
+0,79,9,CARTER,So what do we know about this new guy?
+0,79,9,O'NEILL,Not much.
+0,79,9,DANIEL,"Let's hope he's not some sort of spit polish, brass tacks.."
+0,79,9,O'NEILL,Hard ass?
+0,79,9,DANIEL,I was building up to that.
+0,79,9,O'NEILL,Ten hut
+0,79,10,BAUER,My name is Major General Bauer. I'll be your new commanding officer. I'd just like to say I look forward to working with all of you. Thank you.
+0,79,11,O'NEILL,Squadron at ease. Looks at Carter. Always leave 'em wanting more.
+0,79,12,DANIEL,I don't know I guess I was expecting someone a little more inspiring.
+0,79,12,CARTER,I guess when you spend that much time at the Pentagon it's easy to become a beaurocrat.
+0,79,13,BAUER,Or a diplomat. Depends on where your interests lie.
+0,79,13,CARTER,"General, I..."
+0,79,13,BAUER,At ease Major Carter. At ease. I've been going over your research into naquada reactors. Very impressive.
+0,79,13,CARTER,Well large scale application is mostly theoretical right now but the mineral does show incredible potential as an alternative power source.
+0,79,13,BAUER,It also demonstrates some interesting properties when used in conjunction with nuclear ordinance.
+0,79,13,CARTER,"It does tend to increase the explosive effect, yes Sir."
+0,79,13,BAUER,"The Pentagon feels that the Stargate project, while exposing Earth to considerable danger has yet to produce any practical returns. Now we've been working on a device designed specifically to take advantage of this Naquada enhancing effect. I'd like you to take part in the operation."
+0,79,13,CARTER,What about my duties on SG1?
+0,79,13,BAUER,You've been reassigned.
+0,79,13,DANIEL,What?
+0,79,13,BAUER,As have you Doctor Jackson. An archaeologist has no place on a front line unit. From now on you'll work as a consultant going off world when required.
+0,79,13,CARTER,General Bauer.
+0,79,13,BAUER,The decision has been made Major. Now I suggest you get to work.
+0,79,15,BAUER,Come. Colonel O'Neill.
+0,79,15,O'NEILL,General.
+0,79,15,BAUER,Thank you Captain. I've just been going through your mission reports.
+0,79,15,O'NEILL,Yes Sir.
+0,79,15,BAUER,They're satisfactory although in the future you might want to include bullet point summaries. Makes for an easier read.
+0,79,15,O'NEILL,Bullet point summaries.
+0,79,15,BAUER,Is there a problem with that?
+0,79,15,O'NEILL,"General I realise the format of my reports is of vital importance and if you'd like, some day we can get together and talk about fonts and margins but right now I like to discuss the fact you're dismantling my team without discussion."
+0,79,15,BAUER,General Hammond might have allowed you a certain latitude in his presence but you'd do well to watch your tone with me.
+0,79,15,O'NEILL,You know General Hammond kept us together for a reason. The fact is if it wasn't for SG1 you'd be sitting there with a snake in your head instead of your head up your ass.
+0,79,15,BAUER,"Colonel! No one around here is above reproach. If it continues your long history of insorbordination will come to a swift and completely unspectacular end under my command, that I can assure you. Now I suggest you take some time, think things over, decide if you still want to be a part of this operation. Dismissed Colonel."
+0,79,17,HAMMOND,Hello Jack. Come on in.
+0,79,17,O'NEILL,General. See your keeping busy.
+0,79,17,HAMMOND,Have a seat. What are you doing here?
+0,79,17,O'NEILL,Ahh little vacation.
+0,79,17,HAMMOND,Didn't you just take some time off?
+0,79,17,O'NEILL,"Yeah, but this one wasn't by choice."
+0,79,17,HAMMOND,Not everyone is going to be as patient with you as I was.
+0,79,17,O'NEILL,That's why I'm here sir.
+0,79,17,HAMMOND,Bit of a rough adjustment?
+0,79,17,O'NEILL,"Oh no no everythings fine. Sg1's been dismantled. Daniel's got a desk job, Teal'c with SG3 and Carter's working on some kind of doomsday machine. You know, same old same old."
+0,79,17,HAMMOND,Are you serious?
+0,79,17,O'NEILL,For once yes.
+0,79,17,HAMMOND,It's just going to take some time to get used to the man. I'm sure he's very competent.
+0,79,17,O'NEILL,Oh come on General. I've never met anyone who liked doing what they do more than you. You were good at it. Great. You'll never convince me you just got fed up. I'll never buy that.
+0,79,17,HAMMOND,I'm sorry it's out of my hands Jack.
+0,79,17,O'NEILL,What's that mean?
+0,79,17,HAMMOND,I can't discuss it.
+0,79,17,O'NEILL,General?
+0,79,17,HAMMOND,You don't understand.
+0,79,17,O'NEILL,I won't unless you explain it to me.
+0,79,17,HAMMOND,Two weeks ago I was contacted by a representative of the NID. He suggested I should become more aggressive in my policies.
+0,79,17,O'NEILL,They have no jurisdiction over you.
+0,79,17,HAMMOND,They wanted me to help them gain access to off world technology which they're unable to do since we shut down their little side operation.
+0,79,17,O'NEILL,You told them to go to hell
+0,79,17,HAMMOND,"Of course. then he told me if I didn't co operate there would be consequences. The next day, two men in plain clothes in a black un marked car picked up my grand daughters from school."
+0,79,17,O'NEILL,I don't believe it.
+0,79,17,HAMMOND,They took them for a little ride and brought them home. The girls were fine but I got the message. We're talking about an organisation as powerful as the CIA. These people are above the law. I can't protect my family 24 hours a day. I had no choice.
+0,79,17,O'NEILL,Of course not.
+0,79,17,HAMMOND,Don't get yourself into trouble over this Jack.
+0,79,17,O'NEILL,You know me Sir.
+0,79,19,MAYBOURNE,Jack O'Neill. What a pleasant surprise.
+0,79,20,BAUER,At ease. How are things progressing Major?
+0,79,20,CARTER,Well the hardware's almost ready. But the problem is the ratio of Naquada to lithium hydride. According to my calculations we don't have enough weapons grade material to complete the bomb.
+0,79,20,BAUER,Then we'll just have to get some more.
+0,79,20,CARTER,Sir we're talking about refined Naquada. It's extremely rare.
+0,79,20,BAUER,Not on P3S 452
+0,79,20,CARTER,Sir that planet is a Goa'uld stronghold
+0,79,20,BAUER,I realise that. I'm confident a well armed strike force can get the job done.
+0,79,22,MAYBOURNE,Nice of you to come by. I don't get a lot of visitors.
+0,79,22,O'NEILL,I find that hard to believe.
+0,79,22,MAYBOURNE,In my line of work people don't exactly stick by you through thick and thin. Most of my associates are busy trying to forget they ever knew me.
+0,79,22,O'NEILL,Your former associates are why I'm here. They're causing some problems for a friend of mine.
+0,79,22,MAYBOURNE,General Hammond.
+0,79,22,O'NEILL,What do you know?
+0,79,22,MAYBOURNE,Why should I tell you?
+0,79,22,O'NEILL,I can help you.
+0,79,22,MAYBOURNE,I've been convicted of treason. What can you do?
+0,79,22,O'NEILL,Air Force One and I go way back.
+0,79,22,MAYBOURNE,I suppose I'll have to trust you.
+0,79,22,O'NEILL,I wasn't gonna say it.
+0,79,22,MAYBOURNE,It's really very simple. When you shut down the off world operation with the second gate you cut off the NID's access to off world technology.
+0,79,22,O'NEILL,That's when they sent you to work for the Russians.
+0,79,22,MAYBOURNE,The Pentagon forced the Russians to deep six their gate in exchange for continued sharing of information and technology.
+0,79,22,O'NEILL,We have the only operational strargate.
+0,79,22,MAYBOURNE,Exactly. The NID thinks Hammond and the policies that govern the SGC are too soft.
+0,79,22,O'NEILL,So this Bauer guy is part of it?
+0,79,22,MAYBOURNE,Truth is I don't know. I've been out of the loop for a while but it's possible he's just a patsy unwittingly manouevered into positon because he's got the right mentality.
+0,79,22,O'NEILL,All sounds so cloak and daggery.
+0,79,22,MAYBOURNE,"You're a special ops Colonel, Jack. why do you always pretend to smell like roses?"
+0,79,22,O'NEILL,Ehh! I never threatened a 2 star general by kidnapping his grandkids.
+0,79,22,MAYBOURNE,Don't pretend to be so naive either.
+0,79,22,O'NEILL,How do I get him to back off?
+0,79,22,MAYBOURNE,You really want to play in my sandbox Jack?
+0,79,22,O'NEILL,Tell me what I have to do.
+0,79,22,MAYBOURNE,Quid pro quo Jack.
+0,79,22,O'NEILL,"You're facing the death penalty. The best I can do is put in a good word, recommend they commute your sentence to life."
+0,79,22,MAYBOURNE,"You'll have to do a lot better than that. I can get you the information you need, names, proof of certain influential persons involvement with the NID."
+0,79,22,O'NEILL,Keep talking.
+0,79,22,MAYBOURNE,My word is useless. You want hard evidence you're gonna have to get me out of here for a few days.
+0,79,22,O'NEILL,Are you nuts? Do you know how many strings I'd have to pull to make that happen?
+0,79,22,MAYBOURNE,"One big one. I know you're prepared to do it Jack, you wouldn't be here otherwise. I won't bother to say you can trust me."
+0,79,23,TECHNICIAN DAVIS,Receiving transmission Sir. It's SG3's iris code.
+0,79,23,BAUER,Open the iris.
+0,79,24,BAUER,Where's Major Waite.
+0,79,24,TEAL'C,Dead.
+0,79,24,BAUER,What happened?
+0,79,24,TEAL'C,We encountered heavy resistance. Lieutenant Morrison was providing cover fire...
+0,79,24,BAUER,What about the Naquada?
+0,79,24,TEAL'C,I believe I secured a sufficient amount.
+0,79,24,BAUER,Excellent. You can give me your full briefing later.
+0,79,24,BACKGROUND,We've stopped the bleeding. Let's get him to the infirmary.
+0,79,25,O'NEILL,Have you heard of IKEA???
+0,79,25,MAYBOURNE,"You wanta feel priviliged Jack. No one, not even the NID knows about this place."
+0,79,26,O'NEILL,Charles Bliss?
+0,79,26,MAYBOURNE,Now you know one of a hundred names I go by.
+0,79,26,O'NEILL,I see you're on that famous beer and mustard diet. How's that working out for you?
+0,79,28,MAYBOURNE,If anyone tries to boot the computer up without this disk the whole thing fries.
+0,79,28,O'NEILL,What are you doing?
+0,79,28,MAYBOURNE,Accessing NID files on the internet.
+0,79,28,O'NEILL,On the internet?
+0,79,28,MAYBOURNE,The organisation is made up of cells. They communicate with each other by accessing bulletin boards online. Information is deposited on any number of firewall protected floating servers and accessed using decoding software and passwords.
+0,79,28,O'NEILL,Yadda yadda. Blah blah. Why'd we have to come here for this?
+0,79,28,MAYBOURNE,Because the decoding software happens to be on this computer. They've deactivated my password.
+0,79,28,O'NEILL,Now there's a shocker.
+0,79,28,MAYBOURNE,I'll try to hack in through the back door.
+0,79,29,CARTER,The naquada we got from P3S 452 has been successfully incorporated into the device Sir.
+0,79,29,BAUER,I'm glad to hear it. Here's the test site.
+0,79,30,CARTER,This planet supports plant and animal life.
+0,79,30,BAUER,Yes. But the aerial survey shows no sign of habitation within a fifty mile radius of the Gate.
+0,79,30,CARTER,"That may not be good enough. I'll need some time to run some simulations. Sir, we've never done anyhting like this before and I'm not entirely sure how destructive this device will be."
+0,79,30,BAUER,"Major, the whole point of the experiment is to determine how destructive the device will be. Request denied."
+0,79,30,CARTER,But Sir
+0,79,30,BAUER,Proceed with the preparations.
+0,79,30,CARTER,Yes sir.
+0,79,32,MAYBOURNE,Jack? Once you've got the information that links the key names to the NID what are you gonna do with it?
+0,79,32,O'NEILL,What do you think?
+0,79,32,MAYBOURNE,I think you're gonna turn it over to the Pentagon and hope the proper chain of command leads to justice.
+0,79,32,O'NEILL,Are you trynna say something to me Harry?
+0,79,32,MAYBOURNE,You can't take down the whole NID and they'll kill you for trying.
+0,79,32,O'NEILL,That wouldn't be very nice.
+0,79,32,MAYBOURNE,But you might be able to hold the incriminating evidence over them and get Hammond reinstated.
+0,79,32,O'NEILL,So I should sit on this?
+0,79,32,MAYBOURNE,It's your play. Damn.
+0,79,33,O'NEILL,Thought you said nobody knew about this place.
+0,79,33,MAYBOURNE,They've probably been tracing me since I went online.
+0,79,33,O'NEILL,You got a way out of here?
+0,79,33,MAYBOURNE,Gimme a second.
+0,79,33,O'NEILL,What are you doing?
+0,79,33,MAYBOURNE,Burning the hard drive.
+0,79,34,MAYBOURNE,Nice.
+0,79,35,O'NEILL,And a nice try to you.
+0,79,38,CARTER,We're ready Sir.
+0,79,38,BAUER,First observation MALP is in position. Prepare to send the bomb through.
+0,79,38,CARTER,Seal it up.
+0,79,40,O'NEILL,Yeah Daniel. How are things at camp?
+0,79,40,DANIEL,Not good. General Bauer's testing his naquada bomb. he's taking shortcuts which Sam thinks could be disastrous.
+0,79,40,O'NEILL,Well Maybourne claims he doesn't know if Bauers in with NID or just a gung ho patsy.
+0,79,40,DANIEL,Well either way he's dangerous.
+0,79,40,O'NEILL,"Well hang in there, do what you can. I'll check back."
+0,79,40,MAYBOURNE,You want one?
+0,79,40,O'NEILL,"No, you know there's still something about you that puts me off my food."
+0,79,41,O'NEILL,Now what does that have to do with anything?
+0,79,41,MAYBOURNE,"You wanna help General Hammond, you're gonna have to get you're hands dirty. I need to know you're gonna see this thing through."
+0,79,41,O'NEILL,Under no other circumstances would I sit here and watch you eat.
+0,79,41,MAYBOURNE,"Yeah, well things are about to get a lot more dicey. They're on to us, our only chance now is a more direct approach."
+0,79,41,O'NEILL,Such as?
+0,79,41,MAYBOURNE,We have to connect someone with significant influence to the online websites. The only way to do that now is straight through one of the high profile associates.
+0,79,41,O'NEILL,Who are we talking about here?
+0,79,41,MAYBOURNE,An old friend.
+0,79,42,SILER,Fifteen minutes to target location.
+0,79,43,DANIEL,We have to stop the test.
+0,79,43,BAUER,Why is that Doctor?
+0,79,43,DANIEL,"The aerial survey shows evidence of an old goa'uld mining operation, now even though it's probably been shut down for several thousand years there could still be significant amounts of Naquada present on that planet."
+0,79,43,BAUER,My soil samples indicate only minute traces.
+0,79,43,CARTER,The geological survey I read said there was none.
+0,79,43,BAUER,We're not stopping the test.
+0,79,43,CARTER,I don't think you realise the implications of this... Or maybe you do.
+0,79,43,BAUER,Are you making an accusation Major?
+0,79,43,CARTER,"You knew all along didn't you? You were hoping for a chain reaction with the Naquada in the soil. Sir, that entire planet could be destroyed."
+0,79,43,BAUER,That possibility has been considered. Most worlds occupied by the goa'uld have a high incidence of Naquada. This could be a very effective weapon against them.
+0,79,43,CARTER,"There's only one problem sir. When that bomb goes off we'll still be connected to that planet by an active stargate and we've seen radiation, gravitational effects even time distortions translated back through an outgoing wormhole."
+0,79,43,BAUER,According to my intelligence we should be able to get just enough information before the stargate is destroyeed and the wormhole disconected.
+0,79,43,CARTER,Who provided this intelligence?
+0,79,43,BAUER,That is not your concern.
+0,79,43,CARTER,Sir we've seen the Stargate survive a direct hit from a meteorite. The truth is we have no way of knowing what will happen.
+0,79,43,BAUER,A risk assessment has been made and deemed acceptable. End of discussion.
+0,79,44,O'NEILL,How long you known the guy?
+0,79,44,MAYBOURNE,We go way back.
+0,79,45,MAYBOURNE,Looks like a party.
+0,79,45,MAID,Yes?
+0,79,45,MAYBOURNE,"Would you please tell the Senator, Colonel Maybourne and Colonel O'Neill would like to see him."
+0,79,45,MAID,He has guests.
+0,79,45,MAYBOURNE,Tell him he has two more.
+0,79,46,KINSEY,What the hell are you doing here?
+0,79,46,MAYBOURNE,My invitation must have got lost in the mail.
+0,79,46,KINSEY,This is not a good time.
+0,79,46,MRS KINSEY,Who is it dear?
+0,79,46,KINSEY,A couple of old friends.
+0,79,46,O'NEILL,Afternoon ma'am. I'm Mr Starsky and this is Hutch.
+0,79,46,MRS KINSEY,Come in Come in. We're just having a little get together.
+0,79,48,O'NEILL,It's alright.
+0,79,48,MRS KINSEY,He seems to like you Mr Starsky?
+0,79,48,O'NEILL,"Birds of feather, ma'am."
+0,79,48,KINSEY,"Dear, Starsky and Hutch is an old TV show."
+0,79,48,MRS KINSEY,Oh so you're actors then?
+0,79,49,KINSEY,Maybe we'd better go up to my study. This won't take long.
+0,79,50,SILER,The weapon is in position.
+0,79,51,DANIEL,What happened?
+0,79,51,SILER,We've lost transmission.
+0,79,51,CARTER,The observation MALP was destroyed.
+0,79,51,TEAL'C,The wormhole did not disconnect.
+0,79,51,TECHNICIAN DAVIS,Sir I'm picking up increasing levels of radiation in the gateroom.
+0,79,51,CARTER,"They're Gamma rays, ultra high frequency."
+0,79,51,BAUER,Shut down the gate.
+0,79,51,DAVIS,No response. Radiation levels approaching critical.
+0,79,51,CARTER,Close the iris.
+0,79,51,DAVIS,Radiation levels decreasing.
+0,79,51,CARTER,Sir if that iris succumbs to the heat and loses integrity there will be no way to stop the radiation from bombarding the base. We have to evacuate.
+0,79,51,BAUER,We were positive the gate would be destroyed.
+0,79,51,CARTER,Sir we have act now. Bauer nods. Attention all personnel by order of General Bauer commence immediate evacuation of the base. Repeat immediate evacuation This is not a drill.
+0,79,52,BAUER,What's going to happen Major.
+0,79,52,CARTER,I have no way of knowing Sir.
+0,79,52,DAMIEL,Guess your risk assessment didn't cover this.
+0,79,53,KINSEY,"Gentlemen, I have the undersecretary of State, the governor of Maryland and half the United States congress waiting for me in my living room so lets make this quick. What in god's name could I possibly do for you."
+0,79,53,O'NEILL,We need some information on the NID.
+0,79,53,KINSEY,The NID?
+0,79,53,O'NEILL,Snaky governement agency involved in all sorts of illegal covert operations like blackmailing Air Force Generals.
+0,79,53,KINSEY,"You are making less and less sense to me as the seconds are passing away, along with my patience."
+0,79,53,MAYBOURNE,Don't tell me you're not aware of all the money they funneled into your re election campaign?
+0,79,53,KINSEY,If you have a problem with my campaign finances why don't you take it up with the Federal Elections Commission
+0,79,53,MAYBOURNE,That's just the tip of the iceberg.
+0,79,53,KINSEY,And aren't you supposed to be in a federal prison Colonel?
+0,79,53,MAYBOURNE,Colonel O'Neill graciously asked to President to help me dig up some information about my former associates.
+0,79,53,KINSEY,And you trust this man?
+0,79,53,O'NEILL,No.
+0,79,53,KINSEY,I'm sorry gentlemen but this conversation has lost all amusement for me. I have a party to get back to.
+0,79,53,O'NEILL,We're not going anywhere.
+0,79,53,KINSEY,Excuse me?
+0,79,53,O'NEILL,I'm not leaving until I get what I came for.
+0,79,53,KINSEY,Oh and what are you going to do?
+0,79,53,O'NEILL,Well I was thinking about shooting you.
+0,79,53,MAYBOURNE,"Jack, what are you doing?"
+0,79,53,O'NEILL,Getting a litle dirty for you Maybourne?
+0,79,54,CARTER,Bringing the gate room online. The iris is holding but it's starting to heat up.
+0,79,54,BAUER,How long before it loses integrity.
+0,79,54,CARTER,I'm not sure. It's possible that we turned that planet into a giant ball of super heated plasma. It could power the gate for months.
+0,79,54,BAUER,We'll have to set the auto destruct.
+0,79,54,TEAL'C,"The gate on the other side survived the explosion, would not ours aswell?"
+0,79,54,BAUER,But at least it would be buried under a million tonnes of rock.
+0,79,54,CARTER,That wouldn't stop it from pumping out radiation. Eventually the heat is going to melt through that iris.
+0,79,54,BAUER,Then what do we do Major?
+0,79,54,CARTER,There is a chance the gate will shut down on its own.
+0,79,54,BAUER,The 38 minute window.
+0,79,54,CARTER,"There's no way to know for sure sir, these are untested circumstances."
+0,79,54,BAUER,How long has the gate been open?
+0,79,54,CARTER,Coming up on 21 minutes.
+0,79,55,KINSEY,"Colonel, have you completely taken leave of your senses?"
+0,79,55,O'NEILL,"I've been hanging round Maybourne, what does that say?"
+0,79,55,KINSEY,How dare you come into my house waving a gun?
+0,79,55,O'NEILL,Not waving. Pointing. LOL. Sit down.
+0,79,55,KINSEY,I hope you realise Colonel you are making the biggest mistake of your life. When this is over I promise you'll regret the day we ever met.
+0,79,55,O'NEILL,"Oh that day has come and gone, Senator."
+0,79,55,KINSEY,If you don't care about you're own career maybe you should think about your friends.
+0,79,55,O'NEILL,What's that mean?
+0,79,55,KINSEY,"You mess with me, Dr Jackson will be out of the SGC permanently, Major Carter will be scrubbing toilets in some Air Force weather station in Alaska and as for the alien Teal'c, well lets just say I know some bio engineers in the department of defence who would love to get their hands on his symbiote."
+0,79,55,MAYBOURNE,Okay I'm in. I need the password.
+0,79,55,O'NEILL,"I'll give you a choice, white meat or dark meat?"
+0,79,55,KINSEY,You wouldn't dare.
+0,79,55,MAYBOURNE,"It's usually something familiar, wifes maiden name.."
+0,79,55,KINSEY,"I have a wife, three children, seven grandchildren and various nieces and nephews. Good Luck."
+0,79,56,O'NEILL,Try Oscar
+0,79,56,MAYBOURNE,"That's it we're in. I'm downloading now. Kinseys online activities connect him to NID actions over the last year and a half including the secret operation I ran out of Area 51, the involvement with the Russians and the threats to Hammond."
+0,79,56,O'NEILL,"You're a piece of work Kinsey.Try to shut down the SGC, you make this big speech about how much you hate secret organisations and then you jump in bed with the NID. What is that?"
+0,79,56,KINSEY,"Oh I still think the gate is a Pandoras box and I still think it should be buried forever but as long it's open, and as long as its a threat to this planet then I'm damn well gonna make sure its used the way it should be used. To defend God's creation."
+0,79,56,O'NEILL,Oh blow the rhetoric up somebody else's nose. You're nothing but a power hungry hypocrite.
+0,79,56,KINSEY,The only currency in this town is power. So if I have to shake hands with the devil to do the Lord's work then so be it.
+0,79,56,O'NEIILL,You self righteous son of a bitch. Where do you get off
+0,79,56,KINSEY,"Judge not lest ye be judged. I read the mission reports that come out of that mountain, you play with the fate of this planet on a daily basis."
+0,79,56,O'NEILL,I'm doing the job I was asked to do. I doubt very much your constituents could say the same about you.
+0,79,56,KINSEY,"Oh please, given the chance half of all American citizens won't even vote and the half that do vote are too stupid to know what they're doing."
+0,79,56,O'NEILL,Which explains how you got elected.
+0,79,56,KINSEY,In order to expose me you're going to have to compromise the secrecy of the SGC. Are you really willing to do that
+0,79,56,MAYBOURNE,I'm done.
+0,79,56,O'NEILL,Gimme that.
+0,79,56,KINSEY,What are you going to do? Take down the whole NID?
+0,79,56,O'NEILL,Nope. Here's the deal. Get them to reinstate Hammond or this disk goes to the press.
+0,79,56,KINSEY,It'll never see the light of day.
+0,79,56,O'NEILL,Well I really don't think you'll see the light of day if your secret friends find out you're the weak link.
+0,79,56,KINSEY,You learned to play hard ball pretty fast didn't you Colonel?
+0,79,56,O'NEILL,I had a good teacher.
+0,79,57,MAYBOURNE,Trouble Jack.
+0,79,58,CARTER,Approaching 38 minutes
+0,79,59,MAYBOURNE,Who made the call? Your wife?
+0,79,59,KINSEY,Give me the disk and you might just get out of here alive.
+0,79,59,O'NEILL,They won't come in here with the group he's got downstairs.
+0,79,59,MAYBOURNE,But we still gotta get out.
+0,79,61,BAUER,It's still open.
+0,79,61,CARTER,Yes sir
+0,79,61,BAUER,Well there's no point staying here. I'll inform the President from the surface.
+0,79,61,CARTER,"Yes Sir, I'm sure it'll be much safer up there."
+0,79,61,TEAL'C,Major Carter.
+0,79,61,BAUER,What happened?
+0,79,61,CARTER,The gate shut itself off.
+0,79,62,CARTER,It's over.
+0,79,62,BAUER,"For what it's worth Major, I'm sorry."
+0,79,63,O'NEILL,Great party Mrs K Thank you.
+0,79,64,REPORTER,"Senator Kinsey, we have heard you are plannng to run for the White House."
+0,79,64,KINSEY,White House?
+0,79,64,REPORTER,Are you declaring your candidacy?
+0,79,64,KINSEY,I am but this is really not how I intended this to come out.
+0,79,64,REPORTER,So it's true then Senator?
+0,79,64,KINSEY,"Well now that you're all here we've often talked about my goals. Do I think I would make a good President? You're damn right I would. You know how I feel about things, you know how hard I've worked. The potential I see in the people of this great nation and the way so many of it's leaders have let them down. It's enough to bring tears to your eyes. The solution to the problems by our governemt are so simple. Listen to the people."
+0,79,65,HAMMOND,Jack come in
+0,79,65,O'NEILL,"General, it's good to have you back."
+0,79,65,HAMMOND,Thank you. I hear I missed a bit of excitement while I was gone.
+0,79,65,O'NEILL,You'll have to ask Carter about that one Sir.
+0,79,65,HAMMOND,I'm looking forward to the debriefing.
+0,79,65,O'NEILL,As am I.
+0,79,65,HAMMOND,"Jack, what I owe you for this."
+0,79,65,O'NEILL,"Continued latitude, patience and understanding. So just be yourself Sir."
+0,79,66,HAMMOND,Hammond. It's for you.
+0,79,66,O'NEILL,Hello
+0,79,66,MAYBOURNE,Hello Jack
+0,79,66,O'NEILL,Maybourne. Where are you?
+0,79,66,MAYBOURNE,Well not in jail if that's what you think. I emailed myself a copy of the incriminating evidence when I saved it to disk for you.
+0,79,66,O'NEILL,I know
+0,79,66,MAYBOURNE,Kinsey felt obligated to get me transferred to a nicer facility while I await my execution. Made things simple after that.
+0,79,66,O'NEILL,Why didn't you try to escape when you were with me?
+0,79,66,MAYBOURNE,"Oh come on Jack, you trusted me I didn't want you to look bad for the President. Besides you're too good to have let it happen."
+0,79,66,O'NEILL,What are you going to do now?
+0,79,66,MAYBOURNE,"Well short term I think I'll have a few margeritas, after that who knows?"
+0,79,66,O'NEILL,Yeah right.
+0,79,66,MAYBOURNE,Thanks for all your help.
+0,79,67,O'NEILL,"General, about what you owe me?"
+0,79,67,HAMMOND,Anything I can do.
+0,79,67,O'NEILL,Well nothing right now but one day I may ask you to buy back my soul.

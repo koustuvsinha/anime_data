@@ -1,0 +1,319 @@
+Season,Episode,Scene,Character,Line
+0,101,0,STARGATE SG1,Episode 515
+0,101,0,"""SUMMIT""",By Joseph Mallozzi & Paul Mullie
+0,101,0,TECH DAVIS,Unauthorised off world activation.
+0,101,2,TECH DAVIS,"Receiving IDC transmission, sir. It's the Tok'ra."
+0,101,2,HAMMOND,Open the iris.
+0,101,2,O'NEILL,"Oh, here we go."
+0,101,4,HAMMOND,Ren-al.
+0,101,4,REN-AL,General Hammond.
+0,101,4,HAMMOND,This is SG1.
+0,101,4,REN-AL,I am familiar with all your exploits. Your father Jacob sends his regards.
+0,101,4,CARTER,How is he?
+0,101,4,REN-AL,"On a mission at the moment, which is the reason I am here. There is a serious situation developing regarding the System Lords."
+0,101,4,HAMMOND,Briefing room.
+0,101,5,O'NEILL,"It's always suicide mission this, save the planet that. No one ever just stops by to say Hi any more."
+0,101,6,REN-AL,The deaths of Cronus and Apophis created a power vacuum that the remaining System Lords have been trying to exploit. Over the past several months they have suffered heavy losses and expended an enormous amount of resources fighting amongst themselves.
+0,101,6,O'NEILL,Let the good times roll.
+0,101,6,REN-AL,Unfortunately the good times may be coming to an end. They've declared a truce. And now it looks as if they are going to have a meeting to discuss the establishment of a new order.
+0,101,6,HAMMOND,So you want to stop them?
+0,101,6,REN-AL,Quite the opposite actually. We want them to meet. It'll give us the rare opportunity to strike against all of them at once.
+0,101,6,CARTER,You're talking about taking out the entire Goa'uld leadership?
+0,101,6,REN-AL,We are.
+0,101,6,O'NEILL,Welcome to the dark side.
+0,101,6,REN-AL,This has always been part of our long-term plan. We just weren't quite prepared for the opportunity to present itself so quickly.
+0,101,6,DANIEL,Where exactly is this meeting taking place?
+0,101,6,REN-AL,"A space station in the Hasara system. It is considered neutral territory. Security will be tight, no weapons will be permitted on board and access will be by cargo ship only."
+0,101,6,O'NEILL,Defences?
+0,101,6,REN-AL,Inpenetrable.
+0,101,6,TEAL'C,Could we possibly gain entrance on one of the cargo ships?
+0,101,6,REN-AL,They'll be scanned on their approach to the station.
+0,101,6,O'NEILL,Okay. Let's hear it.
+0,101,6,REN-AL,Every System Lord in attendance will be permitted to bring one human slave.
+0,101,6,CARTER,And you want one of us to do it.
+0,101,6,REN-AL,Specifically we need someone who speaks fluent Goa'uld.
+0,101,7,REN-AL,Someone who is not Jaffa.
+0,101,8,REN-AL,"If you agree to participate, we ask that you come to our base on Revanna tomorrow. Jacob will be there, he will tell you all you need to know. It is up to you Dr Jackson."
+0,101,9,TEAL'C,Daniel Jackson?
+0,101,9,DANIEL,Yeah?
+0,101,9,TEAL'C,Have you considered the Tok'ra proposal?
+0,101,9,DANIEL,Yep.
+0,101,9,TEAL'C,"If successful, it would deal the Goa'uld a mortal blow."
+0,101,9,DANIEL,Yeah. I realise what's at stake.
+0,101,9,TEAL'C,"Daniel Jackson, you have stated many times that in circumstances such as this, you would avoid using such action if given a better option."
+0,101,9,DANIEL,Right. You think there's a better way of overthrowing the Goa'uld?
+0,101,9,TEAL'C,I currently have no plan that would accomplish as much as the one put forth by the Tok'ra.
+0,101,9,DANIEL,That's why I'm gonna do it.
+0,101,10,MANSFIELD,Ten hut!
+0,101,10,O'NEILL,At ease. Major.
+0,101,10,MANSFIELD,Colonel.
+0,101,10,O'NEILL,I see you drew the short straw.
+0,101,10,CARTER,Lieutenant Elliot. Finally got your first assignment.
+0,101,10,ELLIOT,Yes ma'am. Be nice to see a little action for a change.
+0,101,10,O'NEILL,"It's just your basic off world orientation, Lieutenant. There is no action."
+0,101,10,ELLIOT,"Maybe not sir, but I am looking forward to meeting the Tok'ra."
+0,101,10,O'NEILL,You'll get over it.
+0,101,12,JACOB,Welcome to Revanna.
+0,101,12,CARTER,Hi Dad.
+0,101,12,JACOB,"It's good to see you Sam. Jack, how are you?"
+0,101,12,O'NEILL,Kinda curious.
+0,101,13,JACOB,Some of you know Aldwin. He'll be conducting the orientation for your new officers.
+0,101,13,ALDWIN,We'll begin with a tour of the facilities. After that I have prepared a lecture on the development of Tok'ra insurgency techniques since the collapse of the second Goa'uld dynasty.
+0,101,13,O'NEILL,I take it all back Lieutenant. This could be hot.
+0,101,13,JACOB,Come.
+0,101,15,DANIEL,So how're you gonna get me in?
+0,101,15,JACOB,Yu will be among the System Lords attending the meeting.
+0,101,15,CARTER,I thought you said he'd be going in as a slave?
+0,101,15,JACOB,The System Lord Yu.
+0,101,15,CARTER,Little joke there.
+0,101,16,O'NEILL,Funny.
+0,101,16,DANIEL,"Yu knows my face, he'll recognise me."
+0,101,17,REN-AL,He will not.
+0,101,17,JACOB,Ren-al and her team have been working on a modified version of the chemical SG-1 obtained from the Reeyall.
+0,101,17,REN-AL,"If you can get close enough to inject him, you will be able to convince him that you are, in fact, his most trusted Lotar."
+0,101,17,O'NEILL,His what?
+0,101,17,TEAL'C,Lotar is the highest rank amongst the human slaves of the System Lords.
+0,101,17,JACOB,They're like personal attendants. It's considered to be a position of great honour. I spent the last couple of months establishing myself as a minor Goa'uld in Yu's service. I'll be able to get Daniel on board his mothership and deal with the loose ends.
+0,101,17,CARTER,What if Nirrti shows up?
+0,101,17,JACOB,"Not much chance of that, she's still a renegade. And persona non grata among the System Lords. None of the other remaining System Lords have seen Danny's face."
+0,101,17,DANIEL,"Assuming I make it on to the space station, what happens next?"
+0,101,17,REN-AL,"You will wait until all the System Lords have arrived and then you will use this. These two liquids mixed together form the most virulent poison. Press the button to open the valve between the two containers. The liquid will immediately be vaporised, within seconds the pressure will break the seal on the container and the gas will be released."
+0,101,17,DANIEL,Am I supposed to hold my breath?
+0,101,17,REN-AL,The poison is only deadly to symbiotes.
+0,101,17,CARTER,Isn't that a little dangerous?
+0,101,17,JACOB,More than you know. There's enough material in that vial to kill every Tok'ra on this base twice over.
+0,101,17,REN-AL,That is why this formula is our most closely guarded secret.
+0,101,17,DANIEL,And it doesn't kill the host?
+0,101,17,REN-AL,"Not the chemical itself, but as you know, the dying symbiote releases it's own toxin which is just as deadly."
+0,101,17,JACOB,"Daniel, the human host of a System Lord has been through the sarcophagus countless times. We know the toll that takes, they're hundreds, sometimes thousands of years old. Never mind the psychological damage they suffered, physically, without the Goa'uld sustaining them, they die anyway."
+0,101,17,DANIEL,So we're doing them a favour?
+0,101,17,JACOB,"In many ways, yes."
+0,101,17,O'NEILL,How many targets?
+0,101,17,JACOB,"There'll be seven System Lords at the meeting. That's all the major players. If we pull this off, the Goa'uld may never recover."
+0,101,17,O'NEILL,What can we do?
+0,101,17,JACOB,Wait here. I'll communicate when the mission has been accomplished.
+0,101,18,O'NEILL,"Jacob. Jacob, wait up!"
+0,101,19,O'NEILL,Why do I get the feeling there's something you're not telling us?
+0,101,19,JACOB,Oh Jack.
+0,101,19,O'NEILL,Oh come one. You're the one who's always saying that every time we knock off one of these System Lords a worse one shows up. Why should this be any different?
+0,101,19,JACOB,It is true that others would eventually rise up but by taking them all out at once. We'll create a power vacuum that will lead to a massive galaxy wide war as the remaining Goa'uld jockey for position. That will last long enough for us to make a final decisive move.
+0,101,19,O'NEILL,Which is?
+0,101,19,JACOB,"A wide scale attack on the entire Goa'uld population using the symbiote poison. We're gonna wipe them out, Jack. All of them."
+0,101,20,OSIRIS,Why have I been enlisted for this task?
+0,101,20,ZIPACNA,Politics have always been one of your greater skills.
+0,101,20,OSIRIS,And am I to go alone?
+0,101,20,ZIPACNA,I have my own mission upon which I must embark. Apparently the Tok'ra have developed a formidable new weapon.
+0,101,20,OSIRIS,How do you know?
+0,101,20,ZIPACNA,I captured a Tok'ra spy in my midst.
+0,101,20,OSIRIS,I doubt very much a Tok'ra would reveal this information. No matter how you tortured him.
+0,101,20,ZIPACNA,You are correct. But Anubis has methods that would impress you.
+0,101,20,OSIRIS,What are you going to do?
+0,101,20,ZIPACNA,I am going to take this weapon from the Tok'ra and destroy them.
+0,101,22,DANIEL,So why do the System Lords need human attendants?
+0,101,22,JACOB,"Well the Jaffa serve as strictly military function. Besides if the host of a System Lord is ever injured beyond a symbiotes capacity to heal, it can be pretty useful to have a human close at hand."
+0,101,22,DANIEL,Well let's hope it doesn't come to that.
+0,101,22,JACOB,Are you clear on all the backgrounds of the System Lords?
+0,101,22,DANIEL,"Oh yeah, I'm fine."
+0,101,22,JACOB,"Good, we'll be at Yu's home world in a little over an hour."
+0,101,23,JACOB,Are you all right Daniel?
+0,101,23,DANIEL,"Oh yeah, I'm fine."
+0,101,23,JACOB,"Listen, if you're not 100% committed to this mission, I need to know."
+0,101,23,DANIEL,I just think some of your details are a little...sketchy.
+0,101,23,JACOB,Like what?
+0,101,23,DANIEL,"We're gonna use poison to wipe out the Goa'uld, right?"
+0,101,23,JACOB,Eventually.
+0,101,23,DANIEL,What about the Jaffa?
+0,101,23,JACOB,Well that's still a bit of a wrinkle. Unless we can find a way to reverse their biological dependency on immature symbiotes.... They'll all die as well.
+0,101,23,DANIEL,A bit of a wrinkle.
+0,101,23,JACOB,"Danny, the Goa'uld have been spreading like a plague across the galaxy for thousands of years. Now for the first time they're showing zero population growth. We're not sure why. But we intend to take advantage of the situation. We may never get a chance like this again. Are we good to go?"
+0,101,23,DANIEL,Yep.
+0,101,24,ALDWIN,"As you know, when the Tok'ra arrive on a new planet it is customary to move underground as quickly as possible."
+0,101,24,ELLIOT,And you actually grow these tunnels from crystals?
+0,101,24,ALDWIN,That is correct. Individual crystals are programmed with the specific layout of a given passageway allowing us to structure the tunnel system as we see fit.
+0,101,24,MANSFIELD,What about ventilation shafts?
+0,101,24,ALDWIN,"There are none. If we tunnel through suitable rock such as calcium carbonate as we have done here, oxygen is produced as a by- product. This gives us enough time to enter the tunnels and set up our life support systems."
+0,101,25,MANSFIELD,Colonel.
+0,101,25,O'NEILL,Gentlemen. How goes the orientation?
+0,101,25,ELLIOT,"It's very interesting, Sir, just as you predicted."
+0,101,25,ALDWIN,Are you interested in Tok'ra engineering?
+0,101,25,O'NEILL,"Oh, interested doesn't quite describe how I truly feel."
+0,101,25,ALDWIN,You're welcome to join us.
+0,101,25,O'NEILL,"Thank you Aldwin, but I have to go help Teal'c...wait for Daniel. Excuse me."
+0,101,26,JACOB,I can get you into Yu's quarters. Your job is to get close enough to use this.
+0,101,27,JACOB,"All you have to do is prick him. The effect will be immediate. He will believe you to be his loyal slave, Jarren."
+0,101,27,DANIEL,Jarren?
+0,101,27,JACOB,Just don't jab yourself with it.
+0,101,27,DANIEL,Why?
+0,101,27,JACOB,Actually I don't know exactly. That in itself should scare you.
+0,101,28,REN-AL,"As you know Major, we kept the body in stasis for several months as we tried to find a way to repair the damage. But in the end, we were unsuccessful. All that is left of Martouf, now lives on in Lantash."
+0,101,28,CARTER,What's its condition.
+0,101,28,REN-AL,The symbiote is still recuperating but the search is already on to find a new host.
+0,101,28,CARTER,I wanna see the research.
+0,101,28,REN-AL,I'm sorry Major but all information pertaining to zatarc technology..
+0,101,28,CARTER,..can only be released on the authority of the council. I know. They've been stonewalling me for months.
+0,101,28,REN-AL,"I assure you, Martouf was in no pain."
+0,101,28,CARTER,That's not the problem.
+0,101,28,REN-AL,What then?
+0,101,28,CARTER,"If the symbiote was still alive when Martouf was taken out of stasis, wasn't there a chance it could have healed his injuries?"
+0,101,28,REN-AL,The possibility was remote.
+0,101,28,CARTER,How remote?
+0,101,28,REN-AL,The host was too weak. In all likelihood the symbiote would have died trying to repair the damage.
+0,101,28,CARTER,You don't know that for sure.
+0,101,28,REN-AL,Well we had to make a choice.
+0,101,28,CARTER,And naturally you chose the symbiote.
+0,101,28,REN-AL,Your bias towards the host is only natural. Surely it is better for one to live than for both to die?
+0,101,28,CARTER,Isn't this really about your zatarc research?
+0,101,28,REN-AL,I don't understand.
+0,101,28,CARTER,If Martouf had lived you wouldn't have had the chance to examine his brain tissue. You wouldn't have learned anything.
+0,101,28,REN-AL,Would you really have preferred his sacrifice to have been for nothing?
+0,101,28,CARTER,I would have preferred another way.
+0,101,28,REN-AL,You knew Martouf well?
+0,101,28,CARTER,Yes.
+0,101,28,REN-AL,"Knowing him as you did, what choice do you think he would have made?"
+0,101,29,REN-AL,"Martouf is not entirely gone, Major. His thoughts and his memories live on in Lantash"
+0,101,30,SELMAK,Jarren.
+0,101,30,JARREN,My Lord does not wish to be disturbed at this time.
+0,101,31,DANIEL,"You know, I don't look a thing like this guy."
+0,101,31,JACOB,Well luckily for this to work you don't have to. You'll be fine. Just remember to pour from the right.
+0,101,33,YU,Kel shak Jarren.
+0,101,34,YU,Ona kree! Onak!
+0,101,35,DANIEL,Nistra Jarren.
+0,101,36,DANIEL,I am your loyal servant Jarren.
+0,101,36,YU,Rise. I will have my tea.
+0,101,37,O'NEILL,What's going on?
+0,101,37,REN-AL,We've received a transmission. Our sensors on the surface have detected a fleet of motherships bound for Revanna. We must leave immediately.
+0,101,38,ALDWIN,An incoming wormhole is blocking our escape through the Stargate.
+0,101,38,CARTER,The Goa'uld can only sustain a wormhole for 38 minutes.
+0,101,38,REN-AL,The ships will be here before then.
+0,101,38,ALDWIN,There is no other escape.
+0,101,38,MAN,Identify yourselves.
+0,101,38,DANIEL,"I represent the Jade Emperor, the exalted Lord Yu Wang Shang Ti."
+0,101,38,MAN,Two life signs scanned. No weapons detected. Lowering shields.
+0,101,38,YU,Our fellow System Lords are not to be trusted. Neither are their slaves.
+0,101,38,DANIEL,Understood my Lord.
+0,101,39,CARTER,Do you have any ships available for evacuation?
+0,101,39,REN-AL,A few un-armed cargo ships but they're with operatives on other missions.
+0,101,39,ALDWIN,We have begun making new tunnels.
+0,101,39,O'NEILL,What good is that gonna do?
+0,101,39,ALDWIN,Spread out the risk of getting hit by an air attack. You could lend us a hand moving life support equipment and supplies to the new tunnels.
+0,101,39,ONEILL,Major. Lend `em a hand.
+0,101,39,MANSFIELD,Yes sir.
+0,101,41,CARTER,What are you doing?
+0,101,41,REN-AL,I'm cutting power to the base. The energy signature would give away our position. Now they'll have to resort to random bombardment.
+0,101,41,O'NEILL,Well that's encouraging.
+0,101,41,REN-AL,"Colonel, the Tok'ra have never had the military resources of the Goa'uld. We use disguise and subterfuge to achieve our goals, our bases are designed to be hidden. We are just not equipped to repulse such a large enemy force."
+0,101,41,CARTER,Well they're not just gonna go away.
+0,101,41,REN-AL,"I can assure you Major, if this base is compromised, we will fight until the last of us has fallen."
+0,101,41,O'NEILL,With what? Zats?
+0,101,41,REN-AL,What else is there?
+0,101,41,O'NEILL,"Well, you got that poison. And if it's half as good as you say it is, it could wipe out any potential ground assault."
+0,101,41,REN-AL,And risk killing every Tok'ra on this base as well?
+0,101,41,O'NEILL,"Hey, we're all gonna die if we sit around and wait for the attack."
+0,101,41,REN-AL,"Believe me, if it came down to it, we would sacrifice ourselves and use the poison on our enemy if we had some. Unfortunately the only quantity in existence is in Selmak's possession. It would take weeks to synthesise more."
+0,101,43,SLAVE,Lord Yu Wang Shang Ti.
+0,101,44,YU,"Note them, Jarren. Our future allies."
+0,101,45,DANIEL,"Bastet. Kali the Destroyer. They made a treaty with Sobek then moved against him during the celebratory feast. Sobek let his guard down. Rumour has it, his head still decorates Bastet's palace in Mubastas."
+0,101,45,YU,You have a good memory. They are still worthy of my allegiance. Do not accept gifts from Baal.
+0,101,45,DANIEL,"They have a habit of exploding especially when he feels he has been slighted. He wiped out the inhabitants of two star systems, sixty million lives, rather than lose them to Sokar in a territorial dispute."
+0,101,45,YU,Poor loser. Do not consort with Morrigan's servant.
+0,101,45,DANIEL,"He will attempt to draw strategic information in seemingly idle conversation. I know your last servant unwittingly gave away the location of one of your secret bases in Velong, to his credit, he was killed in the surprise attack. It is what has given me the honour to serve you, my Lord."
+0,101,45,YU,Olokun is still seething over a recent loss to my forces. He may try to kill you out of spite. Do not make me look foolish by allowing yourself to be murdered.
+0,101,45,DANIEL,"Yes, my Lord."
+0,101,45,BAAL,Yu.
+0,101,46,BAAL,I am pleased you were able to join us given recent events. I understand your fleet suffered some heavy losses.
+0,101,46,YU,I am not the only one. Did I not hear that your flagship was destroyed?
+0,101,46,BAAL,I lost two thousand jaffa.
+0,101,46,YU,Such is war.
+0,101,46,BAAL,No. This is different. This enemy attacks like a coward. Bastet and Kali have suffered similar setbacks. They are becoming more frequent while the identity of our antagonist continues to elude us.
+0,101,46,YU,I am certain you have your suspicions.
+0,101,46,BAAL,We are all suffering at the hands of this unknown adversary. By shrouding himself he sows discord amongst us.
+0,101,48,O'NEILL,"Mansfield, this is O'Neill. Report."
+0,101,48,MANSFIELD,A section of the structure collapsed. We have some injured Tok'ra here.
+0,101,48,ELLIOT,"Sir, we've got another one."
+0,101,48,O'NEILL,Get `em out of there.
+0,101,48,MANSFIELD,"Roger that. Let's go, we gotta move. Elliot, let's go."
+0,101,48,ELLIOT,"He's still alive, Sir."
+0,101,49,O'NEILL,"Major, what's your situation? Mansfield, report!"
+0,101,49,JAFFA,The Al-kesh continues to bomb the area around the Gate. No Tok'ra have surfaced in an attempt to escape.
+0,101,49,ZIPACNA,Escape? There is no escape. They hide in their tunnels like rats. Continue the bombardment. Prepare your groundtroops for infiltration.
+0,101,50,O'NEILL,Elliot?
+0,101,50,ELLIOT,"Direct hit, Sir."
+0,101,50,O'NEILL,Where's the rest of your team?
+0,101,50,ELLIOT,They're dead.
+0,101,50,CARTER,"Sir, we need to get him to the infirmary."
+0,101,50,ALDWIN,The Infirmary's been destroyed.
+0,101,50,REN-AL,We'll take them to the lab. Follow me!
+0,101,51,REN-AL,I'm transferring the formula for the poison to this crystal and erasing the memory of the computer. We will die before we give up our secrets.
+0,101,51,O'NEILL,"You know, we really should come up with a new strategy. One that does not include us dying."
+0,101,51,TEAL'C,"We must determine what is happening on the surface, O'Neill."
+0,101,51,ALDWIN,"With the power down ,we are cut off from the surface sensors. You'll have to use the secondary ring room."
+0,101,51,REN-AL,Show them.
+0,101,53,DANIEL,"Jacob? Jacob, are you there, it's Daniel."
+0,101,53,JACOB,Daniel? How's it going?
+0,101,53,DANIEL,"Oh swell, it's kinda like Goa'uld Mardi Gras here."
+0,101,53,JACOB,A ship just docked so by my account you got all seven. It's time to release the poison.
+0,101,53,DANIEL,"Yeah, we may wanna hold off a while. Apparently they're expecting someone else."
+0,101,53,JACOB,Who?
+0,101,53,DANIEL,I don't know. It seems they've got some mysterious new adversary that's been causing some pretty serious headaches.
+0,101,53,JACOB,That's strange. It's not like the Goa'uld to play it so coy.
+0,101,53,DANIEL,"Well, I'll see what I can find out. I'll contact you later."
+0,101,55,CARTER,We have to get him out of here. This man need medical attention.
+0,101,55,REN-AL,We've done all we can right now.
+0,101,55,CARTER,What about the symbiote?
+0,101,55,REN-AL,It's out of the question.
+0,101,55,CARTER,It could save Major Mansfield's life.
+0,101,55,REN-AL,The symbiote's life is being sustained by the chamber. It's in no condition to help your friend.
+0,101,55,CARTER,We can't just let him die.
+0,101,55,REN-AL,"If we implant the symbiote, we kill them both."
+0,101,57,O'NEILL,They appear to be amassing a few troops.
+0,101,57,TEAL'C,"Once the arial bombardment exposes the tunnels, they will infiltrate and search them."
+0,101,58,O'NEILL,"Carter, come in. Carter, respond. Let's get back."
+0,101,59,YU,This has gone on long enough. We must determine who is responsible for these attacks.
+0,101,59,BAAL,The coward refuses to show himself. He only strikes with his ships never with ground troops.
+0,101,59,YU,None of you have seen the faces of the enemy jaffa?
+0,101,59,BASTET,"I have. When my outpost at Zeldor came under assault, my First Prime managed to disable and board one of the enemy ships."
+0,101,59,YU,Did you take any prisoners?
+0,101,59,BASTET,They fought to the death. Most had been in service of Cronus and Sokar. But one bore the mark of Olokun.
+0,101,59,YU,How do you explain this?
+0,101,59,OLOKUN,"One of my motherships was surrounded by the enemy. Instead of dying with honour, the cowards surrendered and were taken. They may well have switched their allegiance."
+0,101,59,BAAL,And you expect us to believe this?
+0,101,59,OLOKUN,I too have suffered at the hands of this unseen foe. How dare you accuse me!
+0,101,59,SLAVE,My Lords. The final guest has arrived.
+0,101,61,OSIRIS,I hope I'm not missing all the fun.
+0,101,62,BAAL,Welcome Osiris.
+0,101,62,OSIRIS,I thank you for honouring my request.
+0,101,62,OLOKUN,Normally a petition for a seat at this conference would not have been considered. Of course the current situation is far from normal.
+0,101,62,YU,Jarren?
+0,101,63,OSIRIS,I think you'll find I have much to offer. Shall we proceed?
+0,101,65,O'NEILL,What's that?
+0,101,65,ALDWIN,A warning. The Jaffa have breached the tunnels.
+0,101,66,TEAL'C,He is dead.
+0,101,68,CARTER,Lieutenant?
+0,101,69,CARTER,Oh my God.
+0,101,70,CARTER,Lantash?
+0,101,70,LANTASH/ELLIOT,I had no choice.
+0,101,70,CARTER,Elliot?
+0,101,70,LANTASH/ELLIOT,I'm afraid his injuries are severe. There is serious internal damage. It's going to take all my strength just to keep him alive. He will have to speak for both of us.
+0,101,71,ELLIOT/LANTASH,Major?
+0,101,71,CARTER,Elliot. It's gonna be okay.
+0,101,71,ELLIOT/LANTASH,If you say so.
+0,101,71,CARTER,"Believe me, I know. The symbiote's trying to heal you."
+0,101,71,ELLIOT/LANTASH,Okay.
+0,101,72,O'NEILL,Carter!
+0,101,72,CARTER,"The ceiling in the lab collapsed, Sir. Ren-al and Major Mansfield are dead."
+0,101,72,TEAL'C,As is Aldwin.
+0,101,72,CARTER,"Elliot's in rough shape, there's a Tok'ra symbiote inside him."
+0,101,72,O'NEILL,What?
+0,101,72,ELLIOT/LANTASH,Feels very weird sir.
+0,101,72,CARTER,Lantash. He's keeping him alive.
+0,101,73,O'NEILL,Let's take our chances on the surface.
+0,101,74,DANIEL,Jacob?
+0,101,74,JACOB,What's the delay? They should all be there by now.
+0,101,74,DANIEL,"Yeah, we got a full house. But there's a complication. Sarah's here."
+0,101,74,JACOB,Sarah? You mean Osiris? Did she recognise you?
+0,101,74,DANIEL,"I don't know, I think so but she didn't tip her hand and I don't know why."
+0,101,75,OSIRIS,Daniel Jackson. You're a rather long way from home aren't you?
+0,101,76,TEAL'C,The tunnel is blocked.
+0,101,76,CARTER,Does Lantash know if there's another way to the secondary ring room?
+0,101,76,ELLIOT/LANTASH,There isn't.
+0,101,76,TEAL'C,Then indeed we are trapped.

@@ -1,0 +1,311 @@
+Season,Episode,Scene,Character,Line
+0,175,0,STARGATE SG1,Episode 903
+0,175,0,"""ORIGIN""",By Robert C. Cooper
+0,175,1,DANIEL,Where are we?
+0,175,1,PRIOR,The plains of Celestis.
+0,175,1,VALA,And that?
+0,175,1,DANIEL,Maybe you could tell me who you are?
+0,175,1,PRIOR,I am a Prior of the Ori.
+0,175,1,DANIEL,"Uh...I guess well wait here, then?"
+0,175,2,DANIEL,Hullooo?
+0,175,3,PRIOR #2,Hallowed are the Ori.
+0,175,4,DR. LAM,Both Daniel and Valas vital signs have been stable for two hours now.
+0,175,4,LANDRY,What about disconnecting them from the device?
+0,175,4,LAM,Dr. Lee has been unable to remove the stones.
+0,175,4,MITCHELL,"We havent tried C-4 yet, sir."
+0,175,4,LAM,"Dr. Lee is working on disabling the power source, but given that the device is directly linked into their minds, I recommend that we proceed with caution."
+0,175,4,LANDRY,"I understand, but if one or both of them run into trouble again, Im ordering you to take whatever action is necessary to shut that thing down!"
+0,175,5,LANDRY,What can you tell me about this Gerak fellow?
+0,175,5,TEALC,"He was first prime of Muto a minor goauld who served Ra and fell in with Baal when Ra was killed. After the fall of the goauld, Baals armada was led by a Jaffa named Hubrok. Hubrok was an ally of Bratacs and would have supported our desire to reform the Jaffa nation with democracy. However, approximately four months ago, Hubrok disappeared."
+0,175,5,LANDRY,You think Gerak had something to do with that?
+0,175,5,TEALC,"Though no evidence has been uncovered, shortly after Hubroks disappearance, Gerak became the spokesman for the more traditional ways of the Jaffa High Council..."
+0,175,5,LANDRY,...which he could control?
+0,175,5,TEALC,Through a series of slow and deliberate manipulations. The Council played squarely into Geraks hands.
+0,175,5,LANDRY,That makes him one of the most powerful guys out there... that we know of. I suppose I should meet him face to face.
+0,175,5,TEALC,I shall extend your invitation.
+0,175,6,VALA,What does it say?
+0,175,6,DANIEL,"Well, it seems to follow suit with many other religions Ive studied. They tend to weave their doctrines into simple, fable-like narratives with characters that are meant to be easily identifiable with a common individual."
+0,175,6,VALA,Why dont you read one to me? I love a good yarn.
+0,175,6,DANIEL,They all seem to teach meditation on ones worth and significance... the path of righteousness toward a state of higher being.
+0,175,7,VALA,What? Im starving.
+0,175,7,DANIEL,The central icon of the religion seems to be fire.
+0,175,7,VALA,I dont need a book to tell me that.
+0,175,7,DANIEL,"That would make sense. Fire is light, energy, warmth, and yet... on Earth, at some point, fire became associated with demonic imagery or evil. Hell, not heaven."
+0,175,7,VALA,And?
+0,175,7,DANIEL,Im just wondering if the Ancients had something to do with that.
+0,175,7,VALA,"Tell you what? Why dont you FLIP to the end, and see how it all turns out, hmm?"
+0,175,8,PRIOR,The village of Ver Ager has been corrupted.
+0,175,8,VALA,"We dinn do it, I promise."
+0,175,8,DANIEL,"We are connected to these people, Harrid and Sallis, through a communication device that was brought to our galaxy a long time ago by a race of people called the Alterans."
+0,175,8,VALA,Also known as the Ancients?
+0,175,8,DANIEL,"Look, look. The point is we mean you no harm. Were explorers."
+0,175,8,PRIOR,Do you know of others in Ver Ager?
+0,175,8,DANIEL,Others?
+0,175,8,PRIOR,Unbelievers.
+0,175,8,VALA,"Oh, Im sorry. Do you want us to tell on people who dont believe in the Ori?"
+0,175,8,PRIOR,"Devotion is rewarded. Those who stray, must be guided back to the path."
+0,175,8,VALA,"Dont you mean, those who stray, get burnt to death?"
+0,175,8,PRIOR,The Ori gave all men and women free will.
+0,175,8,VALA,"If the Ori are so powerful, why do they need us to tell them who believes in them, and who doesnt?"
+0,175,8,PRIOR,The Ori need nothing from us.
+0,175,8,DANIEL,It is we who must seek the truth of the universe in order to achieve enlightenment.
+0,175,9,DANIEL,Been down this road before.
+0,175,10,LANDRY,"At ease, Colonel. Howre they doing?"
+0,175,10,LANDRY,"I know youre concerned for them. So am I, but Ive got something else for you to do."
+0,175,10,MITCHELL,Sir?
+0,175,10,LANDRY,Just got a report from Dr. Lindsay on
+0,175,10,MITCHELL,"Lindsay... anthropologist, right?"
+0,175,10,LANDRY,"Working with the human population on 421, helping them get over the loss of their former false god."
+0,175,10,MITCHELL,Trouble?
+0,175,10,LANDRY,"Well, it seems a missionary of sorts came through the gate yesterday and started spouting a religion we havent encountered before. Not that we have a problem with people exploring different faiths."
+0,175,10,MITCHELL,"I suspect well see a lot of opportunists trying to fill the void left by the goauld, sir."
+0,175,10,LANDRY,"This newfound freedom is quickly going to turn to desperation if people dont learn to fend for themselves. A lot of these, shall we say, SHELTERED civilizations could potentially be taken advantage of by a charlatan with a flashy bag of tricks."
+0,175,10,MITCHELL,And in this case?
+0,175,10,LANDRY,"Well, this missionary is apparently trying to prove the validity of his claims by performing miracles."
+0,175,10,LANDRY,Id like you to take SG-12 and check it out.
+0,175,10,MITCHELL,"Yes, sir."
+0,175,11,PRIOR,Amica was forgiven his transgressions and found his way back to the path...
+0,175,11,VALA,I cant take much more of this.
+0,175,11,DANIEL,"Uh, sorry to interrupt. But if you brought us here to try to convert us, I think its fair to tell you that were not really in the market for new gods."
+0,175,11,PRIOR,The will of the Ori brought you here.
+0,175,11,DANIEL,I dont suppose we could talk to one of these Ori.
+0,175,11,DANIEL,Great! That... that would be great!
+0,175,11,PRIOR,"Speak, and they shall hear you."
+0,175,11,DANIEL,Oh.
+0,175,11,VALA,"You can torture us all you want with your rhetoric, but were not going to crack. All right, I might. But were not going to TELL you anything because we dont KNOW anything, am I right?"
+0,175,11,DANIEL,"Uh, could I talk to your boss? The... uh... ah... ... the Doci? Um, um, the one who speaks the word of the Ori?"
+0,175,12,DANIEL,"Like Egidius of Valdair, I need to speak things that can only be spoken in the light of the fire."
+0,175,13,VALA,Could you not have asked that an HOUR ago? Weve been listening to him drone on and on...
+0,175,13,PRIOR,Not you.
+0,175,13,VALA,Ill... Ill wait here.
+0,175,15,PRIOR #2,"As he lay there dying in the sun, the sands of the desert all around him, Petris spoke to the rock. Not with his lips, but with his mind. And the rock wept tears of fresh water. And his thirst. Was. Quenched."
+0,175,16,PRIOR #2,"Fear not the Ori! Fear the darkness that would conceal the knowledge of the universe. Believe in the truth of all things, and you too may find the path to enlightenment."
+0,175,17,MITCHELL,"And a man has no greater thing under the sun than to eat, drink and be merry. Ecclesiastes, my favorite."
+0,175,18,MITCHELL,"My grandma was a bit of a Bible-thumper. Weekends at grandmas meant long, LONG Sundays at St. Hildas Church of the Grand Epiphany. Lieutenant Colonel Cameron Mitchell. How ya doin?"
+0,175,18,PRIOR #2,"I am a Prior, of the Ori."
+0,175,18,MITCHELL,Its nice to meet you.
+0,175,18,PRIOR #2,Your arrival here was foreseen.
+0,175,18,MITCHELL,"No kidding. So you see the future, do you?"
+0,175,18,PRIOR #2,Lessons of days gone by teach us of what will come to pass.
+0,175,18,MITCHELL,"Im a bit of a history buff myself. Doesnt help me pick the lotto numbers, though. So. Where you from?"
+0,175,18,PRIOR #2,Where we come from and where we are going are all the same.
+0,175,18,MITCHELL,"Oh, I getcha. Wherever you go, there you are. I think thats Buckaroo Banzai. Me, Im from a little planet called Earth."
+0,175,18,PRIOR #2,The home of Daniel Jackson.
+0,175,18,LINDSAY,He never mentioned that before.
+0,175,18,MITCHELL,"You know Dr. Jackson, do you?"
+0,175,18,PRIOR #2,From him did we learn of your need.
+0,175,18,MITCHELL,Our need for what?
+0,175,18,PRIOR #2,The revelation... of your Destiny.
+0,175,20,DANIEL,"Hello, Im, uh..."
+0,175,20,DOCI,Daniel Jackson.
+0,175,20,DANIEL,Right.
+0,175,20,DOCI,From the planet Earrrrrth.
+0,175,20,DANIEL,
+0,175,20,DOCI,A Prior has been dispatched to the place from whence you come.
+0,175,20,DANIEL,"Really. You can do that? I, I thought we were in another galaxy."
+0,175,20,DOCI,It is the will of the Ori that we should spread Origin to all those blessed by their creation.
+0,175,20,DANIEL,
+0,175,20,DOCI,They shall find the path to enlightenment.
+0,175,20,DANIEL,"Right. Well, I think you should also understand that they may not see your way as the only way..."
+0,175,20,DOCI,The power and the greatness of the Ori cannot be denied. Those who reject the path to enlightenment must be destroyed.
+0,175,20,DANIEL,Right. I was afraid of that.
+0,175,21,LANDRY,"George Washington, one of our countrys founding fathers and first president, once said that true friendship is a plant of slow growth and must undergo and withstand the shocks of adversity before it is entitled to the appellation."
+0,175,21,GERAK,"The First Prime of Horus, Kerrick of the High Plains, once said that there is more honor in dying at the hands of a brother than there is killing a would-be friend."
+0,175,22,LANDRY,He was a wise man.
+0,175,22,GERAK,"He was killed shortly after that, losing one of the greatest battles in history."
+0,175,22,LANDRY,"Well, I hope it wasnt his brother that shot him."
+0,175,22,GERAK,It was me. The Jaffa was a fool in every respect. He did not deserve an honorable death.
+0,175,22,WALTER,Unscheduled incoming wormhole!
+0,175,22,LANDRY,"Id better see what this is about. Tealc, please escort our guest to the briefing room."
+0,175,24,DOCI,"The book of Origin says, those who seek the path of enlightenment must NOT be led astray."
+0,175,24,DANIEL,"Right. See, that can be interpreted a number of different ways. I think maybe I know what the Ori are, ah... who they are. Um, and Im not denying that theyre powerful beings, but if Im right... theyre not gods. Theyre like the Ascended beings I know. They simply have a greater understanding and knowledge of the universe."
+0,175,24,DOCI,"What is a god, but a being that is worshipped by those beneath? Is great power, knowledge, understanding not enough for you to revere the Ori?"
+0,175,24,DANIEL,"Respect, yes. Certainly. But that doesnt mean Id murder innocent people in their name. I guess what Im trying to understand is whether the Ori have spoken to you directly and told you to worship them, or whether youve misinterpreted some evidence you found along the way and developed this religion on your own. I cant speak for everyone in my galaxy, but in my own humble opinion, I dont believe that any individual or society can achieve enlightenment through fear-mongering and force and servitude no matter what power is presented as evidence. Thats something the Ascended beings I know seem very clearly to understand. Dont get me wrong, we should all be trying to better ourselves, if Ascension is the ultimate end were all trying to achieve then so be it, but we should all be allowed to get there or not of our own free will. Kill me for saying that, but that is what I believe. Nothing you say or do will ever change my mind."
+0,175,25,FIRED UP DOCI,We do not require blind faith. Only that you believe what you see and know to be true.
+0,175,26,LANDRY,"I realize this is just a friendly meeting, but on behalf of our planets leaders, Ive been asked to present a few thoughts for you to consider. Uh, some points that we can discuss in the future."
+0,175,27,LANDRY,Possibly looking forward to an official treaty between our world and the Jaffa nation.
+0,175,27,LANDRY,"Lieutenant Colonel Mitchell, SG-12 and a gentleman we encountered on another planet who claims he represents some gods called the Ori. I think we have yet to see the real fall out from dismantling the infrastructure established by the goauld."
+0,175,27,GERAK,Indeed. We have already seen the rise of individuals and organizations who have threatened to challenge us.
+0,175,28,LANDRY,"There are as many humans out there as there are Jaffa. But if we dont continue to work together, the victory that we both worked so long and hard for could result in chaos."
+0,175,30,FIRED UP DOCI,We are Ori.
+0,175,30,DANIEL,And you instruct these people to worship you?
+0,175,30,FIRED UP DOCI,We are their creators. All who follow the path will join us in enlightenment.
+0,175,30,DANIEL,Do you know who the Alterans are?
+0,175,30,FIRED UP DOCI,Those who abandoned the path are evil.
+0,175,30,DANIEL,Evil? Why?
+0,175,30,FIRED UP DOCI,They shielded you.
+0,175,30,DANIEL,"Really? I didnt think they did much of anything for us, but I guess I was wrong."
+0,175,30,FIRED UP DOCI,The truth of the universe has been obstructed. All will know the power of the Ori!
+0,175,32,LAM,Vitals are returning to normal.
+0,175,32,LEE,I wonder what that was all about.
+0,175,32,LAM,"I dont know, but he was in some sort of stress."
+0,175,33,MITCHELL,We cant seem to disconnect the stones or turn off the device.
+0,175,33,PRIOR #2,It is the will of the Ori.
+0,175,33,MITCHELL,Figured you might say that. Sure theres nothing you can do? Odds are wed be more receptive to those stories you want to tell. Call it a miracle if you want.
+0,175,33,PRIOR #2,"When Hanonea fell from above and learned to fly on the way down, that was a miracle."
+0,175,33,MITCHELL,Right.
+0,175,34,YATYIR,These planets you have mentioned. All have plentiful naquadah mines on them.
+0,175,34,TEALC,And substantial human populations.
+0,175,34,LANDRY,There are no sides here. Just topics of conversation.
+0,175,34,GERAK,"I wish to meet this Prior of the Ori. If he preaches faith in false gods, then that is a concern for all of us. I wish to hear his claims, and challenge him."
+0,175,36,VALA,Whats going on?
+0,175,36,DANIEL,This is bad.
+0,175,36,VALA,Worse than being burned to death?
+0,175,36,DANIEL,"It appears that our Ascended Ancients and the Ori have a slight difference of opinion. See, the Ori think that because theyre Ascended, human beings should worship them... ALL humans."
+0,175,36,VALA,And if we dont?
+0,175,36,DANIEL,Then we arent worthy of living and should be destroyed.
+0,175,36,VALA,I dont think enlightenment means what they think it means!
+0,175,36,DANIEL,"See, apparently our Ascended Ancients have been shielding our existence from the Ori."
+0,175,36,VALA,Theyve been protecting us?
+0,175,36,DANIEL,The Ori seem to think that our Ancients are evil because they havent shared the secrets of the universe with us.
+0,175,36,VALA,"Well, I hate secrets. At least the ones I dont know."
+0,175,36,DANIEL,"The problem is, the Ori now know our galaxy is inhabited by humans because of US."
+0,175,36,VALA,"I refuse to accept the blame for that! Curiosity is part of human nature! Look, if the Ancients knew that the Ori were so bad, why didnt they stop us from coming here?"
+0,175,36,DANIEL,Free will.
+0,175,36,VALA,"Right. If they have been protecting us, theres no reason to believe they wont continue."
+0,175,36,DANIEL,"The Ancients may be protecting us from the Ori, but not their human followers. See, Ancients wont interfere in any lower planes of existence. If anybody from our galaxy wants to worship the Ori, apparently thats our choice. And, they wont stop Priors from coming through the gate because apparently theyve already sent one."
+0,175,36,VALA,"The Ori have given Priors special powers, and thats not fair."
+0,175,36,DANIEL,"Theyre still human, and highly evolved humans can have some pretty amazing abilities. Theyre using the secrets of the universe that the Ori have given them to spread the word of the Oris godliness and when people dont see the light, its gonna be ..."
+0,175,36,VALA,What are we gonna do?
+0,175,36,DANIEL,"I dont know. Im starting to think that sending Priors is just the beginning. We could be talking crusade, here. We need to warn Earth."
+0,175,36,VALA,We need to get out of these people.
+0,175,37,DOCI,Take the unbelievers back to Ver Ager. Let its cleansing forever mark the beginning of a new age. Evil has raised a great many unbelievers in a far off place. They must be shown... the path.
+0,175,37,PRIOR,Hallowed are the Ori.
+0,175,38,VALA,What are they doing? Why did he bring us back here?
+0,175,39,DANIEL,Hes using us to weed out any other heretics that might be here.
+0,175,39,VALA,"I still dont get why the Ori just dont do it themselves. Theyre supposed to be gods. Arent gods all-seeing, all-knowing, all-powerful?"
+0,175,39,DANIEL,"The universe is infinite, remember? Apparently, thats a lot to keep track of."
+0,175,39,VALA,I suppose.
+0,175,39,DANIEL,"They didnt even know about our galaxy, well... until recently."
+0,175,39,VALA,Its not our fault. Youd think at least theyd keep on top of their own people.
+0,175,40,DANIEL,I get the feeling the Ori let their devout followers do their enforcing for them; it confirms their loyalty.
+0,175,40,VALA,
+0,175,40,DANIEL,"Well, because I dont think he was going to give us much choice. And besides, I think that might be our best chance to contact Earth and warn them about what we know."
+0,175,40,VALA,How?
+0,175,40,DANIEL,"Well, Fannis said that his sect had found other artefacts..."
+0,175,40,VALA,You think they also have a terminal device to go along with the stones?
+0,175,40,DANIEL,"If they do, and we can find it, and we can hook up the stones, maybe we can get this communication thing going both ways."
+0,175,40,VALA,"Right. If the Prior is using us to weed out other unbelievers, how do we make contact with Fannis without giving him away?"
+0,175,40,DANIEL,We... cant.
+0,175,41,PRIOR #2,You do not believe in a higher power?
+0,175,41,LANDRY,"Well, its complicated. There are a lot of different points of view about that subject around here."
+0,175,41,TEALC,Jaffa have recently shed the dominance of false gods that have enslaved us for MANY generations.
+0,175,41,GERAK,But many have long believed in the path to enlightenment.
+0,175,42,PRIOR #2,"Origin will guide you on this path, and those who revere its wisdom shall be uplifted. I have come to spread the word to the unbelievers who have been... sheltered, and raised by evil."
+0,175,42,MITCHELL,You have no idea how much he sounds like my grandma.
+0,175,43,VALA,Its a pretty big village. I suspect that Fannis and his gang did a reasonable job hiding their sacrilegious artefacts...
+0,175,43,VALA,NoNoNo!!
+0,175,43,DANIEL,Fannis! You shouldnt have come! Theyre using us to get to you!
+0,175,43,FANNIS,"So I suspected. Either that, or youve truly come to see the power of the Ori."
+0,175,43,VALA,Not bloody likely.
+0,175,43,DANIEL,You have to leave!
+0,175,43,FANNIS,"If I can help you speak the reality of our existence to your people, maybe one day in turn, youll spread that word back here."
+0,175,44,DANIEL,You said you had other artefacts like the stones?
+0,175,44,FANNIS,Ill show you.
+0,175,44,DANIEL,"Now, were looking for a large, dome-shaped object with a blue crystal on top. The stones fit inside of it."
+0,175,45,FANNIS,Come!
+0,175,45,DANIEL,Youre risking your life!
+0,175,45,FANNIS,"Harrid, Sallis and I... all those who believe as we do have known for some time that we may give our lives for our cause. We only hope that one day, the truth comes to bear as a result."
+0,175,47,PRIOR,And the people shall deliver the wicked... unto your divine judgement.
+0,175,48,PRIOR,For their sins... shall be weighed in balance with all that is just... and true.
+0,175,50,VALA,The Ori are great! I LOVE the Ori! IM
+0,175,51,VALA,Whats the matter with you people? Im telling you... Ive seen the LIGHT! I dont think theyre buying it.
+0,175,51,DANIEL,Welll... Ive heard you do better.
+0,175,52,ADMINISTRATOR,"Glorious are the Ori, who lead us to salvation! Who did fight the evil that would doom us to mortal sin."
+0,175,53,ADMINISTRATOR,"Did they defeat the old spirits and cast them out. And now, with the strength of our will, they do call upon us to prevail against the corruption of all unbelievers."
+0,175,55,PRIOR #2,"The Ori do not shield this knowledge as others might, selfish in their powerful advantage. They lead you to their realm with the path that is laid out in the Book of Origin."
+0,175,56,PRIOR #2,All you need do is follow their teachings.
+0,175,56,LANDRY,"Im very sorry. Youll have excuse us for a moment. Please, continue. Colonel?"
+0,175,57,LAM,"They woke up for a moment, then lost consciousness again."
+0,175,57,LANDRY,They say anything?
+0,175,57,LAM,"Yes, they DID."
+0,175,58,ADMINISTRATOR,"Guide us on the path, that we may triumph over the enemy of our salvation and be with you in the end of ends on the planes of enlightenment."
+0,175,59,GERAK,Whats the meaning of this?
+0,175,59,LANDRY,Im very sorry. Weve just received some information about our visitor here that demands we take every precaution.
+0,175,60,MITCHELL,"Well have to take the staff, sir."
+0,175,61,MITCHELL,And youll have to come with us.
+0,175,61,GERAK,I demand to know what youve learned!
+0,175,61,PRIOR #2,All I wish to do is spread the word of the Ori to your world.
+0,175,61,LANDRY,"Actually, that was never going to happen."
+0,175,61,MITCHELL,"Thats not gonna happen, either."
+0,175,62,PRIOR,Hallowed are the Ori!
+0,175,64,PRIOR #2,
+0,175,65,INTERCOM,"Code blue medical emergency in medical lab one! Repeat, code blue!"
+0,175,68,LAM,"Same as before, only this time its both of them."
+0,175,69,LEE,"Now, now... hold on! This device draws its power directly from subspace. It will react very badly to an explosion. You cant blow it up."
+0,175,69,TEALC,Perhaps we should send it through the Stargate.
+0,175,69,LEE,"No! Well, it also uses subspace to communicate to another galaxy across the universe. Theres no reason to believe that Daniel and Vala wont stay connected to it, even from a different planet!"
+0,175,69,MITCHELL,I have a different idea! Tell them to start dialing the gate!
+0,175,69,LEE,Where to?
+0,175,69,MITCHELL,Wherever!
+0,175,69,LEE,"Wherever? All right, wherever."
+0,175,71,WALTER,"Chevron three, encoded!"
+0,175,71,LANDRY,Walter...
+0,175,71,WALTER,"Orders from Colonel Mitchell, sir."
+0,175,71,LANDRY,Proceed.
+0,175,72,"NOT YET, WALTER! NOT YET!",
+0,175,73,MALE VOICE,"Blood pressure is dropping, heart rate is rising... theyre going into shock!"
+0,175,75,NOW!!,
+0,175,75,WALTER,Resuming dialing sequence. Chevron seven... locked.
+0,175,80,LANDRY,Dr. Lam says that Daniel and Vala have regained consciousness.
+0,175,81,LANDRY,Well done!
+0,175,81,MITCHELL,See? THATS what Im talkin about!
+0,175,83,DOCI,You have served the Ori well.
+0,175,83,ADMINISTRATOR,I bow in humble account.
+0,175,83,DOCI,Come! And gaze upon the flames of enlightenment.
+0,175,84,DOCI,"Great holy armies shall be gathered and trained to fight all who embrace evil. In the name of the gods, ships shall be built to carry our warriors out amongst the stars and we will spread Origin to ALL the unbelievers! The power of the Ori will be felt far and wide, and the wicked shall be vanquished."
+0,175,85,NEW PRIOR,Hallowed are the Ori.
+0,175,85,DOCI,Hallowed are the Ori!
+0,175,87,LANDRY,So you think we should expect to see more of these Priors show up?
+0,175,87,DANIEL,I would be very surprised if they didnt.
+0,175,87,MITCHELL,"How? We know one came through the Stargate, but if the galaxys so far away..."
+0,175,87,VALA,I suspect the Ori have the power to make a lot of things happen.
+0,175,87,DANIEL,"Still, for the Priors, I think we can assume its a one-way trip."
+0,175,87,MITCHELL,Dont think they have a problem with self sacrifice.
+0,175,87,LANDRY,You think the Ancients here in our galaxy will continue to use their power to stop the Ori from attacking us directly?
+0,175,87,DANIEL,I hope so.
+0,175,87,MITCHELL,"So, how do we fight these guys? And I mean the message, as much as the men."
+0,175,88,MITCHELL,A lot of folks out there are gonna buy what these guys are sellin.
+0,175,88,TEALC,Hopefully now many have been educated to the ways of false gods.
+0,175,88,VALA,"Yes, but were not talking about humans with snakes in their heads and slightly better understanding of technology."
+0,175,88,DANIEL,"See, the power isnt false. The Priors are going to offer to people what seems like proof of God."
+0,175,88,LANDRY,Proof of powerful beings is not proof of God.
+0,175,88,DANIEL,Im not saying it is.
+0,175,88,MITCHELL,"Look, just because we know theres some beings on a higher plane of existence than ourselves does not mean theres not an order of Being higher than them. Least I reckon thats what my grandmad say."
+0,175,88,VALA,The universe is supposedly infinite.
+0,175,88,LANDRY,"Which, in my book, makes it impossible to know everything. I mean, somewhere in there, you gotta fill in the blanks with a little faith. I had a grandma, too."
+0,175,89,MITCHELL,"So. Business as usual, sir?"
+0,175,89,LANDRY,Let em bring it. Well use our strengths against their weaknesses. Thats a pretty good strategy for any kind of business youre in. Im glad you two are OK.
+0,175,89,MITCHELL,Amen.
+0,175,90,DANIEL,Hey. Wow. What the... hell are you doin here?
+0,175,91,ONEILL,"Nice to see you, too!"
+0,175,91,DANIEL,"No, no, sorry! I just wasnt expecting to see you."
+0,175,91,ONEILL,"Yeah, well... I was in the neighborhood ... and Ive got a little surprise for Mitchell."
+0,175,91,DANIEL,"Oh. Yeah. He really loved the last one, the fact you didnt tell him we were all moving on to different positions..."
+0,175,91,ONEILL,Yeah. Sorry you missed Daedalus.
+0,175,91,DANIEL,"No, youre not."
+0,175,91,ONEILL,"Youre right. Im not. ... Listen, I just had a briefing with Landry about... your stuff, and ..."
+0,175,91,DANIEL,Yeaaaah...
+0,175,91,ONEILL,Sounds like it could be a problem?
+0,175,91,DANIEL,"Well, weve been up against some pretty bad guys before."
+0,175,91,ONEILL,"Yeah, not so pretty... Overdressed, yes."
+0,175,91,DANIEL,In some tough situations...
+0,175,91,ONEILL,That we always won...
+0,175,91,DANIEL,"Yeah, but didnt you feel that was because we had someone... lookin out for us? I dont think I would say this to anyone else, but for the first time, Im scared."
+0,175,91,ONEILL,Im hungry.
+0,175,91,DANIEL,Me too.
+0,175,91,ONEILL,Well...
+0,175,92,MITCHELL,"Yeaaaaaaaaaah, man. This is GOOD. Still a rush!"
+0,175,92,ONEILL,Yeah.
+0,175,92,MITCHELL,"I dont know why I didnt get back on the horse sooner, except I didnt really know you could take one of these things for a joyride."
+0,175,92,ONEILL,"Now, see? Thats one of the great things about being a general. You pretty much get to do whatever you want."
+0,175,92,MITCHELL,I suppose after youve saved the world seven or eight times...
+0,175,92,ONEILL,"Whos counting, huh?"
+0,175,92,MITCHELL,"Tealc. Actually, he mentions it quite often."
+0,175,92,ONEILL,"So, Mitchell... I hear you havent picked out your team yet."
+0,175,92,MITCHELL,"Im hoping I wont have to, sir. Why, did General Landry say something about it, sir?"
+0,175,92,ONEILL,He did.
+0,175,92,MITCHELL,"Are you going to tell me, sir?"
+0,175,92,ONEILL,"He said youre going to be FINE, Mitchell."
+0,175,92,MITCHELL,"Thank you, sir. You mind if I kick in the afterburners, sir?"
+0,175,92,ONEILL,Oh please.

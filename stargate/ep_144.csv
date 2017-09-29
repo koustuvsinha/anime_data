@@ -1,0 +1,383 @@
+Season,Episode,Scene,Character,Line
+0,144,0,STARGATE SG1,Episode 714
+0,144,0,"""FALLOUT""",By Joseph Mallozzi & Paul Mullie
+0,144,1,TECHNICIAN,"Receiving a signal Sir, it's the Kelownans."
+0,144,1,HAMMOND,Open the iris.
+0,144,2,HAMMOND,"Mr. Quinn, it's good to see you again!"
+0,144,2,JONAS,It's good to see you to Sir. I wish it was under better circumstances. We need to talk.
+0,144,3,JONAS,"For the past several months we've been analyzing the data on the crystal left behind by Thanos. It was the Goa'uld that occupied our planet three thousand years ago. Now our progress at first was very slow but we recently made a major, major discovery. It turns out that Naquadria was not originally present."
+0,144,4,SAM,What do you mean?
+0,144,4,JONAS,It's not native to our planet.
+0,144,4,DANIEL,"I don't understand, it exists in mineral deposits underground."
+0,144,4,JONAS,"Right, I know it does now but we believe that those deposits were originally made up of ordinary Naquada."
+0,144,4,JACK,I assume this makes sense to you.
+0,144,4,SAM,"Actually, no it doesn't."
+0,144,4,JONAS,We found a reference to a process the Goa'uld discovered which allowed them to convert raw Naquada into Naquadria while it was still underground. Now somehow it started a change reaction which has continued on down through the veins getting deeper and deeper and deeper and we believe that the process is ongoing.
+0,144,4,SAM,"Are you saying that at this very moment, there are deposits of Naquada on your planet that are being transformed into Naquadria?"
+0,144,4,JONAS,"Yes, one very large one in particular. We only recently discovered it because it's so many miles beneath the surface of our planet. But as the conversion process goes deeper, the heat and pressure get higher."
+0,144,4,SAM,And Naquadria is highly unstable.
+0,144,4,JONAS,"We believe that when it reaches a certain depth, it's going to explode, with enough force to obliterate Kelowna."
+0,144,5,JONAS,"The first few records of the conversion process that we found were pretty vague. To tell the truth I was half convinced that I had made a mistake in the translation, then we came across these test results, which show the ratio of Naquada to Naquadria achieved by the process. Check this out."
+0,144,5,SAM,So the Naquada that isn't converted breaks down into lighter elements?
+0,144,5,JONAS,You know for the longest time I was wondering why we never found any Naquadria anywhere else in the galaxy and now I'm thinking it's because it doesn't exist in nature at all.
+0,144,5,SAM,Which would explain why none of the other Goa'uld knew about it until Anubis probed your mind.
+0,144,6,KYANNA,"We've got the latest geological data, it looks like.. .. oh, hello."
+0,144,6,SAM,Hi.
+0,144,6,JONAS,"Oh, Samantha Carter this is Kyanna Seer. Sam.. Carter.. She helps me out on the translations."
+0,144,6,KYANNA,I've heard a lot about you Major. We could really use your expertise right now.
+0,144,6,JONAS,What have you got?
+0,144,6,KYANNA,It looks like the Naquadria has progressed deeper then we thought.
+0,144,6,SAM,How much time do we have?
+0,144,6,KYANNA,"A few weeks, a month, it's hard to say."
+0,144,6,SAM,We need to know how the conversion process works if we want to find a way to stop it.
+0,144,6,JONAS,"Yeah, but the information stored on the crystals is incomplete."
+0,144,6,SAM,Well then we'll have to figure it out for ourselves.
+0,144,7,HAMMOND,"Ambassador, welcome to Earth."
+0,144,7,MINISTER,"Actually, it's First Minister now."
+0,144,7,DANIEL,First Minister.
+0,144,7,MINISTER,This is Ven Uramal and Alucia Tarthis. The Terranian and Andarrie representatives on the joint council.
+0,144,7,HAMMOND,Right this way.
+0,144,8,ALUCIA,I assumed that Jonas Quinn would be joining us.
+0,144,8,MINISTER,"He sends his apologies, but at the moment he is devoting his attention to the Naquadria problem."
+0,144,8,VEN,Has any progress been made?
+0,144,8,MINISTER,"So far very little I'm afraid. But I believe that with the dissipation of our friends from Earth, a solution will be found soon."
+0,144,8,DANIEL,"Of course we all hope that's the case, but you may want to consider making some contingency plans."
+0,144,8,HAMMOND,We can offer you limited relocation through the Stargate.
+0,144,8,MINISTER,Limited?
+0,144,8,TEAL'C,A full evacuation of an industrialized world is a practical impossibility.
+0,144,8,ALUCIA,I'm not sure that I understand. You invited us here to propose that we abandon Langarra?
+0,144,8,MINISTER,Langarra is the new name of our planet. It's from an ancient dialect common to all three nations.
+0,144,8,VEN,A symbol of our new unity.
+0,144,8,JACK,It has a nice ring to it.
+0,144,8,VEN,It was chosen by a committee.
+0,144,8,ALUCIA,"We understand that if this problem cannot be solved, then Kelowna will suffer severe devastation, at which point we are prepared to offer humanitarian aid to the survivors."
+0,144,8,VEN,Of course we have limited resources but we pledge to do what we can.
+0,144,8,JACK,Are you kidding?
+0,144,8,DANIEL,Has no one explained this to you?
+0,144,8,MINISTER,"We've tried, they seem unwilling to accept the truth."
+0,144,8,ALUCIA,If you knew more about our history then you'd understand our reluctance to believe Kelownan propaganda.
+0,144,8,DANIEL,"Well our own scientists have studied the problem and while it is true that Kelowna will bear the brunt of the initial explosion, in fact by our calculations over half of the country's land mass will be destroyed. You're not taking into account the amount of dust that will be thrown into the upper atmosphere. It will block the sunlight and lower the average surface temperature significantly. For all intents and purposes, your entire planet will be uninhabitable."
+0,144,9,KYANNA,"This doesn't make any sense. Naquadria is a heavier, less stable isotope then Naquada. The conversion should require the continuous input of large amounts of energy."
+0,144,9,JONAS,"Yeah, but it seems to be continuing on its own."
+0,144,9,KYANNA,Which is impossible.
+0,144,9,SAM,"Not necessarily, low energy fusion can occur in the presence of certain sub-atomic catalysts like moolans."
+0,144,9,KYANNA,But I believe that only works for extremely light materials such as Deterium.
+0,144,9,SAM,"Wow, Kelownan understanding of particle physics seems to have come a long way recently."
+0,144,9,KYANNA,We're quick learners.
+0,144,9,SAM,"Well in any case, I wasn't thinking about moolans specifically. There are certain other sub-atomic particles which could catalyze this reaction. The real question is why didn't this planet blow up a long time ago."
+0,144,9,JONAS,What do you mean?
+0,144,9,SAM,I think that the reason you haven't been able to figure out the process is because you've been working under the assumption that this transformation began three thousand years ago.
+0,144,9,KYANNA,But that's what the historical data indicates.
+0,144,9,SAM,"Maybe so, but if you put that aside for a moment and assume that in the presence of the right catalysts.. you can account for this reaction. It's just a lot faster then you thought."
+0,144,9,JONAS,How much faster?
+0,144,9,SAM,A deposit the size of the one you recently discovered could take as little as a few years to transform completely.
+0,144,10,SAM,What was that?
+0,144,11,TECHNICIAN,Receiving video transmission Sir.
+0,144,11,HAMMOND,"Major, what's your situation?"
+0,144,11,SAM,Most of the fires that were caused by the Earthquake are under control now Sir. Dr Frasier is organizing the distribution of medical supplies.
+0,144,11,HAMMOND,I find it hard to believe that this was a coincidence.
+0,144,11,SAM,"It wasn't, we traced the epicenter of the quake to a small deposit of converted Naquadria located about 20KM under the surface."
+0,144,11,HAMMOND,A small pocket?
+0,144,11,SAM,"When the main deposit goes Sir, we estimate that the explosion will be about one hundred thousand times more powerful."
+0,144,12,VEN,This planet.
+0,144,12,TEAL'C,Madronas.
+0,144,12,VEN,And how far away is it?
+0,144,12,TEAL'C,"Approximately 14,000 light years."
+0,144,12,JACK,Give or take.
+0,144,12,TEAL'C,"The Madronan's are a peaceful, advanced society with the resources to accept many thousands of refugees."
+0,144,12,ALUCIA,Jonas Quinn's reports refer to several uninhabited planets capable of sustaining life. The Andarrie government might consider relocation if one of these were made available.
+0,144,12,TEAL'C,"Without infrastructure, any uninhabited planet would not be able to sustain many Langarran refugees."
+0,144,12,ALUCIA,I'm not suggesting one planet for all of us.
+0,144,12,DANIEL,You want your own planet?
+0,144,12,ALUCIA,"The Andarrie people would welcome a fresh start, given the oppression we've suffered in the past."
+0,144,12,VEN,The only thing you suffered under Terranian rule was peace and good government.
+0,144,12,ALUCIA,"And mass arrests, summary executions.."
+0,144,12,VEN,In response to terrorist attacks against innocent civilians.
+0,144,12,JACK,
+0,144,12,DANIEL,Three separate relocations is just not practical. Madronas is your best bet to save as many lives as possible.
+0,144,13,MINISTER,"Jonas, Major Carter. General Hammond tells me that you've discovered something about the conversion process."
+0,144,13,SAM,Well we determined that the transformation must have begun with a massive bombardment of sub-atomic particles which catalyzed the reaction and allowed it to continue without more energy. It's possible to create these particles in the lab. But there's really only one way they could have been produced in sufficient quantity and with enough energy to penetrate several miles into the crust of the planet.
+0,144,13,JONAS,It was the Naquadria bomb test. The test that was conducted two years ago. We did this to ourselves.
+0,144,13,MINISTER,Historical documents indicate that Thanos was destroyed in some cataclysmic event. Maybe this was the explosion that triggered the chain reaction.
+0,144,13,SAM,"It did, at least in the case of the Naquada deposit near the surface."
+0,144,13,JONAS,It appears that Thanos managed to create a small amount of Naquadria in the lab. Something went wrong and the resulting explosion released the sub-atomic particles which catalyzed the conversion of the first vein of Naquada. The rest of the deposit transformed in less then a year.
+0,144,13,SAM,"After that, it simply lay in the ground. Another ten thousand years and it would have decayed back into Naquada if you hadn't mined it first."
+0,144,13,JONAS,"Then we set off the bomb, which started the conversion of the second deeper vein."
+0,144,14,VEN,"This is outrageous, if what you say is true, the Kelownan government bears full responsibility for the imminent destruction of Langarra."
+0,144,14,MINISTER,"Your governments formed an alliance for the expressed purpose of attacking Kelowna, we were merely looking to defend ourselves."
+0,144,14,ALUCIA,We only went to a heightened war alert after we learned of your research.
+0,144,14,MINISTER,And that goes to prove that you were spying on us.
+0,144,14,ALUCIA,What choice did we have? We certainly weren't going to rely on the Kelownan government to tell us the truth.
+0,144,14,DANIEL,"Councilors, please."
+0,144,14,VEN,These talks will have to be suspended until I can confer with my cabinet.
+0,144,14,JACK,Oh' for crying out loud.
+0,144,14,DANIEL,Jack..
+0,144,14,JACK,Who cares whose fault it is?
+0,144,14,DANIEL,Jack..
+0,144,14,JACK,Your planet is gonna blow up!
+0,144,14,DANIEL,Jack!
+0,144,14,JACK,The whole damn planet Daniel!
+0,144,14,DANIEL,Okay. I think it's best if we all just take a little recess right now.
+0,144,14,JACK,God.
+0,144,15,JACK,General.
+0,144,16,JACK,I say we send a packet.
+0,144,16,TEAL'C,Indeed.
+0,144,16,DANIEL,"We can't give up on them yet, we still have the potential to save thousands of lives here."
+0,144,16,JACK,"And yet curiously, they don't seem to understand or care."
+0,144,16,DANIEL,"This is diplomacy, this is the way the game is played. It takes patience."
+0,144,16,JACK,Yeah? Well I'm fresh out.
+0,144,16,TEAL'C,As am I.
+0,144,17,JACK,I think you're on your own.
+0,144,18,KYANNA,"No matter how many times we go over this, we're still going to come to the same conclusion. There's simply no way to reverse the process."
+0,144,18,SAM,"Maybe we don't have to. According to the latest geological data there's a minor fault line crossing the vein of Naquada, about a kilometer above the large deposit."
+0,144,19,SAM,If we could somehow trigger a move along the fault line we could isolate the advancing Naquadria and break off the chain reaction before it gets any deeper.
+0,144,19,KYANNA,And how do we do that?
+0,144,19,SAM,"We set off a large explosion near the fault. Stargate Command could provide a small nuclear device that would do the trick, the only problem is that we'd have to get down there. Which means drilling through 20 kilometers of solid rock."
+0,144,20,SAM,What?
+0,144,20,JONAS,There's something I wanna show you.
+0,144,21,JONAS,It took us two and a half years to build and it cost over half the annual Kelownan research budget. A deep underground excavation vehicle.
+0,144,21,SAM,Cool.
+0,144,22,JONAS,The fore and aft sections have both been outfitted with titanium cutter heads. Each of which can withstand or apply thrust of up to fifty metric tons.
+0,144,22,SAM,What kind of mobility are we talking about?
+0,144,22,JONAS,"Oh', about 80 meters per hour. Hey look I know it's not fast enough but I do have an idea for a little adjustment that will give us a lot more speed."
+0,144,22,SAM,Tokra tunnel crystals!
+0,144,22,JONAS,"Modified of course, to work in conjunction with the cutter heads."
+0,144,22,SAM,"Pretty impressive, do you mind if I take a look at your power systems?"
+0,144,23,JONAS,After you.
+0,144,23,KYANNA,Do we have to show her everything?
+0,144,23,JONAS,Kyanna.
+0,144,23,KYANNA,Everybody has an agenda Jonas and her people have made no secret of their interests in our Naquadria deposits.
+0,144,23,JONAS,"Look, I've wanted to come forward with this for a long time but I always got overruled by the cabinet. Now we have no choice."
+0,144,23,KYANNA,We don't need her. We can go to the Tokra ourselves.
+0,144,23,JONAS,"I worked with these people for over a year, I trust them with my life."
+0,144,24,JONAS,Don't worry.
+0,144,25,ALUCIA,"The machine was designed to mine Naquadria. According to the terms of our alliance, any information relating to Naquadria is to be shared. We were purposely misled."
+0,144,25,MINISTER,We had every intention of telling you once the prototype was fully operational.
+0,144,25,VEN,"Do you take us for idiots? It was you that created this disaster, and now you expect benefit by acquiring alien technology?"
+0,144,25,DANIEL,"I think we can all agree that the Kelownan government didn't come forward with this information sooner. However regarding the Tokra crystals, you really have no choice. Otherwise you will not be able to reach the Naquadria vein in time to save your world. It's that simple."
+0,144,26,SAM,"Wow, Jonas. This technology is beyond anything I've seen in Kelowna before."
+0,144,26,JONAS,Well I did make a few suggestions for some adjustments based on what I learned at Stargate Command.
+0,144,26,SAM,It's pretty amazing.
+0,144,26,JONAS,"I'll tell you, most of the credit goes to Kyanna."
+0,144,26,SAM,Kyanna?
+0,144,26,JONAS,"Yeah, she took what she learned from me and she made modifications to the hydraulics, the shielding mechanisms, everything. I'm telling you, without her, this thing would be months away from being operational."
+0,144,26,SAM,So you two have been working pretty closely on this.
+0,144,26,JONAS,I guess.
+0,144,27,JONAS,What!?
+0,144,27,SAM,"Come on Jonas, I'm not blind. What's going on?"
+0,144,27,JONAS,"Let's just say that it's in the development stage, although I do find her interesting."
+0,144,27,SAM,I'll bet you do.
+0,144,29,HAMMOND,"Teal'c, I trust that your mission was a success."
+0,144,29,TEAL'C,Indeed. The crystals you requested.
+0,144,29,DANIEL,Thank you.
+0,144,29,TEAL'C,How are the negotiations progressing?
+0,144,29,DANIEL,"Well, they finally agreed to send a three person delegation to Madronas evaluate the planet as a potential evacuation site."
+0,144,29,TEAL'C,What of Jonas Quinn and Major Carter?
+0,144,29,HAMMOND,"They're making some final adjustments to the Kelownan excavation machine, it should be ready for launch within 24 hours."
+0,144,30,JONAS,Hey. Just in time to help me run a few diagnostic programs.
+0,144,31,JONAS,What?
+0,144,31,SAM,"Jonas, did you design the primary power distribution circuits?"
+0,144,31,JONAS,"Well, I didn't really design anything. I did make some suggestions for some upgrades."
+0,144,31,SAM,Based on advanced technology that you encountered while you were with SG1.
+0,144,31,JONAS,"That's right, why.. what's wrong?"
+0,144,31,SAM,Well the hardware is different. But the basic principle is very similar to a Goa'uld design.
+0,144,31,JONAS,Well that's impossible.
+0,144,31,SAM,I went over it three times. I probably wouldn't have even noticed myself if I hadn't calculated that the generators were working at a 130% efficiency.
+0,144,31,JONAS,No.. there's some mistake.
+0,144,31,SAM,"Jonas, who did design the system?"
+0,144,32,KYANNA,"Jonas, what's going on?"
+0,144,32,JONAS,We know.
+0,144,32,KYANNA,What are you talking about?
+0,144,32,JONAS,Who do you serve?
+0,144,32,KYANNA,"Jonas whatever you think.. whatever she told you, is a lie."
+0,144,32,SAM,They searched your quarters. Do you want to explain why they found a Goa'uld communication device among your belongings?
+0,144,33,KYANNA,"Very well, you know the truth. Now how shall we proceed?"
+0,144,34,SAM,"I'm assuming that this is the drug that allowed you to escape detection. It somehow masks the presence of the symbiote right? You don't have to tell me, I'm sending this back to the SGC for analysis."
+0,144,34,JONAS,How long have you been on this planet?
+0,144,34,KYANNA,"We knew Anubis came here for a reason, after his defeat I was dispatched to find out why he was so interested in this place."
+0,144,34,SAM,So you work for Baal?
+0,144,34,KYANNA,I gained access to Kelowna's most sensitive research by implanting myself in a young scientist who was working on the Naquadria project.
+0,144,34,JONAS,Let me talk to Kyanna.
+0,144,34,KYANNA,"In a small way I've grown to admire this host. She is exceptionally astute, a curious specimen."
+0,144,34,JONAS,Let me talk to her.
+0,144,34,KYANNA,"I made the major modifications to the excavator. If you wish to successfully complete this undertaking, then you will require my assistance."
+0,144,34,CARTER,Why would you help us?
+0,144,34,KYANNA,"We share a common goal, I to wish to save this world."
+0,144,34,JONAS,So you can hand it over to Baal? I don't think so.
+0,144,34,KYANNA,Jonas!
+0,144,34,JONAS,Kyanna..?
+0,144,34,KYANNA,"She's right, you're going to need her. Let her help you, for the sake of our people."
+0,144,34,CARTER,"It's not her Jonas, it's the Goa'uld trying to fool us. We've seen it before."
+0,144,34,KYANNA,"Jonas, please."
+0,144,34,JONAS,Get her out of here.
+0,144,35,JONAS,"Depth is 2200 meters, speed is 1.5 meters per second."
+0,144,35,SAM,The drills are running hot.
+0,144,35,JONAS,"All right, bring down your RPM's. Don't over-compensate."
+0,144,35,SAM,I can't stay ahead of these adjustments.
+0,144,35,JONAS,"You're going to stall it out, power up!"
+0,144,36,JONAS,"You stripped the drill heads. Control, end simulation."
+0,144,36,SAM,"Jonas, we've got a problem."
+0,144,37,ALUCIA,Could this be the result of Goa'uld sabotage?
+0,144,37,HAMMOND,Quite the contrary. Major Carter believes the Goa'uld modifications have the speed and efficiency of the drills.
+0,144,37,DANIEL,The problem is that the system requires constant subtle adjustments to account for the changes of the density of the materials it's passing through. It's kind of like shifting gears on a racecar. The point is that Major Carter isn't confident in her own ability to run the drill. She thinks the best person for the job is the Goa'uld.
+0,144,37,ALUCIA,You've got to be kidding.
+0,144,37,HAMMOND,We could overhaul the system and eliminate the modifications but that would significantly reduce the speed of the excavator and it would take weeks.
+0,144,37,VEN,We don't have that kind of time.
+0,144,37,DANIEL,The Goa'uld could have sabotaged the excavator any time she wanted to. Instead she helped Jonas improved several of its key systems.
+0,144,37,MINISTER,Only because she wishes to preserve the Naquadria deposit for Baal.
+0,144,37,HAMMOND,"That may be so but avoiding the explosion is our first priority. Without the Goa'uld, we have no chance."
+0,144,38,KYANNA,You have made the right choice. Your confidence in me will not go unrewarded.
+0,144,38,SAM,"We had no choice. And for the record, our confidence in you is minimal."
+0,144,38,KYANNA,Which is no doubt why the Sho'lva will be accompanying us? And why all of you are armed?
+0,144,39,KYANNA,Who calibrated the primary inductors?
+0,144,39,SAM,I did.
+0,144,39,KYANNA,Launch now and you will burn through them before you pass a hundred meters.
+0,144,40,SAM,"All right! I'll take navigation. Teal'c, take shields and life support."
+0,144,40,TEAL'C,Indeed.
+0,144,42,JONAS,Powering up. Engines are at 70%......80.
+0,144,42,TEAL'C,Shields are active.
+0,144,42,SAM,Navigational computer is online.
+0,144,42,JONAS,"Engines are at full power. Control, we're set to go for launch. In five, four, three, two, one."
+0,144,44,HAMMOND,We've just received word from Kelowna.
+0,144,44,MINISTER,Our security has been monitoring a communication device which came from Kyanna's quarters. Apparently a message has come through from Baal.
+0,144,44,HAMMOND,He's ordered her to report. He's waiting for her to send a transmission.
+0,144,44,VEN,And if she doesn't?
+0,144,44,ALUCIA,He'll come back to find out what happened.
+0,144,44,HAMMOND,That's a distinct possibility.
+0,144,45,JONAS,What is it?
+0,144,45,RYANNA,We are losing coolant pressure in one of the forward tubes. We must have broken a seal.
+0,144,46,RYANNA,Major Carter take the controls.
+0,144,47,JONAS,Where are you going?
+0,144,47,RYANNA,"I can divert coolant from the aft section, but I have to do it from the engine room."
+0,144,47,JONAS,I'm coming with you.
+0,144,48,RYANNA,You still do not trust me do you?
+0,144,48,JONAS,No.
+0,144,49,VEN,Is there anyway to contact the excavator.
+0,144,49,MINISTER,They're too deep. No radio signal could penetrate that much solid rock.
+0,144,49,DANIEL,It won't make much difference. Telling them about Baal's message will not change anything.
+0,144,49,ALUCIA,But if the Goa'uld doesn't make it back.
+0,144,49,HAMMOND,"The only reason that would happen is if the mission fails. If that's the case, Baal will be the least of your problems. I suggest we get back to planning your relocation."
+0,144,50,KYANNA,Check it out.
+0,144,50,JONAS,Forward pressures rising. Were good.
+0,144,50,KYANNA,Maybe now you'll believe that I too wish this mission to succeed?
+0,144,50,JONAS,"Yeah, for the wrong reasons."
+0,144,50,KYANNA,Has it ever occurred to you that serving Baal may not be my only interest here? I never thought I'd find the company of a human so intriguing.
+0,144,51,KYANNA,And suddenly I repulse you? Not that long ago you felt differently.
+0,144,51,JONAS,"Yeah, well that was before I found out who you are. What you are."
+0,144,51,KYANNA,"And yet the fact remains, you never knew the host before I took her. All this time it was never Kyanna, it was always me."
+0,144,52,TEAL'C,What is happening?
+0,144,52,SAM,"I'm not sure. We're still on course, still descending."
+0,144,53,TEAL'C,"Hull temperature is rising rapidly. 300 degrees, 400 degrees and still rising."
+0,144,53,SAM,"Jonas, is there any volcanic activity in the area?"
+0,144,53,JONAS,Malpallen. But it's been dormant for hundreds of years.
+0,144,53,SAM,"Just because it's dormant at the surface, doesn't mean there couldn't be magma flows in the vicinity."
+0,144,53,TEAL'C,Hull temperature is 700 degrees and still rising.
+0,144,53,SAM,We're passing through a river of molten rock.
+0,144,55,JACK,"Daniel, how's the whole diplomacy thing working out for you?"
+0,144,55,DANIEL,It's not. The latest arguments about the selection process. The Kelownan's want a lottery. The Terranian's want to assign positions and the Andarries wanna set up a committee to discuss the problem.
+0,144,55,JACK,What?
+0,144,55,DANIEL,"I'm trying to remind them that they're facing total annihilation, but they can't seem to face their own mistrust."
+0,144,56,JACK,I think I can help you out on this.
+0,144,57,DANIEL,What do you mean?
+0,144,58,TEAL'C,Hull temperature is 1100 degrees.
+0,144,58,KYANNA,The ship cannot take much more of this.
+0,144,58,SAM,Divert power to the shields.
+0,144,58,KYANNA,"We have no way of knowing how thick this vein of magma is. If we turn back now, we may get out alive."
+0,144,58,SAM,I said divert power to the shields!
+0,144,59,KYANNA,Power diverted. Although I'm not sure how much difference it will make.
+0,144,59,TEAL'C,Hull temperature is 1200 degree's.
+0,144,59,KYANNA,Do you really want to risk your life for the people of this world major? I am not so sure they would do the same for you.
+0,144,60,JONAS,We're losing hull integrity.
+0,144,61,SAM,Teal'c?
+0,144,61,TEAL'C,Hull temperature is dropping. 1100 degree's and still falling.
+0,144,61,SAM,We made it through.
+0,144,61,KYANNA,Very impressive.
+0,144,62,MINISTER,Kelowna will accept nothing less than equal representation.
+0,144,62,VEN,Really? Kelowna is solely responsible for this problem.
+0,144,63,MINISTER,Need I remind you that the Stargate is in our possession?
+0,144,63,ALUCIA,For the moment.
+0,144,63,MINISTER,Is that a threat?
+0,144,63,ALUCIA,"It's an assurance that when it comes to the survival of our people, we will do whatever is necessary."
+0,144,63,DANIEL,What so now you wanna go to war? My friends are trying to save your world and you wanna destroy it?
+0,144,64,JACK,
+0,144,64,MINISTER,I don't understand.
+0,144,64,JACK,"Well, you see, we actually like the Madronans, they're nice people. And we've decided, there's no way we'd subject them to the likes of you. Deal's off. You're toast."
+0,144,64,ALUCIA,General?
+0,144,64,HAMMOND,Colonel O'Neill's right. You can stay until we hear back from Jonas and Major Carter.
+0,144,64,JACK,That's what you get for dicking around.
+0,144,65,SAM,Something's wrong. We're losing speed. 1.5 meters per second and slowing.
+0,144,65,KYANNA,It is the forward drills. They were damaged by the magma.
+0,144,65,SAM,We've stopped.
+0,144,65,KYANNA,Forward drills finished. Cutting power.
+0,144,65,JONAS,This is as deep as we're gonna get.
+0,144,65,TEAL'C,What is our position?
+0,144,65,SAM,We're still over a kilometer from the target.
+0,144,65,JONAS,What happens if we drop the bomb here?
+0,144,65,SAM,We're too far from the fault line. Detonating from this position would be pointless.
+0,144,65,TEAL'C,Then we have failed.
+0,144,66,SAM,We're gonna have to go back to the surface and repair the ship.
+0,144,66,JONAS,There's too much damage. That's gonna take us weeks.
+0,144,66,SAM,I'm sorry Jonas but we don't have a choice.
+0,144,66,JONAS,We still have some Tokra crystals in reserve. We can use those to tunnel the rest of the way.
+0,144,66,SAM,They'd never make it far enough.
+0,144,66,JONAS,"Yeah, but if we focus them, we can at least dig a passage big enough for one person. That would give us the distance we need."
+0,144,66,SAM,"It might work. But this depth, the heat and the noxious gasses will penetrate even a Tokra tunnel. It will be suicide."
+0,144,66,RYANNA,"I will go. Do not worry Major Carter. I may be intrigued by your willingness to sacrifice yourself for others, but I do not share it. My symbiote will protect me."
+0,144,66,SAM,Why take the risk?
+0,144,66,RYANNA,You still think of me as nothing but a servant of Baal. You are mistaken.
+0,144,66,JONAS,You haven't told him about the Naquadria?
+0,144,66,RYANNA,Not yet.
+0,144,66,SAM,You want it for yourself.
+0,144,66,RYANNA,"In any case, the fact remains. I am the only one that can complete this mission."
+0,144,67,TEAL'C,The tunnel is complete.
+0,144,67,SAM,Are you sure you understand the detonation procedure?
+0,144,67,KYANNA,"Of course, it is a simple enough device."
+0,144,68,KYANNA,I am in position.
+0,144,69,KYANNA,I am setting the detonator.
+0,144,70,SAM,Oh this is not good. Kyanna this is Major Carter. Do you read?
+0,144,70,KYANNA,Go ahead.
+0,144,70,SAM,We're losing power. I think the generators have been damaged.
+0,144,70,KYANNA,I was afraid of that. How much power do you have left?
+0,144,70,SAM,We're down to 70%
+0,144,70,KYANNA,So much for my empire.
+0,144,70,SAM,Say again?
+0,144,70,KYANNA,"If you begin your ascent now, you may have enough power to reach the surface."
+0,144,70,SAM,We're not leaving you behind.
+0,144,70,KYANNA,"You have no choice. If the power drops below 50%, you will not even be able to restart the engines. I am already dead, if you wait, you die too."
+0,144,70,JONAS,This is Jonas. There's still time left. Start back immediately.
+0,144,70,KYANNA,"If you're doing this out of concern for the host, you need not bother. The body is already severely damaged. Even if I get back, I may not be able to keep her alive."
+0,144,70,JONAS,"Listen to me, we're not going without you, so shut up and get moving."
+0,144,72,MINISTER,We should have heard by now.
+0,144,72,ALUCIA,Something went wrong.
+0,144,73,SAM,Core's down to 53%. She's taking twice as long to get back as she took to get down there.
+0,144,73,JONAS,"Kyanna, this is Jonas. Come in over. Please respond."
+0,144,73,TEAL'C,I believe we have no choice but to begin our ascent immediately.
+0,144,74,JONAS,I'll take care of her. Get us out of here.
+0,144,74,SAM,Powering up engines.
+0,144,74,TEAL'C,Beginning ascent.
+0,144,74,RYANNA,You waited.
+0,144,74,JONAS,You held up your end of the bargain.
+0,144,74,RYANNA,Was that your only reason?
+0,144,75,RYANNA,I already know the answer.
+0,144,77,OFFICER,Receiving a signal sir. Audio only.
+0,144,77,HAMMOND,Put it though.
+0,144,77,KELOWNAN,Kelownan gate control to first minister Drayloc.
+0,144,77,MINISTER,This is Draloc. Go ahead.
+0,144,77,KELOWNAN,"We're receiving reports from all over the country. Major seismic disturbance. Geological survey points as the epicenter, target co-ordinates."
+0,144,77,VEN,They did it!
+0,144,77,MINISTER,Any word from the excavator.
+0,144,77,KELOWNAN,Negative.
+0,144,78,TEAL'C,Power reserves are nearly depleted.
+0,144,78,SAM,We're almost there. Ten seconds.
+0,144,79,SAM,"Five seconds, four, three, two, one."
+0,144,81,DANIEL,Do you miss it?
+0,144,81,JONAS,"Yeah, I do."
+0,144,82,DANIEL,"Well judging what you have to deal with back on Kelowna, I'm not surprised. I think I'd take life-threatening danger over one of those council meetings any day of the week."
+0,144,82,JONAS,"Yeah, I tell ya, I don't know what Jack said to them but they are being a little bit more co-operative."
+0,144,82,DANIEL,"Yeah, let's hope it lasts."
+0,144,83,JONAS,How are you feeling?
+0,144,83,RYANNA,Fine I guess. I don't remember everything. It's like a dream
+0,144,83,SAM,The symbiote's dead.
+0,144,83,RYANNA,"She saved me. She could have let me die with her, but she didn't."
+0,144,84,RYANNA,"I know you may find this hard to believe, but she appreciated everything that you did for her. What you tried to do."
+0,144,85,JONAS,Time to go home.

@@ -1,0 +1,414 @@
+Season,Episode,Scene,Character,Line
+0,100,0,STARGATE SG1,Episode 514
+0,100,0,"""48 HOURS""",By Robert C. Cooper
+0,100,1,O'NEILL,Go!
+0,100,2,O'NEILL,Let's go.
+0,100,4,HAMMOND,Where's Teal'c?
+0,100,4,O'NEILL,I don't know Sir. He was right behind me.
+0,100,5,HAMMOND,"Colonel, are you okay?"
+0,100,5,O'NEILL,We have to go back Sir.
+0,100,5,HAMMOND,What was your situation?
+0,100,5,CARTER,We were being pursued by gliders and an al-kesh.
+0,100,5,O'NEILL,Teal'c was right with me. He could still be alive.
+0,100,5,HAMMOND,Dial P3X116. We'll try and raise him on his radio.
+0,100,6,TECH DAVIS,Chevron 1 encoded.
+0,100,6,CARTER,Sir we should have the MALP standing by just in case we need a visual.
+0,100,6,HAMMOND,Do it.
+0,100,6,TECH DAVIS,"Yes sir. Chevron 2 encoded. Sir, we're getting an unknown error. Sir, should I override?"
+0,100,6,HAMMOND,Major?
+0,100,6,CARTER,Gate feedback protocol means the system is detecting something wrong with the Stargate itself not our dialling computers.
+0,100,6,TECH DAVIS,Chevron 4 encoded.
+0,100,6,DANIEL,Like what?
+0,100,6,CARTER,"I don't know. It's something our computer isn't recognising. Sir, what happened just before you jumped through?"
+0,100,6,O'NEILL,The ship was coming right at us.
+0,100,6,CARTER,You think it could have impacted the Stargate on the other side?
+0,100,6,O'NEILL,And if it did?
+0,100,6,CARTER,"Well, I hate to say this, but if the wormhole was shut down while Teal'c was en route...."
+0,100,6,TECH DAVIS,"Chevron 6 encoded. Still showing an unknown error, sir."
+0,100,6,CARTER,"Sir, we.. we better abort."
+0,100,6,HAMMOND,Abort the dialling procedure.
+0,100,8,HAMMOND,So the Tok'ra Intel was right. The Goa'uld were scouting P3X116 for a new base.
+0,100,8,DANIEL,Looks that way. What the Tok'ra didn't tell us is the Goa'uld in question was Tanith. We'd just spotted him on the ground near his al-kesh with a small contingent of jaffa when the glider made our position.
+0,100,8,HAMMOND,He came after you himself?
+0,100,8,DANIEL,"Yeah, as you know he and Teal'c have this thing."
+0,100,9,CARTER,Sir. I think I know what the problem is but we have to act quickly.
+0,100,9,HAMMOND,What is it?
+0,100,9,CARTER,"Okay, you know how the Stargate turns matter into energy and transmits it through a subspace wormhole?"
+0,100,9,DANIEL,That's Gate travel 101.
+0,100,9,CARTER,The gate on the receiving end is what translates the energy signature and reconverts it back into the matter's original form.
+0,100,9,HAMMOND,Major.
+0,100,9,CARTER,"The Stargate has massive amounts of memory inside it. It's like a computer buffer. It temporarily stores the energy patterns before it reconverts them back into matter. It does this to make sure it's got all the information before it reassembles the object or in our case, person. The error we're receiving from the Gate seems to indicate there is still an energy pattern stored in the memory buffer."
+0,100,9,DANIEL,Teal'c.
+0,100,9,CARTER,"If the Al-kesh crashed into the DHD on the other planet, it would have cut off power to the outgoing gate. The wormhole would have been severed prematurely. Now if that happened before our Gate was able to reconvert Teal'c's energy signature back into matter..."
+0,100,9,HAMMOND,Teal'c is in our Stargate.
+0,100,9,CARTER,"His energy signature, yes, stored in the memory."
+0,100,9,DANIEL,"Well, let's get him out."
+0,100,9,CARTER,"Right now, I'm not sure how. That's not the worst problem."
+0,100,9,DANIEL,There's worse?
+0,100,9,CARTER,"The Stargate has different safety protocols designed to prevent different energy signatures getting mixed together. One of the ways it does this is by erasing the memory buffer every time a new wormhole is established. It's like an overall system reset. Sir, if we dial out of our gate or someone offworld tries dialling in..."
+0,100,9,HAMMOND,We have eight teams currently on missions.
+0,100,9,CARTER,Teal'c's energy signature will be erased. Permanently.
+0,100,9,HAMMOND,How do we stop an incoming wormhole?
+0,100,9,CARTER,"Right now, the iris sits just in front of the plane where the event horizon is formed. Now if we can rig it so we can offset it just slightly, we could effectively stop a wormhole from establishing. It would be like burying our gate. Siler says his team can have it done in an hour."
+0,100,9,HAMMOND,How do we get our people home?
+0,100,9,DANIEL,When the Russians had their DHD connected to their Stargate it became the dominant gate on Earth.
+0,100,9,CARTER,Exactly. All incoming wormholes automatically went there.
+0,100,9,HAMMOND,I'll call the Pentagon.
+0,100,9,DANIEL,I'll go and find out how long we have until the next SG team is due back.
+0,100,11,HAMMOND,"Yes sir, we have eight teams offworld we have to get home. It's a temporary situation we hope to have resolved as quickly as possible. Thank you sir. I'll get our best man for the job on a plane right away."
+0,100,11,DANIEL,The next team due to check in is SG5. They have a scheduled report at 1600 hours.
+0,100,11,HAMMOND,Less than an hour from now. Will the iris be in place?
+0,100,11,DANIEL,They're working as fast as they can.
+0,100,11,HAMMOND,The best man I was talking about is you. We need a liason in Russia to help co-ordinate our interests. Pack a bag. You leave in half an hour.
+0,100,12,O'NEILL,Carter.
+0,100,12,CARTER,"Sir, are you okay?"
+0,100,12,O'NEILL,"Ohh, couple of stitches, concussion, nausea, dizziness, the usual."
+0,100,13,O'NEILL,Why is Teal'c still in the gate?
+0,100,13,CARTER,"Well sir, it's very complicated."
+0,100,13,O'NEILL,Can I help?
+0,100,13,CARTER,"Well in order to overcome the lack of a DHD, we had to create a proper interface between the Gate and our computer. We generated a series of instructions based on electrical impulses to which the Gate's control crystals would respond. Now these were found mostly by trial and error over a great deal of time. What we need to do now is find a series of impulses that will instruct the Gate to override one of its primary functions."
+0,100,13,O'NEILL,Can I get you some coffee?
+0,100,13,CARTER,"Sir, the truth is, the Gate might not even be capable of doing what we need it to do."
+0,100,13,O'NEILL,Which is what?
+0,100,13,CARTER,Resume a reintegration process that was cut off prematurely.
+0,100,13,O'NEILL,Carter! My head.
+0,100,13,CARTER,"Sir, I'm sorry. But the more I go through this, the more I'm becoming concerned that we might not be able to get Teal'c back."
+0,100,13,O'NEILL,Oh.
+0,100,14,RC,Major Davis.
+0,100,14,DAVIS,Colonel.
+0,100,14,RC,Doctor Jackson.
+0,100,14,DANIEL,Colonel.
+0,100,14,RC,I trust you had a pleasant trip?
+0,100,14,DAVIS,As possible under the circumstances.
+0,100,14,RC,"Yes, yes. An unfortunate problem. Please, sit down. The details made available today were somewhat vague. Only that the technical glitch had somehow trapped one of your team inside the inner workings of the Stargate."
+0,100,14,DANIEL,That's pretty much all we know at the moment.
+0,100,14,RC,Then it seems we are not the only ones incapable of handling every situation the Stargate may present after all.
+0,100,14,DAVIS,What is the current status of our offworld teams?
+0,100,14,RC,All of them have been contacted successfully. SG5 and SG8 have already arrived safely.
+0,100,14,DANIEL,We do appreciate what you're doing.
+0,100,14,RC,"Despite appearances, our participation in this effort is not one of good faith, Dr Jackson. The Russian military is not here to do your bidding."
+0,100,14,DANIEL,I wasn't suggesting you were.
+0,100,14,RC,Your Government seems to think it can dictate protocol in all matters relating to Stargate technology.
+0,100,14,DAVIS,Our Governments do have a deal.
+0,100,14,RC,"One which has been blatantly ignored by both sides, wouldn't you agree?"
+0,100,14,DAVIS,"It is technically and logistically impossible to run concurrent Stargate programs, Colonel."
+0,100,14,RC,"By the sound of it, it may be impossible not to, Major."
+0,100,15,HAMMOND,Colonel? Colonel? Go home.
+0,100,15,O'NEILL,I'm all right sir. Just got five minutes of quality sleep.
+0,100,15,HAMMOND,Everything that can be done is being done.
+0,100,15,O'NEILL,You know this wouldn't be happening if he had followed orders. It's that damn Jaffa revenge thing.
+0,100,15,HAMMOND,Get some rest Colonel. That's an order.
+0,100,15,HAMMOND,Colonel Simmons.
+0,100,15,SIMMONS,Hello General. I was just introducing Major Carter and Dr McKay. The Doctor has been studying the Stargate program out of Area 51 for over a year now.
+0,100,15,CARTER,Without access to a working Gate?
+0,100,15,MCKAY,I had a virtual computer model built when the second Gate was there.
+0,100,15,HAMMOND,Well I'm sure it's a thrill to be here to see the real thing.
+0,100,15,MCKAY,Not really.
+0,100,15,SIMMONS,The Pentagon feels Dr McKay has become the world's foremost expert on the Gate.
+0,100,15,HAMMOND,After Major Carter.
+0,100,15,MCKAY,"Well, with all due respect Major, you spend most of your time in the field."
+0,100,15,HAMMOND,Major Carter spent two years working on the Gate prior to her five years of service at the SGC. She's the one who made this program viable.
+0,100,15,MCKAY,Actually the interface she designed is full of flaws.
+0,100,15,CARTER,Well I admit it's not perfect but it's...
+0,100,15,MCKAY,It has caused numerous unnecessary situations any of which could have ended in catastrophe.
+0,100,15,SIMMONS,And we certainly don't want that to happen. That's why the Doctor is here to help.
+0,100,15,HAMMOND,Good. He can report to Major Carter.
+0,100,15,SIMMONS,And the two of them might be able to work together to solve this problem to get Teal'c back in one piece. In the time allotted.
+0,100,15,CARTER,Excuse me? In the time allotted?
+0,100,15,SIMMONS,It's 48 hours.
+0,100,15,HAMMOND,Come with me Colonel.
+0,100,15,HAMMOND,"I don't care who you are or who you work for, you will not come into my facility and dictate procedure to me."
+0,100,15,SIMMONS,"Oh General, don't shoot the messenger. I'm just bringing you your orders."
+0,100,15,HAMMOND,Teal'c is an invaluable asset. Without him you might very well not be sitting there supposedly representing your country.
+0,100,15,SIMMONS,"We're all aware of his contributions. As well as his questionable allegiances. Now this operation, we've lost a lost of good Americans. Are you telling me you hold Teal'c's life above one of our own people?"
+0,100,15,HAMMOND,Teal'c is one of our own. And his life is not lost yet.
+0,100,15,SIMMONS,"Maybe not. But my sources tell me that all the offworld teams are home safe. Now the Pentagon is not willing to deal with the Russians over the long term. And in the past, you yourself have made a very strong case for keeping the SGC alive and running at all costs. And we agree with you. So these people are going to have to come up with a solution in the next two days or you will be ordered to resume sending teams through the Gate."
+0,100,15,RC,All of your teams have arrived safely. That is what we agreed to help you with.
+0,100,15,DANIEL,Now all we need to do is send one of our teams off on a sort of fact-finding mission. One of our offworld allies may know of a way to save Teal'c.
+0,100,15,RC,Your offworld allies?
+0,100,15,DANIEL,Allies of Earth.
+0,100,15,RC,"As long as our Gate is connected Dr Jackson, we, as in the Russian people, are vulnerable to attack."
+0,100,15,DAVIS,We are here to ensure the orders agreed upon by our respective leaders are carried out. We're not here to negotiate with you Colonel.
+0,100,15,RC,"On the contrary, Major, that is exactly why you are here. The deal, so unwisely made by my Government requires us to cease our operations of the Stargate, not make it available to you whenever you deem it necessary. If you wish to continue to use our technology, you must finally present something of significant value in return."
+0,100,16,MAYBOURNE,Hi Jack.
+0,100,16,O'NEILL,You rat bastard!
+0,100,16,MAYBOURNE,"Hey, hey, hey, hey. Take it easy."
+0,100,16,O'NEILL,I am so gonna kick your ass!
+0,100,17,MAYBOURNE,Look there's people watching.
+0,100,17,O'NEILL,I don't care!
+0,100,17,MAYBOURNE,"Look it wasn't me. I didn't shoot you, Jack."
+0,100,17,O'NEILL,I trusted you!
+0,100,17,MAYBOURNE,"Come on, would I have come back here like this if I'd done it?"
+0,100,17,O'NEILL,You might!
+0,100,17,MAYBOURNE,I swear Jack.
+0,100,17,O'NEILL,Then who did?
+0,100,17,MAYBOURNE,I don't know.
+0,100,17,O'NEILL,What do you know?
+0,100,17,MAYBOURNE,"Just what I read in the NID file, you got shot and the Goa'uld escaped."
+0,100,17,O'NEILL,"You came all the way back to Colorado Springs to tell me, you didn't do it?"
+0,100,17,MAYBOURNE,I didn't think you'd believe me any other way. And I wanted to warn you.
+0,100,17,O'NEILL,About what?
+0,100,17,MAYBOURNE,I heard about Teal'c.
+0,100,17,O'NEILL,What about it?
+0,100,17,MAYBOURNE,I hope you get him back.
+0,100,17,O'NEILL,And the warning part?
+0,100,17,MAYBOURNE,Watch out for Frank Simmons.
+0,100,17,O'NEILL,Simmons again. What is it with you guys?
+0,100,17,MAYBOURNE,We go back. I don't exactly know what he's up to but I can guarantee you it isn't gonna be good for Teal'c or the
+0,100,17,O'NEILL,Great.
+0,100,17,MAYBOURNE,I'll be in town for a couple of days. I'd like to see how things turn out. I'm at the Accent Inn checked in under the name Cassidy.
+0,100,17,O'NEILL,David or Shaun?
+0,100,17,MAYBOURNE,Butch.
+0,100,17,O'NEILL,"You know, Simmons says you're the one who sullied the good name of the NID."
+0,100,17,MAYBOURNE,You believe that?
+0,100,17,O'NEILL,No.
+0,100,17,MAYBOURNE,Trust me Jack. I know him well. I'm the one who recruited him.
+0,100,19,MCKAY,Thanks Major.
+0,100,19,CARTER,Doctor.
+0,100,19,MCKAY,I guess we got off on the wrong foot.
+0,100,19,CARTER,What probability factor did you use figuring that out?
+0,100,19,MCKAY,"For the record, I don't work for Colonel Simmons."
+0,100,19,CARTER,What difference does that make?
+0,100,19,MCKAY,Well I sensed a little tension there. I'm on the Air Force payroll. I report directly to the Chief of Staff.
+0,100,19,CARTER,"Oh well, that changes everything."
+0,100,19,MCKAY,"I just wanted to give you my honest analysis, Major. It is a waste of time to assume you write about everything, I just thought we could get past that."
+0,100,19,CARTER,Leaving more time to devote to your fanclub.
+0,100,19,MCKAY,"The Gate wasn't meant to be used without a dialling device. Your computer system ignores 220 of the 400 feedback signals the Gate can emit during any given dialling sequence. It is a fluke that you picked up the buffer warning, for that matter, I'm surprised that you even bothered to abort the dialling sequence despite the error."
+0,100,19,CARTER,What is that supposed to mean?
+0,100,19,MCKAY,I've read the reports Major. You've ignored error data and bypassed dialling protocols on several occasions to get a lock.
+0,100,19,CARTER,"My job is to present the risks not to decide whether to take them. Now if you have something positive to add, do it. Otherwise, get out of my lab."
+0,100,19,MCKAY,Well...
+0,100,20,CARTER,Carter.
+0,100,21,DANIEL,"Hey, Sam. We got the Russians to agree to let us send one team out. SG5 contacted the Tok'ra and they just got back."
+0,100,21,CARTER,What did they say?
+0,100,21,DANIEL,They said the glitch probably occurred because we don't have a DHD. They say a local DHD would have compensated for the lack of power and allowed the Gate to finish the reintegration process.
+0,100,21,CARTER,Well if the DHD could have prevented the problem maybe the DHD can also fix it? Is there any chance you can get the Russians to give us their DHD?
+0,100,22,RC,That is impossible at the moment.
+0,100,22,DANIEL,Not without giving back Alaska.
+0,100,22,CARTER,"That bad, huh?"
+0,100,22,DANIEL,"Yeah, besides the Tok'ra warned us that connected a DHD now might not be the way to get Teal'c out of the memory."
+0,100,22,CARTER,It could impose the reset protocol same as dialling in would.
+0,100,22,DANIEL,Yeah.
+0,100,22,CARTER,"So, how do the Tok'ra suggest we fix the problem?"
+0,100,22,DANIEL,They don't know. They said they'd work on it but they didn't say how long that might take. Sorry I don't have better news.
+0,100,22,CARTER,"Yeah, me too. Thanks Daniel. Bye."
+0,100,23,HAMMOND,"Thank you, I will."
+0,100,24,SIMMONS,Can I come in?
+0,100,24,HAMMOND,Do I have a choice?
+0,100,24,SIMMONS,Clock's ticking. You have less than 32 hours.
+0,100,24,HAMMOND,"You didn't close the door just to tell me that, did you Colonel?"
+0,100,24,SIMMONS,"You know, the way I see it, General, despite their combined brain powers, Major Carter and Dr McKay are not going to be able to solve this problem in the time allotted."
+0,100,24,HAMMOND,"I'm working on extending that. Why are you really here, Colonel?"
+0,100,24,SIMMONS,I can provide you with the information you're gonna need to save Teal'c.
+0,100,24,HAMMOND,How?
+0,100,24,SIMMONS,That's not important.
+0,100,24,HAMMOND,It damn well is.
+0,100,24,SIMMONS,What's important is that this information is not gonna be for free.
+0,100,24,HAMMOND,Are you speaking officially on behalf of the NID because I can't believe what I'm hearing.
+0,100,24,SIMMONS,"Oh just stick with the point, General."
+0,100,24,HAMMOND,"I'm trying to count how many crimes you might be committing right now, Colonel."
+0,100,24,SIMMONS,"General, the way I see it, you have two options. You can either give me what I want, a small token compared to what's at stake, at least for you. Or I guess you could pick up the phone and call your superiors and report this conversation. At which point, I would deny everything."
+0,100,24,HAMMOND,I'm thinking of having you arrested this instant.
+0,100,24,SIMMONS,"Well go ahead, and I guarantee you, you'll never see Teal'c again."
+0,100,25,MAYBOURNE,I could take care of him for you.
+0,100,25,O'NEILL,What?
+0,100,25,MAYBOURNE,Simmons. I could make sure he's never a problem again. I'm already wanted for treason.
+0,100,25,O'NEILL,"Okay, I'll just pretend you didn't say that."
+0,100,25,MAYBOURNE,Bet it was him who shot you. The son of a bitch really stood there in Hammond's office and blackmailed him right to his face?
+0,100,25,O'NEILL,Yeah.
+0,100,25,MAYBOURNE,You gotta admire that. What'd he ask for?
+0,100,25,O'NEILL,A Goa'uld hand device.
+0,100,25,MAYBOURNE,Might as well be admitting they have the Goa'uld that escaped.
+0,100,25,O'NEILL,We're hoping.
+0,100,25,MAYBOURNE,Why?
+0,100,25,O'NEILL,Because he might tell us what he told Simmons.
+0,100,25,MAYBOURNE,You have to find him first. Ohhhh.
+0,100,26,DAVIS,This is unacceptable.
+0,100,26,RC,We allowed all your teams to return home safely. We even allowed you to send out another team on a new reconnaisance mission. We expect nothing less than everything on that list in return.
+0,100,26,DAVIS,Your Government agreed to let us use your Gate period. It mentioned nothing of any demands.
+0,100,26,RC,"Russia will not stand by and allow you to operate your program without our direct involvement. We demand that a Russian team be permanently be stationed at your base. That all mission files go through our onsite officer. And all technologies procured and developed as a result of Stargate travel past, present and future, will be shared equally."
+0,100,26,DAVIS,Or what? We already know your Government has no interest in running it's own program.
+0,100,26,RC,"Political winds change, Major. And don't forget, with a DHD we can ensure that our base has the dominant operational gate."
+0,100,26,DAVIS,"You do realise, Sir, that what you're talking about could be interpreted as an act of war?"
+0,100,26,RC,Don't be ridiculous. How can the United States go to war over something its people know nothing about?
+0,100,26,DAVIS,"It wouldn't be unprecedented, Colonel."
+0,100,26,DANIEL,"What would it take for you to give us your DHD? No seriously, let's put it on the table. I mean we all know you think of the DHD as your long-term bargaining chip but everything has a price. And no one has said exactly what it would take to buy you out in full, right now."
+0,100,26,DAVIS,Dr Jackson.
+0,100,26,RC,"No, no, he has a good point, Major. The problem is Dr Jackson, that without full disclosure of technologies already procured by the SGC, it may be impossible to determine a reasonable price."
+0,100,27,O'NEILL,Didn't the NID trace you down last time you did this?
+0,100,27,MAYBOURNE,Well this time I'm using link up that's bouncing off five different satellites. They pick something up; tracing it will make `em dizzy for a month.
+0,100,27,O'NEILL,What are we looking for?
+0,100,27,MAYBOURNE,The NID have several bases for their special ops throughout the country. Call `em safehouses.
+0,100,27,O'NEILL,Legitimate organisation?
+0,100,27,MAYBOURNE,"It's the only way we're gonna find this Goa'uld, Jack."
+0,100,27,O'NEILL,What do you mean?
+0,100,27,MAYBOURNE,"Through legitimate NID operations. Unofficial business is financed through the private sector and can be kept off the books. But any official NID action has to be filed with the Pentagon, same as any branch of the military. If Simmons used an NID plane to visit our snakehead, the flight plan was registered."
+0,100,27,O'NEILL,Wouldn't that be stupid?
+0,100,27,MAYBOURNE,The situation with Teal'c provided Simmons with a unique opportunity. But the Pentagon's deadline didn't give him much time. Besides NID flight plans are classified information. And there aren't many people who would know the current location of every NID safehouse in the country. You just happen to be lucky enough to know one of the few who does.
+0,100,28,O'NEILL,Diverted to Minot on it's way to Colorado Springs?
+0,100,28,MAYBOURNE,North Dakota ain't exactly on the way.
+0,100,29,MCKAY,There's no switch. The crystals were wiped clean by an unstable vortex of a forming wormhole. You have any idea how much excess energy one of those blasts gives off?
+0,100,29,CARTER,As a matter of fact I do. Now what we need to do is find a way to establish an event horizon without the vortex.
+0,100,29,MCKAY,It's impossible.
+0,100,29,CARTER,I've seen it done before.
+0,100,29,MCKAY,By magical fairy beings. Is there lemon on the chicken?
+0,100,29,SERVER,It's lemon chicken.
+0,100,29,MCKAY,So it is. I'm mortally allergic to citrus. One drop of lemon and I could die. I'll have what ever that is. I have to be very careful.
+0,100,30,MCKAY,"So, what would this fictional event horizon be connected to?"
+0,100,31,CARTER,Hungry?
+0,100,31,MCKAY,"Starving. Shockingly, this is even worse than it looks but it beats a hypoglycaemic reaction."
+0,100,31,CARTER,The event horizon is what dematerialises you and sends you into the wormhole. Now maybe we don't need to connect to a wormhole to form an event horizon.
+0,100,31,MCKAY,"Maybe, somehow, somewhere."
+0,100,31,CARTER,All we need to do is to get the rematerialisation process to work.
+0,100,31,MCKAY,"Major. Even if you manage to create a viable event horizon without connecting to a wormhole, you'd never get the wormhole to reintegrate Teal'c."
+0,100,31,CARTER,Why not?
+0,100,31,MCKAY,"The crystals that retain the energy pattern before reintegration, they're not like magnetic hard drives."
+0,100,31,CARTER,I know. They're crystals.
+0,100,31,MCKAY,You can't just ignore the laws of thermo-dynamics. Entropy dictates the crystals won't retain their energy patterns permanently. I've measured it. It's what's called quantitative evidence.
+0,100,31,CARTER,I think the energy itself is unimportant past its initial imprint on the crystals.
+0,100,31,MCKAY,And this fantasy is based on?
+0,100,31,CARTER,"I suspect the Gate is storing its one's and zero's on the subatomic level within the structure of the crystals. So even though the energy is dissipating, the most recent pattern still exists."
+0,100,31,MCKAY,You suspect.
+0,100,31,CARTER,We are dealing with a level of quantum physics here that is way beyond us.
+0,100,31,MCKAY,"More than a third of the energy pattern the Gate requires to reintegrate Teal'c, it's already gone."
+0,100,31,CARTER,I don't think so.
+0,100,31,MCKAY,"You're guessing wildly, like you always do. Maybe you could find a way to fool the Gate into reintegrating whatever it has stored in memory. But I say you won't like what comes out."
+0,100,31,CARTER,"Well, we'll see."
+0,100,31,MCKAY,"Major, Teal'c is dead. And this argument is a waste of time because the Pentagon is going to order Hammond to resume operations in what, 16 hours."
+0,100,31,CARTER,That's how they came up with the 48 hour deadline isn't it? You told them Teal'c would already be dead.
+0,100,31,MCKAY,That's why it's called a deadline.
+0,100,31,CARTER,"God, you're a jerk!"
+0,100,31,MCKAY,I wish I didn't find you so attractive. I always had a real weakness for dumb blondes.
+0,100,31,CARTER,Go suck a lemon!
+0,100,32,MCKAY,"Very sexy. Very, very sexy."
+0,100,34,MAN,"We have a breach in the perimeter, section R9."
+0,100,34,JOE,I got it. It's probably that damn squirrel again.
+0,100,34,MAN,"You better take back up, Joe. Joe, report. Joe. Paul, check on Joe, take Peter."
+0,100,34,PAUL,We're on it.
+0,100,35,MAN,We have a power failure here at homebase. I'm switching to backup generator.
+0,100,36,MAN,"We have a red alert. Backup generator is down. System is inoperational, repeat, system is down. Ron, get to the generator. Find out what's going on. Paul, Peter, report."
+0,100,37,MAN2,What's going on?
+0,100,38,MAYBOURNE,"Okay Jack, I'm in. Hit it."
+0,100,39,MAYBOURNE,You got two guys left guarding the Goa'uld.
+0,100,42,CONRAD,We meet again.
+0,100,42,O'NEILL,Yeah.
+0,100,42,CONRAD,Now what?
+0,100,42,O'NEILL,Now you're going to tell me what I wanna know.
+0,100,43,DANIEL,"Look, all I'm saying is they did what we asked in good faith. Now all they're asking for in return is what we already promised to give them."
+0,100,43,DAVIS,Have you lost your mind?
+0,100,43,DANIEL,Should we be talking about this in here?
+0,100,43,DAVIS,I'm sure the room is bugged but it doesn't matter. They already know everything that we're talking about. And they might as well know that we are never going to turn over refined weapons grade Naqahdah.
+0,100,43,DANIEL,"I'm talking about Naqahdah generator technology, a clean and safe source of power."
+0,100,43,DAVIS,"Which requires refined Naqahdah to work. Dr Jackson, you of all people realise the explosive power of this material."
+0,100,43,DANIEL,"Yeah, so they can blow us up 200 times over instead of just 100. What difference does it make?"
+0,100,43,DAVIS,"The difference is, it would take only one nuke to get through an anti-ballistic shield to do it. One."
+0,100,43,DANIEL,"The point is, you already owe them the generator technology anyway along with everything else we've found using the Stargate."
+0,100,43,DAVIS,"No, no, no. The point is, we are not giving them the generator technology and their not giving us the DHD."
+0,100,43,DANIEL,Can't you stipulate we supervise how the Naqahdah is being used. They want to monitor our use of the Gate....
+0,100,43,DAVIS,That's not the point.
+0,100,43,DANIEL,Isn't a more economically stable Russia better for everyone?
+0,100,43,DAVIS,We don't know who they'll turn around and sell the technology to.
+0,100,43,DANIEL,"So all this time we've been using the Gate to save the world, we've really been using it to save the good old U. S of A, huh?"
+0,100,43,DAVIS,"Dammit Daniel, we don't even know for sure the DHD will even save Teal'c."
+0,100,43,DANIEL,Naqahdah generator technology is years from practical widespread implementation. In the meantime we get the DHD and prevent the Russians from ever holding their Gate over us ever again.
+0,100,43,DAVIS,That's exactly why the Russians will never go for it.
+0,100,43,DANIEL,Let's ask.
+0,100,44,O'NEILL,Get me in here.
+0,100,44,MAYBOURNE,Jack.
+0,100,44,O'NEILL,Just do it.
+0,100,45,O'NEILL,All right. Tell me what you told Simmons.
+0,100,45,CONRAD,What in particular are you referring to?
+0,100,45,O'NEILL,How do we save Teal'c?
+0,100,45,CONRAD,Why should I tell you?
+0,100,45,O'NEILL,"Because if you don't, I'll kill you."
+0,100,45,CONRAD,I doubt that.
+0,100,46,O'NEILL,What makes you think I care if you live or die?
+0,100,46,CONRAD,What about the host?
+0,100,46,O'NEILL,He tried to kill a friend of mine to save his own ass so I don't much care about him either.
+0,100,46,CONRAD,"If you kill me, Teal'c dies."
+0,100,46,O'NEILL,Give me another choice.
+0,100,46,CONRAD,"Let me go. Once I am free, I will contact you with the information."
+0,100,46,O'NEILL,I think Teal'c would rather I shoot you.
+0,100,46,CONRAD,"Oh go ahead. You know, Colonel Simmons was really much better at this than you. He at least offered something of value in return for what I know."
+0,100,47,O'NEILL,Thank you.
+0,100,48,MAYBOURNE,I don't understand.
+0,100,48,O'NEILL,There's a camera in that cell. Would have been from two days ago.
+0,100,48,MAYBOURNE,Got it.
+0,100,50,DAVIS,It's what you want.
+0,100,50,RC,Not everything.
+0,100,50,DAVIS,And we acknowledge that the past arrangement by both sides.
+0,100,50,DANIEL,What we're saying is that we're willing to try and make it work now.
+0,100,50,RC,Allow our team full access to your base and all information relating to the Stargate. After a month we will assess delivery of the DHD.
+0,100,50,DANIEL,"Wait, that's not good enough. This is not a negotiation. You know damn well we need that DHD right now, someone's life is a stake here. A very good friend of mine. And that DHD could help save him. Now, when your Russian team went missing, SG1 along with that friend went to try and rescue them."
+0,100,50,RC,"Yes, and in the process, three more Russian soldiers died."
+0,100,50,DANIEL,That's not our fault.
+0,100,50,RC,"Colonel Zukhov was a friend of mine. He is now dead, Doctor."
+0,100,52,CARTER,"Sir, Daniel just called. The Russians have agreed to loan us the DHD temporarily."
+0,100,52,HAMMOND,Is it going to make a difference?
+0,100,52,CARTER,Eventually it might.
+0,100,52,HAMMOND,I've just been ordered to resume normal operations of this base by the President.
+0,100,52,CARTER,Sir.
+0,100,52,HAMMOND,
+0,100,52,CARTER,"Sir, you can't. I need more time."
+0,100,52,HAMMOND,I've been given a direct order.
+0,100,52,CARTER,I don't care what anyone says. You open that gate and you are murdering Teal'c.
+0,100,52,HAMMOND,"My only other choice is to resign. If I resign now, I will have no control over who will be running this facility an hour from now. Is that enough time?"
+0,100,52,CARTER,No.
+0,100,52,HAMMOND,Tell me what else I can do.
+0,100,52,CARTER,I can't sir.
+0,100,52,HAMMOND,Dial the gate.
+0,100,53,WESTERHOLM,Major. There's a call for you from Colonel O'Neill. He says it's urgent.
+0,100,53,CARTER,Thank you.
+0,100,54,TECH DAVIS,Chevron 5 encoded.
+0,100,54,CARTER,You have to abort.
+0,100,54,SIMMONS,Stand down Major.
+0,100,54,CARTER,"Sir, Colonel O'Neill has obtained the information we need to save Teal'c."
+0,100,54,TECH DAVIS,Chevron 6 encoded.
+0,100,54,CARTER,And he has evidence that will incriminate Colonel Simmons.
+0,100,54,SIMMONS,She's lying.
+0,100,54,HAMMOND,"Abort the dialling sequence. Airman, arrest Colonel Simmons."
+0,100,54,SIMMONS,This is preposterous.
+0,100,54,HAMMOND,"Take him away. If he resists, shoot him."
+0,100,57,CONRAD,You have to remove the master control crystal before you attach the DHD otherwise the imprint will be erased.
+0,100,58,MCKAY,That was a joke. He was joking.
+0,100,58,HAMMOND,Major?
+0,100,58,CARTER,Well theoretically...
+0,100,58,MCKAY,Are you insane? He's a Goa'uld. He wants you to destroy yourself. If you remove the master control crystal there's nothing to regulate the energy distribution. You get straight current flowing the wrong conduit. The whole Gate could explode.
+0,100,58,O'NEILL,That true?
+0,100,58,CARTER,"Well technically it's possible sir, the Gate's a very powerful superconductor. But we could take steps to ensure the..."
+0,100,58,MCKAY,"You are a certifiable whack job, you know that? And you're no better if you listen to her. Her judgement is being clouded by her personal feelings. Teal'c is toast, he's history."
+0,100,58,CARTER,"Sir, I think that we could make sure that the risk was very small."
+0,100,58,MCKAY,You try this harebrained scheme and you blow yourself up for nothing. No way I'm hanging around for that.
+0,100,58,HAMMOND,Your plane leaves for Russia in an hour.
+0,100,58,MCKAY,Russia?
+0,100,58,HAMMOND,Your new assignment is to supervise the development of Russia's naqahdah generator program.
+0,100,58,MCKAY,"I am not going to Russia. Do you know what the food is like in Russia? Besides I'm a civilian, I don't have to do what you say."
+0,100,58,CARTER,Well as long as you're on the Air Force payroll....
+0,100,58,MCKAY,Oh... this really sucks.
+0,100,59,HAMMOND,"Major, do what you have to do."
+0,100,59,CARTER,Yes sir.
+0,100,61,SILER,Okay Major.
+0,100,61,CARTER,"Sir, master control crystal's been removed. We're ready to connect the DHD."
+0,100,61,HAMMOND,The base has been evacuated of all non-essential personnel. You can proceed Major.
+0,100,61,CARTER,Sir.
+0,100,61,O'NEILL,"Hey, you sure you wanna be in there for this?"
+0,100,61,SILER,Not really sir.
+0,100,61,O'NEILL,I wasn't talkin' to you.
+0,100,61,CARTER,"Sir, if the Gate blows up, it won't matter where we are on the base."
+0,100,61,O'NEILL,Right.
+0,100,61,DANIEL,Not too late to change your mind about leaving.
+0,100,61,RC,I will stay.
+0,100,61,CARTER,Do it.
+0,100,62,DANIEL,Well that never happened in any of the simulations.
+0,100,63,O'NEILL,"Shake it off sparky. Teal'c, buddy. You all right?"
+0,100,64,TEAL'C,Indeed.
+0,100,64,CARTER,"Teal'c, as far as you know what just happened?"
+0,100,64,TEAL'C,I had my revenge. Tanith is dead.
+0,100,64,O'NEILL,That's nice. I'm happy for you.
+0,100,64,CARTER,It's good to see you in one piece Teal'c.
+0,100,64,O'NEILL,"Yes, we thought we'd lost you again."
+0,100,64,CARTER,You sure you're feeling perfectly normal?
+0,100,64,TEAL'C,Yes. What has transpired here?
+0,100,64,O'NEILL,"Well believe it or not, you owe your life to a Goa'uld."
+0,100,64,TEAL'C,Never.
+0,100,64,O'NEILL,Oh yes.

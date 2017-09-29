@@ -1,0 +1,284 @@
+Season,Episode,Scene,Character,Line
+0,125,0,STARGATE SG1,Episode 617
+0,125,0,"""DISCLOSURE""",By Joseph Mallozzi & Paul Mullie
+0,125,0,CHEKOV,We've been over this Mr Ambassador.
+0,125,0,CHINESE AMBASSADOR,"Our submarine, yes, yes."
+0,125,0,CHEKOV,"The missile sub, Rostov was less than 75km from the impact of the meteor."
+0,125,0,CHINESE AMBASSADOR,Why do you insist on maintaining this story?
+0,125,0,CHEKOV,The shockwave caused severe damage and she sank to the bottom.
+0,125,0,CHINESE AMBASSADOR,And in the spirit of international co operation a deep submergence rescue vehicle was sent from Pearl Harbour.
+0,125,0,CHEKOV,Yes. Unfortunately the Rostov's reactor went critical before she arrived on the scene.
+0,125,0,CHINESE AMBASSADOR,"I have heard your Government repeat this story time and time again. Yet according to our Naval Intelligence service, on the day in question, the submarine in question was in fact still taking on supplies in the harbour at Vladivlostok."
+0,125,0,CHEKOV,"What can I say, Ambassador? Your intelligence is wrong. Not for the first time I may add."
+0,125,0,CHINESE AMBASSADOR,The Americans are hiding something and have been for years now. That Russia seems to have no objection is all the more confusing.
+0,125,0,CHEKOV,In the spirit of co operation.
+0,125,0,CHINESE AMBASSADOR,"Please, what you call a new spirit of co operation between your two countries, Colonel, makes the Peoples Republic of China uncomfortable."
+0,125,0,BRITISH AMBASSADOR,"Gentlemen, we couldn't help but overhear."
+0,125,0,CHEKOV,"Yes, I was trying to explain."
+0,125,0,BRITISH AMBASSADOR,"My dear Colonel, if we can agree on anything it's that your lost submarine in merely the latest in a long list of extremely unlikely events the Americans have attempted to foist upon us as ¡¥the truth'."
+0,125,0,FRENCH AMBASSADOR,"Yes, the Americans are up to something."
+0,125,0,BRITISH AMBASSADOR,They did summon us here for some reason.
+0,125,0,CHINESE AMBASSADOR,To hear more stories of falling meteors and exploding hot air balloons.
+0,125,0,CHEKOV,"Mr Ambassador, I'm sure we can provide you with the necessary evidence.."
+0,125,0,HAMMOND,"That won't be necessary, Colonel."
+0,125,1,BRITISH AMBASSADOR,General?
+0,125,2,DAVIS,"Gentlemen, please be seated."
+0,125,4,DAVIS,"Thank you. First and foremost Gentlemen, welcome to the Pentagon. Please forgive any security measures you've had to undergo in order to get here. In America, we try never to underestimate the competence or curiosity of our media. We've asked you here to inform you of a top secret operation the United States Air Force has been operating out of Cheyenne Mountain in Colorado. It's called the Stargate Program."
+0,125,4,DAVIS,"Gentlemen. The Stargate. The device itself was discovered in Egypt in 1928 where it lay buried for several thousand years. In 1945, a team of scientists hoping to find a military application for the device successfully established a stable wormhole by a process of random dialling. It was, for all intents and purposes, a lucky accident, which they were unable to repeat. The Gate remained inactive. Until 8 years ago when this man, Dr Daniel Jackson, joined the programme. Dr Jackson successfully deciphered the symbols on the Gate allowing us to begin routine exploration of alien worlds. Since that time, Mr Ambassadors, we have visited literally hundreds of planets. Thousands more remain to be explored."
+0,125,4,BRITISH AMBASSADOR,What?
+0,125,4,FRENCH AMBASSADOR,This is absurd.
+0,125,4,HAMMOND,"I know it's a lot to process, Gentlemen. The first time I saw the Gate activated, I could hardly believe my eyes.."
+0,125,4,CHEKOV,It is true.
+0,125,4,BRITISH AMBASSADOR,You know about this?
+0,125,4,CHEKOV,The Russian Government has been aware of the Stargate programme for quite some time.
+0,125,4,BRITISH AMBASSADOR,Are you quite serious? Did your President not recently call Great Britain America's closest ally?
+0,125,4,HAMMOND,One of our own people illegally sold the Russians information which allowed them to temporarily operate their own program.
+0,125,4,FRENCH AMBASSADOR,You have one of these Stargates?
+0,125,4,CHEKOV,For a short time.
+0,125,4,BRITISH AMBASSADOR,How many of these bloody things are there?
+0,125,4,CHEKOV,There was another Stargate. It was recovered from the bottom of the ocean two years ago.
+0,125,4,CHINESE AMBASSADOR,I don't understand.
+0,125,4,DAVIS,
+0,125,4,NEMESIS,
+0,125,5,DAVIS,So the Gate the Russians recovered from the Pacific was the Gate first discovered in Egypt. We replaced that Gate with the one found in Antarctica five years ago.
+0,125,5,HAMMOND,That Stargate has since been destroyed.
+0,125,5,DAVIS,The original Gate is back in Cheyenne Mountain under lease from the Russian Government.
+0,125,5,CHINESE AMBASSADOR,The explosion of your nuclear submarine was a cover story for these events?
+0,125,5,HAMMOND,Actually the Rostov explosion was to cover up the explosion of a crashed Goa'uld ship.
+0,125,5,DAVIS,Whereas the Stargate was aboard an Asgard ship. The Asgard.. Obviously this is very confusing at first glance.
+0,125,5,BRITISH AMBASSADOR,"Oh no, no, no, no. What could be more clear. There were two different sorts of alien ships. I follow completely. You know this is much more believable than the accidental loss of a Russian submarine. Although I am a bit dubious that not one, but two reported meteors in the last few years were in fact alien ships."
+0,125,5,DAVIS,Actually there were three.
+0,125,6,KINSEY,Gentlemen. I'm sorry I'm late. I had a meeting on the hill that couldn't be postponed.
+0,125,6,HAMMOND,Senator.
+0,125,6,KINSEY,General. What have I missed?
+0,125,6,FRENCH AMBASSADOR,Your officers have been telling us several tall tales as you might say.
+0,125,6,KINSEY,You're telling me you've been at this God knows how long and they don't even believe you? If that doesn't take the cake. Well I don't know what they've told you but it's true. The Stargate exists and they go through the damn thing on a daily basis.
+0,125,6,BRITISH AMBASSADOR,Does everyone in your Government know about this?
+0,125,6,HAMMOND,"As Chairman of the Appropriations Committee, Senator Kinsey was given a full briefing."
+0,125,6,KINSEY,"The truth is, I demanded to know where all the money was going and believe you me, we're talking about a lot of money. I'm sure that what you're finding hard to believe is why we would come forward with any of this. Granted the Chinese Government has threatened to go public with information that contradicts one of our cover stories, but that isn't the only reason. The fact is, due in no small part to the actions of the Stargate program's flagship team, SG1, our planet is facing imminent danger."
+0,125,6,BRITISH AMBASSADOR,"So, assuming this is not some sort of elaborate hoax and there are no television cameras ready to pop out at any moment, these aliens who threaten to destroy Earth even as we speak."
+0,125,6,HAMMOND,The Goa'uld.
+0,125,6,BRITISH AMBASSADOR,They built the Stargate?
+0,125,6,DAVIS,"No Sir. The Gate system was built by a much older race that have long since disappeared. Now while the Goa'uld regularly use the Gate, they subjugate these transplanted human races with powerful ships that are capable of interstellar travel."
+0,125,6,CHINESE AMBASSADOR,Such as the one that crashed in the Pacific Ocean?
+0,125,6,HAMMOND,And the Goa'uld have dozens if not hundreds of these vessels.
+0,125,6,DAVIS,This is a single hatak class vessel. Each Goa'uld System Lord operates entire fleets of these. Typically a Goa'uld flagship is several times this size.
+0,125,6,THE SERPENTS VENOM,
+0,125,7,DAVIS,They also have mid range bombers called alkesh and small fighters known as death gliders.
+0,125,7,EXODUS,
+0,125,8,O'NEILL,Pull up Teal'c. Teal'c pull up!
+0,125,9,HAMMOND,The Goa'uld are advanced of us in every way and there can be no doubt that they have hostile intentions.
+0,125,9,BRITISH AMBASSADOR,Can we negotiate with them?
+0,125,9,DAVIS,The Goa'uld are a predatory species. They will enslave a planet or in the face of resistance simply wipe out its inhabitants. They don't negotiate. Now we have witnessed Goa'uld attacks on several worlds. Their standard procedure is to begin with a long range assault launched from orbit designed to take out planetary defences and instil fear in the population.
+0,125,9,THE SENTINEL,
+0,125,9,DAVIS,"Once they've completed their orbital assault, they'll then be free to move in for tactical strikes against any remaining ground position."
+0,125,9,SUMMIT,
+0,125,10,DAVIS,After that they'll put their troops on the ground. Each mothership is capable of carrying hundreds if not thousands of warriors.
+0,125,10,SUMMIT,
+0,125,11,KINSEY,It was high time you were all briefed on what we're up against.
+0,125,11,FRENCH AMBASSADOR,"If what you are saying is true, then the United States Government has unilaterally taken actions which have placed the whole world in jeopardy."
+0,125,11,KINSEY,"Believe me, Mr Ambassador, I know how you feel. When this was first brought to my attention, I insisted the Gate was too dangerous to remain in operation. Unfortunately, I was overruled."
+0,125,11,HAMMOND,"With due respect, Senator, the President took your recommendation. And it nearly resulted in disaster. It was only because of the efforts of SG1 who violated your order to shut down the Gate, that we managed to survive."
+0,125,11,KINSEY,"Oh and they've done a great job since. Under your tenure, haven't they General? You managed to defeat the Goa'uld known as Apophis only to see him replaced by another more dangerous one. Isn't that a fair assessment?"
+0,125,11,REVELATIONS,
+0,125,12,ANUBIS,You are the one they call Thor. I am Anubis.
+0,125,12,THOR,"As I have told your Lieutenant, I will reveal nothing to you."
+0,125,13,ANUBIS,"This device will be implanted into your brain, it will form a link between your mind and the ship's computer. Your knowledge"
+0,125,14,THOR,The Goa'uld possess no such technology.
+0,125,15,ANUBIS,I think you will find many things have changed since my return.
+0,125,16,DAVIS,Admittedly Anubis appears to have technology that it far superior to that of any other Goa'uld but we could not have possibly foreseen his return to power among all the other System Lords.
+0,125,16,KINSEY,"The point is, he's already tried to destroy the Earth on two occasions."
+0,125,16,BRITISH AMBASSADOR,I'm sure you were getting to that.
+0,125,16,DAVIS,"Yes Sir. About a year ago, we discovered an asteroid with a collision course with Earth."
+0,125,16,FRENCH AMBASSADOR,"When you say asteroid, I assume you mean spaceship."
+0,125,16,DAVIS,"No Sir, not this time. We were fortunate to detect it at all. If it had have struck the planet there would have been no need for a cover story. It would have wiped out all life as we know it."
+0,125,16,HAMMOND,We discovered that the asteroid had been deliberately set on a collision course with Earth by Anubis. Fortunately we managed to divert it in time.
+0,125,17,DAVIS,"I should point out once again, gentlemen; it was SG1 who saved us."
+0,125,17,BRITISH AMBASSADOR,Are we expecting another attack?
+0,125,17,DAVIS,Anubis is currently consolidating his position amongst the other System Lords but it's only a matter of time before he turns his attention back to Earth.
+0,125,17,HAMMOND,The nations represented in this room make up the bulk of this planet's military capacity. Our chances for successful resistance would be greatly improved if we would just work together.
+0,125,17,CHEKOV,This would require an unprecedented level of military co operation as well as a commitment from all of you to maintain absolute secrecy.
+0,125,17,CHINESE AMBASSADOR,"I'm afraid that may be impossible. If we're facing invasion, then we must warn our people so they can prepare."
+0,125,17,DAVIS,"With all due respect Mr Ambassador, we feel coming forward now would only result in widespread panic."
+0,125,17,FRENCH AMBASSADOR,As opposed to the panic that would result when alien troops begin marching through our streets?
+0,125,17,CHINESE AMBASSADOR,The Government of China does not believe in keeping secrets from its people. We may have no choice but to release this information.
+0,125,17,BRITISH AMBASSADOR,We're talking about a full scale attack from space. I'm afraid people are going to notice.
+0,125,17,HAMMOND,"We're hoping it won't come to that. As you now know, Stargate Command has managed to deal with several threats to the security of this planet without divulging any information to the general public."
+0,125,17,KINSEY,You've been lucky and you know it.
+0,125,17,HAMMOND,We also have damned good people. We've given as good as we've gotten.
+0,125,17,DAVIS,On one occasion we managed to wipe out an entire fleet of motherships.
+0,125,17,BRITISH AMBASSADOR,This SG1 I assume.
+0,125,17,HAMMOND,That's right.
+0,125,17,EXODUS,
+0,125,17,CARTER,It worked. The Gate on P3W 451 is still active.
+0,125,18,O'NEILL,Summat wrong?
+0,125,18,CARTER,No. I've just never blown up a star before.
+0,125,18,O'NEILL,Well they say the first one's always the hardest. (Sam looks at
+0,125,19,CARTER,Opening the cargo bay doors. Releasing the clamps. And the Gate is
+0,125,21,BRITISH AMBASSADOR,A significant achievement General but it sounds as though the circumstances will be difficult to duplicate.
+0,125,21,HAMMOND,"For all their advanced technology, the Goa'uld have a fatal flaw. Arrogance."
+0,125,21,DAVIS,We've been able to take advantage of the fact that they don't perceive us to be a serious threat.
+0,125,21,KINSEY,Clearly that's no longer the case.
+0,125,21,DAVIS,"The point is, they're not invincible. Our technology may be inferior, but it is effective."
+0,125,21,THE SENTINEL,
+0,125,21,CARTER,Target Sierra One has been acquired.
+0,125,21,TECHNICIAN,Missile away.
+0,125,21,CARTER,Sierra One has been destroyed.
+0,125,21,BRITISH AMBASSADOR,Very impressive. But nothing on Earth go could up against one of these mother ships.
+0,125,21,HAMMOND,"Mr Ambassador, our primary mission has been to obtain technology capable of defending this planet."
+0,125,21,DAVIS,And we've made significant progress towards that end.
+0,125,21,KINSEY,We've made progress. The jury's still out on significant.
+0,125,21,DAVIS,"During the six years that the Stargate has been in operation we've acquired a working knowledge of certain alien technologies. We've tried to adapt those technologies for our own uses. Towards that end, two years ago we developed a hybrid fighter interceptor known as the X301. It was a combination of human technology and parts from two salvaged death gliders. Unfortunately the prototype failed to live up to expectations."
+0,125,21,TANGENT,
+0,125,21,TEAL'C,Beginning attack run now.
+0,125,21,WOOHOO,
+0,125,21,TEAL'C,I am no longer in control O'Neill.
+0,125,21,O'NEILL,Excuse me?
+0,125,21,TEAL'C,The craft is no longer accepting input from the controls. The drive is at full power.
+0,125,21,O'NEILL,"Flight, I am declaring an emergency."
+0,125,21,TEAL'C,The ejection system has malfunctioned.
+0,125,21,O'NEILL,"We are no longer in control of the vehicle. I repeat, we have lost control and cannot eject."
+0,125,21,DAVIS,"After the failure of the X301 we began to concentrate on creating an entirely man made craft, with similar ability. The result was the X302."
+0,125,21,REDEMPTION,
+0,125,21,CARTER,Navigation.
+0,125,21,O'NEILL,Check.
+0,125,21,CARTER,"Oxygen, pressure, temperature control."
+0,125,21,O'NEILL,All check.
+0,125,21,CARTER,Inertial dampeners.
+0,125,21,O'NEILL,Cool. And check.
+0,125,21,CARTER,Engines.
+0,125,21,O'NEILL,All check. Phasers?
+0,125,21,CARTER,"Sorry sir. All systems operational. Mission command, all systems go from Abydos One."
+0,125,21,CHINESE AMBASSADOR,Do you mean to tell me that the United States Air Force is currently flying an interceptor that is capable of both aerial combat and space flight?
+0,125,21,DAVIS,That's correct.
+0,125,21,CHINESE AMBASSADOR,This is unacceptable!
+0,125,21,HAMMOND,"Mr Ambassador, I understand how you feel."
+0,125,21,CHINESE AMBASSADOR,"With all due respect General, I don't think you do. Your government has been operating this Stargate for six years, supposedly for the benefit of all mankind. Yet now we find out that you've been taking advantage of the situation. To create military hardware that radically alters the balance of power on this planet."
+0,125,21,HAMMOND,The X302 was designed to defend against the Goa'uld. We have no intention of using it against our neighbours.
+0,125,21,CHINESE AMBASSADOR,And for that we have only your word.
+0,125,21,CHEKOV,"The United States has had such capabilities for some time, but have not used them on other nations."
+0,125,21,FRANCE,Are there any other new technologies that we need to know about?
+0,125,21,KINSEY,"Might as well tell them General, they're gonna find out sooner or later."
+0,125,21,HAMMOND,"Ever since we encountered a Goa'uld mother ship, we have been working to find a viable counter measure."
+0,125,21,PROMETHEUS,
+0,125,21,DAVIS,Prometheus was designed to carry a complement of eight X302 fighters. And it was one of several planned.
+0,125,21,CHINESE AMBASSADOR,I must contact my government immediately.
+0,125,21,HAMMOND,Mr Ambassador. We volunteered this information in the spirit of co-operation. We're trying to create a coalition to defend the entire world.
+0,125,21,CHINESE AMBASSADOR,Under your leadership?
+0,125,21,HAMMOND,We have the experience.
+0,125,21,CHINESE AMBASSADOR,"I'm sorry General, but it may be impossible to achieve an agreement as long the Stargate and any resulting technologies remain solely under the control of the United States military."
+0,125,21,BRITISH AMBASSADOR,What do you suggest?
+0,125,21,FRENCH AMBASSADOR,"We could move the gate to a neutral location and create a permanent staff, drawn from all five nations."
+0,125,21,HAMMOND,I'm afraid we can't agree to that.
+0,125,21,CHINESE AMBASSADOR,"Well that choice may finally not be up to you. Once the rest of the world learns of the Stargate, they may well demand it."
+0,125,21,CHEKOV,We support the United States.
+0,125,21,CHINESE AMBASSADOR,And what are you getting in exchange for this support?
+0,125,21,KINSEY,"Gentleman, please! Perhaps I can offer a compromise. Please? I sympathise with the ambassador's position. A device as powerful as the Stargate in the hands of a military organization. It's a recipe for abuse. Despite everyone's best intentions."
+0,125,21,CHINESE AMBASSADOR,What are you suggesting?
+0,125,21,KINSEY,"We have a civilian agency known as the NID. Now its mandate has been to keep an eye on top secret projects like the Stargate program, and has done so from the beginning. I propose that we give this organization direct control over the gate, effective immediately."
+0,125,21,HAMMOND,You can't be serious.
+0,125,21,KINSEY,"I'm completely serious General. The NID is the only organization, besides the Air Force, that has the knowledge, experience and skill to run the Stargate."
+0,125,21,DAVIS,They tried to kill you Senator.
+0,125,21,KINSEY,"Come now, Major. Those were rogue agents working for outside interests. Under the NID I'm sure that we can determine a suitable level of participation for all the great nations represented here at this table."
+0,125,21,HAMMOND,Senator could we speak in private?
+0,125,21,CHINESE AMBASSADOR,I find your reluctance to relinquish military control of the gate disturbing General.
+0,125,21,HAMMOND,You'd do a lot better to trust the United States Air Force than the NID Mr Ambassador.
+0,125,21,KINSEY,The General has an understandable personal prejudice against the organization.
+0,125,21,HAMMOND,"Personal prejudice? Senator, their record speaks for itself."
+0,125,21,CHAIN REACTION,
+0,125,21,O'NEILL,"I never met anyone who liked doing what they do more than you. You were good at it, great. You'll never convince me that you just got fed up, I'll never buy that."
+0,125,21,HAMMOND,You don't understand.
+0,125,21,O'NEILL,I won't. Unless you explain it to me.
+0,125,21,HAMMOND,Two weeks ago I was contacted by a representative of the NID. He suggested I should become more aggressive in my policies.
+0,125,21,O'NEILL,They have no jurisdiction over you.
+0,125,21,HAMMOND,"They wanted me to help them gain access to off world technology, which they're unable to do since we shut down their little side operation."
+0,125,21,O'NEILL,You told them to go to hell?
+0,125,21,HAMMOND,"Of course. Then he told me that if I didn't co-operate there would be consequences. The next day two men in plain clothes, driving a black, unmarked car, picked up my granddaughters at school."
+0,125,21,O'NEILL,I don't believe it.
+0,125,21,HAMMOND,"They took them for a little ride, then brought them home. The girls were fine, but I got the message."
+0,125,21,HAMMOND,We're talking about a borderline criminal organization whose true mandate has always been to acquire alien technology at any cost.
+0,125,21,FRENCH AMBASSADOR,"If the threat posed by this Anubis is as serious as you say, acquiring alien technology should be our first priority."
+0,125,21,DAVIS,Tell that to the people of Madrona sir. The NID stole a weather control device from that planet causing a complete destabilisation of their atmosphere. They would have died if SG1 hadn't have tracked down the culprits and retrieved the device.
+0,125,21,TOUCHSTONE,
+0,125,21,O'NEILL,Stand to gentlemen! Keep those hands visible.
+0,125,21,NID GUY,Who the hell are you?
+0,125,21,O'NEILL,No one's damn business. Step away from the crate.
+0,125,22,O'NEILL,No! Don't do it!
+0,125,22,DANIEL,Aggh!
+0,125,22,O'NEILL,What?
+0,125,22,DANIEL,I missed the address.
+0,125,22,CARTER,At least we have this.
+0,125,22,DAVIS,Even after we managed to shut down their operation here on Earth they continued to steal from an off world base. But they stole from the wrong aliens.
+0,125,22,SHADES OF GREY,
+0,125,22,TOBIAS,What are they doing?
+0,125,22,O'NEILL,"Taking back what's rightfully theirs I guess? Listen up all of you; you've got two choices here. As soon as they stop taking stuff, they're gonna start taking people. Now you can go with the Asgard, or you can follow me, your choice. I'll be ah, holding the door open so you can't go anywhere else."
+0,125,22,KINSEY,"Granted, the NID has employed some questionable methods in the past, but we're all agreed the status quo won't do. And I would hesitate to point fingers, General Hammond, that you and Jack O'Neill are still in charge of the Stargate program."
+0,125,22,HAMMOND,If you're questioning our record.
+0,125,22,KINSEY,"I'm questioning your competence. But, if you want to look at your record in the company of these fine gentlemen that's just fine. Each of these reports details an incident in which the operation of the Stargate program has brought this planet to the brink of destruction. For example, four years ago despite indications of extreme danger you opened a wormhole to a planet that was in the process of being destroyed by a black hole."
+0,125,22,DAVIS,That was unforeseeable!
+0,125,22,KINSEY,"Gravitational and time distortions had been translated back through the gate, which you had been unable to disengage. And the Earth came within a hair's breadth of being torn apart."
+0,125,22,HAMMOND,"We did manage to shut down the gate by directing an explosive device through the wormhole, and I believe it was Jack O'Neill who risked his life to pull it off."
+0,125,22,A MATTER OF TIME,
+0,125,22,CARTER,"Teal'c, pull him up!"
+0,125,23,KINSEY,"What else do we have here? Ah yes, isn't it true that while under your command the Stargate facility has been completely overrun by alien life forms."
+0,125,23,MESSAGE IN A BOTTLE,
+0,125,24,CARTER,Get out of there!
+0,125,24,MENACE,
+0,125,25,CARTER,"Sir, we've set the self destruct. You have less than five minutes to tell us to override. Do you copy?"
+0,125,25,O'NEILL,Roger that!
+0,125,25,FOOTHOLD,
+0,125,26,O'NEILL,Close that iris!
+0,125,26,CARTER,"Can't sir, it's overridden. Shutting down the gate."
+0,125,27,HAMMOND,The situation was successfully contained.
+0,125,27,KINSEY,"The situation should never have arisen. Not if you had been doing your job. And these incidents are just the tip of the iceberg. Face it General, under your command the Stargate program has lurched from one crisis to the next. Never averting disaster by anything more than the skin of its teeth. We can't afford to let you roll the dice any longer."
+0,125,27,HAMMOND,Would you excuse us please?
+0,125,28,DAVIS,"Made a few phone calls sir, turns out Senator Kinsey's moving from appropriations to intelligence oversight."
+0,125,28,HAMMOND,Which would put him in a position of direct power over the NID.
+0,125,28,DAVIS,He's manipulated this whole situation to gain control of the Stargate.
+0,125,28,HAMMOND,I may have my own ace up my sleeve.
+0,125,29,CHEKOV,"I understand your feelings Mr Ambassador, believe me. For two years now we have been junior partners in the Stargate program, following the lead of the Americans."
+0,125,29,CHINESE AMBASSADOR,The Chinese government will not accept a secondary position so gracefully.
+0,125,29,CHEKOV,There are advantages. The program costs them over seven billion dollars a year to operate.
+0,125,29,CHINESE AMBASSADOR,They reap the benefits!
+0,125,29,CHEKOV,"The X303? Research and development of the hyperdrive alone has cost them over two billion. And it still doesn't function properly. They will spend a lot more money and risk the lives of their people perfecting the design. Then, we'll get the blueprints and build our own ship in a fraction of the time for half the cost."
+0,125,29,KINSEY,Once again I apologise gentlemen. Seems a politician's work is never done.
+0,125,30,KINSEY,"Now, where were we?"
+0,125,30,HAMMOND,"Gentlemen, I realise we're in no position to make demands here. We're trying to reach a consensus. But before you go back to your leaders and make your recommendations I want you to consider something. Whoever is running the Stargate will be acting as representatives of this planet throughout the galaxy. They will be our ambassadors. Meeting other races, establishing ties with other worlds. It is true that in the six years we've been running the Stargate we've made enemies, but we've also made friends. I believe we've acquitted ourselves with honour. On that score I stand by the record."
+0,125,30,THE FIFTH RACE,
+0,125,30,ASGARD 1,This is the Asgard planet Othalla in the galaxy of Ida.
+0,125,30,O'NEILL,Why did I come here?
+0,125,30,ASGARD 2,The ancients moved on from our region of space long ago. But your subconscious mind used their knowledge to find us here. Where you could get help.
+0,125,30,ASGARD 1,Very impressive.
+0,125,30,O'NEILL,"Well, you know."
+0,125,30,ASGARD 1,We did not think your brains had advanced even that far.
+0,125,30,O'NEILL,How is it you know so much about our brains?
+0,125,30,ASGARD 1,We have studied your race closely.
+0,125,30,O'NEILL,Ah. What did you learn?
+0,125,30,ASGARD 2,That your species has great potential.
+0,125,30,O'NEILL,Great potential. That's good.
+0,125,31,CHINESE AMBASSADOR,You make an interesting case General. However I must take this matter back to my government and recommend full disclosure to our people.
+0,125,31,FRENCH AMBASSADOR,"I must do the same, though I admit Senator Kinsey's proposal is..interesting."
+0,125,31,KINSEY,Thank you Mr Ambassador.
+0,125,32,BRITISH AMBASSADOR,Hello?
+0,125,32,THOR,"Hello. I am Thor, supreme commander of the Asgard fleet."
+0,125,32,HAMMOND,Thank you for coming Thor.
+0,125,32,THOR,It is my pleasure General Hammond. The Asgard are in your debt.
+0,125,32,BRITISH AMBASSADOR,Your debt?
+0,125,32,THOR,
+0,125,32,KINSEY,"Commander Thor, my name is."
+0,125,32,THOR,Senator Kinsey. O'Neill suggested I send you to a distant planet for your actions here but I am reasonably certain his statement was in jest.
+0,125,32,KINSEY,I'm sure it was Commander.
+0,125,32,THOR,"Supreme Commander. It is the opinion of the Asgard High Council that Stargate Command should be left in the very capable hands of General Hammond and his team. And while our continued friendship with Earth is not contingent on that, it is preferred."
+0,125,32,BRITISH AMBASSADOR,"You came all this way, just to tell us that?"
+0,125,32,THOR,"And to install Asgard designed shields and weapons on Prometheus. A small token of thanks for SG1's recent efforts in securing our galaxy, and yours, from certain destruction."
+0,125,32,BRITISH AMBASSADOR,I see
+0,125,32,THOR,I hope I have been successful in convincing you. Good day General Hammond.
+0,125,32,HAMMOND,Always a pleasure Thor. Please drop in any time.
+0,125,33,BRITISH AMBASSADOR,Well. That settles it then. You have our support General.
+0,125,33,HAMMOND,Thank you Ambassador.
+0,125,33,FRENCH AMBASSADOR,Ours as well.
+0,125,33,CHEKOV,And the continued support of Russia.
+0,125,33,DAVIS,It's much appreciated sir.
+0,125,33,CHINESE AMBASSADOR,"While I still have my reservations. I believe my government will agree that, for the time being, the Stargate is in the right hands."
+0,125,33,HAMMOND,Senator?
+0,125,33,KINSEY,I'll say this General. Well played.

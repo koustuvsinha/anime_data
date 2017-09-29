@@ -1,0 +1,429 @@
+Season,Episode,Scene,Character,Line
+0,173,0,STARGATE SG1,Episode 901
+0,173,0,"""AVALON I""",By Robert C. Cooper
+0,173,1,TECH,Who's that? *scene moves to control room*
+0,173,1,HARRIMAN,"Ltd Colonel Cameron Mitchell, Two years ago. Dog fight over Antarctica, SG-1 found the ancient outpost took out Anubis' fleet."
+0,173,1,TECH,That's him?
+0,173,1,HARRIMAN,That's him.
+0,173,2,MITCHELL,Remember no matter what we're here to protect SG-1 at all costs.
+0,173,3,MITCHELL,"Target the al-kesh first, gliders second. Go low boys and girls Prometheus has our backs."
+0,173,4,BANKS,Break left. Two gliders at out 3 o'clock.
+0,173,5,CARTER,Prometheus!
+0,173,5,HAMMOND,
+0,173,5,CARTER,"Yes sir, it's good to see you."
+0,173,6,BANKS,Contact. One bandit on the deck and inbound.
+0,173,6,MITCHELL,"Tally one. *goes after alkesh, Arms missile* Fox 2 Fox 2. *both shots miss the alkesh* so close. *glider gets a good shot off Mitchell's F-302*"
+0,173,6,BANKS,we've been hit. Left thruster is down. Contact two bandits on our six. *alarms going Mitchell attempts to pull as best he can*
+0,173,6,REVEREND,Blue leader we've got your six.
+0,173,7,MITCHELL,Nice shot Rev.
+0,173,8,BANKS,He's been hit.
+0,173,8,MITCHELL,Reverend!
+0,173,8,BANKS,He's gone.
+0,173,9,HARRIMAN,*enters.* Chief Master Sgt. Walter Harriman. *Mitchell stands moving down ramp.* The Generals ready for you colonel.
+0,173,9,MITCHELL,*walks past* Bigger than I thought it'd be.
+0,173,9,HARRIMAN,Yes sir *looks after him* Welcome to Stargate Command. *follows*
+0,173,10,HARRIMAN,Feel free to have a seat. General Landry will be with you in a minute. He's just finishing up a briefing with SG-12.
+0,173,10,MITCHELL,Thank you Sergeant.
+0,173,11,MITCHELL,Alright Boys and girls. Listen Up. *group of pilots for a circle round Mitchell* Got a change of plans. New orders from General Hammond. We are no longer going after Anubis' mothership. SG-1 is on its way to Antarctica in a cargo ship.
+0,173,11,SG-1?,
+0,173,11,MITCHELL,They think they may have found the lost city of the ancients.
+0,173,11,REVEREND,In Antarctica?
+0,173,11,MITCHELL,"it doesn't matter where they are, or what it is they're doing. It's SG-1 and we're gonna cover their asses. ETA is nine minutes; expect the enemy to throw everything they have at us. Alright Saddle up folks."
+0,173,11,LANDRY,"Cocky sons of a bitches *walks in* Marines. I've never liked them. *picks up file, looks at Mitchell* you must be Colonel Mitchell."
+0,173,11,MITCHELL,Yes sir. It's good to be here sir. *stands at attention*
+0,173,11,LANDRY,well your service record is impeccable Mitchell. What's wrong with you? *drops file.*
+0,173,11,MITCHELL,sir?
+0,173,11,LANDRY,Nobody's perfect. Everyone has some kind of character flaw. What's yours?
+0,173,11,MITCHELL,sometimes I can be impatient. Sir.
+0,173,11,LANDRY,all pilots have type A personalities *looks through file* I'm talking about your kryptonite. Don't worry I'll figure it out. *shouts* Walter!
+0,173,11,HARRIMAN,The files on your desk along with the personnel folders you're about to request sir.
+0,173,11,LANDRY,About to request? Walter I'd appreciate it
+0,173,11,HARRIMAN,Push the button to talk sir.
+0,173,11,LANDRY,"*sighs, shouts* Thank you Walter! The thing that's hardest to get used to around here *pours coffee* is how good everybody is at their Job. Fact is...I like yelling at people. Never get the damn chance."
+0,173,11,MITCHELL,I'll try not to lower the average sir.
+0,173,11,LANDRY,oooh. Self deprecating sense of humor. You think it'll make people like you despite your outward perfection.
+0,173,11,MITCHELL,No.
+0,173,11,LANDRY,*lifts pile of folders* Here you go son. Get started.
+0,173,11,MITCHELL,Sir?
+0,173,11,LANDRY,You heard the disconnected voice of the little sergeant *hangs up a framed certificate* with psychic powers. Those are personnel files. Start picking your team.
+0,173,11,MITCHELL,General. I'm here to join SG-1.
+0,173,11,LANDRY,Colonel. You're here to lead SG-1.
+0,173,11,MITCHELL,ah...what about Ltd. Colonel Carter.
+0,173,11,LANDRY,well...she's taken command of Stargate's RND out of area 51.
+0,173,11,MITCHELL,Since when?
+0,173,11,LANDRY,Last week.
+0,173,11,MITCHELL,and Daniel Jackson?
+0,173,11,LANDRY,Dr Jackson put in for re-assignment. Teal's left the program over a month ago. I'm surprised General O'Neill didn't tell you
+0,173,11,MITCHELL,No.
+0,173,11,LANDRY,Well...that's Jack for you. *picks up another frame* you know I looked for the key to that desk for weeks till I finally got him to admit he never had one. The man never opened a draw the whole time he was here.
+0,173,11,MITCHELL,I'm sorry sir...the reason that I requested this post-- *trying to find right words* wh---why I worked so hard...we--
+0,173,11,LANDRY,expresses himself poorly when faced with unexpected challenges. Your sheet says you have outstanding leadership skills. Take the files colonel choose your team. Before I start to question the accuracy of that claim.
+0,173,11,MITCHELL,*takes files* yes sir.
+0,173,12,MITCHELL,Dr. Jackson.
+0,173,12,JACKSON,Colonel.
+0,173,12,MITCHELL,My friends call me Cameron. *they shake hands*
+0,173,12,JACKSON,Daniel. *goes back to packing* ...uh...how are you?
+0,173,12,MITCHELL,I'm good thanks.
+0,173,12,JACKSON,uh...yeah I heard you were coming.
+0,173,12,MITCHELL,yeah. They told me you were leaving.
+0,173,12,JACKSON,Yes Finally. *goes to grab some books* You don't...uh...you don't want to help?
+0,173,12,MITCHELL,No. Actually I came to see if I could talk you into staying.
+0,173,12,JACKSON,You're kidding.
+0,173,12,MITCHELL,I've been given command of SG-1.
+0,173,12,JACKSON,Wow. Well...good for you. You deserve it.
+0,173,12,MITCHELL,Think the SGC still needs you.
+0,173,12,JACKSON,whoa there's lots of other guys.
+0,173,12,MITCHELL,You're the world's most foremost expert on the ancients.
+0,173,12,JACKSON,Yes and that's why I'm going to Atlantis. *bunny ears* City of the ancients.
+0,173,12,MITCHELL,Listen. General O'Neill gave me the choice of any posting I wanted. I chose SG-1. That meant Colonel Carter. Teal's and yourself. Not two letters a dash and a number.
+0,173,12,JACKSON,Uh...that's nice.
+0,173,12,MITCHELL,I wanted to be on the front line working with the best. I wanted to learn from you.
+0,173,12,JACKSON,look this is all very flattering but uh...
+0,173,12,MITCHELL,That's not the point
+0,173,12,JACKSON,I'm sorry. I know why I owe you one. We all do.
+0,173,13,BANKS,We've lost the turbines.
+0,173,13,CARTER,Heads up Blue leader. This is carter. We have another bandit incoming.
+0,173,13,MITCHELL,"I see it Major. *locks on Alkesh, fires* Fox 2 *it explodes and he zips through it* Splash. One Alkesh"
+0,173,13,CARTER,Well that was close.
+0,173,14,MITCHELL,Listen Jackson I don't want you to stay because you think you owe me one `less of course you're considering it?
+0,173,14,JACKSON,oh no...*takes out keys* I was gonna offer you my apartment. *puts them on the desk*
+0,173,14,MITCHELL,right.
+0,173,15,MITCHELL,Brother I love what you've done with the place.
+0,173,15,TEAL'C,These columns were salvaged and restored from the original ancient monument.
+0,173,15,MITCHELL,well it's got a real high council feel to it. Hope you've taken lots of before and after pictures
+0,173,15,TEAL'C,where is the rest of your team colonel Mitchell?
+0,173,15,MITCHELL,"actually its still kind of SG-me. That's one of the reasons I'm here. I was hoping, maybe you could help me."
+0,173,15,TEAL'C,I can offer some names of those I consider to be honorable warriors.
+0,173,15,MITCHELL,I'd appreciate that. I know you're busy.
+0,173,15,TEAL'C,we're attempting to build a whole new system of government that will span Jaffa worlds through out the galaxy.
+0,173,15,MITCHELL,Yeah. How's that going?
+0,173,15,TEAL'C,not well.
+0,173,15,MITCHELL,well your people did just renounce their god. Guess you've got to cut them a bit of a break.
+0,173,15,TEAL'C,too many are still steep in an old culture full of antiquated rituals and our slow to accept change.
+0,173,15,MITCHELL,I understand Major Davis and SG-7 are trying to help out.
+0,173,15,TEAL'C,that has caused problems as well. Many view the Tau'ri with the same level of mistrust as a would be enemy. They see the proposed system of government as a means to control and subvert their acquired freedom. My allegiance to the Tau'ri is not serving me as well as you might think in votes from the most traditional Jaffa electorate.
+0,173,15,MITCHELL,wow. Politics does really suck everywhere you go.
+0,173,15,TEAL'C,indeed.
+0,173,15,MITCHELL,listen. Maybe it's a good thing I came by...if this doesn't work out. Before all the space on the team fills...
+0,173,15,RAK'NOR,Teal'c. The council is returning from recess.
+0,173,15,TEAL'C,I must go.
+0,173,15,MITCHELL,sure.
+0,173,15,TEAL'C,It has been good to see you colonel Mitchell.
+0,173,15,MITCHELL,yep.
+0,173,15,TEAL'C,I will forward a list of names as soon as I am able.
+0,173,15,MITCHELL,have fun. *mutters* Did I mention I'm on a mission from god. Ok never mind. *turns to a guy* yo you want to join SG-1? *then a female Jaffa* Hi. Cameron Mitchell. Colonel *salutes*...excuse me can you tell me which way to the Stargate. StargateChapp'ai. Ch Just point a finger.
+0,173,16,CARTER,Hi Cameron.
+0,173,16,MITCHELL,Hey Sam. It's good to see you.
+0,173,16,CARTER,Sorry it took me so long to get back to you. We have been up to our ears double checking the new hyper drive. Then the uplink was jammed with the long range plotting program being transmitted by the asguardno need to bore you. How you been you look good.
+0,173,16,MITCHELL,Thanks. Listen Sam. Come back and join
+0,173,16,CARTER,I heard you'd been given command of SG-1 congratulations.
+0,173,16,MITCHELL,I'm not kidding you can keep an eye on RND in your spare time just like you always have. Besides. Dr. Lee is pouting cause you got the post over him.
+0,173,16,CARTER,really?
+0,173,16,MITCHELL,no I made that up.
+0,173,16,CARTER,I have my reasons for wanting this job.
+0,173,16,MITCHELL,I had my reasons for wanting this job. One of them was working with you- and please do not say that's nice.
+0,173,16,CARTER,we'll still work together
+0,173,16,MITCHELL,it won't be the same. What if the world needs saving?
+0,173,16,CARTER,well if the world needs saving I will be there to do what I can.
+0,173,16,MITCHELL,"What if the world needs saving because I screwed up because you weren't here in the first place? *carter gives him a look, he glances round* How about we pretend I didn't say that."
+0,173,16,CARTER,done.
+0,173,16,INTERCOM,Ltd Colonel Carter to the bridge. Ltd Colonel Carter report immediately to the bridge
+0,173,16,CARTER,Sorry I got to go.
+0,173,16,MITCHELL,yea. Buy you breakfast when you get back on solid ground.
+0,173,16,CARTER,You're on. See you soon.
+0,173,16,MITCHELL,"*waves, groans* well Walter. Doesn't look like we're getting the band back together."
+0,173,17,MITCHELL,"I can't shake him reroute power to the *explosion, groans. Banks body thrown forward as lines fuse behind him* Banks you ok? *Shot on bank, who is dead, blood streaming from his forehead.* Banks! I'm losing it hang on back there. *Pulls levers* Eject. Eject. Damn it ejection failed. Mayday mayday we are going in. repeat. We are going in."
+0,173,19,O'NEILL,So did you decide to go at the desk at an angle or...flush with the door?
+0,173,19,LANDRY,is that what this is about? You come all the way to Colorado springs to check up on me?
+0,173,19,O'NEILL,Nah...I had to sign the papers to my house...and my car...my motorcycle
+0,173,19,LANDRY,Yeah I'll never forget that day on the front porch of my house you standing there telling me you wanted to tell me something about the Stargate Program. *laughs* I though one of us had surely lost his mind.
+0,173,19,O'NEILL,That may actually be true. How are things working out for Mitchell?
+0,173,19,LANDRY,Well...you could of told him that SG-1 had been re-assigned you should have seen his face.
+0,173,19,O'NEILL,Yeah...I suppose huh...
+0,173,19,LANDRY,yeah...no...he'll...uh...he'll get his feet. *moves one of his pieces* mans a survivor.
+0,173,19,O'NEILL,He's also got the best of the best looking out for him. *moves own piece*
+0,173,19,LANDRY,A Generals only as good as the people he commands.
+0,173,19,O'NEILL,Who said that?
+0,173,19,LANDRY,I just did. *moves his castle* I mean Douglas McArthur may have said something similar. O'NEILL: Didn't he also say there's no substitute for winning. *moves his bishop*
+0,173,19,LANDRY,*little surprised* actually it was in war there's no substitute for victory *knocks over his queen* You seem to have a knack for it.
+0,173,20,LANGUAGE GIRL,"I'm fluent in Mandarin, Russian, Spanish, three dialects of Goa'uld, teneese, Golap and the yet unnamed language of the cave people of P3K-447. ...And of course Ancient. Spoken as well as written. Go ahead say anything."
+0,173,20,MITCHELL,Nah it's ok I believe you.
+0,173,20,LANGUAGE GIRL,toa puta ago. Which is actually just I believe you. That's ok is a modern vanacular that can't be directly translated into ancient however--
+0,173,20,MITCHELL,This is really unnecessary.
+0,173,20,LANGUAGE GIRL,ono mattah na tario.
+0,173,20,MITCHELL,thank you
+0,173,20,UPTIGHT AIRMAN,87 mission hours to 32 alien planets. Front line ground combat on four different occasions.
+0,173,20,MITCHELL,I was hoping you could tell me something about yourself. Something...*drops file on desk* personal.
+0,173,20,UPTIGHT AIRMAN,*thinks* people call me Dave.
+0,173,20,MITCHELL,"*shifts, opens file, reads* says here...that's your name."
+0,173,20,UPTIGHT AIRMAN,yes.
+0,173,20,MITCHELL,"*eats gum, now less files on left more on right*"
+0,173,20,DORKY AIRMAN,The magnetic Properties of the planet. Make it an excellent choice for the long term study of positively charged ions on the neurons of the brain.
+0,173,20,MITCHELL,*picks out from behind file.*
+0,173,20,WORKOUT AIRMAN,*doing pushups on floor* 25...26...27...28 *Mitchell looks over table*...29...30...31...32...
+0,173,20,SCIENTIST 1,We have modified the android body recovered from PC3- 989 and are currently incorporating the experiences of every SG team member since the inception of the program into a viable artificial intelligence.
+0,173,20,MITCHELL,wait I mean...are you guys saying that this thing actually exists?
+0,173,20,SCIENTIST 1,we haven't received our funding yet. But we were hoping that with your support. Perhaps a funding body would look more fondly on our proposal. *Mitchell stands heads to window to look at gate.*
+0,173,20,SCIENTIST2,Don't make a decision yet. We do have a precise but thorough 380 page report into---
+0,173,21,MAN ON RADIO,thousands over bright yellow...I don't know. They're coming from the surface. I don't know what they are. They're cutting the enemy fleet to shreds. My god it beautiful.
+0,173,21,ANOTHER MAN,They're ancient weapons. Its SG-1 they found what they were looking for.
+0,173,21,AND ANOTHER,
+0,173,22,NURSE,Don't worry. It's gonna be ok...
+0,173,23,NURSE,Respiration is weak.
+0,173,23,DOCTOR,He's bleeding internally. I need uh...
+0,173,24,AIRMAN,Ltd Adam Banks body was recovered at 0843 This morning.
+0,173,25,MOTHER,Oh my god...Cameron.
+0,173,26,DOCTOR,we make the chance of you walking again quite slim but...with physiotherapy hopefully--
+0,173,27,JACKSON,None of us would be here today if it wasn't for what you did.
+0,173,28,CARTER,The congressional medal of honor is the highest award for valor in action against an enemy force that can be bestowed upon an individual serving in the armed forces of the united states of America. On behalf of the president...
+0,173,29,O'NEILL,You get well soon. And when you do...you can do anything you want...and I mean...professionally anything you want. Well not anything.
+0,173,30,MITCHELL,What's up sir?
+0,173,30,LANDRY,I wanted you here for this. SG-12 sent word five minutes ago they should be arriving momentarily.
+0,173,30,HARRIMAN,Receiving IDC opening the Iris.
+0,173,31,VALA,Well...don't you all have me surrounded.
+0,173,31,LANDRY,welcome to the SGC I'm General Landry.
+0,173,31,VALA,"Vala. Vala Malduran Thank you so much for the lovely greeting party we all had a wonderful time searching each other didn't we boys? *two guys shake their heads, looks at Mitchell* I know we haven't met. That I'm sure I would remember."
+0,173,31,LANDRY,Ltd Colonel Cameron Mitchell.
+0,173,31,MITCHELL,Nice outfit.
+0,173,31,VALA,"Thanks. *walks past, other men back up, weapons on her* While I'd normally be thrilled to have so much testosterone at my disposal. Where's my Daniel?"
+0,173,32,JACKSON,Ok Where is it?
+0,173,32,VALA,Nice to see you too. How have you been?
+0,173,32,JACKSON,Tablet. The one that leads to incredible buried ancient treasure.
+0,173,32,VALA,There is no tablet. *Mitchell looks at her*
+0,173,32,JACKSON,What?
+0,173,32,VALA,I lied. I had to tell you in...person. *whispers* I'm pregnant. Pretty sure it's yours anyway...there's at least a one in ...ten chance. *winks at Mitchell who has to do a double take. She grins*
+0,173,32,LANDRY,*Jackson goes to leave room* DR. Jackson! You're the reason we let her through the gate.
+0,173,32,JACKSON,"I'm sorry sir I really have to finish packing. LANDRY: The Daedalus doesn't leave for another 12 hours *gets up, leaves* at least have a look."
+0,173,32,VALA,"*Mitchell opens box as Jackson walks back over. Vala takes out tablet* Thank you. *hold it out to Jackson, who grabs it off her, not happy*"
+0,173,32,JACKSON,uh...yep...don't know where you can get this but uh...you got ripped off. *holds it out to her* its complete gibberish
+0,173,32,VALA,Its written in code. *Mitchell gets up to look*
+0,173,32,JACKSON,Well I can't crack this in a few hours.
+0,173,32,VALA,I know the cipher.
+0,173,32,JACKSON,Then why do you need me?
+0,173,32,VALA,well reading it is one thing. Understanding it is another. The individual I got this from assured me that the treasure it describes is here on earth. Now I could have come by ship and looked for it myself but I know nothing about your fair planet. Other that it seems to have an interesting if somewhat limited gene pool.
+0,173,34,JACKSON,So...where'd you get this?
+0,173,34,VALA,The Jaffa may have won their freedom but theirs still more than a few Goa'uld out there. Most of them have lost their Dynasties though and are either on the run or in hiding.
+0,173,34,JACKSON,Ye or plotting some means of regaining their power.
+0,173,34,VALA,"*walks around picking up stuff* Yes and in the mean time, they are having a lot of trouble maintaining the lifestyles to which they had grown accustomed to the last 5000 years or so. As such there are a number of rather interesting artifacts currently on the market. Anyway that isn't the issue the question is...what's it worth?"
+0,173,34,JACKSON,"Well...the ancients aren't really known for secret stashes of Gold like these for example. *picks up a gold stick, she picking up the other.* wait a minute, these markings are Goa'uld treasures suppose to be ancient what do they have to do with this."
+0,173,34,VALA,These are actually only loosely related to the tablet.
+0,173,34,JACKSON,Yeah how?
+0,173,34,VALA,You ever heard of the Goa'uld nut?
+0,173,34,JACKSON,as in...cashew? Pea? Oh you mean Egyptian sky goddess.
+0,173,34,VALA,yes.
+0,173,34,JACKSON,No never heard of her.
+0,173,34,VALA,These were her ceremonial marriage bracelets. She wore one and her husband of the moment wore one.
+0,173,34,JACKSON,of the moment?
+0,173,34,VALA,"yes she had many. That's one of the few admirable things about her. *slaps the gold around Jackson's arm, it locks round like a bracelet. Takes the other from him*"
+0,173,34,JACKSON,Ow. What are you doing? *tries to pull band off* Security. *two airman aim at her* ok. That was fun. Now take it off.
+0,173,34,VALA,Not until we find the treasure.
+0,173,34,JACKSON,What?
+0,173,34,VALA,These bracelets *slaps the other on her wrist* link us together. The tablet is mine and I want my fair share of what it leads to.
+0,173,35,LEE,*Stops* that's the third blade I've gone through. I'm not gonna be able to cut it off...the hand. If we remove the hand...I know that on first blush that doesn't sound like a viable option but in understand that Dr Bennet is becoming quite proficient at attaching th--
+0,173,35,JACKSON,I thought SG-12 checked everything she had on her.
+0,173,35,LEE,they did...and and in their defense at that time the bracelet was giving off any kind of energy signature. I mean even now it's barely measurable.
+0,173,35,JACKSON,so what's it doing...I mean how does it work?
+0,173,35,LEE,well...*looks at screen* I don't know
+0,173,35,JACKSON,*sighs disconnects from machine*
+0,173,35,LEE,no no...I just need a little more time.
+0,173,35,JACKSON,I'll find out. *Walks over to door and collapses*
+0,173,35,LEE,oh hey are you ok? *runs over*
+0,173,36,VALA,*holds up light* Come to torture me
+0,173,36,LANDRY,How old are you?
+0,173,36,VALA,Hmm...mental abuse won't work either.
+0,173,36,LANDRY,I have a daughter about your age. Hasn't listened to me since she was 12. doesn't matter what I say or do.
+0,173,36,VALA,You're not gonna bore me with your personal life are you? I have to admit an hour or two of that might break me.
+0,173,36,LANDRY,I don't like being deceived.
+0,173,36,VALA,I'm not here to hurt anyone. And I really do hope this leads to something fabulous for all of us but its not easy out there and I'm sure you can appreciate that a girl has to do what a girl has to do to surviv--
+0,173,36,LANDRY,I'm about as interested in your sob story as you are in mine. I just want you to know that Dr Jackson is the one who recommended I let you through the gate. He thought there was a chance that what you had to offer might be legitimate. And he's the one with an alien device now stuck on his wrist. Now how this plays out and what you get out of it in the end I'm going to leave entirely up to him *she moves hands to his shoulders* I would--- *Vala collapses*
+0,173,37,JACKSON,Teal'c?
+0,173,37,TEAL'C,Daniel Jackson.
+0,173,37,MITCHELL,how you doing?
+0,173,37,JACKSON,Uh...fine...I think. What happened I was...
+0,173,37,MITCHELL,It's the bracelet. *Jackson looks at bracelet*
+0,173,37,TEAL'C,They are called KorMac.
+0,173,37,MITCHELL,Figured he might know.
+0,173,37,JACKSON,Yeah she said they were some sort of weird Goa'uld nut marriage thing.
+0,173,37,TEAL'C,I do not believe that to be the case.
+0,173,37,JACKSON,No?
+0,173,37,TEAL'C,No.
+0,173,37,JACKSON,Should of known.
+0,173,37,TEAL'C,I have only heard of them in passing a very long time ago. I believe it was Cronus who used technology when a prisoner of value needed to be transported by his Jaffa. He would affix a bracelet such as this to both the prisoner and the Jaffa responsible for him. If they became separated for more than a short period of time they would both become ill and die.
+0,173,37,JACKSON,Both?
+0,173,37,VALA,That's just about the stupidest thing I have ever heard. *lying across from them*
+0,173,37,JACKSON,*sits up* you didn't know?
+0,173,37,VALA,Well I knew it would make you sick. I didn't know it would have the same effect on me too.
+0,173,37,JACKSON,How could you not KNOW?!
+0,173,37,VALA,Because the person that I stole them from didn't tell me that part!
+0,173,38,VALA,Yah! *kicks pillow*
+0,173,38,MITCHELL,Question. Why would the Goa'uld design these things that way?
+0,173,38,TEAL'C,To punish the Jaffa for his incompetence.
+0,173,38,MITCHELL,Right of course.
+0,173,38,JACKSON,Can you take it off?
+0,173,38,TEAL'C,I am sorry Daniel Jackson as I have said. I've only heard of this in passing.
+0,173,38,JACKSON,*sits up* please tell me you know how to take this thing off.
+0,173,38,VALA,Yes of course I do. I mean...that's assuming that the person I stole them from was honest about that part.
+0,173,38,JACKSON,Just do it.
+0,173,38,VALA,Alright. Soon as we find the treasure and I get my fair share.
+0,173,38,JACKSON,Ok...*to Teal'c* just to clarify...when I kill her...I die?
+0,173,38,TEAL'C,Just as if you left approximately.
+0,173,38,MITCHELL,"*Jackson shuts eyes, puts hand to head* or we could just find the treasure. *Jackson looks at him* The Deadelus left two hours ago. Sorry. *Jackson drops down another chance missed* Look the tablet is written in ancient code right? I know its not the lost city of Atlantis we're looking for here but what ever it is could be worth finding. Or you're just gonna have to marry that chick."
+0,173,38,VALA,Yeah. *grins* lets make babies. *Jackson Groans*
+0,173,39,JACKSON,Are you sure you have the cipher right?
+0,173,39,VALA,Yes why
+0,173,39,JACKSON,Can't believe I'm missing the Deadelus for this.
+0,173,39,VALA,Get over it.
+0,173,39,MITCHELL,You don't have to get back to Dakara?
+0,173,39,TEAL'C,The council is in recess until tomorrow.
+0,173,39,MITCHELL,curious.
+0,173,39,TEAL'C,Indeed
+0,173,39,MITCHELL,"See this is good in it? Being part of a team again, Working together to unravel some cool ancient mystery. Right so... we're not working together...but any minute now I bet Dr. Jackson's gonna discover some key pieces of information's that sets us off on a great adventure."
+0,173,39,JACKSON,This can't be right.
+0,173,39,VALA,What is it?
+0,173,39,JACKSON,*staring at comp* Uh...well this is a portion of the database the Atlantis expedition brought back with them a few weeks ago... specifically it's the log of the names of the ancients who left the planet when it was under siege from the wraith and returned to earth.
+0,173,39,TEAL'C,Thousands of years ago.
+0,173,39,JACKSON,Yes
+0,173,39,VALA,And what does this have to do with the tablet
+0,173,39,JACKSON,Uh...see the tablet talks about a treasure but it doesn't make any specific reference at all to where it is.
+0,173,39,VALA,Well it is supposed to be here. *sits on desk.* that's what the person who I stole it from told me *all look at her* before I stole it from him.
+0,173,39,JACKSON,Well I think it is here and I think I know where it is to.
+0,173,39,MITCHELL,Right time out. If the tablet doesn't say...
+0,173,39,JACKSON,"It doesn't say specifically but it...it is signed, by a guy named Merdin. *grins, all staring at him*"
+0,173,39,MITCHELL,Never heard of him.
+0,173,39,JACKSON,I think you have and the amazing part is his name also appears in the database.
+0,173,39,TEAL'C,The ancient who carved this tablet is one of the ancients who returned to earth from Atlantis?
+0,173,39,JACKSON,Yes.
+0,173,39,MITCHELL,I have an Uncle Marvin. I'm pretty sure I don't have and Merdins.
+0,173,39,JACKSON,That's because in English his name sounds a little different. Have you heard of...Merlin?
+0,173,39,MITCHELL,Merlin. King Arthur and the Knights of the Round Table Merlin?
+0,173,39,JACKSON,Yes.
+0,173,39,MITCHELL,Was an ancient?
+0,173,39,JACKSON,I think so.
+0,173,39,MITCHELL,"*looks at Teal'c* See! That is what I', talking about."
+0,173,40,JACKSON,"Arthur was then carried off in a barge by Merlin, saying he was headed for the veil of Avalon which according to legend was a magical place where the dead would meet. *Landry looks bored* Now at the time some said Arthur never actually died but would in fact one day return. From what we know about the ancients it is possible that Avalon helped Arthur a mortal ascend."
+0,173,40,TEAL'S,Are not the ancients prevented from interfering with the existence of mortals?
+0,173,40,JACKSON,Ascended ancients. Yes for the most part. But its possible Merlin was not actually ascended himself but was in fact just a human far along the evolutionary path.
+0,173,40,LANDRY,What does this have to do with where this alleged treasure is buried?
+0,173,40,JACKSON,Well there are a number of inflicting interpretations but certain threads point to the Knights of the Round Table. Gathering great treasures from the far corners of Arthur's domain and hiding them in a magical strong hold in Avalon.
+0,173,40,MITCHELL,Including the Holy Grail.
+0,173,40,JACKSON,According to some.
+0,173,40,VALA,This grail...what's that worth? *Mitchell gives her a look* what?
+0,173,40,JACKSON,"In 1191 the monks at Glastonbury abbey claimed to find the grave of king Arthur, on the stone burial was an inlay lead cross with the inscription ""Hic iacet sepvltvs inclytvs rex artvrivs in insvla avalonia"" here lies the famous king Arthur buried on the isle of Avalon. The claim was not taken seriously until 1278 when Henry II ordered the grave to be exhumed, now Glastonbury a small town about 125 miles west of London has been a pilgrimage for believers since."
+0,173,40,LANDRY,"Yes yes and the point is? *gets up, and so does Mitchell in respect, Landry waves him to sit down*"
+0,173,40,JACKSON,certain Celtic legends says that Glastonbury tore the hill overlooking the town is actually hollow and that contained within it is the underworld Avalon.
+0,173,40,LANDRY,Has no one ever done any sort of geological survey?
+0,173,40,JACKSON,Their have been several scientific studies apparent--
+0,173,40,LANDRY,"Jackson, I...I...I"
+0,173,40,JACKSON,We're talking about the ancients here sir. It's very possible that the underground entrance was concealed by some technology.
+0,173,40,MITCHELL,Sir. We're hoping to use the Asguard sensors aboard the Prometheus to find something we haven't been able to see before.
+0,173,40,LANDRY,Thank you. Well two years ago I wouldn't have believed we'd find an ancient outpost under a mile of ice in Antarctica. I'll call the president. I'm sure he'll want to inform the British prime minister. *heads to office*
+0,173,40,MITCHELL,*to Jackson* that was fantastic. You talked to Carter yet?
+0,173,40,JACKSON,Uh yeah...she can't make it.
+0,173,40,MITCHELL,What? This is huge we could be on the brink of another major discovery of ancient technology here.
+0,173,40,JACKSON,I'm sure she'll be interested in whatever we find.
+0,173,40,VALA,hey *links arm through his following Jackson* Try playing hard to get.
+0,173,40,MITCHELL,Man look whose talking.
+0,173,41,MITCHELL,*Throws Jackson a vest* so what do you think the range of these things is?
+0,173,41,JACKSON,Well Dr Lee seems to think we need to stay within 100 feet or so...more than half an hour outside that boundary we'll begin to feel the effects
+0,173,41,MITCHELL,You know if we do find something I'm thinking...maybe Teal'c and I should check it out.
+0,173,41,JACKSON,uh...I missed the Daedalus because of this...if we find a secret ancient base I'm going.
+0,173,41,MITCHELL,it means we have to take her with us.
+0,173,41,JACKSON,good point
+0,173,41,MITCHELL,look. I want you there. You know that. I'm just thinking we could stay in radio contact.
+0,173,41,MARKS,Ltd Colonel Mitchell please report to auxiliary control room two.
+0,173,42,VALA,Ah now this brings back memories.
+0,173,42,JACKSON,ah how's that?
+0,173,42,VALA,isn't this where I beat you up?
+0,173,42,JACKSON,no.
+0,173,42,VALA,*looks up* no I'm pretty sure that right there is where I crushed *touches his cheek* your--
+0,173,42,MITCHELL,*walks between them* Alright excuse me kids. Marks what you got?
+0,173,42,MARKS,"Well thanks to the Asguard sensors. *rolls to other computer* we were able to map around the energy distortion that would have normally fooled deep ground sonar. I was able to define a large main cavern, network of tunnels and some smaller caves."
+0,173,42,MITCHELL,well done Ltd.
+0,173,42,VALA,"*leans close to Marks* can you see what's in there....say large piles of precious metals? *Jackson pulls her up, moving hand on her shoulder then after a minute quickly pulling it away*"
+0,173,42,MARKS,Like I said we could only map the exterior of the structure.
+0,173,42,MITCHELL,can you get us in there *points*
+0,173,42,MARKS,Well it's almost a half mile underground and there's no visible access on the surface.
+0,173,42,JACKSON,Asguard beams.
+0,173,42,MARKS,Tried that. Doesn't seem to penetrate whatever sort of energy field is disguising the caves.
+0,173,42,VALA,"rings. The ancients were the gate builders right? And they invented the rings to...they had to get in there some how and I know this ship has rings, *turns to Jackson* its how I..."
+0,173,42,JACKSON,yeah yeah yeah good times. She's right though.
+0,173,42,MARKS,"If there are rings down there, we should be able to lock on. But your radios won't work."
+0,173,42,MITCHELL,"Looks like we're all going. *pats Jacksons shoulder, Vala does a little yes gesture*"
+0,173,42,MARKS,You'll be on your own
+0,173,42,MITCHELL,Ladies first.
+0,173,42,VALA,*turns to Jackson* well then after you.
+0,173,43,MITCHELL,*to Teal'c* come on this is fun right?
+0,173,44,MITCHELL,wicked...and empty.
+0,173,44,VALA,*sighs* I haven't been this disappointed since Daniel and I had sex. *Teal'c stops and looks at Jackson*
+0,173,45,MITCHELL,The sword in the stone
+0,173,45,VALA,what's that suppose to mean?
+0,173,45,JACKSON,well...King Arthur once pulled a sword from the stone as proof of his righteousness and royalty.
+0,173,45,MITCHELL,'Excalibur'.
+0,173,45,JACKSON,actually that's a common misconception. See 'Excalibur' was forged by the lady of the lake at Avalon but it wasn't given to King Arthur till after the sword he pulled from the stone was broken in battle.
+0,173,45,MITCHELL,"*Laughs, steps forward, spits on hands and rubs them together, walks up grips sword trying to pull it out, obviously struggling*"
+0,173,45,VALA,*whispers to Teal'c* Give it a try muscles I'll give you half.
+0,173,45,MITCHELL,Ahha...yeah *lets go* It's in there pretty good.
+0,173,45,MERLIN,"*appears* Welcome. Ye Knights of the Round Table. Men of honor. Followers of the path of righteousness. Only those with wealth of knowledge and truth of spirit shall be given access to the underworld, the storehouse of riches *Vala turns to Teal'c grinning, Mitchell making his round the image.* of ambrosias Coriolanus. Prove ye worthy and all shall be revealed."
+0,173,45,JACKSON,That's incredible. *images disappears* certain scholars have speculated that ambrosias and Arthur are one in the same but... that would mean he was 74 years old at the Battle of Mount Badon. *Vala move to sword* its actually quite fascinating see ambrosias was the son of the emperor con--
+0,173,45,VALA,Yes yes yes. *sits on pedestal* fascinating is the one thing its not...how do we prove ye worthy and get all to be revealed.
+0,173,45,JACKSON,I have no idea but something tells me truth of spirit might be a problem for you.
+0,173,45,VALA,*Pulling at sword a little* you know nothing about me.
+0,173,45,JACKSON,Cause everything that comes out of your mouths a lie.
+0,173,45,MITCHELL,Don't make me separate you two.
+0,173,45,TEAL'C,perhaps there is something in these tunnels.
+0,173,45,MITCHELL,see that is why he's here. Genius. We're going to split up. I'm with Teal'c. *goes to follow Teal'c* Yo. Wait up.
+0,173,46,MITCHELL,I Guess it would be too easy for them to just leave their stuff out in the open. *Teal'c does not reply* maybe its just me but... I'm digging this rappor development between the two of us
+0,173,47,VALA,You should give me a weapon.
+0,173,47,JACKSON,nope.
+0,173,47,VALA,they're could be some sort of icky creature down here left behind to protect the treasure.
+0,173,47,JACKSON,for hundreds of years?
+0,173,47,VALA,"some sort of stasis or hibernation, what if it senses our presence and awakens hungry for human flesh."
+0,173,47,JACKSON,doesn't quite sound like the ancient's style.
+0,173,47,VALA,still...
+0,173,47,JACKSON,I'm sure if there is a monster down here its gonna be much more scared of you than you are of it. Especially once it gets to know you.
+0,173,48,MITCHELL,check this out.
+0,173,49,MITCHELL,ok...that can't be good. *hits radio* Jackson come in. *no answer* Jackson. Can you hear me?
+0,173,50,JACKSON,if you immediately know the candlelight is fire...
+0,173,50,VALA,huh?
+0,173,50,JACKSON,nothing.
+0,173,50,VALA,Hmmm...
+0,173,51,JACKSON,"ok...the hologram said that only those with the wealth of knowledge and truth of spirit will pass. *both walk up to pedestal which has two pots on it, with writing below each* This has to be a test."
+0,173,51,VALA,What doe its say?
+0,173,51,JACKSON,The Universe is infinite.
+0,173,51,VALA,That seems infinitely not useful. How about this one?
+0,173,51,JACKSON,The treasure is in this pot.
+0,173,51,VALA,Really? I was hoping for something a little more substantial but ok.
+0,173,51,JACKSON,No wait wait wait.
+0,173,51,VALA,Too obvious?
+0,173,51,JACKSON,"Give me a minute. *she waits, then goes to lift lid of pot* not a minute *she stops* still not a minute."
+0,173,52,MITCHELL,Alright. I am assuming...this is some kind of puzzle. Can you read this writing?
+0,173,52,TEAL'C,*Walks over* no
+0,173,52,MITCHELL,well I think we're suppose to arrange the stones in some sort of order.
+0,173,52,TEAL'C,"*looks at wall, and fires P-90 at it, Mitchell jumps grabbing own* MITCHELL: Whoa! Whoa! Whoa! Man Bullets Bounce! *Teal'c grins at him, he pulls down all the stones*"
+0,173,53,VALA,Ok. How about this. We open both of them which ever one's got the treasure in it is the right one.
+0,173,53,JACKSON,No I think that's the wrong idea. There's two pots here I think the point of the exercise is to only open one pot.
+0,173,53,VALA,*points at silver* this says treasure is inside.
+0,173,53,JACKSON,right which makes it the obvious first choice
+0,173,53,VALA,so over to the gold!
+0,173,53,JACKSON,No.
+0,173,53,VALA,back to the silver then. *opens pot*
+0,173,53,JACKSON,D-d-d-d-d-don't
+0,173,53,VALA,its empty. *looks up* there's nothing I hate more than a bold faced lie. *goes to open gold* OK
+0,173,53,JACKSON,*stops her* would you stop.
+0,173,53,VALA,"What? We're already trapped in here how much worse could it get? *lots of rumbling, sand falling as the ceiling starts to lower.*"
+0,173,53,JACKSON,How about that much?
+0,173,53,VALA,It was a mistake the moment I said it. The moment
+0,173,54,MITCHELL,Ok...that didn't work. *the ceiling starts to vibrate and move down.*
+0,173,54,TEAL'C,indeed.
+0,173,54,MITCHELL,Oh come on.
+0,173,56,VALA,This ones empty to.
+0,173,56,JACKSON,I know.
+0,173,56,VALA,That doesn't make sense.
+0,173,56,JACKSON,I know!
+0,173,57,TEAL'C,Colonel Mitchell!
+0,173,57,MITCHELL,Two down and only a billion more combinations to go.
+0,173,57,TEAL'C,*through gritted teeth* are you still having fun colonel Mitchell?
+0,173,58,VALA,So what do we do?
+0,173,58,JACKSON,I don't know.
+0,173,58,VALA,You don't know? So now is a bad time to tell you I hate small spaces?
+0,173,59,MITCHELL,You ever get that bad feeling about something.

@@ -1,0 +1,397 @@
+Season,Episode,Scene,Character,Line
+0,149,0,STARGATE SG1,Episode 719
+0,149,0,"""RESURRECTION""",By Robert C. Cooper
+0,149,2,BARRETT,"Major Carter. Dr Jackson, Tealc glad you could make it"
+0,149,2,CARTER,Agent Barrett
+0,149,2,BARRETT,Hows Colonel ONeill doing?
+0,149,2,CARTER,"Still recovering, hes taking some time off."
+0,149,2,BARRETT,"Well were still putting together the details here, if youll follow me. Ill explain as we go."
+0,149,2,DANIEL,What is this Place?
+0,149,2,BARRETT,An abandoned industrial complex as near as we can tell it we was home to a rogue NID sleeper cell. Weve been trying to locate or over a year now.
+0,149,2,CARTER,Still havent got them all?
+0,149,2,BARRETT,"No not by a long shot, Major their ties run deep. They seem to have infinite resources at their disposal."
+0,149,2,CARTER,What were they doing here?
+0,149,2,BARRETT,Were not exactly sure yet.
+0,149,2,DANIEL,What happened?
+0,149,2,BARRETT,"At approximately 0800 hours we intercepted a 911 call, we moved in just after local authorities arrived, weve been in lockdown mode ever since"
+0,149,2,DANIEL,"Wait a minute, someone from a top secret, not to mention illegal NID operation called 911?"
+0,149,2,BARRETT,It got real ugly. Come on. We got a call from a panicked male voice. We think it was from the cleaning staff. The call was cut short. Thus far weve counted 32 casualties. Including a 6 man security contingent
+0,149,2,CARTER,Who would do this?
+0,149,2,TEALC,And for what reason.
+0,149,2,BARRETT,"Actually, we know who did it, as for why . . ."
+0,149,2,DANIEL,You know who did this?
+0,149,2,BARRETT,Yeah.
+0,149,3,BARRETT,Open it
+0,149,4,BARRETT,It was her.
+0,149,4,BARRETT,At first we thought she was a survivor and then we found this.
+0,149,5,BARRETT,"We found her cowering in the corner, and genuinely terrified with no memory of what happened."
+0,149,5,CARTER,You put her in the cell
+0,149,5,BARRETT,"Yeah, thats where she said they kept her. We locked her up there after we found the security tapes we didnt want to take any chances."
+0,149,5,DANIEL,Who is she?
+0,149,5,BARRETT,Were not sure yet. Shes been printed just running her through the system
+0,149,5,CARTER,any other survivors
+0,149,5,BARRETT,"Yeah, one. A scientist named Keffler, were holding him upstairs. So far he hasnt been very talkative. Come on let me show you guys why I called you down here."
+0,149,6,DANIEL,Wow
+0,149,6,BARRETT,Recognize anything
+0,149,6,DANIEL,Nothing Ive catalogued as coming through the SGC
+0,149,6,TEALC,This indicates it belonged to Sehkmet
+0,149,6,BARRETT,Who was that?
+0,149,6,TEALC,A goauld who at one time was loyal to Ra
+0,149,6,DANIEL,"Well, we know she was a powerful ally of his, who he routinely dispatched to rule planets in his stead. Help put down rebellions, oversee mass executions, that sort of fun stuff."
+0,149,6,BARRETT,Sounds like a real sweetheart. What happened?
+0,149,6,TEALC,It was believed that she was exiled for plotting against Ra
+0,149,6,DANIEL,We also believe that she lived here for most of his dynasty. I didnt realize this stuff had been recovered.
+0,149,6,BARRETT,From what I could gather it may have come from the Germans
+0,149,6,DANIEL,the Germans?
+0,149,6,BARRETT,The background that I have on Keffler says that hes the son of a convicted Nazi war criminal.
+0,149,7,DANIEL,Guess we really shouldnt be that surprised.
+0,149,7,CARTER,Rogue NID really have no limits do they?
+0,149,7,BARRETT,See if there is anything else you can tell me about this stuff.
+0,149,8,BARRETT,Im going to go back at Keffler again do you want to join me?
+0,149,8,CARTER,Sure
+0,149,8,BARRETT,Just thought you might like to watch a master of interrogation at work.
+0,149,8,CARTER,You calling someone special?
+0,149,9,BARRETT,Dr. Keffler. This is Major Samantha Carter
+0,149,9,KEFFLER,of the stargate program
+0,149,9,BARRETT,Thats right Are you ready to tell us about the girl? Look Doctor do I really need to explain the nature of your situation?
+0,149,9,KEFFLER,"Oh, please do it amuses me."
+0,149,9,BARRETT,"This was an off the books NID operation. Which means technically you dont exist. Which means no phone calls, no lawyers. Hell I dont even have to read you your rights. To make matters worse for you the people who ran this operation are all in jail. No body to bail you out."
+0,149,10,CARTER,What kind of work was being done here doctor?
+0,149,10,KEFFLER,Youre a smart girl youll figure it out
+0,149,10,BARRETT,Look do you really think that we are just going to let you walk away from this 32 people are dead.
+0,149,10,KEFFLER,"Believe it or not I really do feel bad about that. Some of them were not quite as incompetent as the others. Unfortunately, the bad ones always ruin it for everyone dont they?"
+0,149,10,KEFFLER,That unlocks my car
+0,149,10,BARRETT,Dont think your safe
+0,149,10,KEFFLER,Read the papers agent Barrett no one is safe these days
+0,149,11,KEFFLER,My Pills.
+0,149,12,KEFFLER,Now Now you wouldnt want your only witness to die on you would you?
+0,149,13,BARRETT,Its nitro says he has a bad heart. I say an x-ray would confirm a total absence.
+0,149,13,CARTER,I dont know I think hes starting to crack.
+0,149,13,BARRETT,Come on They guy was colder than Hannibal lecter in there.
+0,149,13,CARTER,"Still, obviously no match for a master interrogator"
+0,149,13,BARRETT,I didnt see you get all Cleary Starling on his ass.
+0,149,13,CARTER,I didnt want to step on your toes.
+0,149,13,BARRETT,Come on I got one more thing to show you.
+0,149,13,CARTER,Theres more?
+0,149,13,BARRETT,Trust me. Im saving the best for last
+0,149,14,CARTER,This isnt at all creepy
+0,149,14,BARRETT,Oh it gets better
+0,149,15,CARTER,They look like partially developed fetuses
+0,149,15,BARRETT,They dont look human to me.
+0,149,15,CARTER,Failed experiments of some kind?
+0,149,15,BARRETT,What kind is the question
+0,149,15,CARTER,"Well, theres one way to find out."
+0,149,15,BARRETT,"No forget it major, weve already tried that all the codes are encrypted"
+0,149,16,CARTER,Present and accounted for
+0,149,16,BARRETT,"sigh, right___ of course. So howve you been?"
+0,149,16,CARTER,"Busy, you?"
+0,149,16,BARRETT,Busy.
+0,149,16,CARTER,"You know, I never properly thanked you for that memo on Woolsey."
+0,149,16,BARRETT,"Well, maybe we could go out for dinner sometime?"
+0,149,17,CARTER,Its just that Im seeing someone right now.
+0,149,17,BARRETT,Really? You? . . . hm.
+0,149,17,CARTER,"Well, you asked me out."
+0,149,17,BARRETT,"Yep, right . . . sorry. Im going to go check in with Doctor Jackson and Tealc."
+0,149,19,DANIEL,Most of the artifacts are related in some way to Sehkmet. Guessing they were found here on earth possibly in an Eygptian tomb or crypt of some kind.
+0,149,19,BARRETT,Nothing of Note?
+0,149,19,DANIEL,"No its interesting stuff, but ah, no, no not really."
+0,149,19,BARRETT,Whats this?
+0,149,19,TEALC,It would appear to be an ark.
+0,149,19,DANIEL,"ordained in the gold motif of the sun god Ra, possibly a gift to Sehkmet"
+0,149,19,BARRETT,"Ok, whats in it?"
+0,149,19,DANIEL,"I dont know we havent been able to open it. But, um these turn."
+0,149,19,BARRETT,Some sort of combination lock.
+0,149,19,TEALC,So it would seem.
+0,149,19,DANIEL,Any luck with the scientist?
+0,149,19,BARRETT,"No, not exactly. The girl may be on tape killing everybody, but Im pretty sure the guy up there is not innocent."
+0,149,19,DANIEL,"Yeah, what about that girl."
+0,149,19,BARRETT,She hasnt said anything since we locked her up. I was kind of hoping that youd give it a try.
+0,149,19,DANIEL,Um . . . me?
+0,149,19,BARRETT,I heard you had a knack for this type of thing.
+0,149,21,DANIEL,"Hi Im um Daniel Jackson. Daniel Pauses waits then speaks again. Youre Anna right? You know when I first saw you, I didnt believe that you could do the things they said you did. Even, after I saw it for myself, I still dont believe it."
+0,149,22,ANNA,I didnt kill those people.
+0,149,22,DANIEL,"Well, theres some pretty overwhelming evidence."
+0,149,22,ANNA,It wasnt me.
+0,149,23,ANNA,Please you have to believe me. It wasnt me!
+0,149,24,ANNA,Turn it off! TURN IT OFF!
+0,149,24,DANIEL,Sorry.
+0,149,24,ANNA,I couldnt do those things.
+0,149,24,DANIEL,It looks like you did.
+0,149,24,ANNA,Its not me.
+0,149,24,DANIEL,Then who is it?
+0,149,24,ANNA,I dont know
+0,149,24,DANIEL,"Ok, where were you when this was happening?"
+0,149,25,DANIEL,If the person in the tape isnt you then where were you? What were you doing?
+0,149,25,ANNA,I dont remember. Anna is very agitated and confused now
+0,149,26,DANIEL,Who is doctor Keffler?
+0,149,26,ANNA,He is the one who made me.
+0,149,27,DANIEL,"She says that Keffler mad her. What the hell, does that mean?"
+0,149,27,CARTER,Some sort of genetic research.
+0,149,27,BARRETT,Shes over 20 years old the operation has not been going on that long.
+0,149,27,DANIEL,"Well, we know the Asgard can rapidly grow a human clone, but . . ."
+0,149,27,CARTER,Area 51 has a sample of Goauld nanite technology from the planet Argos. It can also rapidly grow a human with the ability to learn very quickly. And the Rogue NID would have had access to that.
+0,149,27,DANIEL,She also said that Keffler is responsible for everything that happened.
+0,149,27,BARRETT,How?
+0,149,27,DANIEL,I dont know.
+0,149,27,CARTER,Do you think shes telling the truth?
+0,149,27,DANIEL,Ah. . . to be honest I dont know what to think. She certainly believes she didnt do it. Says the girl in the video tape isnt her.
+0,149,27,BARRETT,How can that be possible?
+0,149,27,CARTER,The NID have cloned a goauld symbiote before.
+0,149,27,BARRETT,Right of course she could be a clone.
+0,149,27,DANIEL,could be more than one of her. How well have you searched this facility?
+0,149,27,BARRETT,Top to bottom. Id better put an APB out to local authorities.
+0,149,28,DANIEL,Anna how long have you lived here?
+0,149,28,ANNA,Since I remember.
+0,149,28,DANIEL,"Yeah, how long is that exactly?"
+0,149,28,ANNA,I dont know.
+0,149,28,DANIEL,"You ever have a birthday? You know a birthday . . . cake with candles on it, funny hats, pin the tail on the donkey, that kind of thing."
+0,149,28,ANNA,He gave me this paper and some new charcoal.
+0,149,28,DANIEL,Who Doctor Keffler? Anna nods
+0,149,28,ANNA,"He always gave me paper, but once he said it was my birthday."
+0,149,28,DANIEL,Just once. Anna nods. Have you ever seen anything outside of this room?
+0,149,28,ANNA,"Just pictures. I read a lot of books, which describe the world outside. The mountains, the oceans, the sun."
+0,149,28,DANIEL,Youve never experienced them first hand?
+0,149,30,DANIEL,What about these?
+0,149,30,ANNA,those are the things I see in my dreams. Flashes they just come to me.
+0,149,30,DANIEL,They mean anything to you?
+0,149,30,ANNA,"Just, they scare me."
+0,149,30,DANIEL,"If they scare you so much, why do you hang them up everywhere."
+0,149,30,ANNA,I dont want them there. He hurts me if I take them down. They are important to him.
+0,149,31,DANIEL,You have anymore with one of those on it? Maybe on an Ark?
+0,149,32,SCENE CHANGES,Daniel slaps a drawing down on top of the ark.
+0,149,32,DANIEL,"I got it, its one of Annas sketches. I think it is the combination to open the ark."
+0,149,34,DANIEL,Did we just do that?
+0,149,34,TEALC,I do not believe so. It was activated some time ago.
+0,149,35,BARRETT,Ive got a picture out to local authorities. If theres a second girl out there that looks like her well find her.
+0,149,35,CARTER,"Im in, I have complete access."
+0,149,35,BARRETT,Nice work.
+0,149,35,CARTER,The files seem to document recent work going back over three years.
+0,149,35,BARRETT,Recent work?
+0,149,35,CARTER,The artifacts go all the way back to Napoleon. The Nazis eventually recovered them.
+0,149,35,BARRETT,They ended up in Kefflers Fathers hands.
+0,149,35,CARTER,They found a canopic jar. Its a vessel containing a preserved symbiote. Keffler spliced human ovum with DNA taken from a Goauld.
+0,149,35,BARRETT,The girls a human- Goauld hybrid.
+0,149,35,CARTER,The Goauld pass on their knowledge genetically. They were trying to create a human who could tell them everything a Goauld would know. They didnt want to wait either.
+0,149,35,BARRETT,They got their nanite technology from area 51.
+0,149,35,CARTER,So they could make her grow up quickly. It took them 45 failures before they finally got it right. You can call off that APB
+0,149,35,BARRETT,Theres only one of her.
+0,149,35,CARTER,"According to this. The previous attempts either didnt blend properly or they grew too fast and died. The technology had to be modified so that the human could slowly learn to gain access to the genetic knowledge buried in her DNA. My God! They tortured the poor girl. Sensory deprivation, electrocution"
+0,149,35,TEALC,"MajorCarter, AgentBarrett."
+0,149,35,CARTER,Shes not a clone. Theres only one of her and shes got Goauld DNA blended with her own. That could explain her behavior and why she doesnt know what shes done.
+0,149,35,DANIEL,The ark is a bomb.
+0,149,35,CARTER AND BARRETT,What?
+0,149,35,TEALC,The ark is in fact a Goauld explosive device.
+0,149,35,DANIEL,And its been activated.
+0,149,35,BARRETT,How much time do we have?
+0,149,35,TEALC,Approximately 16 hours.
+0,149,36,KEFFLER,How interesting.
+0,149,37,BARRETT,"Wipe the smarmy smile off your face, and tell me whats going on here!"
+0,149,37,KEFFLER,Youre hurting me.
+0,149,37,BARRETT,Nothing I do to you could make up for what youve done here.
+0,149,37,CARTER,Agent Barrett
+0,149,37,KEFFLER,Listen to her Agent Barrett
+0,149,37,BARRETT,"You are going to tell me everything that I want to know, or she is not going to be able to stop me from beating you senseless."
+0,149,37,KEFFLER,What do you want to know?
+0,149,37,CARTER,For starters do you know how to deactivate the bomb?
+0,149,37,KEFFLER,I didnt know it was a bomb
+0,149,37,BARRETT,"The girl breaks out of her cell, kills 32 people sets a bomb to go off a day from now and then sticks around? How does that make sense?"
+0,149,37,KEFFLER,"Your problem Agent Barrett, one among many Im afraid to point out, is that you see her as a girl."
+0,149,37,CARTER,Look if youre going to give us some moral justification for whats gone on here . . .
+0,149,37,KEFFLER,"Please, Major. I know that you have helped to orchestrate the death of Goaulds before, assassinated them in cold blood; in fact without regard to the life of the human host."
+0,149,37,CARTER,I didnt create the problem.
+0,149,37,KEFFLER,"Neither did I, I am merely trying to help solve it. The Goauld are a terrible threat to us all. Anna is a device a conduit to the knowledge, knowledge that could level the playing field. And I think we all agree that if killing one person could save millions, billions of innocent lives you would have no choice you would do it."
+0,149,37,BARRETT,Answer my question.
+0,149,37,KEFFLER,"Im sorry, Ive forgotten what it was."
+0,149,37,BARRETT,Why set the bomb and stick around.
+0,149,37,KEFFLER,Anna did not set that bomb.
+0,149,37,BARRETT,Then who did?
+0,149,37,KEFFLER,"The Goauld, Sehkmet"
+0,149,37,BARRETT,"Wait a minute, she doesnt have a snake inside her right?"
+0,149,37,KEFFLER,Something we didnt expect. Separate and distinct personalities.
+0,149,37,CARTER,Are you saying that Annas mind has created an entirely separate personality that acts like the Goauld Sehkmet?
+0,149,37,KEFFLER,"Yes, but I dont know if it is that she is incapable of dealing with the darkness within her, or that that knowledge is so powerful that it is capable of manifesting itself as such. I only know that it emerges and speaks as a unique entity. We have witnessed it with a growing frequency. Anna has no memory, no awareness to her it is as if she is ah blacked out."
+0,149,37,BARRETT,"Ok, so the Goauld personality comes out, goes on a rampage, sets the bomb."
+0,149,37,CARTER,But cant stay in control of the body long enough to finish what she was doing.
+0,149,37,KEFFLER,Her breakthroughs are sporatic and seem somewhat uncontrolled.
+0,149,37,BARRETT,"Still, why set the bomb?"
+0,149,37,CARTER,Leverage.
+0,149,37,BARRETT,Against what?
+0,149,37,CARTER,"Sehkmet, only has conscious control of the body for short periods of time. She wants more. She was going to blackmail you with the bomb."
+0,149,38,KEFFLER,"Oh, the physche is so simple isnt it, so single-minded, it is truly fascinating to behold."
+0,149,38,CARTER,She thinks that you can give her that full control.
+0,149,39,BARRETT,Can you?
+0,149,39,KEFFLER,"She is the experiment, I am the observer."
+0,149,39,CARTER,Still the Goauld personality didnt go and do something like this on a whim. You led her to believe that you have the power to have control of her life. And Ill bet you did it so she would tell you what you want to know.
+0,149,39,KEFFLER,"How to save us all, Major. I am not the only one who wants to know."
+0,149,40,ANNA,I dont remember anything.
+0,149,40,DANIEL,I know this must be hard for you.
+0,149,40,ANNA,How can you know what this is like for me?
+0,149,40,DANIEL,"Cause I knew a boy once, he was like you."
+0,149,40,ANNA,There are more like me?
+0,149,40,DANIEL,"Um, not exactly. He was born of two Goauld hosts. We call a child like that a harcesis."
+0,149,40,ANNA,What happened to him?
+0,149,40,DANIEL,"He was saved by a very powerful being. He ascended to a higher plain of existence, and when he did he gained great power himself. He used that power to show me that all the memories and knowledge passed on to him by the Goauld genetically came with a terrible burden, and how it was wrong to seek it for any reason."
+0,149,40,ANNA,Can I be saved like him?
+0,149,40,DANIEL,"Maybe, honestly I dont know. Will you help us shut this bomb off?"
+0,149,40,ANNA,I dont know how.
+0,149,40,DANIEL,You do. You knew how to open the ark it was in your drawings.
+0,149,40,ANNA,I dont remember turning it on.
+0,149,40,DANIEL,"I know, but somewhere inside you, your mind has the answer. I can help you find it."
+0,149,41,LEE,According to these readings theres a ten-pound block of naquadah in this thing.
+0,149,41,BARRETT,Whats that supposed to mean?
+0,149,41,LEE,That would be very bad if it went off.
+0,149,41,BARRETT,"Well, its a bomb, usually its not a good thing when they go off."
+0,149,41,LEE,True
+0,149,41,BARRETT,Can we move this?
+0,149,41,TEALC,From what I know of Goauld weaponry that would be unwise. It may have a sensor that would detect such an action.
+0,149,41,LEE,"Uh, yeah, I dont even want to go there. Lets uh, see if we can disarm it here first."
+0,149,41,BARRETT,Im going to get the local authorities to start evacuating the area.
+0,149,41,LEE,Thanks for the vote of confidence
+0,149,41,BARRETT,How many miles are we talking about here.
+0,149,41,LEE,"I dont know, how big is Orange County?"
+0,149,41,BARRETT,Youre kidding right?
+0,149,41,LEE,"Do I, do I look like a practical joker to you?"
+0,149,43,ANNA,Images just come to me I draw them. I dont know what they mean.
+0,149,43,DANIEL,"Just relax, and think about it. When you look at this what comes to mind?"
+0,149,43,ANNA,"The blackouts, theyre happening more and more."
+0,149,43,DANIEL,You trust me? You trust me? I want to help you I dont want to hurt you.
+0,149,43,ANNA,After I help you
+0,149,43,DANIEL,Its not like that. We have to shut this bomb off.
+0,149,43,ANNA,How many birthdays have you had?
+0,149,43,DANIEL,Thats not important right now.
+0,149,43,ANNA,You sound just like him.
+0,149,44,BARRETT,I heard you were in here. What are you doing?
+0,149,44,DANIEL,"I noticed most of the tapes were labeled Anna, its not just security video its actual documentation of the research."
+0,149,44,BARRETT,Anything useful?
+0,149,44,DANIEL,"No, just something she said when we were talking. How I reminded her of Keffler."
+0,149,44,KEFFLER,I figured I needed to learn more about how he dealt with her before I pressed her too much.
+0,149,44,BARRETT,What are your chances that youll find out how to deactivate the bomb from her in time?
+0,149,44,DANIEL,I dont know
+0,149,44,BARRETT,Just trying to get as much of the area evacuated as we can. Just dont know how big the blast is going to be. no pressure. Ill leave now.
+0,149,45,BARRETT,You know Id feel better if you were down there working on the bomb.
+0,149,45,CARTER,"Doctor Lee is the best weve got for this, and Tealc knows more thatn I do about Goauld weapons. Besides I wanted to see if there was anything more in the research notes that might help."
+0,149,45,BARRETT,Like what?
+0,149,45,CARTER,"Well, if we can offer Anna a cure for her condition, she might be more willing to help us. Shes been horrible mistreated and intervention she has very little hope of survival. Now at the time they made her, they had no idea what her life span was going to be. Based on her current rate of growth I estimate that it cant be more than three years."
+0,149,45,BARRETT,Can you help her?
+0,149,45,CARTER,"Possibly. We should at least be able to halt the rapid growth effects of the nanites. Now I doubt we can unmarry the Goauld DNA from hers, but we may be able to block the knowledge from her conscious mind stop it from possessing her. Weve had some luck with certain drugs in similar situations before."
+0,149,45,BARRETT,I suppose the fact that youve had similar situations shouldnt come as a total shock.
+0,149,45,CARTER,Anything on your end?
+0,149,45,BARRETT,Keffler he wants to chat.
+0,149,47,ANNA,Ahh! Anna screams in pain.
+0,149,47,KEFFLER,"There is a cure Anna. You can be a normal girl, live a normal life. You can be free, or you can continue to suffer."
+0,149,49,ANNA,No . . .please. Please stop. Ahh! Sehkmet personality emerges
+0,149,49,ANNA/SEHKMET,Stop this at once I command you.
+0,149,49,KEFFLER,Now were getting somewhere.
+0,149,49,ANNA/SEHKMET,Let me out of here.
+0,149,49,KEFFLER,In due time freedom can be yours.
+0,149,49,ANNA/SEHKMET,You think I will just tell you the secrets of the Goauld.
+0,149,49,KEFFLER,If you want to live.
+0,149,49,ANNA/SEHKMET,You will not kill me.
+0,149,49,KEFFLER,I can make another as easily as I made you.
+0,149,49,ANNA/SEHKMET,"If it were up to me, given the chance, I would rip the beating heart from your chest and feed it to you."
+0,149,49,KEFFLER,Such colorful language. Lets focus on the issue at hand shall we.
+0,149,49,DANIEL,Son of a bitch.
+0,149,50,KEFFLER,We have the same goal. I do not wish to see my work go to waste. Look I know her. I know how her mind works. I can get you what you need.
+0,149,50,CARTER,"Yeah, Ive read about your methods."
+0,149,51,KEFFLER,I will only talk to her. You are welcome to be present the entire time.
+0,149,51,BARRETT,Then what do you want in return. Like I cant believe that you would be doing this solely for the greater good.
+0,149,51,KEFFLER,My freedom
+0,149,51,BARRETT,Not a chance.
+0,149,51,KEFFLER,"I am guilty of nothing more than trying to save this world, JUST LIKE YOU! We are at war!"
+0,149,51,CARTER,"Desperate times, call for desperate measures. Ive heard that defense."
+0,149,52,KEFFLER,What choice do you have? How many people will die if that bomb goes off.
+0,149,53,CARTER,Lets just say were considering this. Do you have the authority to offer him immunity.
+0,149,53,BARRETT,"Trust me. No matter what we decide to do, no court is ever going to hear about any of this."
+0,149,54,CARTER,Daniel?
+0,149,54,DANIEL,You let her out didnt you?
+0,149,54,KEFFLER,You must be Daniel Jackson.
+0,149,54,CARTER,Daniel whats going on? Hes in control when the Goauld comes out. Its not just random. Hes got himself a little remote control.
+0,149,55,BARRETT,This?
+0,149,55,DANIEL,"Yeah. He uses it to shock her. He can make the Goauld personality appear or he can kill her with it. Why? Were the other scientist going to shut down your research, going to report your little science experiment?"
+0,149,55,KEFFLER,You have no proof of that.
+0,149,55,DANIEL,"You use that device to bring out the Goauld personality. Then, you let her out of her cage, you murdered 32 people."
+0,149,55,KEFFLER,Speculation
+0,149,55,DANIEL,"You can control her with that. If you didnt want the other scientists dead, why didnt you stop her?"
+0,149,57,TEALC,Careful Lee removes a panel
+0,149,57,LEE,"Ok, now just because the cover wasnt booby-trapped doesnt mean that the crystals themselves are safe to touch."
+0,149,57,TEALC,That is correct.
+0,149,57,LEE,Theres no energy signatures. I dont think theres any force fields or sensors protecting the compartment.
+0,149,58,TEALC,I am unsure which of these crystals control the detonation of this device.
+0,149,58,LEE,"Look, blue is typically for power regulation."
+0,149,58,TEALC,Indeed
+0,149,58,LEE,So if we remove the power regulation for the entire control board . . .
+0,149,58,TEALC,The device could explode
+0,149,58,LEE,"Yeah, yeah. I suppose. I mean its not like I was going to pull the yellow one."
+0,149,60,BARRETT,So obviously letting Keffler anywhere near the girl is out.
+0,149,60,CARTER,And if were going to get the bomb deactivation code from Anna. Youre going to have to do it.
+0,149,60,DANIEL,Right
+0,149,62,LEE,Ok so this red crystal seems to control the timer. I should be able to interface with it and hopefully reprogram it.
+0,149,63,LEE,Anything happening.
+0,149,63,TEALC,It count down has begun increasing in speed.
+0,149,63,LEE,What? Did that stop it?
+0,149,63,TEALC,"Yes, However . . ."
+0,149,64,BARRETT,"Hows it going? Not well, I take it?"
+0,149,64,LEE,"Um, no we just had a little set back."
+0,149,64,BARRETT,What?
+0,149,64,LEE,"Well, I was trying to interface with one of the control crystals . . ."
+0,149,64,TEALC,The time until detonation is now less than two hours.
+0,149,64,BARRETT,"Ok, well lets hope that Doctor Jackson is having better luck."
+0,149,64,DANIEL,"They are trying to evacuate as many people as possible, but if that bomb goes off people are still going to die."
+0,149,64,ANNA,Including us?
+0,149,64,DANIEL,We have a helicopter standing by to get us to a safe distance if it comes to that. Im hoping it doesnt because a lot of others wont have that luxury.
+0,149,64,ANNA,Ive been trying I cant see anything.
+0,149,64,DANIEL,"You know, not so long ago I had my memories erased."
+0,149,64,ANNA,How?
+0,149,64,DANIEL,"Its a long story but the point is, I was able to access certain lost memories by meditating. A friend of mine showed me how to do it. Now I think that can help you."
+0,149,64,ANNA,What I see scares me so much.
+0,149,64,DANIEL,"I know and for good reason. Ultimately it is up to you. I cant force you to do this, and I wont. I promise either way, were going to try and help you. Make it so you can live a normal life."
+0,149,64,ANNA,He always said he could do that.
+0,149,64,DANIEL,"Well, the truth is Im not sure if we can. But, were going to try anything and everything in our power."
+0,149,65,BARRETT,"Ok, good, yep, 42 minutes 15 seconds and counting. Right, Ill check back thanks."
+0,149,66,BARRETT,Weve got ten city blocks in each direction fully evacuated.
+0,149,66,CARTER,Thats no where near enough.
+0,149,66,BARRETT,I know
+0,149,66,CARTER,I just finished going through the files in the computer.
+0,149,67,CARTER,Even if we halt the rapid grow of the nanites. You didnt isolate the gene that carried the Goauld genetic knowledge.
+0,149,67,KEFFLER,"We didnt have time to sequence the entire strand, the goal was to get the intelligence, Major, not to create a viable living organism."
+0,149,67,BARRETT,I dont understand
+0,149,67,CARTER,The way he blended the DNA; theres nothing we can do to stop the Goauld DNA from eventually taking over. It will physically overwrite the human and nothing I know of will stop it.
+0,149,67,BARRETT,Whats going to happen to her?
+0,149,67,CARTER,"Shell die, horrible, painful death. There is no cure, there is no way to save her that was just another lie."
+0,149,67,KEFFLER,I placed a capsule of biotoxin at the base of her brain the remote device will activate it. I did this to prevent any undue suffering when the time came.
+0,149,67,CARTER,How humane of you.
+0,149,68,ANNA,What do I do?
+0,149,68,DANIEL,"Um, just relax and try thinking of nothing."
+0,149,68,ANNA,Nothing?
+0,149,68,DANIEL,"Try an empty room. You see a doorway. Go to that door and open it. Go through. Youre inside of a stone room. The floor is made of polished marble. Youre inside of a great pyramid, ornate carvings of beautiful snakes flank a golden throne. You see a window. You walk towards it, outside there are thousands of people, slaves who worship you as a god. You have great power over them. Power to decide who lives and who dies."
+0,149,68,ANNA,No.
+0,149,68,ANNA/SEHKMET,I will tell you nothing.
+0,149,68,DANIEL,Anna. Anna.
+0,149,69,DANIEL,Anna stop.
+0,149,70,DANIEL,
+0,149,73,CARTER,"Daniel, you ok?"
+0,149,73,DANIEL,Where is she?
+0,149,73,BARRETT,She wont get far.
+0,149,77,DANIEL,I dont think she is acting as the Goauld.
+0,149,77,CARTER,Daniel
+0,149,79,KEFFLER,"I . . . I just need a drink of water. Please, Im not feeling 100 percent."
+0,149,80,KEFFLER,My pills.
+0,149,82,DANIEL,I think its the deactivation code.
+0,149,82,CARTER,"Agent Barrett this is Major Carter. Come in, whats your location? Agent Barrett?"
+0,149,83,CARTER,This is Major Carter. Agent Barrett needs medical attention we are in the Northeast corridor level 1.
+0,149,84,LEE,"Thats it. Its off. I mean the lights turned off, that means its off right."
+0,149,84,TEALC,Indeed.
+0,149,84,LEE,"Well, hey!"
+0,149,85,ANNA,Drop the gun
+0,149,85,KEFFLER,Anna
+0,149,85,ANNA,Drop it!
+0,149,86,KEFFLER,Come with me now to the lab and I will help you.
+0,149,86,ANNA,You cant help me.
+0,149,86,KEFFLER,What ever theyve told you. . .
+0,149,86,ANNA,It doesnt matter. I never believed you.
+0,149,86,KEFFLER,Anna? I did it to help people.
+0,149,86,ANNA,"All the evil I have seen in my mind, nothing you put inside me compares to what I see in you."
+0,149,87,DANIEL,Anna!
+0,149,88,DANIEL,What did you do?
+0,149,89,ANNA,You couldnt help me.
+0,149,89,DANIEL,Im so sorry.

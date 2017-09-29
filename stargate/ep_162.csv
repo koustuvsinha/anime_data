@@ -1,0 +1,340 @@
+Season,Episode,Scene,Character,Line
+0,162,0,STARGATE SG1,Episode 810
+0,162,0,"""ENDGAME""",By Joseph Mallozzi & Paul Mullie Transcribed by
+0,162,1,MACKENZIE,Whats going on?
+0,162,1,HARRIMAN,Not much.
+0,162,1,MACKENZIE,I hate the graveyard shift. Nothing exciting ever happens on it.
+0,162,2,HARRIMAN,"Hey. Just cos its three a.m. here, it doesnt mean that its not daylight on other planets. There could be a team coming in hot - any ... second ... now."
+0,162,2,MACKENZIE,"Yeah, thats true!"
+0,162,2,MACKENZIE,So - coffee?
+0,162,2,HARRIMAN,Yeah!
+0,162,2,MACKENZIE,"Let me ask you something. Its late at night and theres not that many people around - do you ever get the urge just to dial up the Gate and check out another planet, just for a few minutes?"
+0,162,2,HARRIMAN,Thatd be a no.
+0,162,2,MACKENZIE,Me-me-me neither.
+0,162,2,HARRIMAN,What the hell?
+0,162,2,MACKENZIE,The Gates gone!
+0,162,2,HARRIMAN,I can see that!
+0,162,2,MACKENZIE,Are we gonna get in trouble for this?
+0,162,4,DANIEL,What about your instruments? Were you detecting any signs of Gate activity?
+0,162,4,HARRIMAN,"No, sir."
+0,162,4,DANIEL,Did anyone approach the Gate at any time?
+0,162,4,HARRIMAN,No.
+0,162,4,MACKENZIE,No.
+0,162,4,DANIEL,So no unusual activity of any kind. OK.
+0,162,4,MACKENZIE,"Sir, are we gonna be facing any kind of disciplinary action for this?"
+0,162,4,DANIEL,"No, Sergeant, I think its safe to say there was nothing you could have done."
+0,162,4,MACKENZIE,"Thank God! I mean, there wasnt. One minute we were getting coffee, the next minute the Gate was ..."
+0,162,4,DANIEL,Wait a minute! Wait a minute. You were getting coffee?
+0,162,4,MACKENZIE,Um ... we... it ...
+0,162,5,DANIEL,"Im joking, Im joking, this is a joke, Im sorry. OK, thats all, thank you, guys, I appreciate that. OK."
+0,162,6,DANIEL,"Well, Id-Id hate to be the guy that has to explain this to the President."
+0,162,7,CARTER,Sir. Ive got the video surveillance footage. The Gate disappeared at oh three oh seven. There were two airmen in the Gateroom and two technicians in the Control Room but none of them saw or heard anything out of the ordinary prior to the flash.
+0,162,8,DANIEL,Is it just me or does that look like an Asgard beam?
+0,162,8,CARTER,It does - which makes no sense. Why would they take our Gate?
+0,162,8,ONEILL,Yeah. Usually they ask nicely before they ignore us and do whatever they damn well please.
+0,162,8,DANIEL,What about the Prometheus? Didnt the Asgard install beam technology as well as a hyperdrive?
+0,162,8,CARTER,"Yeah, its in the hangar. Were still making adjustments to the new engines. There is another possibility. We know that Anubis possessed Asgard beam technology. We also know that Baal took over much of his fleet."
+0,162,8,DANIEL,You think Baal stole our Gate?
+0,162,8,CARTER,"To be honest, right now I dont know what to think."
+0,162,8,ONEILL,"Well, I need some answers."
+0,162,8,CARTER,"Thats not gonna be easy, sir. Without a Gate, we have no access to offworld intel. We have no way of knowing whats going on out there."
+0,162,8,ONEILL,"Youll think of something. In the meantime , I have a phonecall to make."
+0,162,8,DANIEL,Is Tealc still on P4S-161?
+0,162,8,CARTER,"Yeah, his meeting with the rebel Jaffa leaders should be over by now. When he cant contact us hell follow protocol and head to the Alpha site."
+0,162,9,TEALC,Colonel Pierce.
+0,162,9,PIERCE,Tealc.
+0,162,9,TEALC,What is the situation?
+0,162,9,PIERCE,Weve been out of contact with Earth for seven hours now. We can establish a wormhole but all we get is a do not proceed response to our IDC.
+0,162,9,TEALC,As was the case when I attempted to return from my mission.
+0,162,9,PIERCE,"Weve had lockdowns before, but the fact that theyre not responding to any of our radio calls has me concerned. Right now we have no idea whats happening at Stargate Command."
+0,162,9,TEALC,I will return to P4S-161. The rebel Jaffa will provide me with a cargo ship which I will then take to Earth.
+0,162,9,PIERCE,Tealc. Were not jumping to conclusions; this may be just a malfunction - but its also possible Earth has been compromised.
+0,162,9,TEALC,Indeed.
+0,162,10,DANIEL,Find anything?
+0,162,10,CARTER,"Yeah, as a matter of fact I have. Ive been going over Gateroom security tapes and the sensor logs. For two days before the Gate disappeared, we were getting this anomalous reading. We assumed it was residual feedback from a recent overhaul of the superconductors, but I dont think so. Look at this."
+0,162,11,DANIEL,What was that?
+0,162,11,CARTER,"I dont know, but I checked the time code and this corresponds with the exact moment that the sensors began recording the anomaly."
+0,162,11,DANIEL,I think we need to talk to this guy.
+0,162,12,CARTER,"Doctor Kevin Hartkins. Hes been with the programme seven months. Clean record, nothing out of the ordinary - except that hes gone missing."
+0,162,12,DANIEL,"He failed to report for duty this morning. When we checked his apartment, it was cleaned out."
+0,162,12,ONEILL,This is starting to sound familiar.
+0,162,12,DANIEL,You think its The Trust?
+0,162,12,CARTER,"Well, theyve been busy lately. They had Tealc under surveillance, they blackmailed you, and they tried to kill Alec Colson. Obviously the operation is a lot bigger than we first thought. Now, as far as we know, the NID has been clean for over a year but there are still dozens of ex-agents who are unaccounted for - and they continue to receive financing from unknown sources."
+0,162,12,DANIEL,"If they could take the Gate out from under us, they could empty the vault at Fort Knox."
+0,162,12,CARTER,"Not necessarily. If they could take the Gate any time they wanted, they would have, but that doesnt explain what Hartkins was doing, or the anomalous signal."
+0,162,12,ONEILL,Got a theory?
+0,162,12,CARTER,"The Prometheus has Asgard beam technology but not Asgard sensors, which means that we cant pinpoint specific targets unless theyve been tagged in advance. What if whoever did this has the same problem?"
+0,162,12,DANIEL,You think the anomaly was a locator beacon?
+0,162,12,CARTER,"Yeah, which Hartkins placed directly on the Gate. I mean, theres no other way they could pull this off."
+0,162,12,ONEILL,So my stamp collection is safe - how does that help us find the Gate?
+0,162,12,CARTER,"Well, if they wanna keep using the beam, theyll have to keep using the beacons. We could request NSA satellite time to see if we could detect the signal."
+0,162,12,ONEILL,Do it.
+0,162,13,TEALC,MZel.
+0,162,13,MZEL,Tealc.
+0,162,13,TEALC,What has happened here?
+0,162,13,MZEL,"When I arrived, they were all dead."
+0,162,13,TEALC,All?
+0,162,13,MZEL,I will show you.
+0,162,14,SERGEANT,We took out a couple of guards and made the area secure. Satellite intel puts the signal somewhere inside this complex.
+0,162,14,CARTER,"Alright. You three are with us. Keep your men on the perimeter - no one in, no one out."
+0,162,14,SERGEANT,Understood.
+0,162,14,DANIEL,Sam!
+0,162,14,CARTER,"Daniel, these are VX rockets."
+0,162,14,DANIEL,Yeah? Whats this?
+0,162,14,CARTER,Methylphosphonothioic acid.
+0,162,14,DANIEL,Which is?
+0,162,14,CARTER,Nerve gas.
+0,162,14,DANIEL,
+0,162,14,CARTER,Theres enough here to kill several hundred thousand people.
+0,162,14,DANIEL,What would the ex-NID be doing stockpiling this stuff?
+0,162,14,CARTER,I have no idea.
+0,162,14,SF,Colonel!
+0,162,14,DANIEL,Ah - weve got a problem here! What do we do?
+0,162,14,CARTER,Its too late.
+0,162,14,DANIEL,Nothings happening.
+0,162,14,CARTER,This doesnt make sense. The effects are almost instantaneous. We should all be dead.
+0,162,15,MZEL,You see?
+0,162,16,CARTER,"We managed to identify the liquid we found in the warehouse. Its symbiont poison - specifically the new formula we were working on in conjunction with the TokRa. Its more stable than the original and easier to produce, but just as deadly to the Goauld."
+0,162,16,DANIEL,And the Jaffa.
+0,162,16,CARTER,"Exactly - which is why we agreed not to use it except in defensive situations. Sir, the people behind this have the Gate and they have rockets capable of delivering the poison in aerosol form over large areas. I think The Trust intends to launch a full-scale chemical attack against the Goauld without any regard for the millions of Jaffa lives that could be lost in the process."
+0,162,16,ONEILL,"So, they didnt get the memo."
+0,162,16,DANIEL,The guy from the warehouse isnt talking but he was carrying this. Its an Area 51 identification badge.
+0,162,17,BRICKSDALE,"Colonel Carter, Doctor Jackson. Sorry to keep you waiting."
+0,162,17,CARTER,Doctor Bricksdale. I believe youve been briefed on our situation?
+0,162,17,BRICKSDALE,"Yes, I have."
+0,162,17,CARTER,"Well, as a result of our investigation, we have reason to believe that your security has been compromised."
+0,162,17,BRICKSDALE,"With all due respect, Colonel, were not the ones who lost the Stargate."
+0,162,17,DANIEL,But alien technology has gone missing from Area 51 before.
+0,162,17,BRICKSDALE,"Yes. However, our security measures have been significantly increased since then. No ones allowed to bring anything in or out - no computers, no cellphones, not even their street clothes, as youve seen. All personnel are subject to a thorough search and scan every time they leave."
+0,162,17,CARTER,"Look, whoever took the Stargate has access to Asgard beam technology. Last year when Osiris came to Earth, she used that same technology, which she activated remotely with a wrist device. After she was captured, that wrist device was brought here, and you worked on it."
+0,162,17,BRICKSDALE,And its been here ever since.
+0,162,17,DANIEL,"Well, if you dont mind, wed like to see it."
+0,162,18,PIERCE,Doctor Harris checked out some of the dead Jaffa on P4S-161. You were right - it was the TokRa symbiont poison.
+0,162,18,TEALC,I would not have believed it had I not seen it with my own eyes.
+0,162,18,PIERCE,"I knew the TokRa had lost patience with the alliance, but I never thought theyd do anything like this."
+0,162,19,MZEL,Tealc! I have received word from our Jaffa brothers. Three more Goauld planets have been attacked. Millions are dead.
+0,162,20,BRICKSDALE,You see? Right where we left it.
+0,162,20,CARTER,"Sorry if Im a little sceptical but, uh, weve been down this road before. Its real."
+0,162,20,BRICKSDALE,"Like I said. We figured if Osiris ship was still up there, we could use the wrist device to get on board. Unfortunately its not only keyed to the presence of naqahdah in the blood of the user but also specific Goauld DNA. We tried to create an adapter using samples of both elements but we didnt get anywhere."
+0,162,20,DANIEL,So the ship is probably still in orbit but cloaked.
+0,162,20,CARTER,In which case we have no way to find it.
+0,162,20,MZEL,The TokRa will be made to pay for this treachery!
+0,162,20,PIERCE,Lets just calm down a second. We need to figure out whats going on.
+0,162,20,MZEL,"What more do you need to know?! The Jaffa are being murdered - poisoned, like vermin!"
+0,162,20,PIERCE,The TokRa have had this chemical weapon for a long time. Why would they suddenly decide to use it now?
+0,162,20,TEALC,Perhaps the failure of the alliance convinced them that there is no other way.
+0,162,20,PIERCE,Theres something else going on. Its not a coincidence that this happened immediately after we lost contact with Earth.
+0,162,20,TEALC,It does seem unlikely. We must speak to the TokRa directly.
+0,162,20,PIERCE,"Thats not so easy. Ever since they left the Alpha site, we havent had much intelligence on their movements. We have no idea where their new base is."
+0,162,20,TEALC,We still know the location of some of their operatives. I believe our best chance for contact is P3S-114. A TokRa operative named Zarin is undercover commanding one of Baals garrisons on that world.
+0,162,20,MZEL,I will come with you.
+0,162,20,PIERCE,"Woah - hold on a minute here. Youre talking about walking into Goauld-occupied territory, and theres no Jaffa fifth column there to help you out. Without sympathetic warriors in Zarins ranks, how do you plan to avoid being captured?"
+0,162,20,TEALC,We do not.
+0,162,20,PIERCE,What?!
+0,162,20,MZEL,Only by being captured will we be brought before the commander.
+0,162,20,PIERCE,Thats how youre gonna make contact?!
+0,162,20,TEALC,We must speak to the TokRa. There is no other way.
+0,162,20,PIERCE,Its too risky. You walk in there unannounced and Zarin could have you sacrificed just to maintain her cover.
+0,162,20,TEALC,That is a great possibility.
+0,162,20,PIERCE,"You realise the second you walk through that Gate, youre on your own?"
+0,162,20,TEALC,Understood.
+0,162,21,HOSKINS,So whats the big emergency?
+0,162,21,BRICKSDALE,I cant do this any more!
+0,162,21,HOSKINS,"Youve already taken the money, Doctor. Little late for cold feet."
+0,162,21,BRICKSDALE,You dont understand! They came to see me! They asked me about the wrist device!
+0,162,21,HOSKINS,Who?
+0,162,21,BRICKSDALE,Two people from Stargate Command.
+0,162,21,HOSKINS,And you arranged a meeting with me?!
+0,162,21,BRICKSDALE,What?
+0,162,21,HOSKINS,You were followed.
+0,162,21,SERGEANT,Careful with your fire - we need him alive!
+0,162,23,JENNINGS,Brooks.
+0,162,23,BROOKS,Go ahead.
+0,162,23,JENNINGS,Weve got a small problem here. Take a locator beacon and get down to Hoskins last position.
+0,162,23,BROOKS,What happened?
+0,162,23,JENNINGS,Weve got an uninvited guest.
+0,162,24,ZARIN,Speak.
+0,162,24,JAFFA,"My Lord Zarin, two enemy Jaffa have been captured near the Gate. One of them is the sholva Tealc."
+0,162,24,ZARIN,Are you certain?
+0,162,24,JAFFA,"I am. Lord Baal will be most pleased, will he not?"
+0,162,24,ZARIN,"Yes, of course. You have done well. Now bring them to me."
+0,162,24,JAFFA,"Yes, my Lord."
+0,162,25,DANIEL,Im gonna ask you again - wheres Colonel Carter?
+0,162,25,BRICKSDALE,I dont know!
+0,162,25,DANIEL,Youre gonna need to start co-operating.
+0,162,25,BRICKSDALE,I cant!
+0,162,25,DANIEL,"A decorated officer of the United States Air Force and a member of one of our governments most top secret organisations is missing, and youre implicated. I dont think youre gonna just walk away from this."
+0,162,25,BRICKSDALE,Theyll kill me!
+0,162,25,DANIEL,"We can protect you. And we can also choose to ignore your two million dollar Cayman Island account. Didnt think wed find out about that, huh?"
+0,162,25,BRICKSDALE,"So if I help you, I can keep the money?"
+0,162,25,DANIEL,We can come to an arrangement.
+0,162,26,JAFFA,"The prisoners, my Lord."
+0,162,26,ZARIN,Leave us.
+0,162,26,JAFFA,My Lord?
+0,162,26,ZARIN,"I intend to question them myself. Leave us, now."
+0,162,27,ZARIN,Are you mad?! What are you doing here?
+0,162,28,TEALC,We must speak with you.
+0,162,28,ZARIN,Speak with me? Do you not realise that by coming here you have placed all our lives in danger?
+0,162,28,TEALC,Are you not in control of this garrison?
+0,162,28,ZARIN,"I am - and, as such, it is my responsibility to see to it that you are tortured for information until such time that Baal arrives to witness your execution."
+0,162,28,DANIEL,So whats it gonna be?
+0,162,28,BRICKSDALE,You said Colonel Carter was missing?
+0,162,28,DANIEL,Mm-hmm.
+0,162,28,BRICKSDALE,"Well, shes probably on the ship."
+0,162,28,DANIEL,Osiris ship. So you did manage to get on board.
+0,162,29,BRICKSDALE,"About a year ago, some men came to see me. They knew everything about my work, the Stargate, Osiris. They knew there was a possibility that a cloaked ship had been left in orbit and they wanted it badly. I told them that the key was the wrist device but I couldnt get it out of there, at least not through the front door."
+0,162,29,DANIEL,What do you mean?
+0,162,29,BRICKSDALE,One day I was in the lab working on the adapter. Next thing I know I found myself on the ship. I had remotely activated the transport beam.
+0,162,29,DANIEL,Which you failed to report.
+0,162,29,BRICKSDALE,"It was killing me that I wasnt able to tell anybody Id figured it out. I had to keep telling them it wasnt working. Anyway, after that I went back and forth half a dozen times, but at the end of the day the wrist device was always back where it belonged."
+0,162,29,DANIEL,And you beamed the others up using locator beacons.
+0,162,29,BRICKSDALE,Well the beam was the only thing that worked without the command codes. And thats where you came in.
+0,162,29,DANIEL,The translation.
+0,162,29,BRICKSDALE,"Osiris worked for Anubis, and Anubis had all his command codes translated into Ancient. Once they had full control of the ship, thanks to you, they had no need for me. They kept a permanent presence up there twenty-four seven, worked in shifts. I went back to Area 51 and sabotaged the adapter. The project was shelved and no one was the wiser."
+0,162,30,DANIEL,Can you get the wrist device to work again?
+0,162,30,BRICKSDALE,Absolutely.
+0,162,31,BROOKS,Launch window in three minutes. Ready for off-grade.
+0,162,31,HOSKINS,Get down to the engine room - check the power relays.
+0,162,31,BROOKS,"Yes, sir."
+0,162,31,JENNINGS,Sir.
+0,162,31,HOSKINS,Colonel Carter. Welcome aboard.
+0,162,31,CARTER,Where are we?
+0,162,31,HOSKINS,"Were in a polar orbit around the Moon - cloaked, of course."
+0,162,31,CARTER,This is the ship Osiris left behind.
+0,162,31,HOSKINS,"We really have to thank you. If you hadnt caught her, we never would have had this opportunity."
+0,162,31,CARTER,You know theyre gonna come after you.
+0,162,31,JENNINGS,Prometheus is undergoing a refit.
+0,162,31,CARTER,"They still have sublight engines. Once they realise youre in a ship, theyll launch - and even with a cloak, youre giving off an energy signature."
+0,162,31,HOSKINS,"Were operating at minimal power. Maybe after a year of intensive scans, they might be able to find us, but this wont take that long."
+0,162,32,CARTER,Youre gonna launch a chemical attack against the Goauld.
+0,162,32,JENNINGS,"We already have. Were starting with Baals territory, since he is the most immediate threat right now."
+0,162,32,CARTER,You realise youre killing millions of innocent Jaffa?
+0,162,32,HOSKINS,"Spare me, Colonel. The Jaffa are a race of warriors, bred specifically to serve the Goauld and enslave humans throughout the galaxy."
+0,162,32,CARTER,Theyre indoctrinated from childhood to believe that the Goauld are their gods. They dont have a choice.
+0,162,32,JENNINGS,"So theyre just following orders, right? Where have I heard that argument before?"
+0,162,32,CARTER,What about the rebel Jaffa? Theyre growing in numbers every day.
+0,162,32,JENNINGS,We consider them acceptable losses.
+0,162,32,HOSKINS,"Its very simple, Colonel. Earth faces an imminent threat, and we have a weapon that can eliminate that threat. We intend to use it."
+0,162,33,JENNINGS,Were ready.
+0,162,33,HOSKINS,Whats the next target?
+0,162,33,P3S-114.,
+0,162,33,HOSKINS,Dial it.
+0,162,33,JENNINGS,"Yes, sir."
+0,162,33,ZARIN,You force me to choose between abandoning my mission and allowing you to die.
+0,162,33,MZEL,"I would worry more about my own life if I were you, TokRa."
+0,162,33,TEALC,"MZel! I feel as you do, brother, but this is not the way."
+0,162,34,ZARIN,Why are you here?
+0,162,34,MZEL,We know about the attacks.
+0,162,34,ZARIN,What attacks?
+0,162,34,TEALC,The TokRa have been using the symbiont poison against the Goauld. Jaffa of three worlds have been annihilated thus far.
+0,162,34,ZARIN,Impossible.
+0,162,34,MZEL,"We have seen it with our own eyes. An entire Jaffa army lying dead on the ground with no wounds, no signs of battle. How do you explain this?"
+0,162,34,ZARIN,"I cannot - but I can assure you that the TokRa are not responsible. If these attacks had been planned, I would have been informed."
+0,162,35,JENNINGS,Initiating launch sequence.
+0,162,35,CARTER,You cant do this. Its murder.
+0,162,35,JENNINGS,"Thats where youre wrong, Colonel - its war. Launching in three, two, one."
+0,162,38,ZARIN,What was that?
+0,162,38,JAFFA,My Lord. We are under attack.
+0,162,38,ZARIN,How?
+0,162,38,JAFFA,A weapon was fired through the Gate. It exploded over the ...
+0,162,39,JAFFA,Lord Zarin! Lord Zarin.
+0,162,39,TEALC,Brothers! We must leave immediately!
+0,162,39,JAFFA,"Kree! Danok! You are not going anywhere, sholva."
+0,162,39,TEALC,You do not understand.
+0,162,39,TEALC,"MZel, there may still be time."
+0,162,39,MZEL,I die ... free.
+0,162,39,TEALC,Indeed.
+0,162,40,COMMS OFFICER,"Sensor grid R-14 shows no anomalies, sir."
+0,162,40,PENDERGAST,Very well. Proceed to the next grid.
+0,162,40,COMMS OFFICER,"Yes, sir."
+0,162,40,PENDERGAST,Shes out there somewhere.
+0,162,41,DANIEL,Make it work.
+0,162,41,JENNINGS,Our next target is P5R-357.
+0,162,41,HOSKINS,Lets do it.
+0,162,41,CARTER,I wouldnt bother. Baal abandoned that planet six months ago when the naqahdah mines went dry.
+0,162,41,JENNINGS,Shes lying.
+0,162,41,CARTER,Go ahead. Waste another rocket. Thats one less planet youll be able to destroy.
+0,162,41,HOSKINS,She does have more up-to-date intelligence.
+0,162,41,JENNINGS,Shes bluffing.
+0,162,41,HOSKINS,You can make this a lot less painful if you help us select optimum targets.
+0,162,41,CARTER,What are you talking about?
+0,162,41,HOSKINS,You know as much about the current tactical and strategic positions of the different System Lords as anyone on Earth.
+0,162,41,CARTER,I dont know as much as you think.
+0,162,41,HOSKINS,You know enough to help us get maximum effect with minimum collateral damage. Youre the one who wants to save innocent lives.
+0,162,41,CARTER,Nice try.
+0,162,41,JENNINGS,So - are we going for P5R-357 or not?
+0,162,42,HOSKINS,Go to the next one on the list.
+0,162,43,ONEILL,Alright - tell me again why I should agree to this?
+0,162,43,DANIEL,"Because its the only way we have to get on the ship, and if theyve changed the command codes, Im the one who has the best chance to decipher the Ancient symbols."
+0,162,43,ONEILL,"And if there are ten armed goons when you get there, youre the one thats gonna ... get ..."
+0,162,43,DANIEL,Better ideas?
+0,162,43,ONEILL,"Look, Daniel, just because I dont have a better idea is no reason to do anything."
+0,162,44,DANIEL,"Look, once I shut down the cloak, Prometheus will be able to pinpoint the ships location. Then all I have to do is disable the hyperdrive and wait for the cavalry. Theyll never see it coming!"
+0,162,44,ONEILL,Which is one of the advantages of the totally insane idea.
+0,162,44,DANIEL,Yeah - whered I learn that from?! OK. See you soon.
+0,162,45,DANIEL,Come on! Fine.
+0,162,45,COMMS OFFICER,"Sir, we have something. Definitely a ship. Bearings 157 by 229, five hundred thousand kilometres."
+0,162,45,PENDERGAST,Battle stations! Plot an intercept course.
+0,162,45,COMMS OFFICER,"Yes, sir. Pendergast presses a button on the console on his chair."
+0,162,45,PENDERGAST,"General ONeill, this is Prometheus."
+0,162,45,ONEILL,Go ahead.
+0,162,45,PENDERGAST,"Looks like Doctor Jackson pulled it off, sir, we have em on our screens and we are moving in."
+0,162,45,ONEILL,Understood.
+0,162,46,BROOKS,Weve got a problem. I just monitored a sixty percent drop in our power consumption.
+0,162,46,HOSKINS,The cloak! Stay with her.
+0,162,47,HOSKINS,Get up to the bridge - get that cloak back online.
+0,162,47,BROOKS,"Yes, sir."
+0,162,47,COMMS OFFICER,"Were in weapons range, sir."
+0,162,47,PENDERGAST,They noticed us yet?
+0,162,47,COMMS OFFICER,"I dont think so. They seem to be operating at minimal power, no evasive manoeuvres."
+0,162,47,PENDERGAST,What about the hyperdrive?
+0,162,47,COMMS OFFICER,Still no signal from Doctor Jackson.
+0,162,47,PENDERGAST,"General ONeill, we have a problem. The ships cloak is down, sir, but Doctor Jackson has yet to confirm whether he has disabled the hyperdrive or not."
+0,162,47,ONEILL,Just give him a little more time.
+0,162,47,PENDERGAST,"Right now, sir, they are sitting ducks. If they spot us, they can run, and we wont be able to catch them. We cant afford to let them get away, General. I recommend we open fire immediately."
+0,162,48,PENDERGAST,"General, please advise."
+0,162,50,JENNINGS,Where the hell did he come from?!
+0,162,50,HOSKINS,He got the wrist device.
+0,162,50,JENNINGS,Any chance theres more of them on board?
+0,162,50,HOSKINS,It only lets one person up at a time.
+0,162,50,BROOKS,"Hoskins, this is Brooks."
+0,162,50,HOSKINS,: Go ahead.
+0,162,50,BROOKS,The cloaks been disabled. I dont know if I can get it back online.
+0,162,50,HOSKINS,This position is compromised. We need to get out of here now.
+0,162,50,BROOKS,"Yes, sir."
+0,162,50,JENNINGS,What about them?
+0,162,50,HOSKINS,We cant take them with us.
+0,162,50,DANIEL,I dont mind going for a little ride.
+0,162,50,CARTER,Me neither.
+0,162,50,HOSKINS,"Sorry about this, Doctor Jackson."
+0,162,50,JENNINGS,Incoming!
+0,162,50,TEALC,This is Tealc of SG-1.
+0,162,50,TEALC,"This is Tealc of SG-1. Repeat, this is Tealc."
+0,162,51,TEALC,"Repeat, this is Tealc."
+0,162,51,DANIEL,"Tealc, this is Daniel, we need your help, cmon through!"
+0,162,52,CARTER,Somebody wanna untie me?
+0,162,52,BROOKS,"Cargo hold, whats happening down there? Cargo hold, respond. Jennings, Hoskins, where the hell are you?"
+0,162,54,DANIEL,Whats happening?
+0,162,54,CARTER,Shes bringing the hyperdrive on line. Get to the Gate.
+0,162,56,COMMS OFFICER,"Theyre trying to run, sir."
+0,162,56,PENDERGAST,"Dammit! General ONeill, they are powering up their hyperdrive - we are out of options."
+0,162,56,ONEILL,Can you disable the ship without destroying it?
+0,162,56,PENDERGAST,I cannot give you any guarantees.
+0,162,57,COMMS OFFICER,"Sir, were picking up a signal coming from inside the ship."
+0,162,57,PENDERGAST,What is it?
+0,162,57,COMMS OFFICER,"Locator beacon, sir. Same frequency."
+0,162,57,PENDERGAST,Lock onto the signal - activate transport beam.
+0,162,57,COMMS OFFICER,Beam activated.
+0,162,58,COMMS OFFICER,"Ships gone, sir."
+0,162,58,PENDERGAST,"Cargo Bay, report."
+0,162,58,VOICE,"This is Cargo Bay. We have the Gate, sir, as well as Tealc, Colonel Carter and Doctor Jackson."
+0,162,58,PENDERGAST,"Tealc?! Acknowledged. General ONeill, it looks like you were right. We have the Gate and SG-1 aboard. Theyre all alive."
+0,162,59,ONEILL,Thats good news. Bring em home.
+0,162,59,PENDERGAST,"Yes, sir."
+0,162,61,CARTER,"The good news is, the Gate is fully operational again. We can resume offworld missions immediately."
+0,162,61,DANIEL,"And the bad news is, The Trust now has a fully functional Goauld alkesh."
+0,162,61,CARTER,Weve installed jamming devices around the Gate to prevent any locator beams from operating in the future.
+0,162,61,TEALC,What of the TokRa poison?
+0,162,61,CARTER,"Well, they left most of it behind, but they still have enough to wipe out at least half a dozen Goauld worlds."
+0,162,61,DANIEL,"In retrospect, maybe you should have destroyed the ship when you had the chance."
+0,162,61,ONEILL,Yeah. Tough choice.

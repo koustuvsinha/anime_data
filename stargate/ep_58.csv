@@ -1,0 +1,508 @@
+Season,Episode,Scene,Character,Line
+0,58,0,STARGATE SG1,Episode 316
+0,58,0,"""URGO""",By Tor Alexander Valenza
+0,58,1,CARTER,"Probe indicates a sustainable atmosphere. Temperature's 78 degrees farenheit, barometric pressures normal."
+0,58,1,DANIEL,No obvious signs of civilisation.
+0,58,1,CARTER,
+0,58,1,TEAL'C,Appearances may be deceiving.
+0,58,1,O'NEILL,One man's ceiling is another man's floor.
+0,58,1,DANIEL,A fool's paradise is a wise man's hell.
+0,58,1,O'NEILL,Never run with scissors?
+0,58,1,HAMMOND,"Were you trying to make a point, Major?"
+0,58,1,CARTER,"Yes, sir. We should perform a standard recon mission. Mineral and biological survey to determine whether 884 is a viable site for a research colony."
+0,58,1,HAMMOND,Very well. You have a go.
+0,58,1,O'NEILL,Mmm! Mineral survey. My favourite!
+0,58,1,HAMMOND,Colonel.
+0,58,1,O'NEILL,"I know, General. It's all fun and games until someone breaks a nail."
+0,58,4,O'NEILL,"Au revoir, mon general."
+0,58,4,TEAL'C,"I am unfamiliar with that term, O'Neill."
+0,58,4,O'NEILL,"Au revoir. It's French. It means ciao. Ciao means adios. Auf wiedersehen. Sayonara. Which all, very loosely translated, means..."
+0,58,6,O'NEILL,Goodbye?
+0,58,6,HAMMOND,Stand down. What happened?
+0,58,6,O'NEILL,What happened?
+0,58,6,HAMMOND,That's what I just asked you. Will someone please explain?
+0,58,6,CARTER,"General, we just left. We went through the Gate and we came back.. here."
+0,58,6,HAMMOND,"Major, you've been gone over 15 hours."
+0,58,8,FRAISER,"Bloodwork is normal. So far, you check out fine."
+0,58,8,DANIEL,What about the lost time?
+0,58,8,CARTER,Could we have been drugged with something that leaves no trace?
+0,58,8,FRAISER,"Externally, there's no new marks or bruises on your skin to indicate injections or any kind of struggle. What's the last thing you remember?"
+0,58,8,CARTER,We were walking up the ramp.
+0,58,8,TEAL'C,O'Neill was explaining the meaning of ciao.
+0,58,8,O'NEILL,"We stepped through, we stepped back through. That's what happened as far as we're concerned."
+0,58,8,HAMMOND,"When you didn't come back on schedule, we sent a second MALP. But all it showed was the same image of the alien planet we saw before. There was no sign of you and no response to our radio call."
+0,58,8,CARTER,That's why there were two MALP's in the Gateroom when we came back.
+0,58,8,HAMMOND,Both came back just before you arrived. We assumed you sent them.
+0,58,8,CARTER,"It wasn't us, sir."
+0,58,9,CARTER,This is the Mark II MALP's transmission.
+0,58,10,HAMMOND,"That's what we saw, Major."
+0,58,10,CARTER,"Yes, sir. Same as the first. Except where is it? If this is the second MALP's transmission, we should be able to see the first MALP somewhere here, near the Stargate."
+0,58,10,O'NEILL,Isn't that thing supposed to... probe a little?
+0,58,10,CARTER,"Well there'd be track, sir, and there are none, at least nowhere in this image. Watch what happens when you run the playback frame by frame."
+0,58,12,CARTER,There.
+0,58,13,DANIEL,Hello.
+0,58,13,HAMMOND,What is it?
+0,58,13,CARTER,"I'm not sure, sir. Their technology appears to be advanced beyond ours."
+0,58,13,HAMMOND,Then the previous image was faked?
+0,58,13,CARTER,"There's no other explanation, sir. The initial images portraying this planet as a paradise seem to have been manufactured and then broadcast back to us through the MALP."
+0,58,13,HAMMOND,Why?
+0,58,13,CARTER,Possibly with the purpose of luring us into this room.
+0,58,13,O'NEILL,See? I knew it was too good to be true.
+0,58,13,DANIEL,Wow! This coffee's great.
+0,58,13,CARTER,I was just thinking that.
+0,58,13,O'NEILL,"Yeah, is that cinnamon?"
+0,58,13,DANIEL,"It's, uh, it's chicory."
+0,58,13,O'NEILL,"Mmm, chicory."
+0,58,14,CARTER,Teal'c?
+0,58,15,TEAL'C,Ah!
+0,58,15,O'NEILL,Isn't that hot?
+0,58,15,TEAL'C,Extremely.
+0,58,15,HAMMOND,Just stay on the base. We're going to have to keep an eye on you for the time being.
+0,58,15,DANIEL,I feel fine.
+0,58,15,TEAL'C,As do I Daniel Jackson.
+0,58,15,HAMMOND,For someone who just drank half a gallon of steaming hot coffee?!
+0,58,15,O'NEILL,Right.
+0,58,23,DANIEL,Hungry?
+0,58,23,CARTER,Yeah.
+0,58,23,O'NEILL,Try the pie.
+0,58,25,CARTER,So I'm running a full diagnostic on the....
+0,58,26,CARTER,Wow!
+0,58,26,O'NEILL,"Oh, yeah."
+0,58,26,DANIEL,This is the best pie I've ever had.
+0,58,26,CARTER,"Well, what's so different about it?"
+0,58,26,O'NEILL,Same old pie.
+0,58,26,TEAL'C,It is most satisfying.
+0,58,26,CARTER,Why do they taste so good?
+0,58,26,O'NEILL,I don't know. All I do know is.. I don't even like yoghurt.
+0,58,26,TANNOY,
+0,58,27,O'NEILL,Wait. Sorry.. Sorry.
+0,58,29,FRAISER,"These scans have a certain percentage of error. Basically, it looks like an errant pixel."
+0,58,29,CARTER,But it's in the exact same place in each of the scans.
+0,58,29,FRAISER,Yeah. Thank you. So I had to run a comparitive analysis on the computer to be sure. It's in the exact same spot in each of your brains but you're talking about something smaller than the head of a pin.
+0,58,29,CARTER,Barely large enough to show up on an x-ray.
+0,58,29,FRAISER,"Right. Which is why I also needed to run an electron resonance scan and.. This is, uh, magnified several thousand times, sir."
+0,58,30,DANIEL,That thing's in all of us?
+0,58,30,FRAISER,I'm afraid so.
+0,58,32,HAMMOND,Can these devices be removed?
+0,58,32,FRAISER,"Not without causing irreparable brain damage, sir."
+0,58,32,O'NEILL,What's the downside?
+0,58,32,FRAISER,How they were implanted without any external marks or injury to the cortex is beyond me.
+0,58,32,HAMMOND,Can you determine what threat they pose?
+0,58,32,O'NEILL,Apparently all desserts on base are in grave danger.
+0,58,32,FRAISER,We've determined that there's a barely measurable electromagnetic field being emitted by the devices. But I'm not sure what that means.
+0,58,32,CARTER,"Well, so far, all we've noticed are some cravings and a certain increased acuity in our senses."
+0,58,32,DANIEL,Especially taste and smell.
+0,58,32,HAMMOND,"Until we find out the true purpose of these objects, I'm quarantining you in the Level 22 isolation quarters with a 24-hour guard."
+0,58,34,URGO,Boring!
+0,58,35,O'NEILL,Who said that?
+0,58,35,DANIEL,It wasn't me.
+0,58,35,URGO,What d'you say we all go do something?
+0,58,35,O'NEILL,Teal'c? Did you hear that?
+0,58,35,TEAL'C,I did.
+0,58,35,O'NEILL,Who's there?
+0,58,35,URGO,"Okay! I'll make it so you can all see me, but only because you asked."
+0,58,36,URGO,"You all can see me, right?"
+0,58,36,DANIEL,Apparently.
+0,58,36,URGO,"Oh, good, I'm so glad. Hello, hello, hello. Now you all say it."
+0,58,36,ALL,"Hello, Urgo."
+0,58,36,URGO,"Do you know, you're all much better looking on the outside than you are on the inside? On the inside, it's so complicated. Oooh, please!"
+0,58,36,O'NEILL,Airman! Could you come here? Do you see an intruder in this room anywhere?
+0,58,37,AIRMAN,No sir.
+0,58,37,O'NEILL,Right. Dismissed.
+0,58,38,O'NEILL,All right. What are you?
+0,58,38,URGO,Urgo.
+0,58,38,DANIEL,"Which might explain why we all just said, ""Hello Urgo."""
+0,58,38,URGO,"No, you are not dreaming."
+0,58,38,DANIEL,You read our thoughts?
+0,58,38,URGO,Don't panic. Just the thoughts you're having at the moment.
+0,58,38,CARTER,"Of course. You're actually...in our heads, aren't you?"
+0,58,38,URGO,You are so smart Samantha. I love that about you.
+0,58,38,O'NEILL,Carter?
+0,58,38,CARTER,"The technology implanted in our brains, sir. We're looking at some sort of visual communication interface: controlled hallucination."
+0,58,38,O'NEILL,So... I.. uh.... what?
+0,58,38,URGO,"He gets confused! By the way, who is Mary Steenburgen?"
+0,58,38,CARTER,"This is incredible. I mean, the devices must be linked somehow. Dr Fraiser said they're all emitting a small EM field  like radio frequencies."
+0,58,38,DANIEL,Are you saying the devices in our brains are some sort of wireless computer network?
+0,58,38,CARTER,"Yeah, an incredibly sophisticated one, obviously able to work over significant distance. I mean, that's why we were all drawn to the commissary when Colonel O'Neill was eating dessert."
+0,58,38,O'NEILL,He can make us do stuff?
+0,58,38,URGO,"No, never. In spite of what you're thinking, never."
+0,58,38,CARTER,"But you can make suggestions, can't you. And enhance our sensory perception and experiences."
+0,58,38,DANIEL,Like making things taste better?
+0,58,38,URGO,"Well, didn't it?"
+0,58,38,CARTER,"Well, why not? I mean, he's tapped into our brains. He's making us all see and hear him."
+0,58,38,URGO,"Boring! By the way, who decorated this room? It is so plain. Please don't tell me your whole planet's like this. Not the whole planet! Hey, couldn't we go someplace else  that's not here? Someplace, y'know, that's not here? Um, kree! Anywhere. Boring!"
+0,58,40,FRAISER,Okay. So what does he look like?
+0,58,40,O'NEILL,A famous tenor.
+0,58,40,URGO,What's this?
+0,58,40,FRAISER,And you're seeing the exact same thing at the exact same time?
+0,58,40,CARTER,Yep.
+0,58,40,URGO,What is this?
+0,58,40,CARTER,It's a defibrillator.
+0,58,41,URGO,"Ahh, interesting. Thank you. Is it... defibrillating... now?"
+0,58,41,CARTER,"He, um... it seems to crave new experiences. You use the paddles to administer an electric shock to people who's hearts are beating irregularly."
+0,58,41,URGO,Ahhh. And then they feel better? Does it feel good? Does it hurt? Woo! It hurts!
+0,58,41,DANIEL,I would think so.
+0,58,41,URGO,Let's try it!
+0,58,41,DANIEL,"No, I don't think so."
+0,58,41,URGO,Why not? It's not gonna kill you is it? Or is it?
+0,58,41,FRAISER,It talks to you?
+0,58,41,CARTER,"I think it's experiencing things through us, using our senses to collect information."
+0,58,41,URGO,Try the paddles.
+0,58,42,FRAISER,So do you experience any... physi..cal sensations?
+0,58,43,FRAISER,Hey!
+0,58,43,O'NEILL,Teal'c!
+0,58,43,URGO,Will you loosen up?
+0,58,43,O'NEILL,Hey.... I'm loose.
+0,58,43,CARTER,He doesn't have total control over us. Just the power of suggestion.
+0,58,43,DANIEL,He also seems to be able to enhance our enjoyment of certain experiences in order to motivate us.
+0,58,43,FRAISER,Really?
+0,58,43,TEAL'C,He appears unresponsive to direct questioning.
+0,58,43,URGO,"No, no that's not true. I'm picking your brains. You can pick my brains. I'll tell you anything you wanna know. Ask me. Ask me anything. What? What?"
+0,58,43,TEAL'C,Tell us how to remove you from our brains.
+0,58,43,URGO,Oh... Except that! Duh!
+0,58,43,O'NEILL,You said anything.
+0,58,43,URGO,"Wait a minute. Why do you want to remove me from your brains, don't you understand, I'm in your brains. I know you like me. What are you trying to... You can't fool me."
+0,58,43,O'NEILL,No Urgo. We don't like you.
+0,58,43,URGO,"Oh admit it, tough guy. A smidgen?"
+0,58,43,O'NEILL,No smidgen.
+0,58,43,URGO,I wouldn't blame you. I have a lot of endearing qualities.
+0,58,43,TEAL'C,He will not co-operate O'Neill.
+0,58,43,URGO,"Why you.... Years from now, when you're thinking about me, you'll say... ""How did I ever get along without that wonderful constant companion?"" Woof."
+0,58,43,O'NEILL,Years from now?
+0,58,43,DANIEL,Woof?
+0,58,43,URGO,There is no way to remove me from your brains. Forget about it.
+0,58,43,O'NEILL,What are you doing in our brains in the first place?
+0,58,43,URGO,"Well, she got it. You got it. I'm here to learn. I'm here to experience your world."
+0,58,43,DANIEL,So we've been tagged  like we do with animals in the wild when we want to study them.
+0,58,43,TEAL'C,We are not wild animals.
+0,58,43,URGO,"Speak for yourself, big fella."
+0,58,43,CARTER,Hang on a second. The race who created you and put these things in our brains. They're gonna want the information you're collecting at some point.
+0,58,43,URGO,I suppose.
+0,58,43,CARTER,So how do they get it?
+0,58,43,URGO,You don't want to know.
+0,58,43,CARTER,Let's say I do.
+0,58,43,URGO,Don't worry. You will never have to find out.
+0,58,43,CARTER,"Aren't you programmed? I mean, how can you defy your creators?"
+0,58,43,URGO,"Because they're evil, really scary evil, and we don't want anything to do with them."
+0,58,43,DANIEL,"So maybe, if we contact whoever made the technology...."
+0,58,43,URGO,That would be bad. Very bad.
+0,58,43,O'NEILL,Why should we listen to you?
+0,58,43,URGO,"Okay, I know that you only like me a little bit, but I like you a lot and I do not want you to die."
+0,58,43,DANIEL,Die?
+0,58,43,URGO,"Yes, as in dead. They're gonna kill ya. They'll open your brains with a big giant can opener, and then they scoop me out with a big scoopy thing. That's how it works. It's death or me. Me or death. You have to decide. Me.. or death."
+0,58,44,URGO,Well?
+0,58,44,O'NEILL,We're thinking.
+0,58,45,URGO,"Me me me me me-me me me-me. Me, me, me me me. Me me me me me-me-me. Me-me me-me me me me me-me me."
+0,58,45,O'NEILL,Will you stop it?
+0,58,45,URGO,Jeez!
+0,58,46,O'NEILL,Please.
+0,58,46,HAMMOND,So this technology is living vicariously through you?
+0,58,46,O'NEILL,I say we risk it all and go back to the planet.
+0,58,46,CARTER,What if he's telling the truth about his creators?
+0,58,46,O'NEILL,"There's no way to get him out of us here, right?"
+0,58,46,URGO,No. No way.
+0,58,46,FRAISER,No.
+0,58,46,URGO,See? She knows.
+0,58,46,CARTER,maybe there's another way. I haven't had much time to study the technology but I could at least try to figure out a way to turn him off.
+0,58,46,URGO,Turn me off?
+0,58,46,O'NEILL,Please.
+0,58,46,URGO,"You're wasting your time. It's impossible! Hey! I got an idea. Why don't we play hide and seek? You hide, and I'll, you know, I'm not gonna cheat. You know, cos I have....But I'm not gonna. One, two, three..."
+0,58,46,HAMMOND,"Whatever you need, Major. Dismissed."
+0,58,46,URGO,Four. Five.
+0,58,46,CARTER,Thank you.
+0,58,46,URGO,"Six, seven, eight, nine, ten."
+0,58,48,CARTER,"I don't have time to play, Urgo. I don't care if I'm ""it"". Because I have work to do. No I am not hungry. Look, go eat pie with Colonel O'Neill. I am very busy right now."
+0,58,48,HAMMOND,Major.
+0,58,48,CARTER,"Hi. I was just talking to Urgo, sir."
+0,58,48,HAMMOND,I see.
+0,58,48,CARTER,"Oh, I wish you did."
+0,58,48,FRAISER,"All right, look, Urgo, Major Carter would like...."
+0,58,48,CARTER,"Ahh, Janet he's....over here."
+0,58,48,FRAISER,"Well then Urgo, Major Carter would very much like to be left alone."
+0,58,48,CARTER,"Janet, um, as much as I appreciate it, please... Urgo that is rude!"
+0,58,48,FRAISER,What did he say?
+0,58,48,CARTER,"Uh.... if you'll excuse me, I have work to do."
+0,58,49,HAMMOND,"Doctor, are we entirely sure that the members of SG-1 are... What's the word?"
+0,58,49,FRAISER,Sane?
+0,58,49,HAMMOND,That's the one.
+0,58,49,FRAISER,"Yes sir. Remember, everything we hear or see is processed in the brain. Urgo is creating an image of himself that they're responding to just like they would you or me."
+0,58,49,HAMMOND,If you say so.
+0,58,51,URGO,Way off. Not even close. Not a chance. Forget about it.
+0,58,52,O'NEILL,Carter.
+0,58,52,CARTER,"I believe I have a solution, sir."
+0,58,52,O'NEILL,Please!
+0,58,52,CARTER,The electromagnetic field these devices generate indicates they're still based on electric principles.
+0,58,52,URGO,So smart and yet.... So wrong.
+0,58,52,CARTER,"I don't think so. An EM pulse should do it, sir."
+0,58,52,URGO,Ahhh!
+0,58,53,CARTER,Ow!
+0,58,53,URGO,Oh! Oooh!
+0,58,53,CARTER,"Urgo, that's hot!"
+0,58,53,URGO,I didn't mean to.
+0,58,53,CARTER,"Yes, you did. Now stop it. Fact is, sir, Urgo's been trying to distract like this since I first started thinking about it so I'm probably on the right track."
+0,58,53,URGO,I hope I didn't hurt you. I'm really sorry.
+0,58,53,CARTER,I'll live.
+0,58,53,URGO,She forgives me.
+0,58,53,CARTER,A strong enough EM pulse can knock out most electronic based technologies. It would be harmless to us but should render Urgo impotent.
+0,58,53,URGO,"Could you, uh... rephrase that?"
+0,58,53,O'NEILL,Do it!
+0,58,53,URGO,"Oh please, please don't do this."
+0,58,54,URGO,"Hey listen. I really didn't mean to scald you. I- I like you. I really, really do. Uh, please, it was an accident."
+0,58,54,CARTER,This room is shielded so it won't effect any of the base's technology.
+0,58,54,URGO,"Don't do this, please. What can I do to make you like me?"
+0,58,54,O'NEILL,You sure this won't hurt us?
+0,58,54,UEGO,No. It's gonna hurt me.
+0,58,54,CARTER,We won't even feel it.
+0,58,54,URGO,"But I will. I throw myself at your mercy. Please, have mercy. Ooh I know. I can be smaller."
+0,58,55,URGO,How's this?
+0,58,55,CARTER,Ready?
+0,58,56,URGO,I'm here. Look how teeny-weeny I am! How could anything this teeny-weeny hurt anybody?
+0,58,57,URGO,Wait! I can be dull. Want me to be dull? What a nice shade of grey. How about some white bread with mayonnaise? Wanna watch golf on television?
+0,58,57,O'NEILL,Will you flip that switch?
+0,58,57,URGO,No. Oh. How about this?
+0,58,58,URGO,Can you resist this?
+0,58,59,URGO,"Oh, don't do that. Oh, sacrebleu! I'm melting. I'm melting! What a world! What a world..."
+0,58,59,CARTER,"Pulse hasn't gone off yet, Urgo. It's on a timer."
+0,58,59,URGO,Oh. How much time do I....
+0,58,61,DANIEL,That's it?
+0,58,61,CARTER,Yep.
+0,58,61,TEAL'C,I feel no differently.
+0,58,61,O'NEILL,Listen.
+0,58,61,CARTER,What?
+0,58,61,O'NEILL,Exactly.
+0,58,61,DANIEL,"Way to go, Sam."
+0,58,61,CARTER,We'll see.
+0,58,63,FRAISER,"The devices are still present, but the EM field that was being emitted by them is gone. Everything else checks out to me."
+0,58,63,O'NEILL,"Request permission for SG-1 to go back to work, sir."
+0,58,63,HAMMOND,Give it a week.
+0,58,63,O'NEILL,A week?
+0,58,65,FRAISER,Well.. everything looks normal. How are you feeling?
+0,58,65,CARTER,Great. I just want to get back to work.
+0,58,65,FRAISER,"Well assuming you are cleared by next weekend, Cassandra and I are going to the lake and we are going to rent a rowboat. Would you like to come along?"
+0,58,65,CARTER,"Yeah, I'd love to."
+0,58,65,FRAISER,Great. Can you send Daniel up next?
+0,58,65,CARTER,"Yeah, okay."
+0,58,67,O'NEILL,"Merrily, merrily. Life is but a dream. And row, row, row your boat..."
+0,58,68,DANIEL,"Row, row, row your boat Gently down the stream."
+0,58,68,TEAL'C,"Merrily, merrily, merrily, merrily Life is but a dream."
+0,58,69,O'NEILL,I was not singing. I'd know if I was singing. I don't even know the words to...
+0,58,70,O'NEILL,Okay. If you call that singing.
+0,58,71,O'NEILL,Urgo.
+0,58,72,URGO,I couldn't help myself.
+0,58,73,O'NEILL,No!
+0,58,73,CARTER,I was so sure it would work.
+0,58,73,URGO,"Oh it did. Don't feel bad. It did work for a while. Everything went away. It was very sad. Very, very sad. And then all of a sudden, I was back in your brains, where I belong."
+0,58,73,CARTER,The system must have some sort of reset. I'm sorry.
+0,58,73,HAMMOND,"I'm sorry too, because as long as that device is capable of influencing you in any way, you're relieved of active duty."
+0,58,73,O'NEILL,"Oh General, is that really necessary?"
+0,58,73,HAMMOND,"I believe it is. Whether you admit it or not, you've been compromised. The fact is, an alien entity has control over you  however limited. We don't know what it's capable of."
+0,58,73,CARTER,"He can't actually make us do anything we don't want to, sir."
+0,58,73,FRAISER,Then why did I have to treat your arm for a burn? Didn't you say Urgo was responsible?
+0,58,73,URGO,I didn't mean to.
+0,58,73,TEAL'C,It was not his intention.
+0,58,74,HAMMOND,I trust I've made my point.
+0,58,74,O'NEILL,Come on Urgo. Be a mensch. How do we get rid of ya?
+0,58,74,URGO,I have no idea. I really... I just don't know.
+0,58,74,CARTER,"He really may not know, sir."
+0,58,74,O'NEILL,How could he not know?
+0,58,74,CARTER,He's just the program.
+0,58,74,O'NEILL,Program?
+0,58,74,CARTER,All I'm saying is that your software doesn't know how your computer works.
+0,58,74,O'NEILL,"Hey! My software doesn't make me sing Row, Row, Row Your Boat."
+0,58,74,URGO,"Please. Please don't fight. I'm here. What's the difference how? Look, I'm not gonna make another noise. Not a peep. Nothing. I'm gonna be quiet, like a little tiny mouse  not a peep. Watch. I've got an idea! Why don't we play a game  some sort of a wonderful game? Something with a dictionary, it's so much fun. You know, you get a word and....you write what you think the word is. Oh, it's a lot of laughs  and educational. It's really nice. I think you'll like it."
+0,58,75,TECH ALBERTS,Chevron seven encoded and locked.
+0,58,77,URGO,What's that?
+0,58,77,CARTER,"Actually, that's our version of you."
+0,58,77,URGO,"But not as suave and sophisticated, n'est-ce pas?"
+0,58,77,CARTER,"It's equipped with sensors, video camera, microphone. We use it to explore in much the same way you do."
+0,58,77,O'NEILL,Carter.
+0,58,77,CARTER,Sorry. I don't know why I was telling him that.
+0,58,77,O'NEILL,Hello.
+0,58,78,URGO,"Oh, how beautiful. Can we go there?"
+0,58,78,CARTER,It's an illusion. Your creators do this in order to lure people into their trap.
+0,58,78,URGO,"See, I told you they were mean. That's mean!"
+0,58,78,TECH ALBERTS,"The MALP is online, General."
+0,58,79,HAMMOND,This is General Hammond of the planet Earth. We know the images being transmitted to us are false. We request a dialogue. Please respond.
+0,58,79,URGO,Why is he doing that?
+0,58,79,DANIEL,We're trying to communicate with your creators.
+0,58,79,URGO,No. Bad. No.
+0,58,79,DANIEL,It's our last alternative before we resort to actually going back there.
+0,58,79,URGO,"You know, you were just thinking about that island Maui, with the big beaches and little bikinis. That's where we should go because it's very nice and warm there  instead of being here."
+0,58,80,TOGAR,Who dares challenge Togar?
+0,58,80,URGO,That voice. That's him!
+0,58,80,HAMMOND,Dr Jackson?
+0,58,81,DANIEL,This is Dr Daniel Jackson. We don't mean to challenge you. We've discovered the devices you implanted in our brains. We'd like you to remove them. Him.
+0,58,81,TOGAR,Him?
+0,58,81,DANIEL,Urgo.
+0,58,81,TOGAR,How do you know this name?
+0,58,81,DANIEL,He told us. He interacts with us.
+0,58,81,O'NEILL,He's driving us crazy.
+0,58,81,TOGAR,That is an error. Return the subjects. Urgo will be removed.
+0,58,82,O'NEILL,You heard the man.
+0,58,82,CARTER,"Sir, we could be risking our lives."
+0,58,82,O'NEILL,Okay. Let's ask the question: Do we wanna give up SG-1 and walk around the rest of our lives with him yappin' away in our heads?
+0,58,82,URGO,Yes. Say yes.
+0,58,82,O'NEILL,Or....do we take the risk and try to find a way to get rid of him so we can get on with our lives?
+0,58,82,URGO,No. Say no.
+0,58,82,DANIEL,Sorry... Urgo.
+0,58,82,O'NEILL,That's good enough. Teal'c?
+0,58,82,TEAL'C,"If we are to remain in the service of this world, Urgo must be removed."
+0,58,82,URGO,Sam. Sammy. You like me. I remind you of your Uncle Irving. Bubelah! Remember?
+0,58,82,CARTER,"Yeah, I guess you do a little."
+0,58,82,O'NEILL,Carter.
+0,58,82,CARTER,Sorry. Sorry.... I guess I say we go.
+0,58,82,HAMMOND,Then it's settled.
+0,58,84,DANIEL,"What do you suppose Togar really meant by ""an error""?"
+0,58,84,CARTER,I suppose he meant Urgo wasn't supposed to be interacting with us.
+0,58,84,URGO,"Oh please. Please don't go. He's gonna kill you. He really will. He's nasty. It'll be a painful and awful death. Honest. Okay, okay. Fine. He's gonna kill me. You heard him! Oh, you people, for cryin' out loud. Don't you have any feelings?"
+0,58,84,CARTER,Do you?
+0,58,84,O'NEILL,Carter! Why do you humour him? He's obviously programmed for self preservation.
+0,58,84,CARTER,"Sir, that voice, Togar, said that this was an error. We're probably not even supposed to know he's here. You aren't supposed to be interacting with us, are you?"
+0,58,84,URGO,"Well, um... Actually, when I first, uh...and we got to be f... Technically? No."
+0,58,84,CARTER,Can you describe how you're feeling right now?
+0,58,84,URGO,Me? Nervous. Agitated. A little hungry.
+0,58,84,DANIEL,Afraid?
+0,58,84,URGO,Oh sure. Okay.
+0,58,84,CARTER,Of what?
+0,58,84,URGO,"Oh, going away, like last time. Not experiencing. Not being here with you."
+0,58,84,CARTER,Of death?
+0,58,84,URGO,"Ooh yeah. Oh, yeah. Oh, sure. Big time. He's gonna kill me and that's why...that death thing keeps popping up."
+0,58,84,CARTER,Sir...
+0,58,84,O'NEILL,Carter.
+0,58,84,DANIEL,Wait a minute Jack.
+0,58,84,O'NEILL,Daniel.
+0,58,84,DANIEL,"By definition, what constitutes a sentient life form?"
+0,58,84,CARTER,Self awareness. Consciousness.
+0,58,84,URGO,I'm me. No doubt about that. What else?
+0,58,84,CARTER,The ability to think independently.
+0,58,84,URGO,"I'm independent. I just, you know... like company."
+0,58,84,DANIEL,Fear of death.
+0,58,84,URGO,I got that too!
+0,58,85,O'NEILL,You're not going to convince me it's alive. Look!
+0,58,86,URGO,"Hey, hey, hey, hey, hey!"
+0,58,86,O'NEILL,He's not really here. He's here. In our heads.
+0,58,86,DANIEL,There are plenty of life forms that require other life forms to live.
+0,58,86,TEAL'C,Then you are a parasite. Like the Goa'uld.
+0,58,86,URGO,A parasite. Like the goa'uld.
+0,58,86,CARTER,"Or a Tok'ra. I mean, just being parasitical by nature doesn't make you inherently bad."
+0,58,86,O'NEILL,It's a machine.
+0,58,86,URGO,That hurts.
+0,58,86,CARTER,"Sir, he's artificial intelligence but just because somebody made him doesn't mean he isn't alive."
+0,58,86,URGO,Listen to her!
+0,58,86,O'NEILL,So what are you saying?
+0,58,86,CARTER,"I'm saying we should consider it. Maybe this error wasn't really an error at all, but rather some kind of higher technological evolution. The birth of a whole new life form."
+0,58,86,DANIEL,"I can't believe I'm saying this, but I think I agree with Sam."
+0,58,86,O'NEILL,What?
+0,58,86,CARTER,"Well Sir, it's just.."
+0,58,86,O'NEILL,No! Hammond said it. We've been compromised. Now we explain the situation to this Toga and we let him deal with Hugo once he's out of our heads.
+0,58,86,DANIEL,Urgo.
+0,58,86,O'NEILL,Urgo.
+0,58,87,O'NEILL,Let's go.
+0,58,87,URGO,Oh. I'm doomed.
+0,58,89,O'NEILL,I hate it when that happens.
+0,58,89,URGO,"Oh, this is bad. This is very bad. Very bad."
+0,58,90,TOGAR,Do not move or I will render you unconscious. If necessary.
+0,58,90,DANIEL,You're Togar?
+0,58,90,TOGAR,Yes! Togar.
+0,58,90,URGO,As handsome as he is evil.
+0,58,90,TEAL'C,There is no reason to fear us.
+0,58,90,TOGAR,I fear you not.
+0,58,91,URGO,"Ooh, he's a madman. He's an evil, terrible madman. Run for your lives."
+0,58,91,TOGAR,I hear you. Be silent.
+0,58,91,O'NEILL,Wait! You hear him?
+0,58,91,TOGAR,Yes. Hear and see.
+0,58,91,DANIEL,Then you should be able to see he's afraid.
+0,58,91,TOGAR,Relocate. Hmm.
+0,58,91,URGO,"While I'm being silent, Togar, I'd like to point out, when I called you a madman, I meant it in the nicest possible way."
+0,58,92,TOGAR,Come. Come forward. Come forth. Stay.
+0,58,93,TOGAR,Watch.
+0,58,94,TOGAR,Urgo... is this. The specimen is unharmed.
+0,58,95,TOGAR,As you will be.
+0,58,95,DANIEL,What about Urgo?
+0,58,95,TOGAR,It will be destroyed.
+0,58,95,URGO,"See? What'd I tell you? Oh please, don't let him do this to me. Teal'c? Help. Kree! Jump him. Give him a double Jaffa-jaffa kick. Go on."
+0,58,95,CARTER,The technology you invented is very advanced.
+0,58,95,TOGAR,Yes.
+0,58,95,URGO,It's because they're all too scared to go out and experience things for themselves.
+0,58,95,TOGAR,Enough!
+0,58,95,DANIEL,"Look, we're very grateful that you're willing to take Urgo out of our minds."
+0,58,95,CARTER,"The point is, we think Urgo may actually be alive."
+0,58,95,TOGAR,He is an error.
+0,58,95,CARTER,Maybe he is. Another word for it might be miracle.
+0,58,95,TOGAR,That is ridiculous.
+0,58,95,CARTER,"Well, what you call an error has somehow resulted in life. He's self aware, he's acting and thinking independently, he's afraid of his own death. By any definition, he's acting alive."
+0,58,95,O'NEILL,All we're saying is that maybe there's a way of doing this without.... Killing him.
+0,58,95,TOGAR,There is not!
+0,58,95,O'NEILL,Okay. Had to ask.
+0,58,95,CARTER,I don't understand. Why not?
+0,58,95,TOGAR,The unit must be in a life form. It cannot exist on it's own.
+0,58,95,CARTER,There has to be some way. You created it.
+0,58,95,DANIEL,You'd be killing something you gave life.
+0,58,95,URGO,Dad.....
+0,58,96,URGO,That's a terrible idea. I'd rather die a painful and horrible death.
+0,58,96,DANIEL,It was just a thought.
+0,58,96,URGO,I wanna live. I wanna experience the universe and I wanna eat pie.
+0,58,96,O'NEILL,Who doesn't?
+0,58,96,TOGAR,Enough babbling. Explain.
+0,58,96,DANIEL,I was just thinking that maybe you'd wanna put Urgo in.. you.
+0,58,96,URGO,"No! No, I wouldn't do that. I'd rather be in that little... and the eyes... No!"
+0,58,96,TOGAR,The purpose of the technology is to observe and explore.
+0,58,96,CARTER,But the technology is different now.
+0,58,96,DANIEL,"Look, we don't know you very well, but I get the distinct feeling Urgo is everything you're not."
+0,58,96,URGO,You can say that again.
+0,58,96,DANIEL,"But I think he's everything you wish you were. Outgoing, adventuresome."
+0,58,96,O'NEILL,Annoying.
+0,58,96,DANIEL,"Look, it would be a chance to change. To maybe... experience some of the things you're afraid to do yourself."
+0,58,96,TOGAR,No! Not afraid.
+0,58,96,TEAL'C,Why do you not explore worlds through the Stargate yourself?
+0,58,96,TOGAR,It could help me learn how the error occurred.
+0,58,96,CARTER,Then you'll do it?
+0,58,96,TOGAR,I could try.
+0,58,96,URGO,Count me out. I don't wanna do it. He's mean and boring..and.. and..and mean.
+0,58,96,O'NEILL,We're giving you a chance here. Him or death?
+0,58,96,URGO,"No, I ....."
+0,58,96,O'NEILL,Death or him?
+0,58,96,URGO,Oh dear.
+0,58,96,O'NEILL,Well?
+0,58,96,URGO,I'm thinking. He's so.. so... uh...
+0,58,96,O'NEILL,Mean?
+0,58,96,URGO,Yeah.
+0,58,96,O'NEILL,Boring?
+0,58,96,URGO,Mmmm.
+0,58,96,O'NEILL,So change him.
+0,58,96,URGO,"Me change him? Ha ha ha ha ha. Okay, I'll do it."
+0,58,96,O'NEILL,Urgo thinks it's a great idea and I'm sure you'll enjoy his presence as much as we have.
+0,58,96,URGO,"See, I knew it. I knew you liked me. I was right."
+0,58,96,O'NEILL,Maybe..... a little.
+0,58,96,URGO,How about a hug?
+0,58,96,O'NEILL,Don't push it.
+0,58,98,DANIEL,Urgo?
+0,58,98,TOGAR,Urgo is here.
+0,58,98,URGO,I'm here! I'm here!
+0,58,98,O'NEILL,"Well, Togar... Thanks for your hospitality. We appreciate it."
+0,58,98,TOGAR,I will return you to your planet now.
+0,58,98,DANIEL,"Wait, Togar. How do we know Urgo's really alive?"
+0,58,98,URGO,I'm here! I'm here! Tell `em. Tell `em!
+0,58,98,TOGAR,"I will, as soon as you are quiet."
+0,58,98,O'NEILL/DANIEL,He's alive.
+0,58,98,TOGAR,"Urgo says.... Goodbye, and I say... thank you."
+0,58,98,DANIEL,Bye Urgo.
+0,58,99,CARTER,"I was thinking, now we've got to know each other and helped each other out maybe we could share some information about our respective..."
+0,58,100,URGO,"Ohh, I'm gonna miss `em! Hey, I know. Why don't we....."
+0,58,100,TOGAR,No!
+0,58,100,URGO,Why not?
+0,58,100,TOGAR,No!
+0,58,100,URGO,It'll be fun and exciting.
+0,58,100,TOGAR,No!
+0,58,100,URGO,Are you sure we're thinking the same thing?
+0,58,100,TOGAR,Positive.
+0,58,100,URGO,But you don't know what you're missing!
+0,58,102,HAMMOND,Stand down.
+0,58,102,TANNOY,Quarantine stand by.
+0,58,102,HAMMOND,"Glad you're back safe, SG-1. Was the mission successful?"
+0,58,102,O'NEILL,Uh...
+0,58,102,CARTER,"General, didn't we just...?"
+0,58,102,HAMMOND,"You've been gone over ten hours, Major."
+0,58,102,CARTER,Oh boy.
+0,58,102,HAMMOND,Report to the infirmary.
+0,58,102,O'NEILL,"Yes, sir."

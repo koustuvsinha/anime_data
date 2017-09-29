@@ -1,0 +1,400 @@
+Season,Episode,Scene,Character,Line
+0,128,0,STARGATE SG1,Episode 620
+0,128,0,"""MEMENTO""",By Damian Kindler TAG Shot of the Prometheus orbiting Earth.
+0,128,1,RONSON,"All right everyone, on your toes! Major Gant, Report"
+0,128,2,GANT,"A ship has just exited a hyperspace window off our port bow, Colonel. Goa'uld vessel, Sir, Hat'tak class."
+0,128,2,RONSON,Sound General quarters He sits down in his seat next to her an Major Peter DeLuise's consoles.
+0,128,2,GANT,"Goa'uld vessel is closing in on our position at fifteen thousand meters. They're arming their weapons, Sir."
+0,128,3,RONSON,"Shields at maximum! I want missile bays one, three and four, and charge the primary weapons systems. Klaxons start going off in the background."
+0,128,3,GANT,Yes Sir.
+0,128,4,O'NEILL,Excuse *me*! God that's annoying!
+0,128,5,TEAL'C,I believe Colonel Ronson has issued a call for battle stations.
+0,128,5,O'NEILL,*again*.
+0,128,5,TEAL'C,Have we not been assigned to participate in the damage control effort.
+0,128,5,O'NEILL,"Yes. And if there's *ever* any damage, I'll do my best to control it. Right now, I wanna talk to Ronson."
+0,128,6,GANT,"Goa'uld vessel is in range, Sir."
+0,128,6,RONSON,"Weapons Officer, prepare to fire on my command!"
+0,128,6,O'NEILL,"He's the weapons officer, you'd think he'd already be prepared."
+0,128,6,TEAL'C,Indeed.
+0,128,6,RONSON,The bridge isn't exactly where you're supposed to be during the battle drill.
+0,128,6,O'NEILL,Nnnnoooo... I've been meaning to talk to you about that.
+0,128,6,RONSON,"can it wait, until we're not in the middle of a drill?"
+0,128,6,O'NEILL,*When* are we *not* in the middle of a drill?
+0,128,7,O'NEILL,"Okay. We'll talk about it later. Teal'c, prepare to assist in damage control."
+0,128,7,TEAL'C,"I am prepared, O'Neill."
+0,128,7,O'NEILL,See how melodramatic that sounds? It's unnecessary.
+0,128,8,RONSON,Where were we...
+0,128,9,O'NEILL,"To be honest with you, Sir, I feel like we're getting *in the way* here."
+0,128,10,HAMMOND,
+0,128,10,O'NEILL,In the unlikely event of an emergency...
+0,128,10,HAMMOND,"Something like that. Enjoy the ride, Colonel. Hammond out. The screen goes static, and we see O'Neill staring unhappily ahead, nodding."
+0,128,11,RONSON,"This is Prometheus, ..."
+0,128,12,RONSON,... requesting go-ahead for mission start.
+0,128,12,VOICE VIA WIRELESS,"Prometheus, this is Van-den-berg , you have an affirmative for hyperspace window activation. Ronson sits down between Gant and DeLuise."
+0,128,12,RONSON,"Roger that. Major, we have a go."
+0,128,12,GANT,"Yes Sir, activating window. She types somthing on her console, and we switch to..."
+0,128,15,RONSON,"Run Level One Diagnostics on all weapons systems, including shields. Gant: Ring transports? Ronson: Hit all of them."
+0,128,16,RONSON,"Also, set up a hull breach simulation for 0500. That's all."
+0,128,16,GANT,Yes Sir.
+0,128,17,RONSON,Jack. The sliding door closes behind the two.
+0,128,17,O'NEILL,"Got yourself a fine crew here, Ronson."
+0,128,17,RONSON,"Yeah, you got a pretty solid team yourself."
+0,128,18,O'NEILL,"Yeah, I was speaking of that."
+0,128,18,RONSON,"Jack... I know that in the event of a real situation with the Goa'uld, you feel that your place would be on the bridge."
+0,128,19,O'NEILL,"Well, if not me, you'd be a fool not to take advantage of Teal'c's expertise, and Carter's a genius!"
+0,128,19,RONSON,You're absolutely right. But you're just along for the shakedown cruise. My crew needs to be able to count on me and on each other after you're gone. They have stopped in a crossing and are facing each other again. Jack sighs.
+0,128,19,O'NEILL,I guess I can respect that.
+0,128,19,RONSON,"Besides, I highly doubt we'll run into the Goa'uld on this mission."
+0,128,21,RONSON,"We just dropped out of Hyperspace. He steps around Jack and heads off. The camera stays with O'Neill, who pulls out a small radio."
+0,128,21,O'NEILL,"Carter, Teal'c, meet me on the bridge! He follows."
+0,128,22,RONSON,Major?
+0,128,22,GANT,"We were supposed to be in hyperspace for another nine minutes, Sir. I don't know what happened."
+0,128,24,RONSON,What's our position?
+0,128,24,DELUISE,"40.62 light years short of the target, sir."
+0,128,24,SAM,Something must have caused the hyperdrive to shut down automatically.
+0,128,24,JONAS,The only way that would happen is if the computer detected some instability in the Naquadria powering the engines.
+0,128,24,GANT,"He's right sir, diagnostics show a massive power surge in the hyperdrive. The failsafe's kicked in to shut it down."
+0,128,24,RONSON,Have you begun restart procedures?
+0,128,24,GANT,"I've tried, but the computer wouldn't let it start up."
+0,128,25,O'NEILL,Carter?
+0,128,26,O'NEILL,You promised me it would work!!!
+0,128,26,SAM,It did work.
+0,128,26,O'NEILL,No it didn't.
+0,128,26,SAM,"The hyperdrive was fitted with a buffer, like a surge protector. It was designed to modulate extreme fluctuations in the energy coming from the Naquadria. This shouldn't be happening."
+0,128,26,TEAL'C,Yet it is happening.
+0,128,26,O'NEILL,Yet it is!!!
+0,128,26,GANT,Something must have damaged the buffer.
+0,128,26,SAM,"Sir, with your permission I'd like to take a look."
+0,128,26,JONAS,"Yeah, me too."
+0,128,26,RONSON,Take Major Gant with you. Report back to me as soon as possible.
+0,128,26,SAM,"Yes sir. While Gant removes her earphone, Jonas and Sam head for the exit, followed by Gant. Jack looks annoyed and disappointed, like a pouting child."
+0,128,28,SAM,"Well, we were right. Something caused the buffer to overload, it's more or less fried."
+0,128,28,GANT,"I don't understand. It was created to handle massive amounts of energy. The camera pans around her, and in the background past a long console, where another female crewmember sits, enters..."
+0,128,28,JONAS,Gravity waves! I just checked the ship's sensor logs: We passed through an intense gravity wave from a collapsing star while in hyperspace.
+0,128,28,SAM,"That would explain it, it was too much for the buffer to handle."
+0,128,28,GANT,"But the hyperdrive engines are still intact, and we still have the Naquadria, so..."
+0,128,28,SAM,"Yeah, but we have no way of regulating it. There's no way to calculate the distance we've travelled because of Naquadria's inherent instability."
+0,128,28,JONAS,"We could end up anywhere. Sam turns at Jonas's comment, obviously not happy."
+0,128,31,O'NEILL,"Well, if he was going to help out, he would've shown by now."
+0,128,31,RONSON,Who?
+0,128,31,O'NEILL,Thor. Little guy? Grey?
+0,128,31,RONSON,I know who Thor is.
+0,128,32,TEAL'C,The Asgard have proven valuable in similar situations.
+0,128,32,O'NEILL,Carter?
+0,128,32,SAM,"I'm afraid it doesn't look good, sir. Even if we were able to write a subroutine into the computer to bypass the buffer, we'd still risk the reactor going critical."
+0,128,32,RONSON,"Well, use whatever need to repair the buffer. Cannibalize whatever system you deem necessary."
+0,128,32,SAM,"With all due respect, Colonel, I can't."
+0,128,33,O'NEILL,Carter?
+0,128,33,CARTER,"Sir, I helped design the buffer module. I can tell you right now there is no possible way I can make it operational. Not with what we have on the ship. It's like an ... a lightbulb that has burned out: You can't just fix it."
+0,128,33,O'NEILL,Do we ... have any extra bulbs?
+0,128,33,RONSON,There is no redundancy for that particular system.
+0,128,33,O'NEILL,So you're saying there's no redundancy?
+0,128,34,RONSON,"Even if we were to plot a course for Earth, using maximum sublight thrust, it would take years. We don't have the supplies!"
+0,128,34,SAM,Not to mention the relativistic effects.
+0,128,35,RONSON,That buffer has to be repaired.
+0,128,36,JONAS,"Actually, there may be another solution."
+0,128,37,JONAS,"According to the cartouche, there's a planet .38 light years from our current position, ... Jonas is standing at the funky glass starchart and marks a white dot with his cool blue marker."
+0,128,37,JONAS,"... P3X744. We've tried dialing it unsuccessfully in the past, but if it's on the cartouche then there had to be a gate there at some point."
+0,128,37,TEAL'C,perhaps it may be buried.
+0,128,37,JONAS,"Well, if we can make it there and gate home, we can get what we need to repair the ship."
+0,128,37,GANT,"We're still talking about a four month journey using sublight engines, we'd never make it."
+0,128,38,SAM,We use the hyperdrive.
+0,128,39,O'NEILL,I thought we couldn't do that?
+0,128,39,SAM,"For a protracted period of time, no."
+0,128,39,GANT,744 would be a pretty short hop.
+0,128,39,SAM,"The shorter the burst of energy required, the less the chance of instability."
+0,128,39,JONAS,That's what I'm thinking.
+0,128,39,O'NEILL,It's your call. But I don't see how we have much choice.
+0,128,39,RONSON,"Major Gant, plot a course four 744."
+0,128,42,DELUISE,"Now orbiting P3X744, sir."
+0,128,42,RONSON,"Good work, people!"
+0,128,43,GANT,"Sir, computers are detecting a rapid energy build-up in the Naquadria cells."
+0,128,43,RONSON,Shut down power to the reactor.
+0,128,43,GANT,"Controls will not respond, sir. Reaction is continuing uncontrolled."
+0,128,43,SAM,"jump must have triggered a power surge that overloaded the reactor control systems. Sir, without the buffer we have no way to stop the build-up. We have a few minutes before the Naquadria reactor goes critical."
+0,128,43,RONSON,Stand by to jettison the reactor module.
+0,128,43,GANT,"Yes, sir."
+0,128,43,JONAS,"Wait a minute, if I'm wrong about there being a stargate on this planet, we're losing our only means of getting home!"
+0,128,43,TEAL'C,It would appear there is little choice.
+0,128,43,RONSON,Bring shields and sublight engines on-line.
+0,128,43,SAM,We're not gonna be able to get very far away before it blows.
+0,128,43,RONSON,"Then we're about to find out just how good our shields are. All hands, brace for impact! Reactor module separation on my mark. 3, 2, 1, mark! Gant pushes a button."
+0,128,45,GANT,Module jettisoned.
+0,128,45,RONSON,Get us clear! Full military thrust!
+0,128,45,DELUISE,Sir.
+0,128,47,RONSON,Damage report!
+0,128,47,GANT,"Electromagnetic pulse penetrated the shield, sir. Primary computer systems are down, all we have are artificial gravity and life support on most decks."
+0,128,47,RONSON,Casualties!
+0,128,48,GANT,None reported.
+0,128,48,RONSON,How soon until we get systems back on-line?
+0,128,48,GANT,"It's too early to say, Sir."
+0,128,48,SAM,"I'd like to assist, if I may."
+0,128,48,RONSON,"Please do, Major."
+0,128,48,DELUISE,"Colonel Ronson, I'm picking up atomic bogies originating from the planet's surface. Closing in on our position-- heading this way!"
+0,128,48,RONSON,Can you identify them?
+0,128,48,DELUISE,"Velocity and size indicate some kind of long-range ballistic weapon, Sir. We're under attack. Another alert goes off beeping in the background as Sam, Teal'c, Ronson and Jack react to this news."
+0,128,49,DELUISE,Missiles are on an intercept course.
+0,128,49,RONSON,"Evasive action, take us out of orbit."
+0,128,49,DELUISE,"We can't maneuver, sir."
+0,128,49,RONSON,"All right. Arm weapons, we'll try to take them out!"
+0,128,49,GANT,"Weapons control is down, sir."
+0,128,50,JACK,How long before they hit?
+0,128,50,DELUISE,Three minutes.
+0,128,50,SAM,"That's not enough time to get the systems back on-line, Sir."
+0,128,50,JONAS,"Colonel, they only launched their missiles after we exploded our hyperdrive above their athmosphere. It could have very well looked like an attack from their point of view."
+0,128,50,SAM,"I agree, sir. based on the weapons they fired, they're obviously a very sophisticated race. the E.M. pulse that knocked out our computer systems could have had the same effect on their planet."
+0,128,50,RONSON,Then how were they able to launch missiles?
+0,128,50,SAM,Ballistic missile sites on Earth are shielded for E.M.P.
+0,128,50,O'NEILL,Let's talk to 'em.
+0,128,50,DELUISE,Two minutes to missile impact.
+0,128,50,GANT,"Sir, I can broadcast on multiple frequencies. If they're listening, they'll pick it up."
+0,128,50,RONSON,"Do it. O'Neill puts on a headset while DeLuise pushes some buttons. O'Neill: This is Colonel Jack O'Neill from the United States Air Force vessel Prometheus, can anyone hear me down there? The *explosion* that just happened in orbit over your planet was an *accident*. The resulting E.M. Pulse damaged our ship and we are defenseless against your attack. ... We've come a long way to meet you folks ... so, if there's anything you could do to, you know, stop those missiles...?"
+0,128,50,DELUISE,One minute to impact.
+0,128,50,RONSON,"Lock down all compartments and brace for impact! ""Red alert"" noise goes off."
+0,128,50,O'NEILL,"We'd very much like the opportunity to land and introduce ourselves, but ... if you destroy our ship, that's going to be ... very difficult... ? Teal'c, Sam and Jack listen intently."
+0,128,51,DELUISE,Missile self-destructed at seventeen thousand meters.
+0,128,52,KALFASS,This is Commander Kalfass of the Tegrean security force. We will transmit landing coordinates. Kalfass out.
+0,128,52,O'NEILL,"Not exactly an engraved invitation, but..."
+0,128,52,RONSON,I would prefer not landing until we have our shields and weapons back on-line.
+0,128,52,GANT,"We should have systems back up within a few minutes, sir."
+0,128,54,JONAS,The guy you talked to was Commander Kalfass. The name of the planet is Tegrea.
+0,128,54,O'NEILL,Kalfass. Tegrea. Got it.
+0,128,55,SAM,"Sir, I've been scanning for Naquada traces with the ship's sensors, in an effort to determine the location of the stargate. So far I've got nothing."
+0,128,55,TEAL'C,Could the information on the cartouche be incorrect?
+0,128,55,SAM,Hasn't been wrong yet.
+0,128,55,JONAS,"If they don't accept our apology, finding the Stargate is going to be the least of our problems."
+0,128,59,KALFASS,Drop your weapons. Immediately.
+0,128,60,O'NEILL,Howdy fellers! Colonel Jack O'Neill. United State--
+0,128,60,KALFASS,Several powerful weapons are aimed at both you *and* your ship.
+0,128,60,O'NEILL,--s Air Force...
+0,128,60,KALFASS,"Disarm yourselves, or you'll be fired upon. This is not negotiable."
+0,128,60,TEAL'C,"I believe he is being sincere in his threat, O'Neill."
+0,128,60,JONAS,Oh... I guess we'll have to start trusting them at some point.
+0,128,60,O'NEILL,"Yah... They put down their rifles, Sam fiddling a little with hers."
+0,128,62,O'NEILL,"I take it we have you to thank for destroying the missiles before they hit our ship, thus saving our lives?"
+0,128,62,ASHWAN,There was something in our voice that I trusted.
+0,128,62,O'NEILL,Oh! Did I mention we're sorry?
+0,128,62,ASHWAN,And knowing that the E.M. pulse caused damage to your ship I'm willing to accept that it was unintentional.
+0,128,62,KALFASS,I'm not so willing.
+0,128,62,ASHWAN,"Power has been restored to the cities affected, Kalfass."
+0,128,62,KALFASS,There was considerable impact on our economic systems.
+0,128,62,ASHWAN,They will recover!
+0,128,62,KALFASS,But we still don't know the extent of the damage!
+0,128,62,ASHWAN,"Nothing! Compared to the event of meeting a race of people from another world for the very first time. It is a profound moment for us. You've said that Tegrea holds the key to returning to your home planet, could you be more specific?"
+0,128,62,SAM,"Chairman Ashwan, we believe that you possess a piece of alien technology that is capable of transporting living matter across the galaxy."
+0,128,63,O'NEILL,We'd like to borrow your Stargate.
+0,128,63,ASHWAN,I'm sorry. Our star-gate...?
+0,128,63,O'NEILL,Kind of a ring-thing? Comes with a dialer with symbols. It spins around and lights come on and it kinda flushes sideways?
+0,128,64,JONAS,"It looks like ... this! Once it's activated, it is able to transport you from one planet another instantaneously. In this case from Tegrea to our planet, Earth. He hands around the book. A black council member stares at the drawing, then hands it on with furrowed brow, Kalfass glances at it and smiles derisively, then shows it to Ashwan, commenting as if they were talking of the Yeti..."
+0,128,64,KALFASS,They seek the 'ring of the gods'.
+0,128,64,O'NEILL,If that's what you wanna call it ... 'ring of the gods' is good.
+0,128,64,ASHWAN,"Please, understand: This ... device you seek, the ... Stargate, I regret to tell you--"
+0,128,64,KALFASS,It's a myth!
+0,128,64,ASHWAN,"There's never been a shred of evidence to prove its existence. The whole table is quiet, Sam and Jack look at their hosts with desperate eyes. Teal'c begins to smile slightly as..."
+0,128,64,O'NEILL,Have you looked around? ... just...?
+0,128,64,SAM,"If you could grant us access to some of your historical data, we might be able to shed some light on this situation...?"
+0,128,64,KALFASS,"Nonono... Your freedom of movement is not negotiable. Once this meeting is over, you're to return to your vessel and stay there until further instructed."
+0,128,64,ASHWAN,In the mean time I will have some basic historical data delivered to your ship.
+0,128,64,KALFASS,Mister Chairman!
+0,128,64,ASHWAN,"If you do somehow succeed to prove the existence of this Stargate, we will be glad to help you locate it as an act of good faith between our two worlds."
+0,128,64,O'NEILL,"Thank you, Ashwan."
+0,128,66,KALFASS,They may well be gathering information for an invasion!
+0,128,66,ASHWAN,"Even if you're right, knowing our history will do no harm. But Kalfass, what if this ring *does* exist? Imagine, after all these centuries, finding a piece of our past!"
+0,128,66,KALFASS,And what if our past was buried for a good reason?
+0,128,66,ASHWAN,Travellers from another *world* are seeking our help.
+0,128,67,JACK,How is the homework?
+0,128,67,JONAS,"Well, besides the language, there is almost nothing to indicate how these people got here. There's no archaelogical data, no ancient writings, no documentation of any artefacts..."
+0,128,67,TEAL'C,I have found no mention of the Cha'apa'ai nor any other technology used by the Goa'uld.
+0,128,67,O'NEILL,Well that's a little weird. The Goa'uld are damned litterbugs. They usually leave a lot of crap behind. He sits down at the table next to Carter.
+0,128,67,TEAL'C,That is most often the case.
+0,128,67,JONAS,"If this is a comprehensive history of Tegrea, it's a joke."
+0,128,67,SAM,"I know, there's nothing here dating back more than 300 years."
+0,128,67,O'NEILL,Maybe a year is longer on this planet?
+0,128,67,SAM,"Maybe sir, but even so. Without an idea of where the Tegreans came from, we have no way of finding the Stargate."
+0,128,67,JONAS,"So either they are hiding something from us, or..."
+0,128,67,TEAL'C,Or their entire past has been erased. O'Neill reacts.
+0,128,69,RONSON,You invited them for dinner?!
+0,128,69,O'NEILL,I was thinking more of a ... brunch...
+0,128,69,SAM,"To be honest, Colonel, we offered it in exchange for access to their central archives."
+0,128,69,O'NEILL,A library pass for a tour of the ship.
+0,128,70,RONSON,And when were you going to inform me of this little arrangement?
+0,128,71,O'NEILL,... Now?
+0,128,72,RONSON,"You know, I can appreciate that you want to get home, but my first priority is the security of this ship and crew."
+0,128,72,O'NEILL,Ronson! Your ship and crew are going nowhere unless we find that gate.
+0,128,72,RONSON,I just don't like the idea of giving a guided tour of Prometheus to the same people who've got gun batteries aimed at us!
+0,128,72,O'NEILL,We'd do the same damned thing.
+0,128,72,SAM,Colonel Ronson -- we need these people to get home. And we didn't exactly make a good first impression.
+0,128,73,RONSON,"We'll do this little Barbecue of yours, but that's as far as I go."
+0,128,74,O'NEILL,Do we have a Barbecue???
+0,128,77,JONAS,How many planets has SG-1 been to?
+0,128,77,TEAL'C,"a hundred and thirty-three Jonas: And on each of them -- the ones inhabited by humans at least -- has been some indication of their origins, right? I mean temples, ruins ..."
+0,128,77,TEAL'C,"It is indeed a mystery, Jonas Quinn. A Goa'uld would not bring this many Tau'ri to a new world and not force them to build monuments in his honor."
+0,128,77,JONAS,"Well, I don't care how hard you try, you can't erase history. Something has to remain. We just need to find it."
+0,128,78,TEAL'C,We are being watched.
+0,128,78,JONAS,"The guy half hiding behind the bookshelf? Ph! He's been chasing us since we got here, ..."
+0,128,79,JONAS,... and not very well either.
+0,128,80,ASHWAN,Most impressive. And you say much of the technology incorporated into your vessel is of ... alien origin?
+0,128,80,JACK,... Yyyyesss.
+0,128,81,SAM,"Most of the key systems, in fact. it's one thing to build a ship, it's another to fly it across the galaxy."
+0,128,81,O'NEILL,We haven't quite gotten that part straightened out yet...
+0,128,81,SAM,"We use a rare element called Naquadria to power our hyperdrive engines, but it can be extremely unstable. In fact, that instability ultimately led to the explosion above your planet. We had to eject the reactor."
+0,128,81,ASHWAN,But why use such a dangerous substance to power your ship?
+0,128,81,O'NEILL,I've asked the *same* question!
+0,128,82,SAM,"For the time being, Naquadria is our shortcut to interstellar travel. More stable forms of energy simply don't provide enough power to run the hyperdrive."
+0,128,82,ASHWAN,"Several of my advisors have expressed concern that this is a military vessel, what would you have to say to them."
+0,128,82,JACK,That ... they're right.
+0,128,82,SAM,Prometheus was designed primarily for defensive purposes.
+0,128,82,KALFASS,From these Goa'uld you mentioned?
+0,128,82,SAM,Yes
+0,128,82,KALFASS,Without your main source of power?
+0,128,83,RONSON,"With or without the Naquadria reactor, this ship is more than capable of defending itself against ... attack."
+0,128,83,SAM,"May I introduce Colonel William Ronson, Commander of the Prometheus."
+0,128,83,ASHWAN,It is an honor. The two nod towards each other in a polite manner. Kalfass seizes the opportunity to take Ronson up on his offer of testing the waters.
+0,128,83,KALFASS,"I assure you Colonel, we would not attack without provocation."
+0,128,83,RONSON,"There are several gun batteries aimed at my ship, Sir."
+0,128,83,KALFASS,"Well, we must defend ourselves from any action you might take. For instance, should Chairman Ashwan and I fail to appear at a specific time, my men have orders to fire those batteries. Ronson smiles a little forcedly, but can't resist getting in an attempt at getting his will."
+0,128,83,RONSON,Then perhaps we had better continue the tour. He steps out of the way. Ashwan stretches out one hand towards Carter.
+0,128,83,ASHWAN,"Please, Major Carter, after you."
+0,128,83,SAM,"Thank you, Sir."
+0,128,84,O'NEILL,Sir.
+0,128,86,TEAL'C,May we be of assistance?
+0,128,86,TEREK,"Forgive me, I did not want to intrude. My name is Terek Salamen. I'm a professor of mathematics here at the university. He grins, as if expecting them to be impressed."
+0,128,86,JONAS,"Well, I'm Jonas Quinn, this is Teal'c. Uhm... if you're curious about us, you should just come over."
+0,128,86,TEREK,"With respect, Mr. Quinn, it is not you I was curious about, it is what you seek that interests me."
+0,128,86,TEAL'C,Continue.
+0,128,86,TEREK,I've heard that you seek evidence of the 'ring of the gods'. I believe I can help you find it.
+0,128,88,RONSON,I hope everything is satisfactory. We weren't expecting to host a formal dinner when we started this mission.
+0,128,88,ASHWAN,"It's fascinating! To realize we are eating food, grown and prepared on a world, millions of lightyears away!"
+0,128,89,O'NEILL,"And frozen, millions ... of ...years ... ago ... ?!"
+0,128,90,GANT,It's the best we have on board.
+0,128,91,SAM,"Mr. Chairman, we couldn't help but notice in our research that your history seems limited to the last 300 years."
+0,128,92,ASHWAN,"Prior to our ... recorded history, our people endured a long and terrible ... dark age. One they desperately wished to forget. And thus only after Tegrea emerged from this black era, the historians began again to record events."
+0,128,92,SAM,But that means that you're missing thousands of years of the past?
+0,128,92,KALFASS,Yes.
+0,128,92,O'NEILL,Aren't you ... curious?
+0,128,92,ASHWAN,"Well it's hardly a question of choice, Colonel. Even if we wished to know our ancient history -- there is none to study. All evidence of it was destroyed centuries ago."
+0,128,92,KALFASS,We believe that what came before year zero has no intrinsic value to our society. The society of the new era has no need to know how they suffered.
+0,128,92,RONSON,"On Earth, we study our past to learn from it."
+0,128,92,KALFASS,Whereas we believe that Nostalgia is a sign of weakness.
+0,128,93,SAM,I'm sure both points of view have merit.
+0,128,93,ASHWAN,"Well said, Major!"
+0,128,94,ASHWAN,A drink: to history. And to the future.
+0,128,96,KALFASS,"Colonel O'Neill, Major Carter, the meal was ... interesting."
+0,128,96,SAM,Glad you liked it.
+0,128,96,O'NEILL,He didn't say *that*.
+0,128,96,ASHWAN,"Well, I did, thank you."
+0,128,96,O'NEILL,"Yeah, you know, now that we got to know each other a little better, you think that having those guns pointed at us is completely necessary?"
+0,128,96,KALFASS,Would your Colonel Ronson not be as vigilant?
+0,128,97,O'NEILL,"Yesss... I'm sure he would. Kalfass nods in agreement, then motions towards O'Neill with his right arm."
+0,128,97,KALFASS,Mr. Chairman.
+0,128,97,ASHWAN,"Go on Kalfass, I will join you in a moment."
+0,128,98,ASHWAN,"I apologize for Commander kalfass' behavior, diplomacy is not his strength."
+0,128,98,O'NEILL,"Yes, we share that quality in common."
+0,128,98,ASHWAN,"Since I took office, I have been perceived publicly as being weak in matters of civic defense. As a result, Kalfass has growing political support."
+0,128,98,O'NEILL,"Our arrival hasn't helped things much, has it?"
+0,128,98,ASHWAN,No. My only hope is that mistrust does not interfere with your quest for the Stargate. I believe finding it would be a great discovery for our people.
+0,128,99,TEREK,"Please, excuse the state of my office."
+0,128,99,JONAS,So! You said you could help us find the ... 'ring of the gods' ... how?
+0,128,99,TEREK,Ah... with these... I spent a ... a lifetime collecting them. Relics from before my people tuned their back on their god.
+0,128,100,TEAL'C,To which god are you referring?
+0,128,100,TEREK,"Our creator, Horus. Only a few of us dare believe in him. He pulls a chain from his neck that has a golden hawk on it."
+0,128,100,TEAL'C,The symbol of Heru-ur!
+0,128,100,TEREK,You know him?
+0,128,100,TEAL'C,Heru-ur is not a god. He is a Goa'uld.
+0,128,100,TEREK,"He's the one who made us! The relics speak of him as the creator of all life, the one who spoke us into existence."
+0,128,100,JONAS,More likely he's the one who enslaved your ancestors and brought them here from Earth.
+0,128,100,TEAL'C,Heru-ur must have abandoned your people many years ago. When the resources he sought were depleted.
+0,128,100,JONAS,"Then the Tegreans must have tried to destroy all evidence of their former gods in an act of defiance, including everything to do with the Stargate."
+0,128,100,TEREK,They did not destroy everything! This remains.
+0,128,101,TEAL'C,This is it.
+0,128,101,TEREK,"My understanding of this language is extremely limited, but it appears to be an etching of something called a Chap'ai?"
+0,128,101,TEAL'C,Cha'apa'ai.
+0,128,101,TEREK,Aha.
+0,128,101,JONAS,"This text is a slight variation of pre-dynastic Egyptian. It is beautiful. The section right here says: ""heru-ur's Stargate we found in the great desert to the north"""
+0,128,101,TEREK,"Oh, it must mean the wastelands of An-hur. They lie far beyond the city. I found many of my artefacts there."
+0,128,101,JONAS,Really?
+0,128,102,JONAS,Guys? We'd like to take a little field trip.
+0,128,103,KALFASS,They want to be taken to coordinates somewhere in the wasteland.
+0,128,103,ASHWAN,Then take them.
+0,128,103,KALFASS,I think that's a mistake.
+0,128,103,ASHWAN,Because they may find something you do not wish them to find?
+0,128,103,KALFASS,If this is some sort of reconaissance prior to an invasion...!
+0,128,103,ASHWAN,You are being ridiculous.
+0,128,103,KALFASS,And you are being reckless!
+0,128,103,ASHWAN,"Representatives from another *world* have come to Tegrea! Another World! Do you understand?! And what's more, they seek our help!"
+0,128,104,KALFASS,We do not even know their true intentions!
+0,128,104,ASHWAN,"Or what they can offer us. An exchange of knowledge and technology, the Stargate could open up the universe for our people!"
+0,128,104,KALFASS,A universe of potential enemies! I demand that you reconsider!
+0,128,104,ASHWAN,"We cannot undo what has happened! The difference is, Kalfass, I would not, if I could. They are here, and we must deal with them, one way or another. I prefer to help."
+0,128,104,KALFASS,And I prefer to--
+0,128,104,ASHWAN,"And now, have them taken to the coordinates!"
+0,128,104,KALFASS,As you wish.
+0,128,105,JONAS,The Stargate should be located directly in the middle of the second and third monument.
+0,128,105,TEAL'C,"Are you certain, Jonas Quinn?"
+0,128,105,JONAS,That's what it says.
+0,128,107,TEAL'C,Jonas.
+0,128,108,JONAS,Think that's the cover stones?
+0,128,108,TEAL'C,"Indeed. Jonas kneels down, putting aside his shovel and beginning to wipe away the inch-thick layer of sand, his Colleagues eagerly watching. He pulls out a brush and begins wiping the sand off the stones, uncovering writing in Goa'uld or a similar writing. It's written in a cartouche, not unlike the coordinates on the Giza cover stones."
+0,128,108,JONAS,"Here lies Cha'apa'ai of Heru-ur, false god of the people of Tegrea who'll never know the daylight again ."
+0,128,108,TEREK,The ring exists!
+0,128,109,TEAL'C,O'Neill.
+0,128,109,O'NEILL,"What's up, T. ?"
+0,128,109,TEAL'C,I believe we have located the Stargate.
+0,128,110,O'NEILL,Well that's good news.
+0,128,110,TEAL'C,We will require assistance to retrieve it.
+0,128,110,O'NEILL,We'll talk to Ashwan. Nice job!
+0,128,113,SAM,Jonas!
+0,128,114,SAM,Looks good! It looks intact!
+0,128,117,JONAS,"Well, let's give it a shot."
+0,128,119,JONAS,"Kalfass, what are you doing?"
+0,128,119,KALFASS,I'm taking back what belongs to my people!
+0,128,121,ASHWAN,His actions are outrageous!
+0,128,121,O'NEILL,Tell him to stand down.
+0,128,121,ASHWAN,"I've done exactly that, Colonel. He refuses. He claims to be protecting Tegrea's security."
+0,128,121,O'NEILL,Have him arrested.
+0,128,121,ASHWAN,Kalfass commands a great loyalty among many in the military. Challenging him would only lead to civil war.
+0,128,121,SAM,"Sir, we could use the Prometheus. Her weapons would be more than a match for Kalfass's troops."
+0,128,121,O'NEILL,There is still that nagging problem of all those guns pointed at it...
+0,128,121,ASHWAN,"I've chosen the commander of those gun batteries myself. He is loyal to me. Colonel, I will give you my word: He will not fire upon your ship."
+0,128,123,JONAS,"Kalfass, you have no idea what you're dealing with here."
+0,128,123,KALFASS,I know our ancestors buried this device for a reason...
+0,128,123,JONAS,Maybe they were wrong? maybe ... it's time for you to stop being afraid of the past.
+0,128,123,KALFASS,"No, it's not the past I'm concerned about, it's the future. Having assessed our strength, you would undoubtedly return with greater numbers."
+0,128,123,TEAL'C,You have nothing to fear from the Tau'ri.
+0,128,123,JONAS,"We just wanna fix our ship. Our people can become friends, they can exchange knowledge, even trade. We'll even teach you how to use the Stargate."
+0,128,123,KALFASS,Yes. You will teach me how to use it.
+0,128,124,O'NEILL,They're holding two of our men prisoner. We need the ship.
+0,128,124,RONSON,"Our shields are still down, Jack. If we take take off and they open fire with those guns...!"
+0,128,124,O'NEILL,Ashwan. Promised. They wouldn't.
+0,128,124,RONSON,"He just lost control of his government, and I'm going to trust the safety of my crew to his word?"
+0,128,124,O'NEILL,Yes. That's what you're going to do.
+0,128,124,RONSON,"Jack, if you're asking me to risk everyone on this ship--"
+0,128,124,ASHWAN,"If that is so, Colonel Ronson, then I will be taking the same risk. You may launch your vessel when ready. You'll not be fired upon."
+0,128,125,RONSON,Major Gant?
+0,128,125,GANT,Sir?
+0,128,125,RONSON,"Fire up the sublight engines. Arm all available weapons, and prepare to return fire. On *my* orders only."
+0,128,125,ASHWAN,"That will not be necessary, Colonel."
+0,128,126,RONSON,"Let's hope your old man is right, or this is going to be a short ride."
+0,128,128,GANT,"No sign of weapons fire from the gun batteries, Sir. I think we're clear."
+0,128,129,RONSON,Very well. Proceed to the coordinates at one third thrust.
+0,128,129,DELUISE,"Yes, sir."
+0,128,131,SAM,"Are you sure you're up to this, Mr. Chairman? Things could get outta hand here--"
+0,128,131,ASHWAN,I'm not afraid Major. I should have done this a long time ago.
+0,128,131,RONSON,This is Ronson. We're in position.
+0,128,131,O'NEILL,Roger that.
+0,128,133,O'NEILL,"Prometheus, hold your fire until my signal."
+0,128,133,RONSON,"Prometheus has your six, SG-1."
+0,128,134,ASHWAN,"Kalfass, this has gone far enough. Release these men."
+0,128,134,KALFASS,Hold your positions. We can not let him hand this device over to the aliens.
+0,128,135,ASHWAN,"Commander Kalfass. He's a good man, a cautious man. But he thinks as our ancestors did, that it is better to control what we do not understand, to bury it, so it can not harm us. I, too, once thought as he does. But no longer. These ... aliens that Kalfass fears so much are not conquerors. They are long-lost brethren."
+0,128,136,ASHWAN,"Look at it! This ... is where we came from! This is who we are! Our ancestors erased our history, our fear. And yet, without our history, we cannot know who we are! Or what we may, some day, become! I will not make that same mistake."
+0,128,137,ASHWAN,"I am relieving you of your command. You and your men will stand down. He turns, but nothing happens. He turns back around, and firmly, with a threatening undertone..."
+0,128,137,ASHWAN,I said: Lower your weapons!
+0,128,138,ASHWAN,Take him away.
+0,128,139,O'NEILL,Didn't know that you had that in you.
+0,128,139,ASHWAN,Neither did I.
+0,128,141,SAM,We'll be back in a few days with some equipment to repair our ship.
+0,128,141,ASHWAN,"Until then, Colonel Ronson and his crew will be our honored guests. I hope you will join us at a state dinner upon your return?"
+0,128,142,JONAS,"Hey, thanks Terek!"
+0,128,142,TEREK,"Oh, thank you. I hope you will soon return. There is much to learn about our history."
+0,128,142,JONAS,"Yeah, we can definitely help you out there, but you know more than most people on your planet. Got a feeling this guy's gonna be getting a bigger office soon... Sam smiles, then hits the seven symbols on the DHD. The camera zooms in on the middle button as we can hear the wormhole engage."

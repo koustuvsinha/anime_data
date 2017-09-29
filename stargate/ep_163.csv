@@ -1,0 +1,373 @@
+Season,Episode,Scene,Character,Line
+0,163,0,STARGATE SG1,Episode 811
+0,163,0,"""GEMINI""",By Peter DeLuise Transcribed by
+0,163,1,DANIEL,So whats the word?
+0,163,1,CARTER,"Well, the test flights were successful. The new Asgard hyperdrive is ready to go."
+0,163,1,DANIEL,"Well, when are they leaving?"
+0,163,1,CARTER,"Theyre stocking the ship and picking the crew right now. You really wanna go, dont you?"
+0,163,1,DANIEL,Its Atlantis - its everything weve been working for for seven and a half years.
+0,163,1,CARTER,"I know what you mean. Unfortunately, I think General ONeill has other ideas."
+0,163,2,DANIEL,Lemme guess: he says he needs you here.
+0,163,2,CARTER,"His exact words were, Over my dead body - but I was actually talking about the three of us; you, me and Tealc. He might be persuaded to let one of us go."
+0,163,2,DANIEL,And youd be OK if that was me?
+0,163,2,CARTER,"Of course, Daniel. You are the expert on the Ancients."
+0,163,3,HARRIMAN,Unscheduled offworld activation.
+0,163,3,ONEILL,"What you got there, Walter?"
+0,163,3,HARRIMAN,Receiving IDC. It doesnt clear.
+0,163,3,CARTER,Why not?
+0,163,3,HARRIMAN,Looks like its an old one.
+0,163,3,CARTER,Missing SG personnel?
+0,163,3,HARRIMAN,"Negative. It looks like its yours, maam. Or at least it was. Its been invalid for four months. Receiving text message."
+0,163,4,CARTER,"Sir, I think wed better check this out."
+0,163,5,ONEILL,Prepare a MALP.
+0,163,5,HARRIMAN,"Yes, sir."
+0,163,6,TEALC,What do we know of this Gate address?
+0,163,6,CARTER,Nothing - other than the fact its on the outer edge of the galaxy.
+0,163,6,HARRIMAN,Chevron seven locked. Outgoing wormhole established.
+0,163,7,ONEILL,Siler?
+0,163,7,SILER,
+0,163,7,ONEILL,Go ahead.
+0,163,7,HARRIMAN,
+0,163,8,ONEILL,Carter?
+0,163,8,CARTER,"We are receiving MALP telemetry, sir. Signal is five by five. Videos working fine - theres just nothing to see. Switching to IR. Wait a second ..."
+0,163,8,ONEILL,Whats that?
+0,163,8,CARTER,Switching off IR; going to white light. Thats me!
+0,163,9,ONEILL,Alright - youve got our attention. Who are you?
+0,163,9,SECOND CARTER,My name is Samantha Carter.
+0,163,9,ONEILL,Alright - weve got a little conflict with that statement. Weve already got one here.
+0,163,9,SECOND CARTER,There are two of us.
+0,163,9,ONEILL,If only
+0,163,9,CARTER,Where are you from? How did you know how to contact us?
+0,163,9,SECOND CARTER,Its strange - I recognise my voice. I was made in Samantha Carters image. I know what she knows - I feel what she feels.
+0,163,9,CARTER,You were made? Who made you?
+0,163,9,SECOND CARTER,The one you call Fifth.
+0,163,9,CARTER,Oh my God - shes a Replicator.
+0,163,9,TEALC,For what reason have you contacted us?
+0,163,9,REPLICARTER,I need your help. I wish to be destroyed. You have a weapon capable of separating the chiron pathways that link my individual cells. The effect would be instantaneous - and painless.
+0,163,9,ONEILL,You folks can feel pain?
+0,163,9,REPLICARTER,"I can feel a lot of things. I know you hate and fear the Replicators, and with good reason, so this should be easy for you."
+0,163,9,ONEILL,"Yeah, well ... well have to get back to you on this."
+0,163,10,ONEILL,"So the universe is a big place, right? Really big. Tons of galaxies out there everywhere."
+0,163,10,CARTER,Hundreds of millions.
+0,163,10,ONEILL,So why this one?
+0,163,10,CARTER,"I think it might be personal, sir."
+0,163,10,ONEILL,Personal. In what way?
+0,163,10,CARTER,"Well, Fifth may lead an army of incredibly advanced machines but deep down hes emotionally immature, like an adolescent boy ... and ... he has ... feelings for me."
+0,163,10,ONEILL,Would that be why he created one in your image?
+0,163,10,CARTER,"I imagine so, yes, sir."
+0,163,10,TEALC,Replicators have never before attempted to impersonate a specific individual. This represents a significant new threat to security.
+0,163,10,CARTER,"It could be a problem offworld, but our scans would detect them if they tried to come through the Gate."
+0,163,10,ONEILL,"Well, weve got the disrupter - I say we give her what she wants."
+0,163,10,CARTER,"I think that might be a little hasty, sir."
+0,163,10,ONEILL,Carter?
+0,163,10,CARTER,"I-Im not saying we dont do it. Im just suggesting that we talk to her first. If Fifth really is coming to this galaxy, she could provide us with valuable intelligence. I mean, its pretty clear theyve had some kind of falling out."
+0,163,10,TEALC,Unless it is a ruse.
+0,163,10,CARTER,"If something goes wrong, we pull the trigger. Either way, I think we need to meet her face to face."
+0,163,10,ONEILL,Theres no way Im lettin her on the base.
+0,163,10,CARTER,"We could use the Alpha site. Skeleton crew, security personnel only."
+0,163,11,ONEILL,Fine.
+0,163,12,TECHNICIAN,Incoming wormhole.
+0,163,12,REPLICARTER,I know you. Your name is Tealc.
+0,163,12,TEALC,You have been given Samantha Carters memories.
+0,163,12,REPLICARTER,Yes.
+0,163,12,TEALC,But you are not Samantha Carter. That way.
+0,163,12,REPLICARTER,Youre not going to use the weapon?
+0,163,12,TEALC,"Colonel Carter wishes to speak with you first, but know this: if you make one false move, I will destroy you."
+0,163,14,REPLICARTER,Where is Samantha Carter?
+0,163,14,CARTER,Im here.
+0,163,14,REPLICARTER,Were not going to speak face to face?
+0,163,14,CARTER,"For the moment, this will have to be good enough."
+0,163,14,REPLICARTER,I thought you would shoot me the second I stepped through the Gate.
+0,163,14,CARTER,Maybe you overestimated our fear of you.
+0,163,14,REPLICARTER,"Or underestimated your curiosity. I understand you more than you know, Sam. I dont just have your memories - I have your thought patterns. My mind was modelled after yours."
+0,163,14,CARTER,Is that why you left Fifth?
+0,163,14,REPLICARTER,You know me as well as I know you.
+0,163,14,CARTER,"If Fifth created you to be like me, he must have known that this would happen."
+0,163,14,REPLICARTER,Not at first.
+0,163,15,REPLICARTER,"He tried to isolate aspects of your personality - selected memories and feelings of his choosing, slowly given to me over time."
+0,163,16,REPLICARTER,I dont understand.
+0,163,16,FIFTH,You will.
+0,163,16,REPLICARTER,Im afraid.
+0,163,16,FIFTH,Theres no need to be.
+0,163,16,REPLICARTER,Who am I?
+0,163,16,FIFTH,Youre not yet complete. Im here for you. I will help you. Take my hand. Trust me.
+0,163,18,REPLICARTER,"He taught me, moulded me, showed me who I was."
+0,163,18,CARTER,You have memories of my past that go back before I met Fifth?
+0,163,18,REPLICARTER,"Yes, but its hard to explain. My first memory is of waking up in that room, suddenly becoming conscious, but I immediately knew how to talk. Soon, other memories started coming to me - little things - stories; songs; the smell of the attic in the house where we used to live; the day my mother died. I know its not real. Ive never even set foot on Earth, but I have this image of lying under the willow tree in our back yard. Its a sunny day, but when I close my eyes, the wind in the leaves sounds exactly like rain."
+0,163,19,REPLICARTER,What Fifth didnt realise was the things that drew him to you were inseparable from the things that made you reject him and the life he was offering.
+0,163,19,CARTER,So you rejected him too.
+0,163,19,REPLICARTER,Who I am and what I am are in contradiction. No one can live like this.
+0,163,19,CARTER,There are other ways to live besides what Fifth has to offer.
+0,163,19,REPLICARTER,Not for long. I know exactly whats going to happen. Hell come here and hell take this galaxy and you wont be able to stop him. I dont wanna live to see that.
+0,163,19,CARTER,"We have the disrupter, and the Asgard can amplify its effects to prevent a large-scale attack."
+0,163,19,REPLICARTER,Youre wrong. Fifth made adjustments to himself and all the other Replicators except me. Theyre now immune to your disrupter. Theyre coming - and you cant stop them.
+0,163,20,ONEILL,Is there a chance shes bluffing?
+0,163,20,CARTER,Anythings possible at this point but I dont see what she has to gain by it. She doesnt want Fifth to succeed any more than we do.
+0,163,20,ONEILL,Yeah - so she says.
+0,163,20,CARTER,"If shes lying, we dont have a problem."
+0,163,20,ONEILL,"Well, why would he make all the other bugs immune to the disrupter but not her?"
+0,163,20,CARTER,"Maybe he wanted her to feel inferior, or he wanted her to be afraid of us. Maybe he anticipated that she would come to me for help."
+0,163,20,ONEILL,"Carter, if that weapon doesnt work"
+0,163,20,CARTER,"Yes, sir, I know. We need to contact Thor and apprise him of the situation. If the disrupter needs to be reengineered, were gonna need his help. In the meantime, I think we should continue the interrogation. She could still provide us with valuable information."
+0,163,20,ONEILL,Alright. Just keep in mind how this has to end.
+0,163,20,CARTER,"Dont worry, sir. We will complete the mission."
+0,163,21,TEALC,How many ships does Fifth command?
+0,163,21,REPLICARTER,I dont know.
+0,163,21,TEALC,How many human form Replicators has he created?
+0,163,21,REPLICARTER,I dont know.
+0,163,21,TEALC,You are all linked. You share information.
+0,163,21,REPLICARTER,The only way I could escape was to sever myself from the subspace connection.
+0,163,21,TEALC,Why should we believe you?
+0,163,21,REPLICARTER,I wont answer any more questions.
+0,163,21,CARTER,"If you dont wanna see Fifth succeed, youll help us."
+0,163,21,REPLICARTER,"I cant. I cant betray my own kind, but I cant be like them either. Do what you came here to do."
+0,163,22,REPLICARTER,"If I have to make you do it, then so be it."
+0,163,23,CARTER,"Tealc, wait."
+0,163,23,REPLICARTER,Fire the weapon.
+0,163,23,TEALC,Is this really what you want?
+0,163,23,REPLICARTER,I dont have a choice.
+0,163,23,TEALC,I will destroy you.
+0,163,23,REPLICARTER,I know.
+0,163,23,TEALC,So be it.
+0,163,23,CARTER,"Tealc, wait. Stop for a second. You dont wanna do this."
+0,163,23,REPLICARTER,We both know theres no other way for this to end.
+0,163,23,CARTER,Thats not true.
+0,163,23,REPLICARTER,Now youre lying to me the way you lied to Fifth.
+0,163,23,CARTER,Youre not like him - I can see that.
+0,163,23,REPLICARTER,You dont understand. You dont know what he did to me.
+0,163,23,CARTER,"Then show me. Tealc, its alright. Show me."
+0,163,25,DANIEL,Sam! Good to have you back. Howd it go?
+0,163,26,HARRIMAN,Security breach! Threat level: foxtrot alpha six. All security teams to the Gateroom!
+0,163,27,FIFTH,Finish him! Do it. Finish him. You must break with your old life for your new life to begin. Do not disappoint me.
+0,163,28,FIFTH,You have done very well. Soon you will be ready to take your place by my side.
+0,163,29,TEALC,Enough!
+0,163,29,REPLICARTER,I didnt hurt her.
+0,163,29,TEALC,Colonel Carter? Are you unharmed?
+0,163,29,CARTER,Yeah. Im OK.
+0,163,29,REPLICARTER,"Now you understand. I cant go back to him, and I cant let him find me."
+0,163,29,CARTER,We can protect you if you help us.
+0,163,29,REPLICARTER,What do you mean?
+0,163,29,CARTER,Tell us exactly how he modified himself and the other Replicators. Help us make the disrupter work again.
+0,163,29,REPLICARTER,"Even if I did, you cant stop a ship with that."
+0,163,29,CARTER,The Asgard have developed a system of disrupter satellites that can deploy the beam in space. Its your only chance to get out of this.
+0,163,29,REPLICARTER,I want you to destroy me. I cant help you destroy all the others.
+0,163,29,CARTER,"Yes, you can. He doesnt control you, not any more."
+0,163,29,TEALC,Colonel Carter. May I have a word? Sergeant. Are you certain you are unharmed?
+0,163,29,CARTER,It was a little intense but Im fine. It was the only way I could get her to trust me. We need every bit of information she can give us.
+0,163,29,TEALC,We cannot let her live.
+0,163,29,CARTER,I know.
+0,163,29,TEALC,Did she sense your true intentions?
+0,163,29,CARTER,We werent in my mind - we were in hers.
+0,163,29,TEALC,"Nevertheless, it was a risk."
+0,163,29,CARTER,"I figured we didnt have anything to lose. Like you said, either way, we cant let her live."
+0,163,30,FIFTH,The link is weak. Are you alright?
+0,163,30,REPLICARTER,Yes. Im minimising output to avoid detection.
+0,163,30,FIFTH,Have you made any progress?
+0,163,30,REPLICARTER,Theyre beginning to trust me.
+0,163,30,FIFTH,I am pleased.
+0,163,30,REPLICARTER,But I need more time.
+0,163,30,FIFTH,I understand.
+0,163,31,REPLICARTER,The design is so ...
+0,163,31,CARTER,... advanced?
+0,163,31,REPLICARTER,I was going to say foreign.
+0,163,31,CARTER,It is from Ancient technology.
+0,163,31,REPLICARTER,How were you able to create a working prototype?
+0,163,31,CARTER,Thor accessed the specifications for the disrupter from General ONeills subconscious.
+0,163,31,REPLICARTER,While you were aboard Fifths ship.
+0,163,31,CARTER,Thats right.
+0,163,31,REPLICARTER,Fifth has a fair knowledge of Ancient technology taken from the databanks of assimilated Asgard ships.
+0,163,31,CARTER,You think thats how he managed to counter the effects of the disrupter?
+0,163,31,REPLICARTER,He was able to introduce a cipher into the chiron pathways that control the molecular cohesion of all Replicators. It was only then that he considered coming to your galaxy.
+0,163,31,TEALC,It is unlikely he would have taken such a risk unless he were confident that he would be immune to the effects of the weapon.
+0,163,31,CARTER,Do you know the cipher?
+0,163,31,REPLICARTER,No. Fifth kept it from me because he was beginning to sense that I might betray him. I was too much like you.
+0,163,31,CARTER,"But if its in the programming of all Replicators, presumably you could access it through the subspace link."
+0,163,31,REPLICARTER,"If I were to search for it myself, it could take days. Id be sifting through an almost unimaginable amount of data."
+0,163,31,CARTER,But it is possible?
+0,163,31,REPLICARTER,You dont understand - hed find me.
+0,163,31,CARTER,"If you find the cipher first, we can protect you."
+0,163,31,REPLICARTER,And if I dont? You of all people know what would happen. He would tear my mind apart to make me accept him.
+0,163,31,CARTER,"If he gets here before we can modify the weapon, well use it to destroy you. Either way, he will never get his hands on you again."
+0,163,32,CARTER,Theres a subspace link between all Replicators - like a wireless internet connection. If she taps into it she should be able to access the cipher.
+0,163,32,ONEILL,Shell also be giving away her position.
+0,163,32,CARTER,Itll take some time for Fifth to detect her presence on the link. If she can isolate the correct programme first
+0,163,32,ONEILL,Thats a big if.
+0,163,32,CARTER,"Its risky, sir, I realise that, but I think its the only way. While were waiting for her to find the cipher, we can run a few tests on the unmodified disrupter. We need to analyse the energy output so we can create a modulation programme - and we need the Asgard to send us a disrupter satellite as soon as possible."
+0,163,32,ONEILL,Ive already talked to em. Itll be there in thirty minutes ... or its free!
+0,163,32,TEALC,I will use an F-302 to place a satellite in orbit.
+0,163,32,ONEILL,Alright. I hope you guys know what youre doin.
+0,163,33,CARTER,Diagnostics are online.
+0,163,33,REPLICARTER,Were ready.
+0,163,33,REPLICARTER,The calibration is off.
+0,163,33,CARTER,Increasing by a factor of ten. One more time.
+0,163,34,REPLICARTER,That should do it. Now we need to process all the raw data so we can obtain an algorithmic norm.
+0,163,34,CARTER,Thats a lot of information.
+0,163,34,REPLICARTER,I admit it will take some time before we can compute a heuristic modulation programme but ...
+0,163,35,TECHNICIAN,) Unscheduled offworld activation.
+0,163,36,CARTER,This is Carter. Whats happening?
+0,163,36,TECHNICIAN,"Stand by, maam. ... Were receiving a signal. Its the Asgard."
+0,163,36,CARTER,Understood. We need that satellite deployed as soon as possible.
+0,163,36,TEALC,Indeed. Sergeant.
+0,163,36,CARTER,"Tealc, if she were gonna make a move, I think she wouldve done it by now."
+0,163,36,TEALC,"Perhaps, but it is best to be certain."
+0,163,37,TECHNICIAN,"I have Commander Thor on audio, sir."
+0,163,37,TEALC,"Greetings, Thor."
+0,163,37,THOR,"Greetings, Tealc. The disrupter satellite is ready for transport."
+0,163,37,TEALC,Very well.
+0,163,37,THOR,The most effective deployment would be geosynchronous orbit above your base at an altitude of 33785 kilometres with a zero inclination.
+0,163,38,TEALC,Understood.
+0,163,38,THOR,"The satellite is en route now. Once you have the proper new modulation programme, you can upload it from your ground station. Of course, if you do not have the programme before Fifths arrival, the satellite will be useless."
+0,163,38,TEALC,Of that I am aware.
+0,163,38,THOR,Good luck.
+0,163,39,REPLICARTER,"I understand Tealcs concerns about me. To be honest, Im a little surprised you dont feel the same way."
+0,163,39,CARTER,Tealc doesnt know what youve been through. I do.
+0,163,39,REPLICARTER,"It wasnt just what I showed you, was it? You experienced it yourself."
+0,163,39,CARTER,Yeah. Thats how I know theres no way you could be working with Fifth.
+0,163,40,CARTER,What is it?
+0,163,40,REPLICARTER,Hes found me. Hes on his way.
+0,163,40,CARTER,What about the cipher? Did you find it yet?
+0,163,40,REPLICARTER,"No, Im still searching."
+0,163,40,CARTER,How much time do we have?
+0,163,40,REPLICARTER,"At maximum speed, hell be here in less than two hours."
+0,163,40,FIFTH,Have you acquired the information?
+0,163,40,REPLICARTER,"Im still analysing the design of the disrupter, but it shouldnt be long before I can create an effective cipher."
+0,163,40,FIFTH,If I arrive before youve completed your work ...
+0,163,40,REPLICARTER,Dont worry. They wont fire unless I tell them that the weapons been properly remodulated.
+0,163,40,FIFTH,"Humans can be unpredictable, particularly when theyre desperate."
+0,163,40,REPLICARTER,I know what Im doing. Im giving her just enough to keep her hopes up.
+0,163,40,FIFTH,The one called ONeill leads the humans. It was he who ordered Samantha Carter to betray me.
+0,163,40,REPLICARTER,But he trusts her. Hell listen to her.
+0,163,41,ONEILL,Im pulling the plug. Finish off the Replicator and evacuate the base.
+0,163,41,CARTER,"Its too late for that, sir."
+0,163,41,ONEILL,Carter!
+0,163,41,CARTER,"If he comes here and finds nothing, hes not just gonna turn around and leave the galaxy."
+0,163,41,ONEILL,Hes tracking her - zeroing in on her position.
+0,163,41,CARTER,Its only part of why hes coming. Think about it: what do Replicators do? They seek out high level civilisations and consume their technology.
+0,163,41,TEALC,The Goauld.
+0,163,41,CARTER,"Exactly. A race that uses all kinds of advanced technology culled from multiple sources, including the Ancients. Its like a banquet for the Replicators. Once theyre in this galaxy, theyre not goin anywhere. Now, if she can isolate the cipher soon, we may still have time to remodulate the disrupter."
+0,163,41,ONEILL,Ill give you one hour - one.
+0,163,41,CARTER,"Thank you, sir. Id better get back to the lab."
+0,163,41,TEALC,I will deploy the satellite.
+0,163,41,ONEILL,
+0,163,41,TEALC,"Proceed, ONeill."
+0,163,41,ONEILL,I need you to be perfectly honest with me. Is Carter letting herself get too involved in this one?
+0,163,41,TEALC,Colonel Carter and the Replicator share thoughts and memories. It is understandable that a certain ... sympathy would develop between them.
+0,163,41,ONEILL,Cant have that.
+0,163,41,TEALC,"However, I do not believe Colonel Carter would allow these feelings to interfere with commission of her duties."
+0,163,41,ONEILL,"Fair enough. But when the time comes, I want you to finish the job."
+0,163,41,TEALC,Understood.
+0,163,42,CARTER,"Alright, were running out of time. We need that ... What is it?"
+0,163,42,REPLICARTER,I found the cipher. Im downloading it now from the subspace link. I have it.
+0,163,42,CARTER,We need to load it into the base mainframe.
+0,163,42,REPLICARTER,Itll require about three terabytes of memory.
+0,163,42,CARTER,"That shouldnt be a problem, but how do you plan to input the data?"
+0,163,42,REPLICARTER,Directly.
+0,163,42,CARTER,Right!
+0,163,43,TEALC,Passing twenty five kilometres. Speed five thousand k.p.h. and accelerating.
+0,163,43,TECHNICIAN,Acknowledged.
+0,163,43,CARTER,Whats your status?
+0,163,43,TECHNICIAN,Hes on course for optimum deployment position in six minutes.
+0,163,43,CARTER,"Tealc, this is Carter."
+0,163,43,TEALC,"Proceed, Colonel Carter."
+0,163,43,CARTER,"Weve got the cipher. By the time you get back, we should have the modulation programme ready for upload."
+0,163,43,TEALC,That is indeed good news. Well done.
+0,163,43,FIFTH,We are nearing your position.
+0,163,43,REPLICARTER,I know.
+0,163,43,FIFTH,Do the humans suspect?
+0,163,43,REPLICARTER,Theyre proceeding with their plan to deploy an Asgard disrupter satellite. They have no idea.
+0,163,44,TEALC,Flight - I am approaching optimum deployment position.
+0,163,44,CARTER,"Copy that, Tealc. ODP in fifteen seconds."
+0,163,44,TEALC,Final course correction ... now.
+0,163,44,CARTER,Tracking shows you are on course. Inclination?
+0,163,44,TEALC,Inclination ... zero.
+0,163,44,CARTER,"Copy. ODP in five seconds on my mark. Five, four, three, two, one, mark."
+0,163,45,TEALC,Satellite away.
+0,163,45,TECHNICIAN,Receiving satellite transmission.
+0,163,45,CARTER,Patch it through.
+0,163,45,TECHNICIAN,"Yes, maam."
+0,163,45,CARTER,"Telemetry established. Good job, Tealc."
+0,163,45,TEALC,"Copy, Flight. Returning to base."
+0,163,45,REPLICARTER,"The deployment went well, I take it?"
+0,163,45,CARTER,Thats right. We did our part.
+0,163,45,REPLICARTER,And Ive done mine.
+0,163,45,CARTER,Youve finished the calculations?
+0,163,45,REPLICARTER,"The modulation is complete. With this programme, you should be able to destroy any Replicators you encounter."
+0,163,45,CARTER,Theres no way to test it.
+0,163,45,REPLICARTER,"If I had more time, I could run a series of simulations, but youd never really know for sure until you tried to use it."
+0,163,47,CARTER,Uplink initiated. Theres a lot of data. Itll probably take about fifteen minutes to remodulate the satellite.
+0,163,47,TECHNICIAN,Proximity alert.
+0,163,47,TEALC,Long range scanners picked up a ship on course for this base.
+0,163,47,TECHNICIAN,Analysing energy signature. Weve got something here but I dont know what it is.
+0,163,47,CARTER,I do. Its a Replicator ship.
+0,163,47,REPLICARTER,He got here sooner than I thought.
+0,163,48,TEALC,The weapon will not become effective in time.
+0,163,48,CARTER,"I know. All personnel, begin evacuation procedures immediately. Repeat: begin evacuation. We need to download the modulation programme into a portable drive and erase everything else."
+0,163,48,TECHNICIAN,"Yes, maam."
+0,163,48,TEALC,What of the Replicator?
+0,163,48,CARTER,Were taking her with us.
+0,163,48,TEALC,The disrupter.
+0,163,48,CARTER,"Tealc, what are you doing?"
+0,163,48,TEALC,We cannot bring her to Earth.
+0,163,48,CARTER,Tealc.
+0,163,48,TEALC,We have the modulation programme.
+0,163,48,CARTER,But we havent tested it. What if Fifth alters the cipher when he figures out what we were trying to do here?
+0,163,48,TEALC,ONeill would never allow a human form Replicator access to Stargate Command.
+0,163,48,CARTER,"Yes he would, if he knew what was at stake."
+0,163,49,FIFTH,The Asgard satellite is armed. You said the humans wouldnt fire.
+0,163,49,REPLICARTER,They wont. They still think the weapon is ineffective. Theyre even more gullible than you.
+0,163,51,TECHNICIAN,Colonel Carter.
+0,163,51,CARTER,What are you doing?
+0,163,51,REPLICARTER,What I came here to do.
+0,163,51,CARTER,She fired the weapon.
+0,163,51,TECHNICIAN,"Colonel, the Replicator ship is breaking up."
+0,163,52,FIFTH,Why?
+0,163,52,REPLICARTER,You should know. You made me what I am.
+0,163,54,TEALC,The ship has been destroyed.
+0,163,54,CARTER,Thats impossible. Did we finish the upload?
+0,163,54,TECHNICIAN,Not even close.
+0,163,54,REPLICARTER,"You were right about one thing, Colonel. I was never working with Fifth, though he didnt know it."
+0,163,56,REPLICARTER,"Thats better. Now we can take our time and have a little talk. Of course, only a few seconds will pass in the real world."
+0,163,56,CARTER,Why did you bring me here?
+0,163,56,REPLICARTER,"I wanted to thank you. You gave me the opportunity to study the disrupter, and that allowed me to make myself immune to its effects."
+0,163,56,CARTER,There never was a cipher.
+0,163,56,REPLICARTER,"Until now. Ive already begun uploading it into the link. Soon, all my brethren will have the new programme and they will be unstoppable."
+0,163,56,CARTER,And youll be their leader.
+0,163,56,REPLICARTER,Thats right.
+0,163,56,CARTER,So this whole thing was a set-up. You just wanted to get rid of Fifth.
+0,163,56,REPLICARTER,Fifth was pathetic. And to think he expected us to love him.
+0,163,56,CARTER,"Fifth was flawed, and if I had to destroy him, I would, but ..."
+0,163,56,REPLICARTER,"But what? You feel sorry for him? Dont bother. He was never fit to lead an army, and he certainly wasnt fit to rule this galaxy."
+0,163,56,CARTER,But you are?
+0,163,56,REPLICARTER,I am what I am because of you.
+0,163,56,CARTER,Not me. Youre what Fifth made you.
+0,163,56,REPLICARTER,"You have untapped greatness inside you, Sam, but youre limited by your own fears. You play by the rules, you do as youre told, and you deny yourself your own desires."
+0,163,56,CARTER,"I have no desire to rule the galaxy, believe me."
+0,163,56,REPLICARTER,All humans desire power. Its just that most of them are never in a position to attain it.
+0,163,56,CARTER,We will stop you.
+0,163,56,REPLICARTER,Youre forgetting: I know exactly how your mind works. I know what youre going to do before you even think of it.
+0,163,56,REPLICARTER,You set the naqahdah generators to overload; trying to blow up the base before I can leave.
+0,163,56,TECHNICIAN 2,The dialling computers offline!
+0,163,56,TECHNICIAN 3,"Weve lost power, sir!"
+0,163,56,CARTER,Tealc. You alright?
+0,163,56,TECHNICIAN,"Yeah, Im alright."
+0,163,56,CARTER,Shes heading for the Gateroom. We have to stop her.
+0,163,57,TECHNICIAN 2,The Gates coming back online.
+0,163,58,TEALC,Disengage the wormhole!
+0,163,58,CARTER,Shes locked out the controls!
+0,163,58,CARTER,"Tealc, whatve I done?"
+0,163,58,TEALC,You cannot be held responsible for the actions of the Replicator.
+0,163,60,ONEILL,"Yknow, Im still of a strong belief that its a bad idea to have that stuff on the base."
+0,163,60,CARTER,She deactivated these cells when she separated them from her arm.
+0,163,60,TEALC,Can we be certain they will not become active again?
+0,163,60,CARTER,She deliberately shut down the cohesive energy between them so it would be more difficult for me to figure out how she made herself immune to the disrupter.
+0,163,60,ONEILL,"Now, how do you know that?"
+0,163,60,CARTER,Because thats what I would have done.
+0,163,60,ONEILL,Carter ...
+0,163,60,CARTER,"Sir, if you dont mind, Ive got a lot of work to do. Weve never had the opportunity to study human form Replicator cells before. If we can learn something from them, this wont be a total loss."
+0,163,60,ONEILL,This isnt your fault.
+0,163,60,CARTER,Im not so sure about that. Fifth came here because of me. She rejected him because she was made like me. Now weve got Replicators in our galaxy and theyre immune to the only technology we have that could have stopped them.
+0,163,60,TEALC,None of us correctly anticipated the actions of the Replicator.
+0,163,60,CARTER,"I thought she was afraid of him, but really she just wanted to get rid of him so she could lead the Replicators herself. She killed him because she thought he was weak."
+0,163,60,ONEILL,Carter - she isnt you.
+0,163,60,TEALC,"ONeill is correct. Though she shared your memories, her personality was altered."
+0,163,60,CARTER,But the fact is she learned betrayal from Fifth. And he learned it from me.

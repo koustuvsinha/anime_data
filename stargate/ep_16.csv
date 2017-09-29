@@ -1,0 +1,313 @@
+Season,Episode,Scene,Character,Line
+0,16,0,STARGATE SG1,Episode 117
+0,16,0,"""SOLITUDES""",By Brad Wright Gateroom
+0,16,0,TECH,"Incoming traveller, incoming traveller, offworld activation, closing the iris."
+0,16,0,TECH,Clear the ramp.
+0,16,0,HAMMOND,There's no-one scheduled to come back for 24 hours. Who is it?
+0,16,0,TECH,"It's SG-1's remote access code, Sir."
+0,16,0,HAMMOND,What? They just went through!
+0,16,0,TECH,"Opening the iris, stand by.Sir, the 'gate is showing twice the power as normal, and it's increasing!"
+0,16,1,TECH,System overload! The wormhole is disengaged!
+0,16,1,HAMMOND,"Get a medical team in here now! Teal'c, are you alright?"
+0,16,1,TEAL'C,I am.
+0,16,1,HAMMOND,Where are Colonel O'Neill and Captain Carter?
+0,16,1,TEAL'C,They could not have been more than two metres behind. I do not know.
+0,16,4,HAMMOND,Doctor Jackson's still unconscious but Doctor Warner thinks he'll be alright. I need to know what went on back there Teal'c.
+0,16,4,TEAL'C,We were under fire. Distant. Energy weapons of some kind. Possibly Goa'uld technology.
+0,16,4,HAMMOND,So it's possible Colonel O'Neill and Captain Carter were struck by enemy fire?
+0,16,4,TEAL'C,I do not believe so. They were but a few metres behind me as we passed through the Stargate.
+0,16,4,HAMMOND,How many hostiles were there?
+0,16,4,TEAL'C,"They were some distance away. But we appeared to be surrounded. We were there only moments. Colonel O'Neill ordered us to lay down cover fire while Daniel Jackson dialled home. General Hammond, I believe they should have made it through the gate. I do not understand why they did not."
+0,16,4,TECH,"Preliminary report on the Stargate repairs, Sir."
+0,16,4,TEAL'C,Repairs?
+0,16,4,HAMMOND,"There was some kind of overload during transit, we don't know why."
+0,16,4,TEAL'C,I must return immediately.
+0,16,4,HAMMOND,"Not with an army waiting on the other side, sorry."
+0,16,4,TEAL'C,"General Hammond, I suggest a second probe be sent through."
+0,16,4,HAMMOND,As soon as the Stargate's working again we'll do just that.
+0,16,5,JACK,Aah!
+0,16,5,SAM,Colonel.
+0,16,5,JACK,Carter.
+0,16,5,SAM,"Try to stay put Sir, I think your leg's broken."
+0,16,5,JACK,"No, my leg's definitely broken. This is bad news, because unless they've redecorated the 'gate room I don't think we're in Kansas anymore."
+0,16,5,SAM,Daniel must have misdialled.
+0,16,5,JACK,"Misdialled? You mean this place is a wrong number? Ah, for crying out loud. Where is he?"
+0,16,5,SAM,"He's not here, Sir, neither is Teal'c."
+0,16,5,JACK,"No, he has to be."
+0,16,5,SAM,"Yeah, I tried that. You've been unconscious for nearly two hours."
+0,16,5,JACK,They came through the gate before we did.
+0,16,5,SAM,"I know that, I also know we're alone here, wherever here is."
+0,16,5,JACK,Ice. Nice.
+0,16,5,SAM,"Yeah, I think we're inside a deep crevasse of a glacier. If their Stargate's been overrun by ice, possibly on a planet in the middle of an ice age. Now, there is some light filtering through up there and there are some fissures in the ice, but all of them are too narrow to follow very far. We're in trouble, Sir."
+0,16,5,JACK,"Oh, nonsense. We'll just dial home and straighten all this out. Where's the"
+0,16,5,SAM,Can't find that either.
+0,16,5,JACK,"Oh, so we're in trouble."
+0,16,5,SAM,We're in trouble.
+0,16,6,TECH,"We've almost replaced all the super conductive interface elements, Sir. The old ones all melted. It's going to take some time to load test them though."
+0,16,6,HAMMOND,Just tell me the minute we can send a probe through.
+0,16,6,SILER,"That'll be 24 hours General, minimum."
+0,16,6,TEAL'C,Captain Carter and Colonel O'Neill do not have that long.
+0,16,6,HAMMOND,I'll give you half that.
+0,16,6,SILER,"No Sir, it doesn't work that way. 24 hours is the best I can do."
+0,16,6,HAMMOND,Then you'd better get back to it.
+0,16,6,SILER,"Yes Sir! Come on, let's go."
+0,16,7,JACK,"Oh, God"
+0,16,7,SAM,"Okay, I think it's set."
+0,16,7,JACK,You think it's set?
+0,16,7,SAM,I'm positive. All we have to do is put a splint on it and you'll be as good as new.
+0,16,7,JACK,"Just take it easy, Doctor."
+0,16,7,SAM,"Wrong kind of doctor, I'm afraid."
+0,16,7,JACK,"You wouldn't think jagged bone digging into raw nerves would hurt, but it does."
+0,16,7,SAM,"Sorry Sir, but I've never done this before in my life. Is this your first broken bone?"
+0,16,7,JACK,"Ah, no, this would be if you count skull fractures."
+0,16,7,SAM,How did you manage that?
+0,16,7,JACK,"Little parachuting mishap, over the borders of Iran and Iraq, in 1980."
+0,16,7,SAM,"Okay, this is gonna hurt, Sir."
+0,16,7,JACK,"Ah! I know,I know."
+0,16,7,SAM,"So, what happened?"
+0,16,7,JACK,"I hit the ground. Go figure. God. My chute opened late, and it hurt, just like that."
+0,16,7,SAM,"I'm sorry Colonel, I'm doing the best I can."
+0,16,7,JACK,"I know you are, Captain, can you just be done?"
+0,16,7,SAM,"So you hit the ground, and.?"
+0,16,7,JACK,And they all lived happily ever after.
+0,16,7,SAM,"Almost there, almost there."
+0,16,7,JACK,"No, you're there Captain, you're there. That's a great splint. Stop! Stop!"
+0,16,7,SAM,"So, how long before you were rescued?"
+0,16,7,JACK,"No rescue. It wasn't exactly an official mission, if you know what I mean, so I had to make it out on my own. It took nine days."
+0,16,7,SAM,"Wow, what got you through it?"
+0,16,7,JACK,Sara.
+0,16,7,SAM,Your wife.
+0,16,7,JACK,At the time. I needed to see her again. You tallied our supplies yet?
+0,16,7,SAM,"Yeah, Sir, supplied for three days, but we can stretch that. We've got a little drinking water, but..."
+0,16,7,JACK,Ice melts.
+0,16,7,SAM,"Yeah, and we've got our field cooking gear to melt it. Flashlight batteries are gonna be a problem. We've got thermal blankets."
+0,16,7,JACK,"That's great. By the way, Captain, we are going to get out of here, that's an order."
+0,16,7,SAM,How's the splint feel?
+0,16,7,JACK,"Captain, you have to believe me."
+0,16,7,SAM,"I want to, Sir, I just don't see how."
+0,16,7,JACK,Then we'd better start looking for a way. Because I'll be damned if I'm going to die on some god-forsaken block of ice a million light years from home. Is that clear?
+0,16,7,SAM,Yes Sir.
+0,16,7,JACK,Good. Now help me up.
+0,16,7,SAM,I don't think you should move.
+0,16,7,JACK,"Probably not, but my butt's freezing to the ground. Come on. A little paint, a coupla windows, maybe a fireplace in the corner, it'll be just like home."
+0,16,8,DANIEL,Teal'c?
+0,16,8,TEAL'C,The Stargate has malfunctioned. We came through the 'gate at too great a velocity.
+0,16,8,DANIEL,Jack and Sam?
+0,16,8,TEAL'C,They did not follow.
+0,16,8,DANIEL,Yes they did. I know they did. They were right behind us. That doesn't make any sense.
+0,16,8,TEAL'C,I concur. In a few hours a probe will be sent back in an attempt to determine their fate.
+0,16,9,JACK,"We might be able to climb out of here. You might, anyway."
+0,16,9,SAM,What?
+0,16,9,JACK,"I said, you might be able to climb outta here."
+0,16,9,SAM,"Colonel, I've found it!"
+0,16,9,JACK,Found what?
+0,16,9,SAM,"The DHD, I figure the glacial flow must have separated the Stargate from its Dial Home Device, but it looks like it might be intact."
+0,16,10,JACK,God. Oh. Can we dig it out?
+0,16,10,SAM,"Even if it doesn't work, we can use the chopped ice to melt drinking water."
+0,16,10,JACK,Alright.
+0,16,10,SAM,What's wrong with your chest?
+0,16,10,JACK,I think I cracked a rib too.
+0,16,10,SAM,Why didn't you say something?
+0,16,10,JACK,I was afraid you'd try to put a splint on it. I'll be fine.
+0,16,11,SAM,I've been thinking about where Daniel and Teal'c might be.
+0,16,11,JACK,Yeah?
+0,16,11,SAM,"So far, I count three possible explanations. One, Daniel misdialled and they're here, somewhere we haven't found."
+0,16,11,JACK,I don't see 'em.
+0,16,11,SAM,"Right. Two, Daniel didn't misdial but for some reason the Stargate malfunctioned during transit. Don't ask me how, I haven't figured that part out yet. Anyway, they got sent back to Earth, but for some reason we got sent here."
+0,16,11,JACK,What's three?
+0,16,11,SAM,"Three. The Stargate malfunctioned. We got sent to this planet, Daniel and Teal'c got sent to another one."
+0,16,11,JACK,What's four?
+0,16,11,SAM,There is no four.
+0,16,11,JACK,It's after three.
+0,16,11,SAM,"Not this time, Colonel."
+0,16,11,JACK,"Alright, we'll assume they made it back to Earth. They'll start sending search parties."
+0,16,11,SAM,To where?
+0,16,11,JACK,"Here, I hope."
+0,16,11,SAM,Where would they begin? They have no idea where we are. With all the possible Stargates a random search could easily take ten years!
+0,16,11,JACK,Not if they look here first.
+0,16,11,SAM,"Even if all SG teams started searching right now, the mathematical probability of them even."
+0,16,11,JACK,Captain!
+0,16,11,SAM,I think too much.
+0,16,12,TECH,"Charging circuit MX43 at 20%. 100. Circuit is holding, reset and standby. She's all yours, General."
+0,16,12,HAMMOND,"Well done, you heard the man."
+0,16,12,TECH,Yes Sir. Chevron one encoded.
+0,16,12,TEAL'C,
+0,16,12,HAMMOND,I won't authorise this rescue mission unless the probe sends back the right pictures Teal'c.
+0,16,12,TECH,Chevron two encoded.
+0,16,12,HAMMOND,All defence teams stay alert. These hostiles might have both our addresses and our transmitter code.
+0,16,12,TECH,Chevron three encoded.
+0,16,12,DANIEL,"You don't actually think they'd give up the transmitter codes to the enemy, do you?"
+0,16,12,HAMMOND,"Not willingly, no."
+0,16,12,TECH,Chevron four encoded.
+0,16,12,TEAL'C,"I do not believe they would do so, even under the duress of torture."
+0,16,12,TECH,Chevron five encoded.
+0,16,12,HAMMOND,"Teal'c, in the event we find no enemy activity on the other side, you will coordinate with Major Castleman on the rescue mission."
+0,16,12,TECH,Chevron six encoded.
+0,16,12,TEAL'C,I understand.
+0,16,12,TECH,Chevron seven is locked.
+0,16,13,TECH,"The probe should reach the Stargate at P4A-771 in five seconds. Four, three, two, now."
+0,16,13,DANIEL,"No sign of Jack and Sam, but no evidence they got into a firefight either."
+0,16,13,HAMMOND,What are you waiting for? Close the iris! Disengage the Stargate. SG-3 stand down. The rescue mission is scrubbed.
+0,16,13,DANIEL,General!
+0,16,14,JACK,Soups on.
+0,16,14,SAM,"Just a little more, I'm almost through."
+0,16,14,JACK,"Come on now, you don't want to get cold."
+0,16,14,SAM,I didn't know you could cook.
+0,16,14,JACK,"I can't, but my melted ice is to die for."
+0,16,14,SAM,"Thankyou. Sir, maybe I should have another look at you."
+0,16,14,JACK,"No, I'm fine. Eat."
+0,16,14,SAM,I've been thinking about how the Stargate might have malfunctioned.
+0,16,14,JACK,Yeah?
+0,16,14,SAM,"Well, we don't totally understand how it works, but the theory we have so far is that the 'gate creates an artificial wormhole, that somehow transfers an energised matter stream in one direction along an extra-dimensional conduit. I think the matter stream between Stargates got redirected, kind of like a lightning bolt jumping from one point to another in mid-strike. Now, I figure it had to have been the attack on P4A-771. The gate itself was probably struck by enough energy during the firefight to influence the direction of the matter stream before we reached the other side. Colonel?"
+0,16,14,JACK,"I'm sorry, I wasn't listening."
+0,16,14,SAM,"What I'm saying is, we must have emerged through a Stargate relatively close to Earth in the 'gate network, somewhere between P4A-771 and Earth. Now, if the SG rescue teams reach the same conclusion, it could significantly reduce their search."
+0,16,14,JACK,That's good news.
+0,16,14,SAM,Yeah.
+0,16,15,DANIEL,"Okay, so if they are not there, and they are not here."
+0,16,15,TEAL'C,It is possible that they might have perished within the wormhole.
+0,16,15,DANIEL,"Yeah. In which case they're gone. I know, I thought of that. But if they are alive, if there's the least remote possiblity that this malfunction sent them to another Stargate."
+0,16,15,TEAL'C,Was it not Captain Carter who deduced the possible combinations of Stargate symbols numbered in the millions?
+0,16,15,DANIEL,"Well, we have to narrow it down."
+0,16,16,SAM,Whoah. Colonel. A serpent guard.
+0,16,16,JACK,Yeah.
+0,16,16,SAM,I guess he didn't make it.
+0,16,16,JACK,Ya think?
+0,16,17,DANIEL,"Okay, this is P4A-771, this is Earth. Now, the Stargate shut itself down just after Teal'c and I came through."
+0,16,17,HAMMOND,There was an energy surge.
+0,16,17,DANIEL,Right. But what would that have done to the wormhole itself?
+0,16,17,MAN,I have no idea.
+0,16,17,DANIEL,Could it just disappear?
+0,16,17,MAN,"No, I don't think so Sir. It would have to discharge somewhere."
+0,16,17,DANIEL,"Like, another Stargate?"
+0,16,17,MAN,"Yeah, maybe. Sir, it's all theoretical, but we think that Stargates are basically giant superconductors. Charged matter streams along lines of force between them."
+0,16,17,DANIEL,"Positive to negative, like electricity. Right?"
+0,16,17,MAN,"Except for the fact the whole trip happens outside our dimension, yeah, more or less."
+0,16,17,DANIEL,"Okay, what if it jumped. Redirected itself here, or here, or anywhere along here."
+0,16,17,HAMMOND,You're suggesting we search all these worlds?
+0,16,17,DANIEL,"Well, at least we've narrowed an entire galaxy of Stargates down to a handful of possibilities."
+0,16,17,HAMMOND,"Assuming you're right, why haven't they used that Stargate to come back on their own?"
+0,16,17,DANIEL,"Teal'c and I were flung out of this 'gate at this end so fast I don't even remember hitting the ramp. Now, they could be badly hurt, in which case we will not have to search far from the Stargates themselves. I think we owe it to them to try."
+0,16,18,JACK,You ID'ed the seventh symbol yet?
+0,16,18,SAM,"Yeah, this one has to be the point of origin. I've never seen it before. No batteries. Guess it's now or never."
+0,16,18,JACK,I've always preferred now to never.
+0,16,18,SAM,Here goes. Dammit!
+0,16,18,JACK,You dialled the right address?
+0,16,18,SAM,Yes! It has to be something as simple as the control interface. If we can dig down to the panel on the DHD I can fix it.
+0,16,18,JACK,Negative.
+0,16,18,SAM,"Sir, we've gotta keep trying!"
+0,16,18,JACK,Of course we do. But we've been awake for a very long time. It'll be there in the morning. God.
+0,16,18,SAM,What about you?
+0,16,18,JACK,I told you we're gonna get out of here. It's just gonna take longer than we thought.
+0,16,18,SAM,Yes Sir.
+0,16,18,JACK,Captain.?
+0,16,18,SAM,Yes Sir.
+0,16,19,HAMMOND,Dr. Jackson?
+0,16,19,DANIEL,"We just received probe telemetry from P5C-11 and 12, neither of them have a breathable atmosphere any more. If they ever did."
+0,16,19,HAMMOND,I have formally reported Colonel O'Neill and Captain Carter as missing in action.
+0,16,19,DANIEL,Why?
+0,16,19,HAMMOND,"Missing in action doesn't mean we stop looking, Son."
+0,16,20,DANIEL,I'm missing something.
+0,16,21,JACK,Captain. Much as I might otherwise think this is nice.
+0,16,21,SAM,Try to sleep.
+0,16,21,JACK,Is that what we were doing?
+0,16,21,SAM,"You were exhausted, you passed out. I just thought we had to combine body heat or we wouldn't make it through the night."
+0,16,21,JACK,"That's fine, it's just really hard to sleep with broken ribs when someone's lying on you."
+0,16,21,SAM,"Sorry, sorry, sorry."
+0,16,21,JACK,That's better.
+0,16,21,SAM,Sleep for a few hours and I'll fix the
+0,16,21,JACK,Okay. Night.
+0,16,21,SAM,"Night.Oh, Colonel!"
+0,16,21,JACK,"It's my sidearm, I swear. No giggling, please.!"
+0,16,21,SAM,"If we don't make it, I won't have any regrets, you?"
+0,16,21,JACK,I'll regret dying.
+0,16,22,SAM,"God, why won't you work!"
+0,16,23,JACK,"Carter, Carter..."
+0,16,23,SAM,Colonel! Sir?
+0,16,23,JACK,I'm usually the first one up.
+0,16,23,SAM,"You're bleeding internally, I don't know how badly. Your broken leg may already be frostbitten, I can't tell. I've been trying to warm it up with the last of our cooking sterno but that's about had it."
+0,16,23,JACK,What's the bad news? Help me up.
+0,16,23,SAM,"No, Sir, you need to heal. That's an order."
+0,16,23,JACK,I give the orders around here.
+0,16,23,SAM,"Doctor's orders. I want you to drink as much of this as you can. Once that dies, we won't be able to thaw any more. I should have gotten you out of here by now, I'm sorry."
+0,16,23,JACK,"You will, you will."
+0,16,23,SAM,"I have been working on the control panel for the last twelve hours, it just, I don't know why it won't work, it should work! I'm missing something."
+0,16,23,JACK,Captain.
+0,16,23,SAM,Sir?
+0,16,23,JACK,It's time to go to plan B.
+0,16,23,SAM,What would plan B be?
+0,16,23,JACK,"You take the rest of the supplies and climb out of here. Take your chances up on the planet, head towards daylight."
+0,16,23,SAM,"If I can't get that Stargate to work, we will both go."
+0,16,23,JACK,"Right, I'll race you. Alright Captain, make it work."
+0,16,23,SAM,Yes Sir.
+0,16,24,TEAL'C,Major Caplin requires medical attention.
+0,16,24,TECH,Medical team to the embarkation room!
+0,16,24,HAMMOND,What happened?
+0,16,24,TEAL'C,We were exploring a cave not far from the Stargate. He fell several metres from a rock ledge. There was no sign of Captain Carter or Colonel O'Neill.
+0,16,24,HAMMOND,Are you alright?
+0,16,24,TEAL'C,I am ready to embark again.
+0,16,24,HAMMOND,I'm calling the search off.
+0,16,24,DANIEL,What?
+0,16,24,HAMMOND,"This was the last of the planets to fit your theory, Doctor."
+0,16,24,DANIEL,"Well, it's been, what, a few days? What if we stop just short of finding them?"
+0,16,24,HAMMOND,I'm sorry!
+0,16,25,SAM,"Okay, energy converger intact. Oh God,reset! Reset! Why didn't I think! Colonel, I'm gonna interrupt the power. I'm gonna shut it all off and turn it on again! Okay, this better work. Okay, okay."
+0,16,26,SAM,Work!
+0,16,27,TEAL'C,Daniel Jackson.
+0,16,27,DANIEL,Teal'c. Did you see that?
+0,16,27,TEAL'C,Why are you here?
+0,16,27,DANIEL,"I couldn't sleep. I was thinking that I must be missing something, and now I just realised we ruled out a world we shouldn't have."
+0,16,28,JACK,I guess it didn't work.
+0,16,28,SAM,I'm sorry.
+0,16,28,JACK,Not your fault.
+0,16,28,SAM,I don't understand why it won't work!
+0,16,28,JACK,"Captain, plan B, go."
+0,16,28,SAM,"No, Sir."
+0,16,28,JACK,"Sam, I'm dying. Follow my order, please."
+0,16,28,SAM,Sir.
+0,16,28,JACK,Please.
+0,16,28,SAM,Yes Sir.
+0,16,29,DANIEL,How many Earth-based cultures have we encountered from other worlds from periods both before and after we think the Stargate was buried?
+0,16,29,HAMMOND,"Several, I think."
+0,16,29,DANIEL,"Right, and we've probably only scratched the surface. Now, so far we've tried to account for these discrepancies with various theories of parallel or accelerated..."
+0,16,29,HAMMOND,"What's your point, Doctor?"
+0,16,29,DANIEL,"What if there's a second Stargate here. What if this energy surge caused the wormhole to jump from one Stargate to another, here."
+0,16,29,HAMMOND,On Earth?
+0,16,29,DANIEL,Yes.
+0,16,29,HAMMOND,"Teal'c, would the Goa'uld have put more than one Stargate on a planet?"
+0,16,29,TEAL'C,"If the first became lost to them, it is possible."
+0,16,29,DANIEL,"Remember, the one that Ra put here might not have been the first. The Goa'uld didn't build the Stargate system."
+0,16,29,HAMMOND,Then where is it?
+0,16,30,SAM,"Colonel, I can't see the surface yet, it looks like it just keeps going up."
+0,16,30,JACK,Sam.
+0,16,30,SAM,Yes Sir?
+0,16,30,JACK,It was an honour serving with you.
+0,16,30,SAM,Yes Sir.
+0,16,31,DANIEL,It would have to be in a remote location otherwise it would have been discovered by now. It could have even been buried until recently otherwise the Goa'uld would have continued to use it.
+0,16,31,TEAL'C,Let us hope it is not still buried.
+0,16,31,HAMMOND,We're looking for radio transmissions on SG-1's emergency frequency. Co-ordinate with air military listening posts around the entire globe.
+0,16,31,DANIEL,"General, when we first opened our Stargate, it used to shake A LOT. I mean, the ground, the whole facility, everything."
+0,16,31,HAMMOND,We've installed frequency dampers that limit that to only a slight vibration.
+0,16,31,DANIEL,"Okay, but what if the second 'gate doesn't have those. Would it shake enough to indicate its location on a seizmometer?"
+0,16,31,HAMMOND,Damn right it would. Run a search for all recent seismic activity worldwide. See if any coincide with the time of our Stargate malfunction.
+0,16,31,DANIEL,"And check about 4am local time. I was here, I thought someone was trying an off-world activation, but nothing happened. Except for the chevrons glowed and there was a slight vibration."
+0,16,31,TEAL'C,Captain Carter and Colonel O'Neill.
+0,16,31,DANIEL,What happens when you dial your own phone number? Wrong person to ask. What happens when you dial your own phone number?
+0,16,31,HAMMOND,You get a busy signal.
+0,16,31,DANIEL,"Exactly. What else could cause a vibration like that except if they were trying to dial home? They couldn't get home. I mean, even if the seventh symbol looked different, the co-ordinates of the two gates would still be exactly the same."
+0,16,32,SAM,"Colonel, I'm almost there. I'm gonna try and bring back help, Sir, I want you to hold that thought."
+0,16,34,TECH,"We got it! Antarctica! The timing of the event is to the second, including the event that Dr. Jackson experienced a few hours ago!"
+0,16,34,HAMMOND,Latitude and longitude?
+0,16,34,TECH,Yes Sir! It's only about 50 miles out of McMurdo!
+0,16,34,TEALC AND DANIEL,"General, permission."
+0,16,34,HAMMOND,Granted! Order McMurdo station to begin a search of those co-ordinates NOW.
+0,16,35,SAM,Colonel? It's an ice planet. That's all there is as far as the eye can see. No chance. Colonel! I'm coming down! Colonel. Colonel.
+0,16,36,JACK,Sara.
+0,16,36,SAM,"I'm here, Jack."
+0,16,36,JACK,"Cold, so cold."
+0,16,38,DANIEL,"Sam! Sam! Come on. It's gonna be okay, you're gonna be okay."
+0,16,38,TEAL'C,As is Colonel O'Neill.
+0,16,38,HAMMOND,Let's get them in the chopper.
+0,16,38,SAM,Colonel. He's bleeding internally.
+0,16,38,HAMMOND,"We know, Captain, don't worry, he's going to be alright."
+0,16,38,SAM,"General, you came through the Stargate for us."
+0,16,38,HAMMOND,Not exactly Captain. A team from the SGC will be coming within the hour to secure this area. In the meantime let's get these people home.

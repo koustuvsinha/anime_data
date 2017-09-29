@@ -1,0 +1,399 @@
+Season,Episode,Scene,Character,Line
+0,105,0,STARGATE SG1,Episode 519
+0,105,0,"""MENACE""",By Peter DeLuise
+0,105,1,CARTER,"Looks like it was once an advanced civilisation, Sir."
+0,105,1,DANIEL,No survivors.
+0,105,1,O'NEILL,No bodies either.
+0,105,1,DANIEL,"Based on the overgrowth, I'm guessing this place was destroyed a long time ago."
+0,105,1,CARTER,Faint energy readings definitely coming from here. Nothing dangerous as far as I can tell.
+0,105,2,DANIEL,She's perfectly preserved. Must be some sort of tomb or crypt of some kind.
+0,105,2,CARTER,Or a science lab.
+0,105,2,DANIEL,Why would you say that?
+0,105,2,CARTER,"Because these energy readings I'm getting, seem to be coming from her."
+0,105,3,DAVIS,"It's Colonel O'Neill, Sir."
+0,105,4,O'NEILL,General?
+0,105,4,HAMMOND,Colonel. What do you have to report?
+0,105,4,O'NEILL,"Yeah. Confirming initial MALP recon. Place's pretty much toast. However, Carter did find something."
+0,105,4,HAMMOND,Care to expand on that?
+0,105,4,O'NEILL,She thinks it's a robot Sir.
+0,105,4,CARTER,Sir. I'm positive this is some sort of artificial life form but I can't be sure of anything more than that under these conditions. Request permission to bring it back to the SGC for further evaluation Sir.
+0,105,4,HAMMOND,Can you assure me that will be safe?
+0,105,4,CARTER,"Well it appears to be inactive at the moment Sir, I'm getting only very faint energy readings. I believe we could isolate it safely and I definitely think this is worth examining."
+0,105,4,DANIEL,It also may be the last remnants of a civilisation and the key to finding out exactly what happened here Sir.
+0,105,4,HAMMOND,Very well. Bring it through.
+0,105,4,DANIEL,Thank you.
+0,105,4,CARTER,Thank you.
+0,105,4,O'NEILL,"Out, Sir."
+0,105,5,CARTER,"Hey, Janet."
+0,105,5,FRAISER,Hey. How's the new toy?
+0,105,5,CARTER,Amazing. This is more advanced than any android we've encountered before. Check this out.
+0,105,6,FRAISER,That some sort of nanotechnology?
+0,105,6,CARTER,They seem to be some self-repair mechanism.
+0,105,6,FRAISER,But they're inactive.
+0,105,6,CARTER,They seem to deactivate when disconnected from it. Her. According to the ultra sonic scan the power system is centred here. There seems to be some sort of mechanism to access it from the outside. I was just about to try to...
+0,105,7,FRAISER,Wow.
+0,105,8,DANIEL,"The Greeks, Romans, Babylonians, Chinese, they all envisioned synthetic beings that took on the shape and behaviour long before the words robot or android were ever uttered."
+0,105,8,O'NEILL,"Yeah, so?"
+0,105,8,DANIEL,"So, even in Earth's early civilisations, it's been our nature to seek immortality through the creation of vessels for our consciousness."
+0,105,8,O'NEILL,Vessels?
+0,105,9,HAMMOND,"Colonel O'Neill, Dr Jackson. Major Carter and I were just discussing whether or not to activate the robot."
+0,105,9,DANIEL,You can?
+0,105,9,CARTER,"I think I found a way to recharge the unit's main power cell. Now prior to this, it's being operating on less than 1% capacity. I'm hoping that that was enough to maintain the memory systems. Assuming that it had any to begin with, of course."
+0,105,9,O'NEILL,Of course. Why do you want to do this again?
+0,105,9,CARTER,"Well sir, this is an incredibly advanced piece of technology. Given enough time, eventually I might be able to figure out how some of its functions work. The neurological systems seems to be as complex as a human brain."
+0,105,9,O'NEILL,So?
+0,105,9,CARTER,"So, I'm hoping the robot will be able to help me understand itself. Sir."
+0,105,10,O'NEILL,Now what?
+0,105,10,CARTER,I don't know. The power cell should be fully charged. As far as I can tell there isn't an on switch. It's possible the power was depleted for too long.
+0,105,10,O'NEILL,Why don't you kiss her?
+0,105,11,CARTER,There's a pulse.
+0,105,11,DANIEL,There's a heartbeat?
+0,105,11,O'NEILL,It has a heart?
+0,105,11,CARTER,It designed to create a very realistic illusion of humanity.
+0,105,12,REESE,Where am I?
+0,105,12,DANIEL,You're in a special facility on the planet Earth. My name is Daniel Jackson. This is Major Samantha Carter; this is Jack O'Neill.
+0,105,12,O'NEILL,Hi.
+0,105,12,REESE,My name is Reese. Where's my father?
+0,105,12,DANIEL,"We're not sure. Uh, please just let me explain."
+0,105,12,REESE,Don't hurt me.
+0,105,12,DANIEL,No one wants to hurt you.
+0,105,12,REESE,How did I get here?
+0,105,12,DANIEL,We found you on your planet and brought you through the Stargate.
+0,105,12,REESE,What is that?
+0,105,12,CARTER,Well there was one on your planet. It's a device that can be used to travel great distances through space.
+0,105,12,DANIEL,We can tell you more about that later.
+0,105,12,REESE,Why did you bring me here?
+0,105,12,DANIEL,Well I suppose there's no easy way to tell you this but the civilisation on your planet was destroyed.
+0,105,12,REESE,How?
+0,105,12,DANIEL,We don't know.
+0,105,12,O'NEILL,We were sort of hoping you could tell us.
+0,105,12,REESE,I was.. I was asleep.
+0,105,12,DANIEL,"Yes, we found you that way."
+0,105,12,REESE,What about my father?
+0,105,12,DANIEL,"Well as far as we could tell, you were the only survivor. You don't know anything about what happened?"
+0,105,12,REESE,My father knew there was danger. He told me to go to sleep. He said he would wake me when the danger went away.
+0,105,12,DANIEL,We're very sorry.
+0,105,12,REESE,What do you want?
+0,105,12,DANIEL,Well we want to understand.
+0,105,12,REESE,What?
+0,105,12,DANIEL,"Your planet, its history."
+0,105,12,CARTER,You.
+0,105,12,REESE,What about me?
+0,105,12,CARTER,"Well I'd like to know more about how you work. Your systems, how they function."
+0,105,12,REESE,I'm like you.
+0,105,12,CARTER,"Ah, not exactly. At least as far as I can tell."
+0,105,12,REESE,How are we different?
+0,105,12,DANIEL,"Sam, can I have a word?"
+0,105,12,CARTER,Yeah.
+0,105,12,DANIEL,We're just gonna step outside for a minute. Will you be okay? We'll be right back.
+0,105,13,O'NEILL,Excuse me.
+0,105,14,DANIEL,I don't think she knows she's a robot.
+0,105,14,O'NEILL,"Okay, how is that possible?"
+0,105,14,DANIEL,"Well the last time your consciousness was copied into a robot, you didn't figure it out right away."
+0,105,14,CARTER,Okay what are you suggesting?
+0,105,14,DANIEL,"I'm just saying, maybe we should avoid slapping her in the face with the reality of her existence just moments after telling her, her planet was destroyed."
+0,105,14,O'NEILL,Why? It's a machine.
+0,105,14,DANIEL,She just found out her father's dead.
+0,105,14,O'NEILL,It's a machine.
+0,105,14,CARTER,He's right. It's not like it had a real father.
+0,105,14,DANIEL,Well maybe not. Maybe it's her creator. Or maybe we're talking to the stored consciousness of a real human being who once did have a real father. I think our past experience should be telling us to be careful about deciding what is and what isn't a life form.
+0,105,14,CARTER,"Okay, I agree. All I'm saying is if she really doesn't know what she is, she has a right to."
+0,105,14,DANIEL,"Okay, maybe we should wait a while. I mean, she did seem pretty upset."
+0,105,14,O'NEILL,For a machine.
+0,105,14,DANIEL,We don't know what kind of psychological effect it will have.
+0,105,14,CARTER,Psychological?
+0,105,14,DANIEL,"Whether her behaviour is a result of sophisticated programming or not, I think the best way to find out about her and what she knows, is by dealing with her on her own terms, at least for now."
+0,105,14,O'NEILL,Couldn't hurt.
+0,105,15,CARTER,Doesn't make any sense.
+0,105,15,O'NEILL,Which part?
+0,105,15,CARTER,Why would somebody attack and destroy an entire civilisation and leave one piece of incredibly advanced technology intact?
+0,105,15,O'NEILL,Isn't that what he's trying to figure out?
+0,105,15,CARTER,"What I'm saying is, maybe there's something on the planet we missed."
+0,105,15,O'NEILL,I'll go back.
+0,105,16,REESE,Is the rest of your planet like this?
+0,105,16,DANIEL,No it's very different.
+0,105,16,REESE,What's it like?
+0,105,16,DANIEL,"Well, there's lots of varying climates, different landscapes, big oceans, wide range of civilisations and each is home to a lot if different kinds of people."
+0,105,16,REESE,Sounds beautiful.
+0,105,16,DANIEL,Much of it is.
+0,105,16,REESE,Can I see it?
+0,105,16,DANIEL,Soon.
+0,105,16,REESE,Why not now?
+0,105,16,DANIEL,"Well, because we still have more to talk about Reese."
+0,105,16,REESE,"I know, but we've been talking for so long now."
+0,105,16,DANIEL,"I know, but you must know a lot more than what we've already talked about."
+0,105,16,REESE,I do know a lot.
+0,105,16,DANIEL,What can you tell me about the danger that came to your planet?
+0,105,18,O'NEILL,Well this might have turned out to be one colossal waste of time. You boys find anything?
+0,105,18,SG3 LEADER,Just lots of debris.
+0,105,18,O'NEILL,I think our work is done here.
+0,105,18,SG3 LEADER,"Colonel, you said to look for anything uncharacteristic of the indigenous technology, right?"
+0,105,18,O'NEILL,
+0,105,18,SG3 LEADER,"Right. Well, Major Carter said not to ignore anything however insignificant it may seem."
+0,105,18,O'NEILL,What have you got?
+0,105,18,SG3 LEADER,"Well I'm sure it's nothing, Sir, but we found a bunch of these scattered around. I've never seen anything like them before."
+0,105,19,SG3 LEADER,You know what they are?
+0,105,19,O'NEILL,Oh yeah.
+0,105,20,CARTER,No energy readings. I'd say these blocks are dead. Probably been on the planet since it was destroyed.
+0,105,20,HAMMOND,Replicators were the cause of the destruction?
+0,105,20,TEAL'C,The first evidence of the replicators in this galaxy.
+0,105,20,DANIEL,It must have been a long time ago.
+0,105,20,CARTER,"Something still doesn't fit. The replicators we know go after advanced technology, why would they eat everything on the planet and leave Reese alone?"
+0,105,20,TEAL'C,Perhaps she has some means of defending herself against the replicators.
+0,105,20,DANIEL,She was asleep.
+0,105,20,CARTER,"It's possible she's giving off some kind of signal or frequency that repels them, maybe not even by design but by coincidence."
+0,105,20,O'NEILL,Bug spray?
+0,105,20,TEAL'C,"If that is the case, then Reese herself may be the key to helping us and the Asgard in the fight against the replicators."
+0,105,20,CARTER,"Yeah, maybe, but we're still a long way from determining that."
+0,105,20,HAMMOND,"Dr Jackson, what have you learned?"
+0,105,20,DANIEL,"Well actually not much, Sir. She's kind of hard to pin down in a conversation, her attention wanders. It's like she has the mind of a child."
+0,105,21,O'NEILL,What?
+0,105,21,DANIEL,"I'm not sure, but she may not be telling me everything she knows about what happened."
+0,105,21,HAMMOND,You think she's deliberately hiding something?
+0,105,21,DANIEL,I get that feeling.
+0,105,21,HAMMOND,Why would someone create a robot with the mind of a child?
+0,105,21,CARTER,"Well, like Daniel suggested, it could be a transferred consciousness, or it could be that the creator intended for her to be emotionally mature but just couldn't get the programming right."
+0,105,21,HAMMOND,"If Dr Jackson is right, and she is hiding something, we should proceed very carefully with any further interactions."
+0,105,21,CARTER,"Sir, I think it's time we told Reese the truth. Daniel, maybe if she's forced to confront the fact that she's an artificial life form, it could change any pre-programmed priorities that she's adhering to."
+0,105,22,REESE,I'm so happy you're here.
+0,105,22,DANIEL,What's that?
+0,105,23,REESE,"Oh, I made it. Do you like it?"
+0,105,23,DANIEL,It's very nice. How did you make this?
+0,105,23,REESE,"I'm so tired of this room, Daniel. Can I please go outside?"
+0,105,23,DANIEL,"Ah, sit down for a minute, Reese. We need to talk."
+0,105,24,REESE,No.
+0,105,24,DANIEL,"Look this is just going to take a minute, so just please sit down."
+0,105,24,REESE,"No, I don't want to talk any more Daniel, I want to have fun. Don't you ever have fun?"
+0,105,24,DANIEL,"Not as much as I would like to. Would you please sit down, this is very important. Sit."
+0,105,24,REESE,Then can we have some fun?
+0,105,24,DANIEL,Yes.
+0,105,24,REESE,Promise.
+0,105,24,DANIEL,"Yes. Okay, Reese, you know that there are different kinds of people, right?"
+0,105,24,REESE,Yes.
+0,105,24,DANIEL,In fact there are many different kinds of life forms.
+0,105,24,REESE,This is boring.
+0,105,24,O'NEILL,I'm starting to identify with this girl more and more.
+0,105,25,DANIEL,"Reese, I know you think we're the same but we're not."
+0,105,25,REESE,My father always said I was special.
+0,105,25,DANIEL,"You are. You are very special. But despite the fact that you and I look very much the same, we're very different."
+0,105,25,REESE,That's obvious.
+0,105,25,DANIEL,I mean on the inside.
+0,105,25,REESE,How?
+0,105,25,DANIEL,"Well, I'm flesh and blood. You're a machine. A very, very sophisticated machine, more of a computer really."
+0,105,25,REESE,I'm alive.
+0,105,25,DANIEL,"Yes you are. Just not like me. Even though you are created to be very human like, you are not human."
+0,105,25,REESE,"Yes, I am."
+0,105,25,DANIEL,"No you're not, Reese. Okay, I can prove that to you."
+0,105,27,REESE,I wanna leave here! Let me out! Let me out!
+0,105,28,O'NEILL,Hey. That went well.
+0,105,28,CARTER,Maybe she has some kind of programming that prevents her from acknowledging she's anything but human.
+0,105,28,O'NEILL,Robot denial?
+0,105,28,DANIEL,Looks that way.
+0,105,28,O'NEILL,"Has it occurred to anyone that, that thing may have been lying around that planet for, oh, quite some time and that maybe it's broken? Or perhaps it never worked right in the first place?"
+0,105,28,CARTER,So you think we should just shut her down?
+0,105,28,O'NEILL,"Oh, I don't know, let's just ask the man who just had his head cracked open."
+0,105,28,DANIEL,I don't think she meant to hurt me. I just don't think she liked what I was saying.
+0,105,28,O'NEILL,I don't like most of what you say. I try to resist the urge to shove you through a wall.
+0,105,28,CARTER,Somehow Reese managed to survive a massive attack from Replicators. There has to be more we can learn from her Sir.
+0,105,29,REESE,Finally!
+0,105,30,REESE,"Do you forgive me? You know I didn't mean to hurt you, right?"
+0,105,30,DANIEL,I know.
+0,105,30,REESE,Good. I forgive you too.
+0,105,30,DANIEL,Wh..wh..wh..what?
+0,105,30,REESE,For attacking me.
+0,105,30,DANIEL,I didn't attack you Reese.
+0,105,30,REESE,It doesn't matter. Let's forget it.
+0,105,30,DANIEL,"No. No, I think we should talk about this."
+0,105,30,REESE,"No, Daniel, I'm so bored. I just wanna get out of here. I wanna see your world. Why are you all so afraid of me?"
+0,105,30,DANIEL,No one's afraid of you.
+0,105,30,REESE,"I won't do anything bad, I promise."
+0,105,30,DANIEL,I know.
+0,105,30,REESE,I made you something.
+0,105,30,DANIEL,Yeah?
+0,105,30,REESE,Remember when you said you wished you could have more fun?
+0,105,30,DANIEL,Yeah.
+0,105,31,REESE,Don't be afraid. It's just a toy.
+0,105,32,CARTER,"Sir, that glass is supposed to be acid resistant but it hasn't been tested against replicator spray."
+0,105,33,O'NEILL,Why are we keeping this thing anyway? We know what they can do.
+0,105,33,CARTER,She made it. She can control it.
+0,105,33,DANIEL,"Yes, but how did she make it?"
+0,105,33,CARTER,Well I think I have a pretty good idea.
+0,105,34,CARTER,Nanotechnology. The nanobots that she uses for self-repair are apparently able to reorder matter on a microscopic level. She understands their construction completely. She should know how to defeat them.
+0,105,34,HAMMOND,Will she tell us?
+0,105,34,DANIEL,Well that's the problem.
+0,105,34,O'NEILL,What?
+0,105,34,DANIEL,She's not talking.
+0,105,34,O'NEILL,We make her talk.
+0,105,34,DANIEL,I think she was offended because I didn't appreciate her present very much.
+0,105,34,CARTER,This is so far ahead of my understanding. I recommend we contact the Asgard. Maybe they can help.
+0,105,34,HAMMOND,Agreed. I'll send SG2 to try and make contact. In the meantime see what else you can learn.
+0,105,35,DANIEL,"Reese, we need to talk."
+0,105,35,O'NEILL,Tell us what you know about the replicators.
+0,105,35,REESE,Replicators?
+0,105,35,O'NEILL,It's what we call them because that's what they do.
+0,105,35,REESE,It's just a toy. It won't hurt you.
+0,105,35,O'NEILL,A toy? There are millions of those things floating around in space destroying everything they touch.
+0,105,35,REESE,I don't know what you mean.
+0,105,35,O'NEILL,"They destroyed your planet and please, don't tell me you don't remember because I think you do."
+0,105,35,REESE,No! You want to destroy me!
+0,105,36,CARTER,Easy.
+0,105,36,DANIEL,No one wants to hurt you.
+0,105,36,O'NEILL,Just tell us what happened.
+0,105,36,REESE,It wasn't my fault.
+0,105,38,REESE,The people on my planet were afraid. They wanted to destroy my toys. They wanted to destroy me.
+0,105,38,REESE,"They said my father made me wrong, they thought that I was bad."
+0,105,38,DANIEL,What did you do?
+0,105,38,REESE,I taught my toys to make more of themselves. I taught them to defend themselves and me. In case anyone tried to destroy us.
+0,105,38,O'NEILL,Well you taught them well.
+0,105,38,DANIEL,"When your toys started to attack your world, why didn't you stop them?"
+0,105,38,REESE,I tried but I couldn't. They wouldn't listen to me any more.
+0,105,38,DANIEL,Why did you go to sleep?
+0,105,38,REESE,"They killed everyone, they killed me father. Then they went away. I was alone, I was sad. You don't like me any more. You think I'm bad."
+0,105,38,O'NEILL,"Actually, we want you to help us."
+0,105,38,DANIEL,"Reese, the replicators have become a problem for a lot of different worlds. We need to know how to stop them."
+0,105,38,REESE,You want to destroy them!
+0,105,38,O'NEILL,Yes.
+0,105,38,DANIEL,They're bad. They have to be stopped.
+0,105,38,REESE,You want to destroy me!
+0,105,38,DANIEL,No.
+0,105,38,REESE,"Yes, you do. You think my father made me wrong, you hate me."
+0,105,41,HAMMOND,
+0,105,41,CARTER,I hope they're okay.
+0,105,41,HAMMOND,It would be unfortunate if the Asgard lost their battle with the replicators at the time when we may have the key to stopping them in our midst.
+0,105,41,O'NEILL,"Oh, I wouldn't count the little fellas out just yet, Sir."
+0,105,41,CARTER,"Sir, this robot is far beyond our understanding. We may be able to use our weapons to fight the replicators, but without the Asgards help, I don't think we're going to be able to figure out how to use Reese to defeat them on a grand scale."
+0,105,41,HAMMOND,The robot's unwilling to co- operate?
+0,105,41,O'NEILL,"Completely clammed up, Sir."
+0,105,41,DANIEL,She thinks we don't like her. Apparently her impression is that the people of her world thought she was poorly constructed and wanted her and her toys eliminated.
+0,105,41,O'NEILL,Which would make them far smarter than we are.
+0,105,41,CARTER,It seems whoever made Reese made a critical error. Made her smart enough to build the replicators and yet emotionally immature.
+0,105,41,DANIEL,She's just trying to defend herself. She really is just a kid who unwittingly taught her toys to become a weapon of destruction.
+0,105,41,O'NEILL,Maybe. She's been lying to us from the start.
+0,105,41,HAMMOND,"Major, it sounds to me like we're over our heads here. Until we successfully contact the Asgard, I'm ordering you to shut the robot down."
+0,105,41,O'NEILL,"Well, that's not gonna be pretty."
+0,105,41,HAMMOND,Do whatever's necessary.
+0,105,42,WESTERHOLM,The cameras in Isolation room 1 are offline and I can't seem to get them back.
+0,105,42,SF,We got it. Cameras are down.
+0,105,43,SF2,They're in here.
+0,105,45,SF1,There behind you!
+0,105,46,SF2,Get somebody down here now! Arrrggghhh!
+0,105,49,SF1,He's still alive. Medical team's on the way.
+0,105,49,DANIEL,Where is she?
+0,105,49,SF1,The door was open and the prisoner was gone when I arrived Sir.
+0,105,49,CARTER,Replicators.
+0,105,50,O'NEILL,"O'Neill for Hammond. Yes Sir, we may have a replicator situation down here. I suggest sealing the base and doing a clean sweep. Yes Sir. And we also have a robot on the loose."
+0,105,50,CARTER,"Sir, we have to preserve her in one piece."
+0,105,50,O'NEILL,"And we'd like it in one piece, if possible. Yes Sir."
+0,105,51,O'NEILL,"All right, how'd this happen?"
+0,105,51,TEAL'C,The room has been cleared of any substance that may be used to create another replicator.
+0,105,51,CARTER,She must have made enough blocks for two of them the first time that would create more. There could be hundreds by now.
+0,105,52,CARTER,They've already breached the power systems Sir. Initiating computer lockdown.
+0,105,52,HAMMOND,Is this really going to stop any replicators from accessing the dialling computer?
+0,105,52,CARTER,"Doubt it, Sir, but it might buy us a little time."
+0,105,53,WESTERHOLM,"Major Carter, security has been breached on level 28. Replicators have been spotted heading towards the control room."
+0,105,53,CARTER,Roger that.
+0,105,54,CARTER,Suggest retreating until backup arrives Sir.
+0,105,55,CARTER,Sir!
+0,105,56,CARTER,She's sealed herself in the Gateroom. She's got a lot of replicators with her.
+0,105,56,DANIEL,She's probably trying to go home.
+0,105,56,O'NEILL,Let's let her.
+0,105,56,CARTER,"Sir, we can't just let her leave."
+0,105,56,O'NEILL,We'll tell the Asgard where she is.
+0,105,56,DANIEL,"Well I'm only guessing she's trying to go home, if she thinks we're trying to destroy her, she could be going anywhere."
+0,105,56,CARTER,"We can't just let her leave with the replicators. She lost control of them once, it could happen again."
+0,105,56,O'NEILL,So we'll toss a nuke in behind her.
+0,105,56,DANIEL,I'd like to try and stop her first.
+0,105,56,O'NEILL,How?
+0,105,56,DANIEL,"Maybe, get her trust back."
+0,105,56,O'NEILL,Then what?
+0,105,56,DANIEL,"Then, then, then I don't know. I'm just making this up as I go."
+0,105,56,CARTER,"If you could somehow get close enough to her, you might be able to remove her power chip."
+0,105,56,TEAL'C,What of the replicators?
+0,105,56,CARTER,"These aren't the same replicators we're used to dealing with. Right now, she's controlling them. If Daniel can shut her down, the replicators might just cease to operate. Look, they exist to protect Reese. If she's eliminated, they have no protocol upon which to act."
+0,105,56,TEAL'C,They may attack Daniel Jackson in order to exact revenge and restore their leader to power.
+0,105,56,DANIEL,"Yeah, well that's where you guys come in."
+0,105,56,HAMMOND,I'm willing to give you a chance Dr Jackson.
+0,105,56,O'NEILL,"General, with all due respect, I think it's a bad idea."
+0,105,56,HAMMOND,"Hope not, Colonel."
+0,105,57,DANIEL,"Reese, please let me in, I just want to talk to you."
+0,105,58,REESE,Activate the Stargate.
+0,105,58,DANIEL,No. I don't want you to go.
+0,105,58,REESE,You hate me.
+0,105,58,DANIEL,No I don't. No one does.
+0,105,58,REESE,They're afraid of me.
+0,105,58,DANIEL,"They don't understand you, Reese."
+0,105,58,REESE,I never meant to hurt anyone.
+0,105,58,DANIEL,I know. Please stay.
+0,105,58,REESE,It's too late now. I've accessed your computer system. I'll figure it out for myself.
+0,105,58,DANIEL,Reese. I don't want you to go.
+0,105,58,REESE,Why not?
+0,105,58,DANIEL,I want to be your friend.
+0,105,58,REESE,I've never had a friend.
+0,105,58,DANIEL,I'll be your friend. Your toys may be a lot of fun but they're not human like us.
+0,105,58,REESE,They protect me.
+0,105,58,DANIEL,I'll protect you.
+0,105,58,REESE,Do you promise?
+0,105,58,DANIEL,I promise. No one will hurt you. Come on. Show you my world?
+0,105,59,REESE,Really?
+0,105,59,DANIEL,Yeah.
+0,105,60,REESE,You tried to deceive me.
+0,105,60,DANIEL,No.
+0,105,60,REESE,Yes. You lied. Lying is bad.
+0,105,60,DANIEL,Arrgghhh.
+0,105,61,REESE,None of you will ever hurt me!
+0,105,62,CARTER,"Sir, Daniel's in trouble. Replicators have evacuated the Gateroom. We're not sure where they went. All the cameras are down."
+0,105,62,O'NEILL,"Yeah, roger that. We're going in."
+0,105,63,HAMMOND,"Major, I won't let the replicators escape this base. We have to set the self destruct."
+0,105,63,CARTER,Replicators have taken over the main computer Sir. We'll have to cut the system access and set the device locally.
+0,105,65,DANIEL,"Reese, please listen to me."
+0,105,67,REESE,Nnnnoooo! Make them stop!
+0,105,67,HAMMOND,"On three count. Three, two, one."
+0,105,68,HAMMOND,Clear.
+0,105,70,CARTER,"Sir, we're getting ready to set the self destruct."
+0,105,70,O'NEILL,I can't hear you!
+0,105,71,HAMMOND,"On my mark. Three, two, one, turn."
+0,105,72,CARTER,"Sir, we've set the self destruct. You have less than five minutes to tell us to override. Do you copy?"
+0,105,72,O'NEILL,Roger that.
+0,105,74,CARTER,Thank you.
+0,105,75,CARTER,Sir!
+0,105,76,REESE,Make them stop!
+0,105,76,DANIEL,I can't. You can.
+0,105,76,REESE,No! You'll kill me.
+0,105,76,DANIEL,"No, no one wants that. We just don't want you to destroy our world the way you destroyed yours."
+0,105,76,REESE,I didn't do it!
+0,105,76,DANIEL,"Yes, you did. You created the replicators, you told them to replicate at all costs. They destroyed your world and you let them."
+0,105,76,REESE,It wasn't my fault!
+0,105,76,DANIEL,You could have stopped them before there were too many. You could stop them now before you lose control.
+0,105,76,REESE,No!
+0,105,76,HAMMOND,Cease fire!
+0,105,77,HAMMOND,What's it doing?
+0,105,77,CARTER,"I'm not sure, it's like it doesn't know what to do."
+0,105,78,DANIEL,Reese. Your father made you wrong!
+0,105,78,REESE,No!
+0,105,78,DANIEL,Yes! You destroyed your world.
+0,105,78,REESE,I didn't mean to.
+0,105,78,DANIEL,I know. But now you're going to destroy mine too.
+0,105,78,REESE,I don't want to.
+0,105,78,DANIEL,I know. That's why you have to stop now. No one will hurt you. We may be able to fix you.
+0,105,78,REESE,How?
+0,105,78,DANIEL,"Shut off your toys, go to sleep. We'll find a way."
+0,105,78,REESE,I don't believe you.
+0,105,80,CARTER,"Colonel, I think Reese is losing control. At least one of the replicators down here started to act on it's own."
+0,105,80,DANIEL,"I will wake you up myself, I promise. I'm your friend. I don't want you to die."
+0,105,80,REESE,I don't want you to die either.
+0,105,81,TEAL'C,O'Neill!
+0,105,84,CARTER,What's happening in there?
+0,105,84,TEAL'C,The replicators appear to have been disabled.
+0,105,85,O'NEILL,The robot has been neutralised.
+0,105,85,HAMMOND,Abort the self destruct.
+0,105,87,DANIEL,You stupid son of a bitch.
+0,105,87,O'NEILL,Hey. You're welcome.
+0,105,87,DANIEL,You didn't have to shoot her.
+0,105,87,O'NEILL,Yes I did.
+0,105,87,DANIEL,She was shutting them down.
+0,105,87,O'NEILL,I had no way of knowing that and neither did you.
+0,105,87,DANIEL,"They didn't stop because you shot her, they stopped because she told them to."
+0,105,87,O'NEILL,"Carter said she was losing control. Now if just one of those damn things got out of this base, developed it's own personality, we would be royally screwed."
+0,105,87,DANIEL,You just killed the only chance we'll ever have of stopping them.
+0,105,87,O'NEILL,"Look, I'm sorry. But this is the way this had to go down and you know it."
+0,105,88,O'NEILL,"All units, this is SG One Niner, commence sweep. I want every one of those things out of here."

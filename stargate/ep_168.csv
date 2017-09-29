@@ -1,0 +1,349 @@
+Season,Episode,Scene,Character,Line
+0,168,0,STARGATE SG1,Episode 816
+0,168,0,"""RECKONING I""",By Damian Kindler Transcribed by
+0,168,1,GOAULD,"The System Lords are no longer. You have become a meaningless coalition that cannot resist the power of my master, Lord Baal."
+0,168,2,OSHU,Your master has no honour. The System Lords have not weakened in their resolve.
+0,168,2,GOAULD,The Jaffa are weak-willed and fallible. Is it any wonder theyve begun to doubt their faith in the gods? So many Goauld have fallen.
+0,168,2,OSHU,Baal was wise to send a representative.
+0,168,2,YU,I would have killed him with my own hands!
+0,168,2,GOAULD,"Despite your ill will, Lord Baal wishes to extend a most generous offer. In exchange for your surrender, Baal will allow you to keep your armies and continue to administrate your territories under his authority. You will be permitted to live, so long as you bow before him as the supreme commander of the entire Goauld domain. Refusal to accept the terms of this offer will result in the resumption of hostilities, and ultimately your death. Bring her."
+0,168,2,YU,What is the meaning of this?
+0,168,2,GOAULD,I should ask you the same thing.
+0,168,2,GOAULD,Major Samantha Carter.
+0,168,2,CARTER,"Actually, Im a colonel now."
+0,168,2,GOAULD,Her cargo ship was intercepted by my sentries when it violated the proximity zone around this station. I am well aware of your past relationship with SG-1 and the Tauri. Would you have me believe that her sudden appearance here is nothing more than mere coincidence?
+0,168,3,YU,What are you doing here?
+0,168,5,TEALC,They are late.
+0,168,5,DANIEL,Or theyre not coming.
+0,168,5,TEALC,"Were that the case, Raknor would have sent word."
+0,168,5,BRATAC,If he were able to do so.
+0,168,5,CARTER,Maybe we should reconsider the mission.
+0,168,5,TEALC,This is not an SGC mission. Reconsidering is not an option.
+0,168,5,DANIEL,"Look, I know the timing of these first few surprise attacks is crucial, but"
+0,168,5,CARTER,"... and were just here as observers, but right now Im observing the fact that if you take on one of Amateratsus motherships without proper backup, you could get yourself killed."
+0,168,5,DANIEL,Us observers too!
+0,168,5,BRATAC,Many such attacks have been co-ordinated simultaneously across the galaxy - each one designed to create a strategic weakness in the forces of the System Lords.
+0,168,5,DANIEL,And if even one fails ... I know!
+0,168,5,TEALC,"The rebel Jaffa have gone to great lengths to acquire the security codes currently being used by the System Lords. If all goes according to plan, they will believe we are allies and lower the shields."
+0,168,5,DANIEL,If all goes according to plan.
+0,168,5,TEALC,"Once the shields are lowered, the Jaffa contingent aboard this vessel should be sufficient to overwhelm any initial resistance we may encounter."
+0,168,5,BRATAC,"We have allies within the ranks of Amateratsus Jaffa who will also help facilitate our attacks. Once the others witness the death of their false god, they will realise the truth and join our ranks."
+0,168,5,CARTER,Isnt the fact that we havent heard from Raknor kind of a bad sign?
+0,168,6,DANIEL,What is it?
+0,168,6,BRATAC,Ships sensors have detected a vessel closing in on our position. Hatak class.
+0,168,6,DANIEL,Raknor?
+0,168,6,TEALC,Unlikely. Raknor would have hailed long before his approach.
+0,168,6,CARTER,Then it has to be Amateratsu. Shouldnt we get outta here?
+0,168,7,DANIEL,"Tealc, the odds are not in our favour."
+0,168,7,TEALC,"They never are, Daniel Jackson."
+0,168,7,BRATAC,I am hailing them and transmitting the security codes. They have fired on us. Shield strength is down sixty percent.
+0,168,7,TEALC,How is that possible?
+0,168,7,CARTER,What the hell did they hit us with?
+0,168,8,TEALC,Returning fire. Our weapons are ineffective.
+0,168,9,BRATAC,We have lost shields.
+0,168,9,CARTER,Now can we get out of here?
+0,168,9,BRATAC,Navigational controls are not responding. We must evacuate.
+0,168,9,DANIEL,Glider bay?
+0,168,9,TEALC,We can use the rings to transport to the planet below and escape through the Stargate.
+0,168,10,CARTER,What is it?
+0,168,10,DANIEL,Thats not good.
+0,168,10,TEALC,This way.
+0,168,10,CARTER,Daniel!
+0,168,10,TEALC,Colonel Carter.
+0,168,11,ONEILL,Jacob!
+0,168,11,JACOB,"Jack, we got a problem. We need to talk."
+0,168,11,ONEILL,"Hi! Hello! How are ya?! Long time no see! Whats doin?! Whats up?! Hey, buddy!"
+0,168,11,JACOB,"Im sorry, Jack. Its good to see you again. Congratulations on your promotion."
+0,168,11,ONEILL,Thanks!
+0,168,11,JACOB,You deserve it.
+0,168,11,ONEILL,"Yes, well. Whats up?"
+0,168,11,JACOB,"The Replicators - theyve launched an all-out attack on the Goauld. If the Goauld cant find a way to stop them, the Replicators will easily overrun our galaxy in a matter of weeks."
+0,168,11,ONEILL,Why didnt you say so?
+0,168,11,ONEILL,"Im sorry. You said we had a problem, not a big galactic emergency!"
+0,168,12,JACOB,Our operatives have spent the past several years tagging as many Goauld ships as possible in an effort to track their movements. Today we have beacons on more than a hundred motherships transmitting their location via subspace to an encoded TokRa network.
+0,168,12,ONEILL,And this?
+0,168,12,JACOB,"Its a receiver that will allow me to tap into the subspace network. We can keep tabs on Baals fleet, see how their battle with the Replicators is faring; we can also get up to the minute TokRa intelligence reports from our agents in the field."
+0,168,12,ONEILL,"You know, we could have used something like this a long time ago."
+0,168,12,JACOB,The High Council never thought they could trust you with it.
+0,168,12,ONEILL,What changed their mind?
+0,168,12,JACOB,Nothing. They dont know I took it.
+0,168,12,ONEILL,Ah!
+0,168,12,JACOB,My relationship with the Councils still a little strained.
+0,168,12,ONEILL,"Its not gonna get any better if you keep stealing stuff. No complaints! Ill take anything I can get: weapons, receivers, silverware"
+0,168,13,JACOB,Each dot represents a Goauld ship.
+0,168,13,ONEILL,Thats a lot of dots.
+0,168,13,JACOB,Thats just one small quadrant of the galaxy. Watch.
+0,168,14,ONEILL,What just happened?
+0,168,14,JACOB,"The beacons stopped transmitting their signals, likely meaning those ships were either destroyed or taken over by the Replicators. Battles like the ones you just witnessed are taking place across the galaxy. Several Goauld territories are now entirely in Replicator hands. As I said, given the progress of these battles, the Goauld will be wiped out in a matter of weeks."
+0,168,14,ONEILL,"Yknow, I have to admit, I have some mixed feelings about this."
+0,168,14,JACOB,"Well, we all wanna see the Goaulds stranglehold on the galaxy broken, but not if theyre just gonna be replaced by something worse."
+0,168,15,HARRIMAN,Unscheduled offworld activation!
+0,168,16,CARTER,Dad!
+0,168,16,JACOB,"Hey, kid."
+0,168,16,ONEILL,"So ... what the heck happened? Didnt you guys have a ship? And by the way, wheres Daniel?"
+0,168,16,BRATAC,He was beamed away before our very eyes.
+0,168,16,TEALC,By Replicators.
+0,168,16,JACOB,Just Daniel?
+0,168,16,CARTER,Theres only one reason I can think of: my duplicate. She knows the greatest threat the Replicators have ever known is the disrupter technology that you built using Ancient knowledge.
+0,168,16,ONEILL,So? Shes immune to that now.
+0,168,16,CARTER,"Yes, but Replicators always seek out the most advanced technology. She may be worried that theres other Ancient technology out there that could be a threat to her and the rest of the Replicators."
+0,168,16,TEALC,Daniel Jackson had access to the knowledge of the Ancients when he was ascended.
+0,168,16,JACOB,I thought he didnt retain those memories?
+0,168,16,CARTER,"We dont know that for sure. Daniel has remembered certain things from when he was ascended. She may think that everything she needs to know about the Ancients is buried in his subconscious. If it is, shell find it."
+0,168,16,ONEILL,Oy!
+0,168,16,JACOB,"The TokRa have operatives in Baals inner circle, including one of his high-ranking lieutenants. According to the latest intelligence, the ranks of the Jaffa rebellion are re-pledging their loyalty to the Goauld by the thousands."
+0,168,16,CARTER,But the Goauld are losing the war.
+0,168,16,ONEILL,Yeah. Youd think thatd make em look weaker.
+0,168,16,BRATAC,"The Jaffa have never seen the likes of such creatures. Many could see these Replicators as a plague, an evil punishment brought upon all for daring to stray in their beliefs and betray their gods."
+0,168,16,TEALC,"This situation has dealt the Jaffa rebellion a serious blow. Even if we were to somehow defeat the Replicators, the Goauld would undoubtedly take credit, thereby solidifying Jaffa loyalty as well as their belief in the Goauld as gods."
+0,168,16,ONEILL,I think the key phrase in there was somehow defeat the Replicators.
+0,168,16,CARTER,"We havent had much luck, sir. The inert Replicator cells left behind by my duplicate havent given us any clues as to how to fight the immunity shes developed. As far as I know, Thor hasnt made much progress in modifying the disrupter technology either."
+0,168,16,ONEILL,"Well, let him know whats goin on ... ... and dont be afraid to remind him that weve saved his cute little grey bum several times."
+0,168,17,BRATAC,"Years of effort, all but undone in a matter of days. It will now be almost impossible to turn so many of our brothers back to our cause."
+0,168,17,TEALC,Perhaps - yet there may be a way.
+0,168,17,BRATAC,"Even if we can, I wonder: will it make a difference? These machines are unlike anything I have seen."
+0,168,17,TEALC,We must proceed in the belief that Colonel Carter and Thor will devise a means to destroy the Replicators.
+0,168,17,BRATAC,How then can we prevent the Goauld from taking credit and solidifying their position as gods in the eyes of all Jaffa?
+0,168,17,TEALC,"We must act now, before this conflict is resolved; win back the hearts and minds of those who waver before they are lost to us. We must once and for all destroy the Goauld image as gods forever."
+0,168,17,BRATAC,How?
+0,168,17,TEALC,By capturing the temple at Dakara. Everything we have fought for hangs in the balance.
+0,168,17,BRATAC,Yes. But Dakara?!
+0,168,17,TEALC,"Capture it, and never again will a Jaffa worship a false god."
+0,168,18,CARTER,Sir. Im sorry to bother you but ...
+0,168,18,ONEILL,"Im only gonna say this once, Carter: what happened to Daniel was not your fault."
+0,168,18,CARTER,She knows he may hold key Ancient knowledge because of me. Shes out there because of me. I basically gave her the means to counter the only effective weapon we have against her.
+0,168,18,ONEILL,I also gave you permission to work with her. Its not gonna change anything. Unless youre suggesting we use that time machine to go back and fix it?
+0,168,18,CARTER,"No, sir. We all agreed we would never do that. I mean, for all we know, it could just make things worse."
+0,168,19,HARRIMAN,"Sir, were receiving a message from Thor. He said hes ready to trans..."
+0,168,20,ONEILL,You were saying?
+0,168,20,HARRIMAN,Never mind.
+0,168,21,THOR,"Hello again, Samantha Carter."
+0,168,21,CARTER,"Hi, Thor."
+0,168,21,THOR,I have already transported your research and the remains of the human form Replicator to this lab. We may continue our work from here.
+0,168,21,CARTER,Any progress on your end?
+0,168,21,THOR,I have yet to isolate the cipher the human form Replicator introduced to render the disrupter weapon ineffective.
+0,168,22,CARTER,"Well, given the situation, I think its time to take more drastic steps."
+0,168,22,THOR,You are suggesting we attempt to trigger a subspace connection between the remains of the arm and the rest of the Replicators so that we may search for the cipher among their communications data.
+0,168,22,CARTER,Too wild and crazy?
+0,168,22,THOR,"In order to do that, we must reactivate the cells."
+0,168,22,CARTER,I know.
+0,168,23,ONEILL,What makes this place so special?
+0,168,23,TEALC,The temple at Dakara is sacred to all Jaffa.
+0,168,23,BRATAC,It is rich in historical significance. Legend tells it is the place where Anubis rose from the dead.
+0,168,23,TEALC,It is also the site of the first primta ritual.
+0,168,23,BRATAC,"It is that rite of passage that has bonded us in servitude ever since. For thousands of years, the Jaffa have viewed Dakara as the holiest of sites - the very cradle of our existence. It is the place where the Goauld first gave Jaffa their strength and longevity."
+0,168,23,ONEILL,And you really think this place is gonna make a difference?
+0,168,23,BRATAC,Seizing control of the temple there would prove beyond a shadow of a doubt the Goauld do not possess the power of the gods.
+0,168,23,TEALC,Even the most stubborn Jaffa would have to question his loyalty to the Goauld.
+0,168,23,ONEILL,"There has to be a catch, or you guys would have done this a long time ago."
+0,168,23,BRATAC,"Dakara is deep within Baals territory and under normal circumstances it is heavily guarded. However, with Baals forces deployed throughout the galaxy battling the Replicators, the temple is more vulnerable now than it has ever been."
+0,168,23,TEALC,"Still, our success depends on the element of surprise and the use of the entire rebel fleet."
+0,168,24,BRATAC,"Listen to me, ONeill. This war must be fought on two fronts. We will reignite the uprising and conquer our oppressors while you find the means to stop these Replicators. Let us each fight the enemy we know best."
+0,168,25,REPLICARTER,"Hello, Daniel."
+0,168,25,DANIEL,What the hell do you want?
+0,168,25,REPLICARTER,You have information that I need.
+0,168,25,DANIEL,
+0,168,25,REPLICARTER,Im afraid its not that simple.
+0,168,25,DANIEL,"No, no, it is that simple ... ... although, if its all the same with you, Id rather not do the hand in the head thing, so, uh ... Honestly, Ill tell you whatever you wanna know."
+0,168,25,REPLICARTER,Honesty is not the problem.
+0,168,25,REPLICARTER,"Unfortunately, to get what I need, were going to have to dig a little deeper."
+0,168,26,REPLICARTER,Shall we begin?
+0,168,27,ARON,What youre proposing is madness. Dakara cannot be taken.
+0,168,28,TEALC,Tolok - you have not spoken.
+0,168,28,TOLOK,"Aron is right. We would be sacrificing countless men and ships on a fruitless mission. We should be concentrating on the greater threat, the Replicators, before they destroy us all."
+0,168,28,TEALC,Jaffa - hear me. I have engaged the Replicators in battle many times. Believe me when I say they cannot be defeated by conventional means.
+0,168,28,ARON,You have faced them in the past and won.
+0,168,28,TEALC,"Indeed, yet never in such numbers. Those of you who choose to engage the Replicators in battle will not survive."
+0,168,28,BRATAC,Tealc is right. We must fight only those battles we know we can win.
+0,168,28,TOLOK,Yet you propose an equally impossible task.
+0,168,28,BRATAC,"With Baal otherwise occupied, now is the time to strike."
+0,168,28,TOLOK,No free Jaffa has ever set foot in the temple and lived.
+0,168,28,BRATAC,"Then that is precisely why we must go there. If we succeed, many will rejoin our cause."
+0,168,28,ARON,If we succeed.
+0,168,28,TEALC,"Were the circumstances different, I may feel the same as you, brother, but the situation has changed. We must act now, or our children will know no future, let alone the taste of freedom."
+0,168,28,TOLOK,"Tealc, I believe there is wisdom in these words. However, you are aware that if we fail, it would effectively mean the end of the rebellion. Are you prepared to risk our entire cause on this one action?"
+0,168,28,TEALC,Indeed I am.
+0,168,28,BRATAC,So - what say you?
+0,168,28,TOLOK,I say we take Dakara!
+0,168,28,ARON,So be it.
+0,168,29,JACOB,Five more regions belonging to Baal have fallen in the past twenty-four hours.
+0,168,29,ONEILL,"Hes not putting up much of a fight, is he?"
+0,168,29,JACOB,"No, hes making a typical Goauld mistake. Hes defending territory at the expense of resources. We can send him a message through the undercover TokRa in his midst. We could suggest a change in strategy."
+0,168,29,ONEILL,Like what?
+0,168,29,JACOB,"Typically, the Replicators are patient and slow-moving when not being engaged. If Baal stops aggressively fighting them and pulls back, it may give Sam more time to come up with the solution."
+0,168,29,ONEILL,Forget that!
+0,168,29,JACOB,Look - there goes another one. Jack - hes thinking like a System Lord defending himself against another Goauld. He doesnt know what hes dealing with.
+0,168,29,ONEILL,"And if he retreats, where dyou think hes gonna fall back to?"
+0,168,29,JACOB,Youre worried about Tealc and the rebel Jaffa.
+0,168,29,ONEILL,Theyre counting on Baals fleet being too busy to even care about anything else.
+0,168,29,JACOB,The Jaffa rebellion has already failed. We cant risk the fate of the galaxy on one long-shot chance to revive it.
+0,168,29,ONEILL,"Is that Jacob talking, or is that Selmak?"
+0,168,29,JACOB,"Jack, Im sorry, but the more ships Baal sends out to fight, the faster the Replicators assimilate them into their own armada. Their numbers are growing exponentially. If we dont do something about it, by the time we do come up with a weapon to use against them, it may be too late."
+0,168,30,HARRIMAN,Unscheduled offworld activation.
+0,168,31,ONEILL,"Now what have you got, Walter?"
+0,168,31,HARRIMAN,Some kind of ...
+0,168,31,ONEILL,"Oh! Baal! Stand down, boys. Baal, buddy! We were just talkin about you - all good!"
+0,168,31,BAAL,By now you are aware of the Replicator threat to our galaxy and that my fleet has engaged them in battle.
+0,168,31,ONEILL,Theres been a little chit and chat around the watercooler. Hows that goin?
+0,168,31,BAAL,"We are holding them at bay for the moment. However, they are a more formidable force than I first anticipated."
+0,168,31,ONEILL,"Yeah. Pesky little buggers, arent they?"
+0,168,31,BAAL,I am aware that the Asgard have previously fought the Replicators effectively.
+0,168,31,ONEILL,More or less. I dont like to toot my own horn but ...
+0,168,31,BAAL,I am aware that you assisted the Asgard.
+0,168,31,ONEILL,Yes?
+0,168,31,BAAL,I wish to know what means you possess to fight this scourge.
+0,168,32,ONEILL,Im sorry - we must have had a bad connection there for a second. It almost sounded like you were asking me for help!
+0,168,32,BAAL,"The Replicators are a threat to everyone, including the countless humans who populate worlds throughout this galaxy. Now, I propose that we work together to defeat our common enemy."
+0,168,32,ONEILL,"My - this is an occasion! You know that bitter taste in your throat, its kind of wrapped around your uvula? Thats whats left of your pride."
+0,168,32,BAAL,Perhaps you could curb your amusement for a moment.
+0,168,32,JACOB,"If were going to work together, the first thing we should discuss is strategy. Now, your attempts at meeting the Replicators head-on are only going to result ..."
+0,168,32,ONEILL,"Jacob. J-J-Jacob. I got it. Ive got a better idea. Instead of helping you, why dont we sit back and watch you get your ass kicked? That way, youll be dead, and well be glad!"
+0,168,32,BAAL,You cannot be serious.
+0,168,32,ONEILL,Yes I can. I just choose not to some of the time.
+0,168,32,BAAL,With your insolence youre dooming not just your world but all of humanity.
+0,168,32,ONEILL,I think big!
+0,168,32,JACOB,What the hell was that?
+0,168,32,ONEILL,"Im sorry, Jacob, but Im just not quite ready to sacrifice Tealc."
+0,168,33,THOR,The process is complete. Now we must re-establish the subspace link between these cells and the rest of the Replicators.
+0,168,33,CARTER,What if they receive instructions?
+0,168,33,THOR,"It is a risk we will have to take. I will only maintain the link for microseconds at a time. It will slow the process, but I do not believe we have a choice."
+0,168,34,CARTER,What did we get?
+0,168,34,THOR,I am processing the data now. I believe we have pinpointed the location of the Replicators within this galaxy.
+0,168,35,CARTER,Theyre everywhere!
+0,168,36,BRATAC,We are approaching Dakara. Defences?
+0,168,36,TEALC,I am reading only a single hatak class vessel in orbit around the planet.
+0,168,36,BRATAC,Baal must indeed be desperate. There are normally a dozen ships patrolling this system.
+0,168,36,ARON,Then we may yet succeed.
+0,168,37,BRATAC,We are in position.
+0,168,37,ARON,Gliders are ready for launch.
+0,168,37,TEALC,We are being hailed.
+0,168,37,JAFFA,You have encroached on the domain of Lord Baal. Identify yourselves immediately.
+0,168,37,TEALC,Shalkek nemron. You are greatly outnumbered. Surrender now or be destroyed.
+0,168,38,WOMAN,"They called you Arom, did they not ... ... after you returned to your plane of existence?"
+0,168,39,DANIEL,Oma!
+0,168,39,OMA,"Daniel, it is good to see you again."
+0,168,39,DANIEL,I dont understand. Last thing I remember
+0,168,39,OMA,You are still on the ship. The human form Replicator is attempting to probe your mind as we speak.
+0,168,39,DANIEL,So why are you here?
+0,168,39,OMA,"Because when she is done, she will destroy you, and when that time comes, you will be faced with a choice."
+0,168,40,BAAL,"I have received word from the battle. The bulk of the fleet continues to engage the Replicators as you have ordered. However, I believe it would be wise to pull our forces back. If we stop confronting the enemy on so wide a front, it may slow their advance and allow us a chance to mount a proper defence."
+0,168,41,GOAULD,You doubt my power.
+0,168,41,BAAL,Of course not. But your fleet is falling into their hands rapidly. Not even the Kull warriors ...
+0,168,42,GOAULD,"Do not concern yourself. When the time is right, I promise you, this nuisance will be dealt with. Trust in me."
+0,168,43,BAAL,As always.
+0,168,44,CARTER,It took several hundred microsecond-long connections and hours to go through each subsequent burst of data but eventually we managed to isolate the cipher that makes the Replicators immune to the disrupter and weve adjusted it accordingly.
+0,168,45,JACOB,The weapon works again.
+0,168,45,ONEILL,Good job!
+0,168,45,CARTER,"It was an incredibly risky thing to do, sir, and as it stands, we still dont know if we were detected, and of course the altered disrupter still needs to be tested under battle conditions."
+0,168,45,ONEILL,Got a plan?
+0,168,45,CARTER,Thor was able to ascertain the various positions of the fleet now controlled by the Replicators. Were going to engage a few isolated ships.
+0,168,45,JACOB,"Be careful, Sam."
+0,168,45,ONEILL,Good luck.
+0,168,45,CARTER,"Thank you, sir."
+0,168,45,JACOB,Never a dull moment.
+0,168,45,DANIEL,So youre here to offer me the opportunity to ascend again.
+0,168,45,OMA,If that is what you wish.
+0,168,45,DANIEL,What I wish? What are my options?
+0,168,45,OMA,"Personally, I would choose eternal enlightenment rather than the alternative."
+0,168,45,DANIEL,If it were only that simple.
+0,168,45,OMA,"I admit, the decision is not as easy as it appears. The last time, for you, the experience was challenging at the best of times."
+0,168,45,DANIEL,Unfortunately I dont have any memories of the last time I was ascended. How can I make an informed decision if I dont remember what it was like?
+0,168,45,OMA,"Daniel, I did not take your memories from you."
+0,168,45,DANIEL,You think I havent tried to remember? Tell me how.
+0,168,45,OMA,I cant.
+0,168,45,DANIEL,Then tell me what I need to know.
+0,168,45,OMA,"If you are seeking an absolute truth, you will not find it. Only truth that applies to you."
+0,168,45,DANIEL,That is so extremely unhelpful.
+0,168,45,OMA,"When the time comes, you will know."
+0,168,45,DANIEL,What if Replicator Carter finds what it is shes looking for?
+0,168,45,OMA,There is that possibility.
+0,168,45,DANIEL,You have to stop her.
+0,168,45,OMA,I cant.
+0,168,45,DANIEL,Why not? Offer me ascension now!
+0,168,45,OMA,"Youre not dead yet. All I can do is prepare you - help you to find your path to enlightenment, when that time comes, if that is what you decide you want."
+0,168,45,DANIEL,"Theres a way to defeat the Replicators hidden somewhere within my memories, isnt there?"
+0,168,45,OMA,You need only to open your mind to it.
+0,168,47,BRATAC,Brothers! All of you will be detained. Have patience. For all of you who renounce the Goauld as false gods will one day be free. Take them. Go. You will not be harmed.
+0,168,48,ARON,The last of the garrison have surrendered. The temple is secure.
+0,168,48,BRATAC,Many lives were spared today. Well done.
+0,168,50,THOR,Firing weapon.
+0,168,50,THOR,The ships systems have shut down.
+0,168,50,CARTER,That worked well.
+0,168,50,THOR,The weapon appears to be effective.
+0,168,51,CARTER,Another ship.
+0,168,51,THOR,They are firing on us. Targeting the second ship.
+0,168,52,CARTER,Its still coming!
+0,168,52,THOR,They have adapted themselves to our modifications.
+0,168,52,CARTER,That was fast!
+0,168,52,THOR,Yes. Initiating evasive action.
+0,168,54,BAAL,Excuse the intrusion. I will return.
+0,168,54,ANUBIS,Stay.
+0,168,54,ANUBIS,Speak.
+0,168,54,BAAL,A force of rebel Jaffa have managed to take control of the temple at Dakara.
+0,168,54,ANUBIS,As I hoped. They have no doubt gathered their full force and presented us with the perfect opportunity to annihilate them once and for all. Have the fleet disengage their battle with the Replicators and move on Dakara. Take it back at all costs. Leave no survivors.
+0,168,54,BAAL,As you wish.
+0,168,54,OMA,"You control the barrier between your consciousness and what you seek. You merely need to open your mind. The truth is, all knowledge, everything that is and was and will be, is everywhere - out there, and in all of us."
+0,168,54,DANIEL,"If you immediately know the candlelight is fire, then the meal was cooked a long time ago."
+0,168,55,OMA,Yes.
+0,168,55,DANIEL,"No. Youre trying to understand it, arent you?"
+0,168,55,OMA,It means what you want it to mean.
+0,168,55,DANIEL,No it doesnt - and youre not Oma.
+0,168,56,REPLICARTER,"No, Im not, but it doesnt matter. Thanks to you, I found what I was looking for."
+0,168,56,THOR,We are approaching Earth. We will be there shortly.
+0,168,57,CARTER,Whats wrong?
+0,168,57,THOR,Several of my key systems are no longer responding. We have been boarded.
+0,168,58,CARTER,See if you can modify the disrupter wave again. Ill go buy us some time.
+0,168,58,THOR,I have no way of knowing how many Replicators you will face.
+0,168,58,CARTER,"Well, what choice do we have?"
+0,168,58,THOR,I must return you to Stargate Command before my transporter systems are affected.
+0,168,58,CARTER,And what about you?
+0,168,58,THOR,I will attempt to fly this ship as far away from Earth as possible before it is completely compromised.
+0,168,58,CARTER,No way. Im not gonna let you ...
+0,168,59,CARTER,... sacrifice yourself. Dammit!
+0,168,59,ONEILL,Carter?
+0,168,59,CARTER,"The weapon worked at first, but the Replicators immediately adapted themselves. Theyre immune again."
+0,168,59,ONEILL,No chance you guys could fix this thing - get it to work?
+0,168,59,CARTER,"Sir, Thors ship was boarded. He beamed me down here before all the systems were compromised. Hes trying to get his ship as far away from Earth as possible."
+0,168,59,ONEILL,Ill take that as a no?
+0,168,59,CARTER,Yeah.
+0,168,60,TEALC,Never in my dreams could I have imagined I would one day stand beneath these great columns.
+0,168,60,ARON,Think of it: this is the very spot in which our enslavement began.
+0,168,60,TEALC,"Then this sacred temple is an appropriate place for our enslavement to end. We have won a great victory here today, old friend."
+0,168,60,BRATAC,"We have won a battle, Tealc - nothing more. Our victory is far from assured."
+0,168,60,TEALC,"Many of Baals Jaffa have already pledged their allegiance to our cause. When word spreads of what we have accomplished, many more will follow."
+0,168,60,BRATAC,And their hearts will turn cold again if they hear our accomplishment lasted mere hours. Tolok. What news?
+0,168,60,TOLOK,We have received word. Baal has broken off his battle with the Replicators. He is coming.
+0,168,60,BRATAC,As we expected. You see - taking the temple was not our greatest challenge. Holding it will be.
+0,168,61,REPLICARTER,This Oma character: why do you have such reverence for her? Those ridiculous sayings are just nonsense.
+0,168,61,DANIEL,"To you, maybe."
+0,168,61,REPLICARTER,"If she really has as much power as you think she does, why doesnt she help you? She merely stands by and does nothing."
+0,168,61,DANIEL,"You mean, while you destroy entire civilisations."
+0,168,61,REPLICARTER,Thats a matter of perspective. You call it destruction; we call it creation.
+0,168,61,DANIEL,"Youre not really trying to justify your actions, are you?"
+0,168,61,REPLICARTER,No. I have no need for you to understand this.
+0,168,61,DANIEL,"Why the elaborate ruse? I mean, you probed my mind at will - I obviously cant stop you."
+0,168,61,REPLICARTER,You could have resisted. I needed you to open up to the possibility of remembering the knowledge in your subconscious. It made it much easier for me to find what I was looking for.
+0,168,61,DANIEL,And what dyou find?
+0,168,61,DANIEL,Pretty! What is it?
+0,168,61,REPLICARTER,"The ruin is of an Ancient monument on a planet now called Dakara. Within it is the one weapon in this galaxy capable of destroying me. Thanks to you, it will soon be no more."
+0,168,62,HARRIMAN,Im sure hell be here any second now.
+0,168,63,HARRIMAN,"So, um ..."
+0,168,63,ONEILL,I am so sorry. I was just finishing up a lovely brunch.
+0,168,63,BAAL,Impudence.
+0,168,63,ONEILL,"No, tuna. So, I hear your fleet is retreating from the Replicators."
+0,168,63,BAAL,How could you know that?
+0,168,63,ONEILL,I have my sources.
+0,168,63,BAAL,My fleet is on its way to recapture Dakara and destroy the Jaffa who have dishonoured their true god.
+0,168,63,ONEILL,"Will you stop with the true god crap? I mean, seriously, what difference will it make? Youre just delaying the inevitable."
+0,168,63,BAAL,The Replicators are a formidable enemy - but I have recently learned of a weapon hidden on Dakara capable of destroying them.
+0,168,63,ONEILL,Really? And youre telling me this why?
+0,168,63,BAAL,Because you must destroy it before my fleet arrives to claim it.
+0,168,63,ONEILL,Alright - you got me. I havent the slightest idea what youre talking about.
+0,168,63,BAAL,The weapon on Dakara was built by the Ancients. It is not only capable of destroying Replicators but all life in the galaxy.
+0,168,63,ONEILL,And your own sweet self included.
+0,168,63,BAAL,Yes.
+0,168,63,ONEILL,So why would you use it?
+0,168,63,BAAL,"I would not, but there is one who would - one who can survive such pervasive devastation."
+0,168,64,ONEILL,"Oh, please dont tell me."
+0,168,64,BAAL,Anubis.
+0,168,64,ONEILL,I asked you not to tell me.

@@ -1,0 +1,100 @@
+Season,Episode,Scene,Character,Line
+0,45,0,STARGATE SG1,Episode 303
+0,45,0,"""FAIR GAME""","By Robert C. Cooper The Gateroom Hammond is standing at the top of the ramp talking to SG1, who are standing down the side of the ramp, and other personnel standing in the Gateroom."
+0,45,0,HAMMOND,"You have fought with valour and courage, sacrificed for each other, for this country, for this planet. To honour the men and women of the SGC, I present Arthur Simms, the Secretary of Defense of the United States of America."
+0,45,0,SIMMS,"Since the re-inception of this programme, I have eagerly awaited every word of every mission report stemming from this base like a wide eyed child waiting for his next bed time story. Not actually being here, seeing your faces or this Stargate here behind me it is sometimes easy to forget that it's all really happening. The President regrets not being able to be here but I'm glad because it gives me the opportunity to congratulate you on your recent effort in defeating a formidable enemy and rescuing SG1, captured in the line of duty. You risk your lives every day in a way more dangerous and fantastic than any of us could have ever dreamed. Understand that I represent every person of this great nation when I salute your ongoing heroic spirit. You should be proud."
+0,45,0,HAMMOND,"Before we finish today I have one other small bit of business. Please come to attention. From the Vice Chief of Staff of the Air Force in recognition of Captain Samantha Carter's outstanding work I hereby authorise her immediate promotion to the rank of major. Captain, step forward."
+0,45,1,HAMMOND,The United States Air Force recognises that you have fulfilled tasks and duties well beyond the responsibility of captain.
+0,45,2,HAMMOND,"It is with great pleasure that I bestow upon you the responsibilities, the respect and the rank of Major."
+0,45,2,CARTER,Thank you Sir. Sam salutes Hammond and turns to Jack who shakes her hand and salutes as well.
+0,45,2,O'NEILL,Well done Major.
+0,45,3,HAMMOND,"In closing, Major Carter's supervisor, Colonel Jack O'Neill would like to say a few words."
+0,45,4,O'NEILL,"Normally, I am a man of very few words. A bright light suddenly appears and engulfs Jack, beaming him somewhere."
+0,45,4,HAMMOND,Code Nine!
+0,45,5,O'NEILL,"And in conclusion, I'd like to say.."
+0,45,6,THOR,Greetings Jack O'Neill.
+0,45,6,O'NEILL,Greetings. Have we met?
+0,45,6,THOR,I am Thor.
+0,45,7,THOR,"I apologise for taking you by surprise, but I have come on a matter of great importance."
+0,45,7,O'NEILL,"We're in orbit around Earth, right?"
+0,45,7,THOR,Yes.
+0,45,7,O'NEILL,"You know, we have satellites and telescopes that can see things like space ships."
+0,45,7,THOR,Our ships have never been detected in orbit around Earth before.
+0,45,7,O'NEILL,Hm. All right. I'm sorry. You were saying something. A matter of great importance?
+0,45,7,THOR,We received word of what transpired with your people and the goa'uld named Hathor.
+0,45,7,O'NEILL,She had it coming.
+0,45,7,THOR,"As a result, the Goa'uld System Lords have turned their attention towards you."
+0,45,7,O'NEILL,"What, for killing Hathor? They should be thanking us. She was planning to overthrow them."
+0,45,7,THOR,Her intentions are irrelevant. Earth has once again proven it can be a formidable threat to the Goa'uld.
+0,45,7,O'NEILL,"Oh, now, we're a threat to them?"
+0,45,7,THOR,They have decided it is a concern to be dealt with. The System Lords are capable of launching and assault one hundred times more powerful than that you previously withstood at the hands of Apophis.
+0,45,7,O'NEILL,"Okay, uh, that could be a problem."
+0,45,7,THOR,The Asgard agree. I have come to offer our assistance.
+0,45,7,O'NEILL,Now see that would be appreciated. I've seen your work. It's great.
+0,45,7,THOR,The vast majority of the Asgard fleet is currently unavailable.
+0,45,7,O'NEILL,Oh. So what d'you have in mind?
+0,45,7,THOR,With your permission the Asgard will attempt to negotiate with the Goa'uld System Lords to include Earth in the Protected Planets Treaty.
+0,45,7,O'NEILL,That's a good thing right?
+0,45,7,THOR,it would prevent this attack.
+0,45,7,O'NEILL,"Good. Uh, to be honest with you, I'd rather have a fleet of you ships here. A few of these babies and we could just. We could try the negotiating thing."
+0,45,7,THOR,I will contact the System Lords. You may return to your planet now. Thor beams out.
+0,45,7,O'NEILL,Excuse me? I assume someone's gonna show me the way back? He is beamed out.
+0,45,7,O'NEILL,Thank you.
+0,45,8,HAMMOND,Why would the Goa'uld agree to this negotiation?
+0,45,8,TEAL'C,The Goa'uld fear the Asgard.
+0,45,8,DANIEL,"Plus I assume the Asgard would offer the Goa'uld something in return, that's generally the way negotiations work."
+0,45,8,HAMMOND,Well what if the summit fails?
+0,45,8,O'NEILL,Well Thor said that's pretty much the only option he could offer. If it fails. total annihilation.
+0,45,8,HAMMOND,Well the President is wondering how confident we are in trusting the Asgard.
+0,45,8,CARTER,The Tok'ra trust them.
+0,45,8,DANIEL,They helped Jack out when he got the Ancients language downloaded into his brain.
+0,45,8,O'NEILL,You gotta love 'em for that.
+0,45,8,HAMMOND,But we know very little about the politics out there. How do we know the Asgard truly have our best interests at heart?
+0,45,8,O'NEILL,I suppose we don't. But if they have any other agenda in mind.
+0,45,9,HAMMOND,"Colonel, do we need Security?"
+0,45,9,O'NEILL,"No I'll vouch for him Sir. Major Samantha Carter. Dr Daniel Jackson. You remember Thor? Thor, this is Teal'c and Major General George Hammond. He's the leader of our facility here."
+0,45,9,THOR,The System Lords have agreed to negotiate.
+0,45,9,O'NEILL,That's good news.
+0,45,9,THOR,They will arrive in four days.
+0,45,9,O'NEILL,Here?
+0,45,9,THOR,It is customary for such negotiations to take place on the planet in question. Three representatives from the System Lords will arrive by Stargate. You must be prepared to speak on behalf of all the inhabitants of Earth.
+0,45,9,O'NEILL,"Uh well maybe not me, personally."
+0,45,9,THOR,"We have chosen you, O'Neill, to represent your planet at the proceedings."
+0,45,9,O'NEILL,"Now, see, that could be a mistake. You see, Dr Jackson here is an extremely educated and articulate man. Very well versed in all the languages."
+0,45,9,THOR,"You have led your people into the galaxy through the Stargate. You are our choice, O'Neill. Further instructions to aid you in your preparation will follow."
+0,45,10,O'NEILL,"Well, there you go."
+0,45,11,DANIEL,"Cronus was amongst the earliest Greek Gods, one of 12 Titans who eventually ascended to supreme domination. He was god of Fate and eventually became father to Zeus, Hera, Poseidon and Hades. Now this last relationship may indicate a connection to the Goa'uld Sokar."
+0,45,11,TEAL'C,Cronus is the most influential of the System Lords. It was he who originally banished Sokar. Cronus was also a mortal enemy of Apophis.
+0,45,11,DANIEL,Which may indicate why the System Lords didn't join in Apophis' attack on Earth.
+0,45,11,TEAL'C,The System Lords reluctantly banded together to defend Goa'uld territory against outside threats such as the Asgard and Reetou. However they still battle amongst themselves for control of their own individual domains.
+0,45,11,DANIEL,The second Goa'uld representative we're expecting is.. Yu.
+0,45,11,O'NEILL,Me?
+0,45,11,DANIEL,Yu is the name of the Goa'uld.
+0,45,11,O'NEILL,Ah. Sorry.
+0,45,11,DANIEL,Also known as Yu the Great. He did not assume the role of a God per se but may have been one of China's earliest emperors. Legend says he possessed great mythical powers and sprang into the world from a dragon's body. Ancient scrolls say he founded the first recorded dynasty whose advances came about under harsh rule. However it should be noted that Yu did account for a number of positive influences.
+0,45,11,O'NEILL,Thank you.
+0,45,12,O'NEILL,Sorry.
+0,45,12,DANIEL,"According to Thor's message, Yu is the most likely to favour this treaty, as his interests no longer reside in this area of the galaxy."
+0,45,12,HAMMOND,And the third Goa'uld Dr Jackson?
+0,45,12,DANIEL,"Another one we haven't met but have a certain familiarity with. For those in the room that don't know, Nirrti is the Goa'uld who wiped out all but one survivor of P8X 987 along with four members of the SGC in an attempt to destroy Earth's Stargate."
+0,45,12,CARTER,Cassandra's planet.
+0,45,12,DANIEL,Little is known about Nirrti from Earth's perspective. In early Hindu reference she was a destructive goddess of Darkness.
+0,45,12,CARTER,So we're gonna let these Goa'uld just walk in here?
+0,45,12,HAMMOND,"There are a number of aspects of this situation I'm not comfortable with Major. Thank you Dr Jackson. Teal'c, I would like you to act as liason to the Goa'uld. Dr Jackson.."
+0,45,12,TEAL'C,General Hammond.
+0,45,12,HAMMOND,Is there a problem?
+0,45,12,TEAL'C,"I mean no disrespect, but I have given my allegiance to you, to the SGC and to the people of this world freely. I will not, however, not see to the petty needs of these Goa'uld."
+0,45,12,DANIEL,"I'll see to the petty needs of the Goa'uld, Sir."
+0,45,12,HAMMOND,"Okay, Dr Jackson. Teal'c, you will assist Major Castleman with base security. According to Thor, treaty law will not permit weapons of any kind in this facility during negotiations."
+0,45,12,O'NEILL,"Whoa! Sir, that doesn't sound wise."
+0,45,12,HAMMOND,"We're largely trusting the Asgard based on your word Colonel. This is their rule. As a result the base is completely sealed off from the surface. The Secretary of Defense will be staying to represent the President. Storage room 12A on Level 17 will be converted to a meeting room for security reasons. You've all received folders that include your individual assignments as preparation instructions as laid out by the Asgard. There's a lot of work to do people, and not much time."
+0,45,13,SERGEANT,What about that one Major?
+0,45,13,CARTER,This is a Goa'uld healing device. Those two are the weapons.
+0,45,14,O'NEILL,General!
+0,45,14,HAMMOND,"Colonel, how are your briefings going?"
+0,45,14,O'NEILL,I had no idea how exciting diplomacy could be Sir. What's this about?
+0,45,14,HAMMOND,"I'm not sure. It's Teal'c. They reach Teal'c. HAMMOND: Teal'c, Sergeant, what's the problem? SERGEANT: He won't relinquish his weapon Sir. O'NEILL: Teal'c? TEAL'C: Like you I do not believe we should remove all weapons from this base. HAMMOND: The Asgard were explicit. If they detect weapons, there will be no summit. O'NEILL: No summit, no treaty. TEAL'C: The Goa'uld that you are allowing through your Stargate are amongst the most deceptive and treacherous that I have ever known. HAMMOND: Thor assures us the Goa'ulds are also forbidden from bringing weapons. O'NEILL: If this treaty doesn't happen, they're gonna send a hundred of those motherships here. You know as well as I do what that means. HAMMOND: Teal'c, I'm ordering you to turn your weapon over. Teal'c looks at Jack and reluctantly turns the staff weapon over."
+0,45,14,BRIEFING ROOM DANIEL,"Are we seriously going to give up Gate travel? HAMMOND: Considering the alternative.. SIMMS: I believe that ring out there is the single most important thing on this planet. And I understand what losing the Gate would mean. But is on your word we trust these Asgard. Peaceful solutions to this crisis must be considered. O'NEILL: True, but. CARTER: The point is, sir, with all due respect, it's not nearly as simple as you put it. TEAL'C: There are other threats to this world that this treaty will not protect you from. O'NEILL: From what my buddy Thor tells me, an enemy far worse than the Goa'uld. SIMMS: If any of you can tell me absolutely why we should not accept this proposal, I will forward your opinion to the President. And I assure you it will be given serious weight."
+0,45,14,THOR'S SHIP THOR,"Have your people reached a decision? O'NEILL: Um, not yet. That's kinda why I'm here. I was wondering what you think we should do. THOR: It is your decision. O'NEILL: I see. Or do I? You guys, do you ever say one thing and mean another? Kinda speak between the lines, if you know what I mean? THOR: I do not. O'NEILL: Do not what? Speak between the lines or understand? THOR: What do you, O'Neill, think your people should do? O'NEILL: Well, see, I don't know. It's a bit much for one guy to make that call for an entire planet. On the other hand, it's pretty obvious. Give up the Stargate or be destroyed. THOR: So it would seem. O'NEILL: But you see, the Goa'uld could call your bluff, attack us anyway and we'd have given up our only means of finding a way to defend ourselves. THOR: That is true. O'NEILL: Oh come on! Gimme something! Anything! I won't hold you to it. A little head nod if there's another way around this. THOR: It is your planet at stake. I believe you have it within you to make the right decision. O'NEILL: All right. Send me back. Wait! Right there! Is that a head nod? A nod is usually down then back up. You kinda just went down. Wait! Thor beams Jack down."
+0,45,14,THOR'S SHIP THOR,"You must let them take Cronus. O'NEILL: They'll attack us! THOR: If you hold them against their will, the rest of the System Lords will attack regardless. O'NEILL: Look, Teal'c didn't do this. THOR: I have been instructed by the Asgard High Council to leave Earth's orbit. O'NEILL: And that's what, in line with your policy of limited benevolence? THOR: I have explained our position. To borrow from a human euphemism, it is not a perfect galaxy. O'NEILL: Well I'm sorry, I get a little testy when faced with the total annihilation of our little corner of it. THOR: We sympathise with your situation. O'NEILL: Right. And yet you'll still just sit by and watch 'em destroy us. THOR: We cannot interfere without beginning a much larger war that cannot be won at this time."
+0,45,14,STORAGE ROOM 12A YU,"I command that you release us. NIRRTI: We must leave now and take Cronus before his death is on your heads. HAMMOND: I'm sorry. I can't let you go. NIRRTI: If we do not report back, your planet will suffer the full force of the System Lord's wrath. HAMMOND: That's going to happen whether we let you go or not. YU: You have violated every code mandated for these negotiations! The Asgard will not protect you! O'NEILL: Actually you're wrong about something. There's one rule we haven't broken yet. Four SF's come in heavily armed."

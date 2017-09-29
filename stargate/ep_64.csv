@@ -1,0 +1,292 @@
+Season,Episode,Scene,Character,Line
+0,64,0,STARGATE SG1,Episode 322
+0,64,0,"""NEMESIS""",By Robert C. Cooper Danny is laying in an infirmary bed.
+0,64,0,DANNY,Hey.
+0,64,0,JACK,Hey. How ya doin'?
+0,64,0,DANNY,Good. Did ya get your hair cut?
+0,64,0,JACK,"Yeah, Why?"
+0,64,0,DANNY,No reason.
+0,64,0,JACK,Can I see your scar?
+0,64,0,DANNY,No!
+0,64,0,JACK,"Uh, Fraiser says it'll be about a week before you, you know, get out of here."
+0,64,0,DANNY,"You know, it's funny after all we've been thru these last --- few years, it's my appendix that lays me out. But, it's not gonna be a week, I mean, I feel fine now."
+0,64,0,JACK,Wanna go fishin'?
+0,64,0,DANNY,"Actually, I wouldn't uh --- Well, maybe --- No, you know, I think, I think I will stay here for 2 or 3 --- 3 days."
+0,64,0,JACK,Bye.
+0,64,0,SAM,Sir?! Hi! How's Daniel?
+0,64,0,JACK,
+0,64,0,SAM,"Uh, I'm getting ready to do a detailed analysis of the decay rate of naquata within the reactor. It's really quite amazing, I mean unlike plutonium, it actually has ---"
+0,64,0,JACK,Ah! I'm on vacation!
+0,64,0,SAM,"Yes, Sir."
+0,64,0,JACK,So are you.
+0,64,0,SAM,"I know. It's not that I'm happy that Daniel's in excruciating pain or anything like that, but I've been looking forward to an opportunity like this for quite some time---"
+0,64,0,JACK,"You know, maybe it's just me, but I always thought when one GOT a chance to leave, one actually LEFT. Daniel's recuperating, Teal'C's off visiting his kid somewhere, personally, I have a date with a lake in Minnesota where the bass grow that big."
+0,64,0,SAM,Really?!
+0,64,0,JACK,"Oh, Yes! What I'm describing here, Carter, involves a very special element."
+0,64,0,SAM,"This IS fun to me, Sir."
+0,64,0,JACK,"Well, if --- playing with your little reactor sounds better than exploring the lakes and natural beauty of Northern Minnesota, there's not much I can do."
+0,64,0,SAM,Was that an invitation --- Sir?
+0,64,0,JACK,"Nothing wrong with that is there? Couple of Co-workers, friends if you will, fishing. It'd be fun."
+0,64,0,SAM,"Wow! I appreciate the offer, Sir, really! Sounds great! But I should ---"
+0,64,0,JACK,"No sweat! See you in a week. And by all means, have fun!"
+0,64,0,SAM,Colonel! Uh --- Have a good time!
+0,64,0,JACK,"Land of sky-blue waters, loofas, ya sure ya betcha' , snookums, mosquitoes --- Home of the loons --- Thor?! Hello? What the hell? Damn."
+0,64,0,JACK,
+0,64,0,SAM,I'm pretty sure it was the Asguard transportation technology.
+0,64,0,GH,"For Jack's sake, let's hope you're right."
+0,64,0,SAM,"Depends on what they want this time, Sir."
+0,64,0,GH,True! Send a message thru the stargate to Teal'C.
+0,64,0,SAM,"Yes, Sir."
+0,64,0,GH,This is General Hammond. Get me Major Davis at the pentagon.
+0,64,0,JACK,Thor?
+0,64,0,THOR,"Greeting, O'Neill. Turn right, then enter the door at the end of the corridor. O'Neill."
+0,64,0,JACK,Thor? You all right?
+0,64,0,THOR,I am dying.
+0,64,0,JACK,What happened?
+0,64,0,THOR,"It is , as you humans say, a long story."
+0,64,0,JACK,Does this have anything to do with those --- bugs?
+0,64,0,THOR,"I could not transport you directly into this room. The --- bugs --- as you call them, are attracted to the high-energy output of the transporter."
+0,64,0,JACK,What are they?
+0,64,0,THOR,They are the enemy of the Asguard.
+0,64,0,JACK,
+0,64,0,THOR,I am weak. The information you will need is contained within the stones. Forgive me!
+0,64,0,JACK,For what? Thor?
+0,64,1,THOR,"Colonel Jack O'Neill, I have made these recordings for you for in the event that I am dead, or unable to pass on the necessary information. Under my command, The Biliskner was called into battle against an enemy we have named ""Replicators."" During the battle, this ship became infested by the technology. The replicators accessed the computer which contained information about your planet, and plotted a course here. The crew was transported off the ship. I destroyed the outbound transported technology to prevent the replicators from escaping, and remained in the hopes of stopping The Biliskner from reaching earth. If you are watching this recording, I have failed. Then , I have also likely doomed YOU to certain death."
+0,64,2,GH,"Teal'C, thank you for returning."
+0,64,2,TEAL'C,"For what matter of urgency have I been summoned, General Hammond?"
+0,64,2,SAM,I think I witnessed Colonel O'Neill being transported out the base by the Asguard.
+0,64,2,TEAL'C,For what purpose?
+0,64,2,GH,We're not sure yet.
+0,64,3,JACK,"Hello? Hello? Testing, Testing! Is this thing on?!"
+0,64,3,SAM,Colonel?
+0,64,3,JACK,Carter?!
+0,64,3,SAM,Sir? What going on?!
+0,64,3,JACK,"Well, I need a Spaz-12, a BF-8, 10 pounds of PBX, and a USAS at the base of the star gate in Oh, 5 minutes."
+0,64,3,SAM,"That's a lot of explosives, Sir."
+0,64,3,GH,May I ask why?
+0,64,3,JACK,"Well, basically, Thor's ship has been taken over by a bunch of nasty techno-bugs."
+0,64,3,TEAL'C,Were the Asguard not able to defeat them?
+0,64,3,JACK,Guess not.
+0,64,3,SAM,"So, Sir, are you saying that these bugs are technologically advanced?"
+0,64,3,JACK,"Yeah. Apparently, they plan to land the ship and infest earth. Thor says this --- would not be a good thing."
+0,64,3,GH,What are you going to do?
+0,64,3,JACK,Destroy the ship.
+0,64,3,SAM,Where's Thor?
+0,64,4,SAM,"We'll be ready in 10 minutes, Sir --- Thor can transport us up there to help you."
+0,64,4,JACK,"Thank you, Carter, but that's not gonna happen. Thor's out cold. Bugs got him pretty good, but he did leave some instructions on how to run the toys up here."
+0,64,4,SAM,"So, can you transport us up?"
+0,64,4,JACK,I can --- But --- I'm --- not going to.
+0,64,4,TEAL'C,"What is your reasoning, O'Neill?"
+0,64,4,JACK,Anybody who comes up --- is NOT getting down.
+0,64,4,SAM,"Well, Sir, if you can't get off the ship ---"
+0,64,4,JACK,"Yeah. I know. Look, my time's almost up here. Have the stuff ready in 10 minutes --- wish me luck!"
+0,64,4,SAM,Colonel ---
+0,64,4,JACK,"Major!, it's an order, and it's final."
+0,64,4,GH,"Good luck, Jack."
+0,64,4,JACK,"Thank you , Sir."
+0,64,4,GH,"Teal'C, See that the ordinance is in place. Major, to your knowledge, if Colonel O'Neill is unsuccessful, could that ship be destroyed by a surface to air strike?"
+0,64,4,SAM,"Sir, the ship has sophisticated cloaking devices. We've been looking for it in orbit since Colonel O'Neill disappeared. Nothing."
+0,64,4,GH,"Well, if we can't see it, we can't target it."
+0,64,4,THOR,"The molecular transportation device is pre programmed to target the area directly in front of your earth-based stargate. Enter these symbols on the console in front of you. 30 seconds after entering the code, the targeted material will be transported to the indicated cargo hold. Remember, the transportation device emits energy strong enough, to attract the replicators."
+0,64,5,JACK,Dammit! I gave you people a direct order!!!!
+0,64,5,SAM,"General Hammond over ruled you, Sir. We may have a way off the ship."
+0,64,5,JACK,God! Grab what ya can. Let's go!
+0,64,6,JACK,"Let's move! Hey buddy. How ya feelin'? You uh, remember Carter? Teal'C?"
+0,64,6,THOR,Why did you bring them?
+0,64,6,JACK,Anyone?
+0,64,6,TEAL'C,We believe we could be of assistance.
+0,64,6,THOR,"Now, you will ALL die."
+0,64,6,SAM,"Actually, we don't think so. Sir, there's a shuttle prepping on the launch pad. We can transmit the coordinates to NASA, they can be here in a matter of hours. We also brought space suits in case an E.V.A. is required."
+0,64,6,THOR,"This pod can generate an anti-gravity field, making it easier to move."
+0,64,6,SAM,Does this ship have an airlock?
+0,64,6,THOR,Yes.
+0,64,6,JACK,"So, we plant some PBX, jump ship, then blow it."
+0,64,6,THOR,What is PBX?
+0,64,6,TEAL'C,An explosive.
+0,64,6,JACK,You just have to tell us the best places to plant it.
+0,64,6,THOR,All Asguard ships are equipped with internal dampening fields that activate in the event of an explosion.
+0,64,6,JACK,"Well, how exactly do you expect us to destroy the ship?"
+0,64,6,THOR,"If I knew a fast, simple , method, I would have destroyed the ship myself before endangering your lives."
+0,64,6,JACK,Of course you would have.
+0,64,6,THOR,The technical specifications of the Bilitzner Were contained within the recordings I made for you.
+0,64,6,JACK,
+0,64,6,SAM,What?
+0,64,6,JACK,Stick those on there.
+0,64,6,THOR,"--- Is powered by 4 neutrine ion generators . In your Earth units of measurements, each unit ---"
+0,64,6,JACK,"Yeah, my eyes glossed over right about there."
+0,64,6,SAM,Guess I better go thru all these recordings.
+0,64,8,GH,"Welcome back, Major."
+0,64,8,DAVIS,"General, I wish it wasn't always under such --- unusual circumstances. Any further word on the situation?"
+0,64,8,GH,No. We haven't been able to make radio contact with SG-1.
+0,64,8,DAVIS,"Well, the Asguard cloaking device is also blocking radio signals."
+0,64,8,GH,"I see you've done your homework, Major."
+0,64,8,DAVIS,"General, All I do all day long is read up on the Star gate program."
+0,64,9,THOR,They were discovered on an isolated planet in our home galaxy some time ago. The creators were NOT present.
+0,64,9,TEAL'C,Most likely destroyed by their own creation.
+0,64,9,THOR,The replicators were brought aboard the ship for study before the danger could be fully comprehended.
+0,64,9,JACK,We do that all the time. We kind of expected more from you guys.
+0,64,9,THOR,Overconfidence in our technology has been our undoing. The entities learned from the very means that were employed to stop them. They have become a plague on our galaxy that is annialating everything in it's path.
+0,64,9,JACK,Why haven't these little buggers landed the ship already?
+0,64,9,THOR,"Their odds of survival in a new environment depend on numbers. They are currently feeding off this ship, and replicating."
+0,64,9,SAM,Are you saying they are actually EATING this ship?
+0,64,9,THOR,"Ingesting the alloys, yes. (Sam looks at Jack, Teal'C has the look."
+0,64,9,SAM,How intelligent are they?
+0,64,9,THOR,"Their capacity for learning is extremely high. Each entity is capable of individual behavior, yet, they all act with a common purpose ---"
+0,64,9,JACK,What's that?
+0,64,9,THOR,Self replication.
+0,64,9,TEAL'C,And there does not appear to be a way to stop them.
+0,64,9,SAM,"Hang on! Thor, you said that they wouldn't risk compromising the integrity of the hull?"
+0,64,9,THOR,Correct.
+0,64,9,SAM,Can this ship withstand an uncontrolled re-entry into the atmosphere?
+0,64,9,THOR,No. The heat from the friction would cause the ship to burn up.
+0,64,9,JACK,"Wait a minute! Are you trying to tell me that with all this advanced intergalactic technology, this ship can't take a little HEAT?"
+0,64,9,THOR,In order to reflect the subspace field of the gener ---
+0,64,9,JACK,So --- no.
+0,64,9,THOR,Yes.
+0,64,9,SAM,Then all we have to do is crash the ship into the atmosphere.
+0,64,9,THOR,You will have to regain control of the navigational computer.
+0,64,9,JACK,Sounds like A plan.
+0,64,9,THOR,
+0,64,9,SAM,There was a map in the recordings. Can we direct them from here as they go?
+0,64,9,THOR,Yes.
+0,64,9,JACK,
+0,64,9,TEAL'C,"They are in the walls, O'Neill."
+0,64,9,SAM,"Colonel, can you hear me?"
+0,64,9,JACK,We hear ya.
+0,64,9,SAM,You wanna go down that hall. Why are some areas flashing?
+0,64,9,THOR,They indicate the quadrants of the ship that the replicators have disabled.
+0,64,9,SAM,Ho - How do I zoom in?
+0,64,9,THOR,Top left symbol.
+0,64,9,SAM,You wanna go thru that door on your left. Why can't I see any bugs on the screen?
+0,64,9,THOR,"The first thing the replicators do once aboard an Asguard ship, is disable the sensors capable of detecting them."
+0,64,9,SAM,But I can still see Colonel O'Neill and Teal'C.
+0,64,9,THOR,"They are being detected by the thermal sensors, which cannot see the replicators."
+0,64,9,SAM,Are you OK?
+0,64,9,THOR,"I can not use the ship's automated medical system. If the replicators have tampered with it, It could kill me."
+0,64,9,SAM,"Well, we brought medical supplies, and I have field medical training."
+0,64,9,THOR,You cannot help me.
+0,64,9,JACK,Are we there yet?
+0,64,9,SAM,The door up ahead on your left leads to the bridge.
+0,64,9,TEAL'C,It sounds as if there are replicators inside.
+0,64,9,JACK,Watch your self. Forget that! OK! New plan!
+0,64,9,SAM,Nothing's been damaged.
+0,64,9,JACK,Good.
+0,64,9,SAM,Sir --- Thor's not doing well. That pod could put him in a deep stasis that would preserve his life.
+0,64,9,JACK,Then do it.
+0,64,9,SAM,He won't let me.
+0,64,9,JACK,Hey! I hear you're not being a particularly cooperative patient.
+0,64,9,THOR,"As long as I am conscious, I still may be of some assistance."
+0,64,9,JACK,"Yeah, however, if you're DEAD ---"
+0,64,9,THOR,"As I have said, if you do succeed in destroying this ship, we will ALL die."
+0,64,9,JACK,"And, as Carter has said, we may have a way off this ship."
+0,64,9,SAM,"Wait a minute, that's it! Thor, you said there are dampening fields INSIDE the ship that prevent explosions. What about OUTSIDE the ship?"
+0,64,9,THOR,"There are shields around the ship, but they would not protect against a weapon already inside the force field."
+0,64,9,SAM,
+0,64,9,THOR,"The deceleration drive, yes."
+0,64,9,SAM,We brought an explosive device that's enhanced with naquata. Would that be enough to destroy the deceleration drive?
+0,64,9,THOR,This plan COULD work!
+0,64,9,JACK,Plan? What plan?
+0,64,9,SAM,"Sir, the bugs are gonna land the ship themselves eventually. The BF-8 might just be enough firepower to blow the deceleration drives."
+0,64,9,JACK,Might?
+0,64,9,SAM,
+0,64,10,SAM,Someone's gonna have to go out there.
+0,64,10,JACK,Of course they are.
+0,64,11,GH,"What are you doing down here, Doctor Jackson?"
+0,64,11,DANNY,"I've just been informed, Sir. I was wondering if there was anything I could do to help."
+0,64,11,DAVIS,"General, we're going to DEFCON 3. The Russians have gone on alert as a response. The moment the Asguard ship attempts to land, the President has decided to let the rest of the world know what we know."
+0,64,11,GH,And then?
+0,64,11,DAVIS,We hit it with everything we've got.
+0,64,11,DANNY,"Uh, SG-1 is on that ship."
+0,64,11,DAVIS,"I have as much confidence in SG-1 as you, Doctor Jackson, but they left over an hour ago. We've had no communication since, and we have NO idea what kind of a time frame we have here."
+0,64,11,GH,"Let's give them a reasonable chance, Major."
+0,64,11,DAVIS,"Yes, Sir. I'll try to define REASONABLE to the Pentagon."
+0,64,12,SAM,Bugs haven't over run the part of the ship where the airlock is yet.
+0,64,12,JACK,Let's do it!
+0,64,12,SAM,Each tank has 6 hours of oxygen. Who ever goes should have plenty of time.
+0,64,12,TEAL'C,I will go.
+0,64,12,JACK,I was gonna do it.
+0,64,12,SAM,"There IS a radiation concern, Sir."
+0,64,12,TEAL'C,My symbiote protects me from exposure to radiation for long periods of time.
+0,64,12,JACK,
+0,64,12,SAM,"It looks like the top button opens the inner door, the middle button pressurizes the air lock, and the bottom one opens the outer door."
+0,64,12,JACK,"Uh, Roger that. You can hear me?"
+0,64,12,TEAL'C,Indeed.
+0,64,12,JACK,You might want to think about --- hanging on tight out there. Let's do it. Say something.
+0,64,12,TEAL'C,One small step for Jaffa ---
+0,64,12,JACK,"Very nice. Scraping in Scrabbling is heard.) Oh, Crap! Teal'C, How's it going?"
+0,64,12,TEAL'C,I am returning.
+0,64,12,JACK,I don't suppose you could step on it could you?
+0,64,12,TEAL'C,"I am moving as quickly as possible, O'Neill."
+0,64,12,JACK,Carter?
+0,64,12,SAM,"Yes, Sir! I'm working on it!"
+0,64,12,TEAL'C,The door will not open!
+0,64,12,JACK,"Yeah, Hang on! Oh, God! His tank just blew!!!!"
+0,64,12,TEAL'C,O'Neill!
+0,64,12,CARTER!!!!!,
+0,64,12,SAM,"Sir, I'm trying to get the transported to beam him inside, but it's not working! The transporter array on that side of the ship must have been knocked out by the bugs. We can still do this! But --- Teal'C's gonna have to push off."
+0,64,12,WHAT?!,
+0,64,12,SAM,"The other transported array's can pick him up, but only if he's far enough AWAY from the ship."
+0,64,12,JACK,"Teal'C, we're gonna try to beam you aboard --- But you have to push off from the ship first. You read? YOU HAVE TO PUSH OFF!!!!!"
+0,64,13,SAM,He's taking too long. Isn't there someway to re-aim the transporter arrays? Damn!
+0,64,13,JACK,Carter?!
+0,64,13,SAM,I'm trying! Got it!
+0,64,13,JACK,"Teal'C! Teal'C?! Come on! Come on, come on! BREATH!!!! Oh, yeah! THAT'S following orders! Can you move?"
+0,64,13,TEAL'C,I can O'Neill.
+0,64,13,JACK,Come on.
+0,64,13,GH,Still no communication of any kind?
+0,64,13,TS DAVIS,"No, Sir. And NORAD's still reporting no sign of the Alien ship."
+0,64,13,GH,"Doctor Jackson, are you OK?"
+0,64,13,DANNY,I'll be fine.
+0,64,13,GH,"Well, why don't you go back to the infirmary? I promise, I will notify you with any news."
+0,64,13,DANNY,"Sir, I know there no reason for me to be here, but I just --- I feel like I SHOULD be here. That's not totally true, actually I feel like I should be up there with them."
+0,64,13,GH,Now you know how I feel most of the time.
+0,64,13,SAM,"According to the schematics, that was the only one left untouched by the bugs. You gonna be OK?"
+0,64,13,TEAL'C,I will be fine.
+0,64,13,JACK,What happened?
+0,64,13,SAM,He was dying. I had to put him into stasis.
+0,64,13,JACK,So ---?
+0,64,13,SAM,"So, we wait, and blow the bomb at the right time."
+0,64,13,JACK,Which is --- when?
+0,64,13,SAM,"When we start to enter the atmosphere. Too early, and theoretically re-entry could be aborted by the bugs. We wait too long into the descent, the bomb could burn off before we could detonate it."
+0,64,13,JACK,Think you could fix that beam down thing?
+0,64,13,SAM,"Not without THOR's help , Sir."
+0,64,13,JACK,"Better contact Hammond. Let him know what to expect. All right, this thing's not working!"
+0,64,13,TEAL'C,Thor was correct! We are going to die!
+0,64,13,JACK,"Ow, come on, Teal'C. Lighten up! Been in these situations before."
+0,64,13,SAM,"No, Sir. We haven't."
+0,64,13,JACK,We haven't?
+0,64,13,TEAL'C,The vessel is beginning it's descent.
+0,64,13,SAM,"I have an idea, Sir."
+0,64,14,TS DAVIS,"Sir, NORAD's reporting an unidentifiable flying object entering the atmosphere over the Pacific."
+0,64,14,DANNY,They've disabled the ship's cloaking device.
+0,64,14,TECH,Object's on a controlled entry.
+0,64,14,TS DAVIS,"Projected landing on the West coast of the US , Sir."
+0,64,14,M. DAVIS,It could also be a sign they've already lost the battle.
+0,64,14,GH,"This is General Hammond. At this time, I recommend going to DEFCON 2. Deploy all available assets to intercept the Alien ship."
+0,64,14,DANNY,General?
+0,64,14,GH,"I'm sorry, Dr. Jackson. But if that ship makes it thru the atmosphere, we have no choice but to assume SG-1 failed. We MUST destroy it but what ever means necessary."
+0,64,14,JACK,"All right, Carter. Let's do it!"
+0,64,14,SAM,Here we go!
+0,64,14,M. DAVIS,"The Russians have also spotted the incoming object, and are inquiring."
+0,64,14,GH,The Joint Chiefs will respond.
+0,64,15,M. DAVIS,I'll have to call you back!
+0,64,15,DANNY,There gonna use it to escape!
+0,64,15,M. DAVIS,Like you did from the Apophis Mother Ship! It could work!
+0,64,15,DANNY,"It WILL work! The--- They'll gate to another planet, then home."
+0,64,15,GH,"But you had a DHD, they don't."
+0,64,15,M. DAVIS,"Even disconnected, they should have enough power to dial out once."
+0,64,15,GH,"This is Hammond. I want the Beta gate unpacked from storage immediately. Yes, you HEARD me! I want it unpacked, and ready for use as soon as humanly possible."
+0,64,15,JACK,
+0,64,15,P3X-234.,
+0,64,15,JACK,I hear it's nice there this time of year. We got bugs.
+0,64,15,TEAL'C,O'Neill!
+0,64,16,TEAL'C,
+0,64,16,JACK,
+0,64,16,SAM,Not yet!
+0,64,16,CARTER?!?!?!?!?!,
+0,64,16,SAM,
+0,64,16,CARTER?!?!?!?!?!,
+0,64,17,M. DAVIS,"I understand that, Captain! What I want to know is what do you see? Do you have a visual? 10th squadron airborne on intercept course."
+0,64,17,TS DAVIS,The target has changed heading. It's not on controlled entry vector. It's breaking up.
+0,64,17,M. DAVIS,"We have confirmation! A fireball 400 miles off the coast of California heading into the Pacific Ocean. Navel recovery teams will be out there to deal with an wreckage. I'm sure you were right, Doctor Jackson. The point of commandeering the Stargate had to be an escape."
+0,64,17,DANNY,I just hope they made it out in time.

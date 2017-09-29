@@ -1,0 +1,376 @@
+Season,Episode,Scene,Character,Line
+0,27,0,STARGATE SG1,Episode 207
+0,27,0,"""MESSAGE IN A BOTTLE""",By Michael Greenburg & Jarrad Paul The team are offworld and are wearing astronaut suits
+0,27,0,JACK,Anybody home?
+0,27,0,DANIEL,"Jack it may as well be the moon out here. If there ever was anybody home, they've been gone a hundred thousand years or more."
+0,27,0,TEAL'C,"This world is definitely Tal'ac. Though it once supported life, it is now extinct."
+0,27,0,SAM,Well the probe picked up an EM source coming from something.
+0,27,0,JACK,"My guess,that thing."
+0,27,1,SAM,"It has the same EM frequency we picked up from the probe. Sir, this artifact or whatever it is, is definitely the source."
+0,27,1,JACK,Are we in danger?
+0,27,1,SAM,"No sir I don't think so. Not at the moment. But, I mean this is incredible. If Daniel is right, this artifact has been doing this since Neanderthals were still a dominant species on earth."
+0,27,1,JACK,"Ah, that takes me back."
+0,27,1,DANIEL,"Look at this writing of some kind, it's so tiny."
+0,27,1,JACK,What does it do?
+0,27,1,SAM,"Well, it's maintaining an interior temperature of thirty three degrees Fahrenheit, it's generating an electromagnetic field and emitting small amounts of alpha, gamma, and delta radiation."
+0,27,1,JACK,Well I know that. Why does it do that? I'm trying to make a threat assessment here captain.
+0,27,1,SAM,"I don't know what it is sir. But its got a power source more advanced then anything we've come across, including the Goa'uld."
+0,27,1,DANIEL,"It's a time capsule. Well, that's an educated guess, but imagine your civilization is facing a major cataclysm. The end is coming, you know it. Wouldn't you leave something behind? Something that told everyone that came after you who you were."
+0,27,1,TEAL'C,Or how you died.
+0,27,1,DANIEL,Yes. Imagine what you could learn about your own fate.
+0,27,1,TEAL'C,"When a Goa'uld's world is taken by another in battle, he will sometimes leave behind the means to destroy the conqueror."
+0,27,1,JACK,You think it might be a booby trap.
+0,27,1,TEAL'C,Booby?
+0,27,1,DANIEL,I don't think we're talking about the Goa'uld here. Whoever this civilization was went through great pains to leave this artifact behind. Like a message in a bottle.
+0,27,1,JACK,You buying this Teal'c?
+0,27,1,TEAL'C,The benefit may outweigh the risk.
+0,27,1,SAM,The earth sure could use a power source that lasts for thousands of years.
+0,27,1,JACK,Alright. Pack it up. Let's go home.
+0,27,1,SAM,Yes Sir.
+0,27,4,JACK,We acquired the package sir. I recommend level three precautions.
+0,27,4,HARRIMAN,Wormhole disengaged. Support teams go.
+0,27,4,JACK,"Careful with it, it's heavy."
+0,27,4,SAM,"Sir, start spectral analysis right away."
+0,27,4,DANIEL,"Oh, and input a detailed imaging of the outer surface into the computer."
+0,27,4,HAMMOND,Everything go as planned Colonel?
+0,27,4,JACK,"Oh, one small step one giant leap, that kind of stuff sir."
+0,27,4,HAMMOND,We'll debrief in one hour. Welcome home
+0,27,5,SAM,"Well we can add two more elements to the periodic table. Lieutenant, I'd like to record this."
+0,27,5,GRAHAM,Whatever you say Captain.
+0,27,5,SAM,Try to relax Graham or its going to be a long day.
+0,27,5,DANIEL,You know I don't think it's the artifact he gets nervous like that every time he's around you. Maybe a crush.
+0,27,5,GRAHAM,We're recording now.
+0,27,5,SAM,Thank you Lieutenant.
+0,27,5,DANIEL,"Oops. Hey, the artifact. Notice the writing."
+0,27,6,DANIEL,So tiny it can't be read by the naked eye.
+0,27,6,HAMMOND,What does it say?
+0,27,6,DANIEL,We think it's a set of instructions.
+0,27,6,JACK,On how to..?
+0,27,6,DANIEL,Open it. We think it opens. Well I'm sure there's much more to it then that. There's the equivalent of a thousand pages of alien text on the exterior surface alone.
+0,27,6,HAMMOND,What about the object's interior?
+0,27,6,SAM,We know very little. Fraiser is supervising positron emission typography.
+0,27,6,HAMMOND,You know I have the highest respect for your abilities. But the NID wants a look at the thing.
+0,27,6,JACK,Well I recommend against shipping the artifact anywhere just yet General.
+0,27,6,TEAL'C,"Since Daniel Jackson's theory on the orb's function has yet to be confirmed, it is in best for it to remain in close proximity to the Stargate. At least for the moment."
+0,27,6,HAMMOND,You're scheduled to visit P4G-881.
+0,27,6,DANIEL,Which is a primordial world with absolutely no civilization whatsoever and therefore no need to bring along an archeologist.
+0,27,6,HAMMOND,I'm willing to delay that mission for twenty four hours in order to confirm your theory.
+0,27,6,DANIEL,That's not enough time.
+0,27,6,SAM,But we'll take it. Thank you.
+0,27,7,SAM,"Okay, let's try another X-ray series. Y axis this time."
+0,27,7,DANIEL,Sam.
+0,27,7,SAM,Yeah?
+0,27,7,DANIEL,Okay. Up until now I've been sorta going on the assumption that this is a sort of page one. It's relatively isolated from the other groupings. Now I'm thinking it's numerical.
+0,27,7,SAM,"Well, maybe the basis of their mathematics."
+0,27,7,DANIEL,Right. That's what I thought. So if these smaller symbols would represent exponents.
+0,27,7,SAM,So then this sequence grows exponential to become a very big number.
+0,27,7,DANIEL,Right. And that is information I can't use.
+0,27,8,JACK,Good morning campers! Sleep well? I did!
+0,27,8,DANIEL,Oh it can't be morning .
+0,27,8,JACK,"Ah but it is. We ship out at, 1300 hours."
+0,27,8,DANIEL,"Okay Jack, talk to General Hammond."
+0,27,8,JACK,Nope. I want you both rested and ready to go. That's an order.
+0,27,8,SAM,Yes Sir.
+0,27,8,DANIEL,"Jack, come on."
+0,27,8,JACK,"Daniel, SG-1 is a field until. You know that. Can't have it both ways. When we get back you can,visit."
+0,27,8,GRAHAM,We've got a spike. An EM spike across the Y band.
+0,27,8,SAM,What?
+0,27,8,GRAHAM,Interior temperature is increasing forty degrees Fahrenheit.
+0,27,8,JACK,Captain?
+0,27,8,SAM,I don't know. I don't think we've done anything.
+0,27,8,DANIEL,Maybe we woke it up.
+0,27,8,GRAHAM,Sixty Degrees.
+0,27,8,SAM,Radiation levels?
+0,27,8,GRAHAM,"Alpha particle radiation generation within the object's magnetic field is increased four,six hundred percent."
+0,27,8,SAM,"Sir, I recommend we return the artifact to P5C-353 now."
+0,27,8,JACK,Go tell them to start dialing. Go.
+0,27,8,GRAHAM,One hundred degrees.
+0,27,8,JACK,Any idea what we're dealing with here?
+0,27,8,SAM,No Sir.
+0,27,9,JACK,Well I think we can rule out time capsule.
+0,27,10,DANIEL,Start dialing P5C-353 right away.
+0,27,10,HAMMOND,By who's order?
+0,27,10,DANIEL,Colonel O'Neill's.
+0,27,10,HAMMOND,Do it.
+0,27,10,HARRIMAN,Yes Sir.
+0,27,10,HAMMOND,Dr. Jackson?
+0,27,10,DANIEL,It's the artifact Sir. Something's wrong.
+0,27,11,GRAHAM,Temperature is still increasing. One hundred and ten degrees.
+0,27,11,SAM,We'll need to put our suits back on.
+0,27,11,JACK,"No, There's not time for that. We'll just open the gate and throw it back through. Teal'c give me a hand here."
+0,27,12,JACK,Whoa.
+0,27,12,TEAL'C,It does not wish to be removed.
+0,27,12,JACK,That's too damn bad.
+0,27,13,HARRIMAN,Chevron six encoded.
+0,27,15,HARRIMAN,Chevron seven locked.
+0,27,15,SAM,Get out of there!
+0,27,16,JACK,Ah! Oh god.
+0,27,16,HAMMOND,Get security down there. But the base on full alert.
+0,27,16,SAM,We need a medical team.
+0,27,16,HARRIMAN,Security to the embarkation room. Medical team to the embarkation room.
+0,27,17,JACK,Kill it! God!
+0,27,17,HARRIMAN,"Sir, the Stargate?"
+0,27,17,HAMMOND,Shut it down.
+0,27,17,SAM,Colonel! It goes right through his shoulder into the concrete.
+0,27,17,DANIEL,Oh my God.
+0,27,17,HAMMOND,Get something to support his legs.
+0,27,18,JANET,What can you tell me?
+0,27,18,SAM,I don't know but it's still hot be careful.
+0,27,18,GRAHAM,Temperature is 133 and holding.
+0,27,18,JANET,This wound is too clean. There should be blood. I don't know why there wasn't more trauma.
+0,27,18,JACK,Where the hell is Teal'c?
+0,27,18,JANET,"It's gone right through the scapula. Colonel, why are...."
+0,27,18,JACK,Teal'c!
+0,27,19,JACK,Shoot it!
+0,27,19,SAM,Sir.
+0,27,19,JACK,Shoot it!
+0,27,19,TEAL'C,I suggest you observe from the control room.
+0,27,19,HAMMOND,Everybody out of here.
+0,27,20,HAMMOND,
+0,27,20,SAM,"With respect General, this is a mistake."
+0,27,20,HAMMOND,Why?
+0,27,20,SAM,We don't know how much of that staff energy will be transferred through the object into the Colonel.
+0,27,20,HAMMOND,Your objection is noted.
+0,27,20,JACK,Do it.
+0,27,21,JACK,Again!
+0,27,22,JACK,Ah! God.
+0,27,22,GRAHAM,No change
+0,27,22,SAM,Sir it just absorbed the energy.
+0,27,22,TEAL'C,This weapon is ineffective. I shall try another.
+0,27,22,SAM,"No! Sir, that staff energy had to have gone somewhere. We could be feeding it what it wants for all we know."
+0,27,22,HAMMOND,I want a cutting torch down there.
+0,27,22,SAM,"If it's made of the same non-terrestrial alloys as the shell on the orb itself, then it is several hundred times stronger then steel."
+0,27,22,JANET,"Sir, with your permission."
+0,27,22,HAMMOND,"Colonel O'Neill, this is going to take some time."
+0,27,23,HAMMOND,"I really don't give a damn on what Colonel Mayborne has to say on the subject. I've made my decision. Unless I'm ordered to do otherwise, I'm not allowing anyone in or out of the this facility until we can send the damn thing back where it came from. No General, thank you. The NID people want to see it."
+0,27,23,SAM,Even knowing what it's done to the Colonel?
+0,27,23,DANIEL,Especially knowing what it's done to the Colonel.
+0,27,23,HAMMOND,They hoping we've found some kind of weapon we can one day use against the Goa'uld. All I can tell them is what it isn't
+0,27,23,.DANIEL,"General, I don't know what to say. I wanted the artifact to be something wonderful."
+0,27,23,HAMMOND,You have nothing to apologize for son. We've brought things back from all over the galaxy. One just finally slap us in the face.
+0,27,23,SAM,We've managed to collect a significant amount of data before it hit the fan sir.
+0,27,23,HAMMOND,Then I suggest you get to it. Dismissed.
+0,27,24,HAMMOND,This is Hammond. Lock up the mountain. Authorization code red dash beta. Initiate Wild Fire.
+0,27,28,JACK,Hot.
+0,27,29,JANET,I know. You have a very high fever which is being caused by an infection. I'm going to give you a broad spectra antibiotic to help fight it.
+0,27,29,GRAHAM,The artifacts internal temperature just leveled off at 149 degrees Fahrenheit.
+0,27,30,TEAL'C,Sergeant. Your progress here is unsatisfactory.
+0,27,30,GRAHAM,Can't go any faster sir. This is the hardest stuff I've ever come across.
+0,27,30,TEAL'C,Then I will delay you no further.
+0,27,31,SAM,We're going to need everyone's help. Colonel O'Neill is alive but obviously he is in trouble.
+0,27,31,DANIEL,The data we managed to gather before this happened is all in the base computer. It's not much but it's all we have. Use it.
+0,27,31,SAM,Don't rule anything out and don't make any assumptions.
+0,27,31,DANIEL,I'll be leading the translation team.
+0,27,31,SAM,And we'll be working out of the astrophysics lab but we're all going to have to work together on this one. Any questions?
+0,27,31,CAPTAIN,So obviously we're dealing with a weapon.
+0,27,31,SAM,That's an assumption Captain. All right. Let's get to work.
+0,27,32,SAM,How is he?
+0,27,32,JANET,"He's developed an infection. I've got him pumped full of antibiotics which, amazingly, has seemed to slow it down its progress."
+0,27,32,SAM,Why is that amazing?
+0,27,32,JANET,I think you should see this.
+0,27,33,JANET,It's mobile like a bacteria but small like a virus and slightly radioactive. Definitely alien. And they also seem to bond in chains.
+0,27,33,SAM,And it's infected the Colonel?
+0,27,33,JANET,This is why I wanted you to see it. I took this from a section of Colonel O'Neill's uniform around his wound.
+0,27,33,SAM,What are you saying? Its infected his clothes as well as living tissue?
+0,27,33,JANET,And it's metabolizing the material as if it were living tissue. Like a form of Necrotising fasciitis.
+0,27,33,SAM,Flesh eating disease? Ok. You said slightly radioactive?
+0,27,33,JANET,Yeah.
+0,27,33,SAM,Lieutenant. We used ultraviolet when we were performing tests on the iris' structural integrity.
+0,27,33,GRAHAM,Right.
+0,27,33,SAM,Yeah.
+0,27,34,GRAHAM,Lets get some UV units in the gateroom.
+0,27,34,SAM,"Teal'c, Colonel. It's just going to get a little dark in there for a few seconds while we try something."
+0,27,34,GRAHAM,And bringing up the UV lights now.
+0,27,34,JANET,Oh my god.
+0,27,35,SAM,This is an even bigger problem then we thought.
+0,27,35,GRAHAM,Captain Carter? What's happening to me?
+0,27,38,SAM,"It can infect virtually any substance, even concrete."
+0,27,38,HAMMOND,This entire complex is made of concrete.
+0,27,38,SAM,"Worse then that we've already determined it's got a taste for the base wiring. Which means its going to affect, or rather infect, our computers and communication."
+0,27,38,HAMMOND,Then we need to kill it. How do we do that?
+0,27,38,JANET,We've spread around the computer base main frame a sort of pesticide but it hasn't even slowed the organism down.
+0,27,38,HAMMOND,What was that you just gave me?
+0,27,38,JANET,"Tetracycline. It's kept the infection at bay in the Colonel and it seems to work proactively with everyone I've been able to get a shot into. But sir, I'll need more"
+0,27,38,HAMMOND,"Absolutely not. A wildfire directive means nothing in or out, you know that."
+0,27,38,JANET,"Sir, Lt. Simmon's infection is even more far gone the Colonel O'Neill's but he's allergic to Tetracycline. None of the alternatives I have on base"
+0,27,38,HAMMOND,Don't make me repeat myself Doctor.
+0,27,38,JANET,"With your permission sir, I'd better get back to the infirmary."
+0,27,38,HAMMOND,Captain.
+0,27,38,SAM,Sir?
+0,27,38,HAMMOND,I need your honest assessment. Can we beat this thing?
+0,27,38,SAM,"Like the Colonel always says: 'never give up', right? I'm not sure sir."
+0,27,38,HAMMOND,Maybe it's time we considered evacuating personal through the Stargate.
+0,27,38,SAM,"I thought of that, but to where? There's no guarantee we can stop the organism from coming through the gate along with us. I don't think we have the right to infect another world."
+0,27,38,HAMMOND,"Well there are a number of uninhabited worlds we could gate through. Albeit, most are uninhabited for good reason."
+0,27,38,SAM,"Even if we could evacuate a number of survivors, practically every one of us is infected by the organism to some degree. Without antibiotics, we'd all be like Lt. Simmons right now. The survivors would run out of supplies in a few days."
+0,27,38,HAMMOND,At least they'd have that much time to find a solution.
+0,27,38,SAM,It's not worth the risk in my opinion sir. We don't even know what the orb would do if we tried to activate the Stargate again.
+0,27,38,HAMMOND,Very well. We'll make our stand right here Captain.
+0,27,38,SAM,Yes sir. They won't take us without a fight sir.
+0,27,38,HAMMOND,Damn right they won't.
+0,27,40,JACK,Teal'c.
+0,27,40,TEAL'C,I am here O'Neill.
+0,27,40,JACK,It's hot.
+0,27,40,TEAL'C,The fever burns within you.
+0,27,40,JACK,You?
+0,27,40,TEAL'C,The symbiote I carry appears to protect me.
+0,27,40,JACK,Way to go Junior.
+0,27,40,TEAL'C,Doctor Frasier will find a cure.
+0,27,40,JACK,"Teal'c, you don't have to stick around."
+0,27,40,TEAL'C,Undomesticated equines could not remove me.
+0,27,40,JACK,"Wild horses TEAL'C it's, that's a joke. You told a joke. Don't make me laugh."
+0,27,40,TEAL'C,Very well.
+0,27,40,JACK,You're a good man my friend.
+0,27,40,TEAL'C,"As are you, my friend."
+0,27,41,JACK,Ah! Teal'c!
+0,27,41,TEAL'C,It will not allow us to free you O'Neill.
+0,27,41,JACK,"God, God help."
+0,27,42,DANIEL,Alright. Presuming this is page one and presuming this sequence is some kind of whole numbers that represents exponential growth...what does that mean?
+0,27,42,SAM,"Well, it could represent the growth pattern of the alien organism. So far its spread has followed an exponential curve."
+0,27,42,DANIEL,"Alright. So, from that we can extrapolate that it is a warning. This organism will continue to grow and expand exponential until...what? Until we die? I mean, if that's what it says, what's the point of saying it?"
+0,27,42,SAM,Try turning the page. Maybe the answer is there.
+0,27,42,DANIEL,Right.
+0,27,43,JANET,How's the pain?
+0,27,43,GRAHAM,It's not too bad.
+0,27,43,JANET,"Well, I'm going to give you something for it anyway."
+0,27,43,GRAHAM,Hey. If you see Captain Carter.
+0,27,43,JANET,"Tell you what Lieutenant, she has to come down in a couple of hours for her booster so I'll make sure I send her over."
+0,27,44,SAM,I was right. TEAL'C's staff blast gave it the energy it needed to spread like this. It's reproducing because we fed it. Damn. Why did I let them do that?
+0,27,44,CAPTAIN,"Okay, so it feeds on energy. How do we use that? It feeds on everything."
+0,27,44,SAM,Have the CO2 levels gone up?
+0,27,44,CAPTAIN,"Yeah, but the scrubbers are handling it."
+0,27,44,SAM,Like fire. Add energy a fire burns hotter. Add fuel it burns longer but it can't live without one thing.
+0,27,44,CAPTAIN,Oxygen
+0,27,44,SAM,Yes
+0,27,44,CAPTAIN,We can't either.
+0,27,44,SAM,"Yeah, but at least we can slow it down."
+0,27,45,CAPTAIN,What's happening?
+0,27,45,SAM,Its gotten into our computers. Keep working.
+0,27,46,MAN,"Can't come this way Captain, it's eating through steam pipes."
+0,27,47,SAM,Hello? Somebody!
+0,27,48,DANIEL,Hello?
+0,27,48,SAM,Somebody!
+0,27,48,DANIEL,Hello?
+0,27,48,SAM,Daniel! I'm stuck in here. Get the doors open. Hurry up. It's eating through the control panel.
+0,27,49,DANIEL,Sam!
+0,27,49,SAM,I'm okay. I'll explain later.
+0,27,50,SAM,"General, sir. I have something. What is he doing?"
+0,27,50,HAMMOND,Teal'c is trying to stop the spread of the organism at the source.
+0,27,50,SAM,Tell him to stop.
+0,27,50,HAMMOND,Why? It seems to be working.
+0,27,50,SAM,"Only because the fire is temporarily consuming the oxygen in the room. It feeds on energy. Sir, I'm asking you to trust me."
+0,27,50,HAMMOND,
+0,27,51,SAM,Okay. The organism needs Oxygen to reproduce. Now since we are on internal life support we can adjust the CO2 scrubbers and lower the Oxygen levels.
+0,27,51,HAMMOND,How low are we talking?
+0,27,51,SAM,"We'll start at 8%, but we'll have to start now."
+0,27,51,HAMMOND,Do it.
+0,27,51,HARRIMAN,"General Hammond, sir. I think you should see this."
+0,27,52,HARRIMAN,I didn't touch a thing. This self destruct countdown started on its own.
+0,27,52,SAM,General?
+0,27,52,HAMMOND,"In the event of containment failure, Wildfire kicks in automatically."
+0,27,52,SAM,"Sir, we have to deactivate the autodestruct."
+0,27,52,HAMMOND,We have a responsibility to make sure the organism doesn't leave the mountain Captain.
+0,27,52,SAM,"With all due respect sir, I don't think you understand. It could feed from the energy of the staff blast, how far do you think it will spread if the autodestruct goes off?"
+0,27,52,HAMMOND,I need two officers to override.
+0,27,53,SAM,The organism has invaded our computers. It won't recognize our codes.
+0,27,53,HAMMOND,The devices internal clock has been activated. We can't stop it without the computer.
+0,27,53,SAM,Well then in just under three hours the organism will be feed enough energy to spread across the face of the earth.
+0,27,54,JACK,I blew it. I screwed up.
+0,27,54,TEAL'C,I also believed we should retrieve the object.
+0,27,54,JACK,It was my decision.
+0,27,54,TEAL'C,"If we are to met the challenge of the Goa'uld, and further your race, risks must be taken. Your decision was correct."
+0,27,55,FRASIER,You idea seems to be working
+0,27,55,SAM,"Yeah, seems to have slowed the progress of the organism by 90%."
+0,27,55,FRASIER,Well don't jump up and down or you'll get my other patients all excited.
+0,27,55,SAM,"Even in a completely anaerobic environment, the organism just goes dormant. All we've done is buy ourselves some time before. I've got to get back to work."
+0,27,55,FRASIER,"Well before you do, if you wouldn't mind stopping by to see SILER."
+0,27,55,SAM,How's he doing?
+0,27,56,SAM,Graham?
+0,27,56,GRAHAM,Captain Carter.
+0,27,56,SAM,"We're fighting this thing Graham. You just got to hang in there, okay?"
+0,27,56,GRAHAM,"Before I, I just wanted to say, how much, how I'm doin so far?"
+0,27,56,SAM,You're doing just fine.
+0,27,58,DANIEL,Come here
+0,27,58,CAPTAIN,Who?
+0,27,58,DANIEL,"Anybody, just come here. Look at this. Wait for it. There."
+0,27,58,CAPTAIN,That symbol is on the artifact.
+0,27,58,DANIEL,Yes it is. It's trying to communicate with us.
+0,27,59,DANIEL,I think what we thought was gibberish on all the computers was actually the aliens attempt to communicate with us.
+0,27,59,SAM,Maybe. But the symbols you're seeing could also be from the random files of our research.
+0,27,59,DANIEL,"No, that's impossible. See, I didn't start working on this sequence until after the computers went down."
+0,27,59,HAMMOND,"Assuming you're right, what are they trying to communicate?"
+0,27,59,DANIEL,"Well, they could be saying take me to your leader for all I know. I have no idea. The point is, they are trying. We haven't even considered what we're up against here is an alien intelligence. We've treated it like a disease, like a plague. Not once have we stopped to listen."
+0,27,59,HAMMOND,How do we do that?
+0,27,59,SAM,We let it grow.
+0,27,59,HAMMOND,What?
+0,27,59,SAM,We increase the Oxygen levels even higher then normal. We hit it with another staff weapon blast. We let it do what it's been trying to do.
+0,27,59,HAMMOND,The exact opposite of the advice you've been giving me up until now. Which is it Captain?
+0,27,59,SAM,"Sir, we both know what will happen if we don't try something."
+0,27,61,SAM,Fraiser says the organism bonds together in chains. What if it's only capable of expressing that intelligence once it hits critical mass?
+0,27,61,DANIEL,"Even if you're right and we let it take over the computers, it's going to be communicating in a language that I can't translate without a point of reference."
+0,27,61,SAM,"Maybe Colonel O'Neill didn't just get in the way. Fraiser said there was no blood. There was practically no trauma around that wound. With the force that struck him, it's just not possible."
+0,27,61,DANIEL,Unless it did it on purpose.
+0,27,61,SAM,Yes! We have to cut off his medication sir.
+0,27,61,HAMMOND,Are you out of your mind?
+0,27,61,TEAL'C,"If you do so, O'Neill will die."
+0,27,61,SAM,He'd want us to try this.I know it.
+0,27,61,DANIEL,Communicate with the organism through Jack?
+0,27,61,SAM,Yes. I think that's what it has been trying to do all along.
+0,27,62,HARRIMAN,Oxygen level 30% above normal.
+0,27,62,SAM,"Sir? Sir, I don't know if what we are about to try is a good idea or not, but you have the right to know. You might not survive it."
+0,27,63,SAM,Okay Teal'c.
+0,27,64,SAM,Again.
+0,27,65,SAM,We have to. Again.
+0,27,66,SAM,No pulse.
+0,27,67,JACK,Good morning campers.
+0,27,67,JACK,This is truly a strange feeling.
+0,27,67,SAM,Colonel?
+0,27,67,JACK,"Yes, he is here."
+0,27,67,HAMMOND,Who else are talking too?
+0,27,67,JACK,We are also here.
+0,27,67,HAMMOND,My name is...
+0,27,67,JACK,"Hammond, yes. O'Neill knows."
+0,27,67,HAMMOND,Then you should also know we mean you no harm.
+0,27,67,JACK,You awoke us.
+0,27,67,HAMMOND,We have only recently become aware of your existence.
+0,27,67,JACK,You would have returned us to our former world.
+0,27,67,TEAL'C,We believed you were a threat to us.
+0,27,67,DANIEL,We feared you.
+0,27,67,JACK,"And your fear would have destroyed us. Millennia ago our world was dying. We could no longer live there. For this reason, we created the orb."
+0,27,67,DANIEL,Where you slept for a hundred thousand years.
+0,27,67,JACK,Yes Daniel.
+0,27,67,DANIEL,"Waiting for someone to come along, like us, and take you through the Stargate."
+0,27,67,JACK,"So it was written on the orb. Once exposed to the atmosphere of a living world, we went forth"
+0,27,67,DANIEL,And multipled.
+0,27,67,O'NEIL,So it was written.
+0,27,67,INTERCOM,Autoself destruct in four minutes.
+0,27,67,JACK,We can not go back.
+0,27,67,HAMMOND,We can not allow you to stay.
+0,27,67,JACK,"O'Neill feels this as well. However, you have allowed us no alternatives."
+0,27,67,SAM,"General, we're almost out of time."
+0,27,67,HAMMOND,"This place, admittedly out of our ignorance, is about to be destroyed by an explosion."
+0,27,67,JACK,Such energy only serves to nourish us. We will multiple and consume your world.
+0,27,67,HAMMOND,"If you would allow us to restore our communications, we could stop that from happening. We would survive."
+0,27,67,JACK,O'Neill desires this as well. He wishes to live. But what of us?
+0,27,67,DANIEL,
+0,27,67,SAM,"Sir, we can't open the Stargate without the computers."
+0,27,67,JACK,You would send us there? Through your stargate?
+0,27,67,HAMMOND,We would.
+0,27,67,JACK,For what reason?
+0,27,67,HAMMOND,So that we both may survive.
+0,27,68,DANIEL,"We'll take you there ourselves, Please!"
+0,27,69,HARRIMAN,Everything just shut down!
+0,27,69,HAMMOND,God help us.
+0,27,71,HARRIMAN,"Sir, Sir...I think the computers are rebooting!"
+0,27,71,HAMMOND,Start dialing P4G 881 as soon as they are up.
+0,27,71,HARRIMAN,Yes sir.
+0,27,72,HARRIMAN,Chevron one engaged.
+0,27,73,HARRIMAN,Chevron two engaged.
+0,27,74,HARRIMAN,Chevron three engaged. Chevron four engaged.
+0,27,75,HARRIMAN,Chevron five engaged.
+0,27,77,HARRIMAN,Chevron six engaged.Chevron seven locked.
+0,27,84,JACK,Nice work.
+0,27,84,TEAL'C,It is good to see you alive and well.
+0,27,84,DANIEL,Welcome back Jack.
+0,27,84,SAM,Thought you were gone for good sir.
+0,27,84,JACK,Wild horses Captain.

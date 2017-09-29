@@ -1,0 +1,386 @@
+Season,Episode,Scene,Character,Line
+0,67,0,STARGATE SG1,Episode 403
+0,67,0,"""UPGRADES""","By David Rich We begin with a shot of the gate activating. The gate is irised. Sam, Teal'C and GH are standing @ the foot of the gate. Danny and Jack walk in."
+0,67,0,GH,"Doctor Jackson, Colonel -"
+0,67,0,JACK,General.
+0,67,0,DANNY,The message I got was pretty vague.
+0,67,0,GH,So was the transmission we got from the Tok'Ra.
+0,67,0,DANNY,Did they say who was coming?
+0,67,0,GH,No.
+0,67,0,JACK,Did they say WHY?
+0,67,0,SAM,"No, Sir."
+0,67,0,JACK,"See, I - That's rude! I hate that."
+0,67,0,TECH,Receiving Tok'Ra IDC. Opening Iris. (Shoulda left it closed! OK! I'll try to be nice!
+0,67,0,JACK,"In fact, the Tok'Ra are starting to annoy me in general."
+0,67,0,SAM,Sir?
+0,67,0,JACK,"Don't get me wrong, Carter. Your dad's great, I love em like a brother, Every time they show it seems like it's all kinds of ---"
+0,67,1,DANNY,Yep! That looks like trouble to me.
+0,67,2,TS,The Tok'Ra High Council sends it's greetings.
+0,67,2,GH,"Welcome! I'm General Hammond, Colonel O'Neill, Doctor Jackson, Major Carter, and Teal'C."
+0,67,2,TS,This is Mornon. You may call me Anise.
+0,67,2,DANNY,Anise?
+0,67,2,TS,It means Noble Strength.
+0,67,2,DANNY,I'm Daniel. It means uh - God is my Judge.
+0,67,2,JACK,(Smart-assed
+0,67,3,TS,These armbands were recently discovered amongst some ancient ruins on a remote planet.
+0,67,3,DANNY,I don't recognize the symbols. May I?
+0,67,3,TS,The language belongs to a race called the Ataniks . Their existence and demise predates the Goa'Uld.
+0,67,3,SAM,"Ataniks? I think Jolinar knew about these. They are supposed to give the wearer incredible speed and strength, right?"
+0,67,3,TS,"Yes, many thought it was just a myth. Still, the Goa'Uld & Tok'Ra have both sought these devices for some time."
+0,67,3,DANNY,Obviously not a myth.
+0,67,3,TS,The Tok'Ra were very excited when I found them.
+0,67,3,DANNY,
+0,67,3,TS,My area of expertise is ancient cultures.
+0,67,3,DANNY,"Well, mine too."
+0,67,3,TS,"Yes, I know. We hoped the devices would provide our operatives with a great new physical advantage against the Goa'Uld."
+0,67,3,JACK,However?
+0,67,4,DANNY,They don't work for you.
+0,67,4,TS,"Our top scientific minds have researched the technology at length. To the best of our knowledge, the devices should work. However, something causes them to reject the Tok'Ra physiology."
+0,67,4,TEAL'C,You're a symbiote.
+0,67,4,TS,That is a likely assumption.
+0,67,4,TEAL'C,Then the device will most likely be ineffective on me as well.
+0,67,4,TS,Yes - That is why I brought only three.
+0,67,4,SAM,I still have a protein marker left by Jolinar.
+0,67,4,TS,"Hopefully, that will have no effect."
+0,67,4,DANNY,Incredible speed and strength?
+0,67,4,TS,"In fact, according to the inscriptions, they should greatly increase all of your natural abilities."
+0,67,4,JACK,That's kinda cool.
+0,67,4,TS,"In the interest of the Tok'Ra/Human alliance, I expected you would cooperate."
+0,67,4,GH,Shouldn't we take some time to learn a little more about these things? Perhaps Maj. Carter & Dr. Jackson -
+0,67,4,TS,I had hoped to begin Human trial experiments immediately.
+0,67,4,JACK,What's the rush?
+0,67,4,TS,"If you are not willing to trust us and participate, I will find human subjects on another planet!"
+0,67,5,JACK,Fine.
+0,67,6,TS,"Colonel, please forgive the scientist in Anise. She has worked very hard for this. I assure you, every safety precaution will be taken."
+0,67,7,TS,What is your answer?!
+0,67,7,TS,"This is a Tok'Ra biosensor. It will monitor every aspect of your physiological condition. (She pulls Jack's T-Shirt down, and puts the sensor very far down his shirt. I think she's just coppin a feel. I know I would!"
+0,67,7,JACK,Whoa!
+0,67,7,TS,It will transmit readings to this device where it will be recorded through out the experiment.
+0,67,7,OK?,
+0,67,8,TS,Ready?
+0,67,8,JACK,As I'll --- ever be. What's that mean?
+0,67,8,TS,The device is working.
+0,67,8,JACK,I don't feel like leaping any tall buildings.
+0,67,8,TS,"It may take time for the device to adjust to your body. I believe it was designed this way to give your body time to adapt to your new ability. In the meantime, feel free to move around as you normally would. The biosensor will transmit readings over a significant distance."
+0,67,8,OK.,
+0,67,9,TEAL'C,"Do you still feel no affects from the armbands, O'Neill?"
+0,67,9,JACK,"No, You know something? I'm starting to think this things a crock! Come on, Teal'C! Bring it! You're going easy."
+0,67,9,TEAL'C,"I am attempting to make physical contact with you, O'Neill. You are boxing with great proficiency today!"
+0,67,9,JACK,I feel a little stiff.
+0,67,10,JACK,Teal'C?
+0,67,11,JANET,"So, you're feeling any better?"
+0,67,11,TEAL'C,"I will be fine, DR. Frasier."
+0,67,11,JACK,"Teal'c, I'm really sorry."
+0,67,11,TEAL'C,You are not!
+0,67,11,JACK,He's right about that.
+0,67,11,TS,Please squeeze this.
+0,67,11,JACK,What is it?
+0,67,11,TS,It will measure your strength. Your strength is 5 times that of a normal human.
+0,67,11,JACK,"So, no increase then, huh?"
+0,67,11,TS,Physiology remains otherwise normal.
+0,67,11,JACK,I-uh-I feel good. Three!
+0,67,11,JANET,And - uh - you seemed to have developed a bit of a sweet tooth.
+0,67,11,TS,Your metabolism is increasing to match the energy your body now requires.
+0,67,11,JANET,You were - uh - gonna show me how to read this.
+0,67,11,TS,"I will. First, it is time to increase the number of subjects in the experiment."
+0,67,12,SAM,I don't really feel any different.
+0,67,12,JACK,Just wait.
+0,67,13,JACK,(Still eating!!!!
+0,67,13,DANNY,Heeyy.
+0,67,13,JACK,Notice anything yet?
+0,67,13,DANNY,You're eating a lot.
+0,67,13,JACK,Hmn. Give it time.
+0,67,13,DANNY,Did you just read that?
+0,67,13,JACK,I guess --- Don't suppose there's another book around that explains this book?
+0,67,13,DANNY,"What, what, what, what reason did Hobbs give for the fall of the civilization?"
+0,67,13,JACK,Failing agricultural infulstructure.
+0,67,13,DANNY,"Jack, That's unbelievable."
+0,67,13,JACK,"Hey, it's HIS theory."
+0,67,14,JACK,Want me to read to you?
+0,67,15,JANET,Sam?
+0,67,15,SAM,Yeah?
+0,67,15,JANET,What are you doing?
+0,67,15,SAM,I'm just running a few tests on the material the armbands are made of.
+0,67,15,JANET,"Ah--- It's a --- little dark, don't ya think?"
+0,67,15,SAM,Is it? OW! That's bright.
+0,67,15,JANET,"Yeah, the lights were out."
+0,67,15,SAM,"Man, I didn't even realize."
+0,67,16,JANET,"Well, it looks normal to me."
+0,67,16,SAM,I can see in the dark as well as if the light was on.
+0,67,16,JANET,You're running a slight temperature.
+0,67,16,SAM,Anise is monitoring our vitals.
+0,67,16,JANET,"Yes, I know."
+0,67,16,SAM,You don't trust her biosensors?
+0,67,16,JANET,"No, I trust her technology is very advanced and accurate."
+0,67,16,SAM,"So, you don't trust her?"
+0,67,16,JANET,I'd like to run a full blood screen.
+0,67,17,TS,Very good.
+0,67,17,JACK,"I'm not even sweating. In fact, I think that thing is slowing me down."
+0,67,17,TS,Squeeze this.
+0,67,17,JACK,Sorry.
+0,67,17,DANNY,"I mean it's the most unbelievable , incredible thing I've ever experienced. I mean, I've cross referenced the symbols on the armbands against every written language on earth in an hour!"
+0,67,17,TS,What did you find?
+0,67,17,DANNY,"Uh --- nothing. But, the point is, I can read really fast."
+0,67,17,TS,Here are my notes on the Atinicks. I thought you might be interested.
+0,67,17,DANNY,You write in a notebook?
+0,67,17,TS,"My host, Freya, enjoys the tactile sensation of handwriting."
+0,67,18,DANNY,"The inscription says "" with great power comes great responsibility."""
+0,67,18,TS,""" And the ability to effect great consequence."""
+0,67,18,DANNY,You haven't speculated in here why the atinicks became extinct.
+0,67,18,TS,"No, my primary concern up until now was finding the armbands., and then determining how they worked."
+0,67,19,DANNY,What does that mean?
+0,67,19,TS,I believe all the armbands have reached their maximum potential.
+0,67,19,JANET,Anise? Can I see you for a moment? They all have significally raised body temperatures.
+0,67,19,TS,They are in no danger.
+0,67,19,JANET,I disagree. Their symptoms are indicative of the presence of a virus.
+0,67,19,TS,You are Correct. My bio-data indicates the armbands released a virus into their systems.
+0,67,19,GH,Doesn't that concern you?
+0,67,19,TS,It must be how the technology accesses the human physiology. It took a different amount of time for each individual because of each subject's unique reaction to the virus.
+0,67,19,JANET,That's all speculation. Major Carter's blood work showed a dangerous amount of adrenalin in her system.
+0,67,19,TS,I object to the interference in my experiment!
+0,67,19,JANET,"I object to being kept in the dark of the condition of people who's health I am responsible for! (You go, Doc!"
+0,67,19,TS,Are you suggesting I would risk their health?
+0,67,19,GH,"Doctor, we're seeing some really interesting results. Are you saying that we should discontinue the experiments?"
+0,67,19,JANET,"Until we know more about the physical affects of this virus, yes. I say we remove the armbands, and we run more tests to make sure that these changes aren't permanent or damaging."
+0,67,19,TS,General ---
+0,67,19,GH,"No, I'm sorry! There's one thing I've learned in my time here. There's nothing wrong with a little prudence when dealing with Alien Devices. Based on DR. Frasier's recommendations, I have decided to stop the experiment temporarily."
+0,67,19,SAM,What?
+0,67,19,JACK & DANNY,Why?
+0,67,19,GH,We'd like to get a better read on exactly what these things are really doing to you.
+0,67,19,SAM,General ---
+0,67,19,JACK,"I'd rather not do that, Sir."
+0,67,19,JANET,I think the armband may be having a narcotic like effect. Wearing them may be come addictive. It's just one of the things I'd like to rule out.
+0,67,19,GH,Please. Take the armbands off.
+0,67,19,SAM,But ---
+0,67,19,GH,Are you refusing to comply with a direct order?
+0,67,20,JACK,"Uh --- Little problem here, Sir. Having a hard time complying."
+0,67,21,JANET,We've tried everything short of surgically removing their arms.
+0,67,21,GH,We'll hold that option in reserve.
+0,67,21,TS,"You must admit, the positive effect is astonishing."
+0,67,21,GH,As long as there's no downside.
+0,67,21,TS,There is no evidence of any downside.
+0,67,21,JANET,Yet.
+0,67,21,GH,Find a way to get those armbands off my people.
+0,67,22,JACK,Teal'C --- How much I have on here?
+0,67,22,TEAL'C,"It appears to be approximately 600 pounds, O'Neill."
+0,67,22,JACK,Really?! Not bad!
+0,67,22,TEAL'C,Are you not concerned because the armband can not be removed?
+0,67,22,JACK,Nope! This thing's great!
+0,67,22,TEAL'C,We will not resume our duties as SG-1 as long as this experiment continues.
+0,67,22,JACK,"Yeah, well, I'm gonna have a little chat with Hammond about that. I mean, we should be using these things."
+0,67,23,JANET,Hey!
+0,67,23,SAM,Hey!
+0,67,23,JANET,What are you working on?
+0,67,23,SAM,"I'm writing a book on wormhole physics, but this damn computer isn't fast enough. When the buffer's full, I have to wait for it to catch up."
+0,67,23,JANET,"You know, we REALLY could use your help."
+0,67,23,SAM,"You just don't get it, Janet. I don't WANT to take it off."
+0,67,23,JANET,
+0,67,23,SAM,"Look! I have written a 1000 page book in under 2 hours! I man, this is something I've been dying to do, but haven't had the time!"
+0,67,23,JANET,Sam ---
+0,67,23,JANET! ---,
+0,67,23,GH,Absolutely not!
+0,67,23,JACK,"Come on, General! Why'd we put these things on in the first place?!"
+0,67,23,GH,We're still not sure of the long-term effects.
+0,67,23,JACK,"We shouldn't be sitting around wasting this stuff, we should be out kicking so Goa'Uld BUTT! I mean , look at this! Sorry about that, Sir!"
+0,67,23,GH,"Colonel, I'm concerned that you're not in control of your new abilities."
+0,67,23,JACK,"Well, you may be right about that. But It's just so damn exciting, Sir!"
+0,67,23,GH,I'm sure it is!
+0,67,23,JACK,"And, even if we're not in total control, shouldn't we be out there doing the damage instead of in you office?"
+0,67,23,GH,"I'm concerned for your well being, Colonel."
+0,67,23,JACK,"and, I appreciate it. And you're the boss, what ever you say goes, but you need to know that we're HERE for you! READY to go! Just --- just say the word."
+0,67,23,GH,Thank you.
+0,67,23,JACK,Seriously. Say it! Say the word.
+0,67,23,GH,Dismissed.
+0,67,23,JACK,We can be ready in 3 seconds --- 2 ---
+0,67,23,GH,Colonel ---
+0,67,23,JACK,Hey! We're ready!
+0,67,23,GH,Just --- Get the HELL out of my office!
+0,67,23,JACK,"Yes, Sir."
+0,67,24,JACK,"Hey, Siler."
+0,67,25,JACK,This is ridiculous. It was an accident!
+0,67,25,DANNY,Siler has a broken arm and a concussion.
+0,67,25,JACK,He'll pull thru. I sent flowers.
+0,67,25,DANNY,"You have to admit, it's a little scary. I mean I feel like I could --- do anything!"
+0,67,25,SAM,"All I know is I'm gonna starve to death. I don't know about you guys, but I am having so SERIOUS protein cravings."
+0,67,25,JACK,Steak.
+0,67,25,DANNY,I could go for that!
+0,67,25,JACK,"Big, red, juicy meat."
+0,67,25,SAM,O'Malley's in town.
+0,67,25,JACK,Let's go!
+0,67,26,JACK,Let's eat!
+0,67,27,JACK,How high do you think that fence was?
+0,67,27,DANNY,20? 25 feet?
+0,67,27,SAM,
+0,67,27,WAITRESS,What can I get ya?
+0,67,27,JACK,"Um --- 3 of the biggest steaks you've got with everything, rare, baked potato."
+0,67,27,WAITRESS,You got it!
+0,67,27,JACK,Uh --- excuse me! THAT was for me.
+0,67,27,DANNY,"Yeah, I'm gonna have 3 as well."
+0,67,27,4?,
+0,67,27,DANNY,"4, 4 is good, yeah!"
+0,67,27,SAM,"Me, too. And French fries with mine. Oh, and a diet soda. I like the taste better! So, has it occurred to anyone that we're defying a direct order?"
+0,67,27,DANNY,"Well, it's not like we haven't defied orders before!"
+0,67,27,SAM,That was to save earth.
+0,67,27,JACK,"Earth, steaks? There's a difference?"
+0,67,27,DANNY,We'll be back before anyone knows we're gone.
+0,67,28,MAN,How the hell did you do that?
+0,67,28,SAM,Wanna go double or nothin'?
+0,67,28,MAN,I think I'll cut my loses.
+0,67,28,DANNY,Smart move.
+0,67,28,MAN,What are YOU laughing at you GEEK!?
+0,67,28,JACK,Geek?
+0,67,28,DANNY,Excuse me?
+0,67,28,JACK,Let it go.
+0,67,28,DANNY,"No, not this time."
+0,67,28,MAN,Yeah? What are you gonna do?
+0,67,29,JACK,Well --- This is a cliché. O-Kay!
+0,67,29,GH,"Right. OK! I thought the devices were supposed to enhance them physically, not make them stupid!"
+0,67,29,JANET,"You'll have to ask Anise about that, Sir. I can tell you that their erratic behavior can be explained by their increase in certain hormone levels. You can almost describe it as sort of an intoxication."
+0,67,29,GH,"My concern is how do we contain them if they're that strong, and that fast?"
+0,67,29,JANET,"The concern is greater than that, Sir. Blood tests show early indication of multiple organ failure. The human body wasn't made to be put thru this!"
+0,67,29,GH,Are you saying they'll die if we don't get these things off them.
+0,67,29,JANET,"I believe the key is the virus. There's no magic pill that'll combat a virus, but there are a few treatment options."
+0,67,29,GH,But that's no guarantee?
+0,67,29,JANET,"No, Sir."
+0,67,30,GH,"Thank you, Doctor. Can you explain to me why several witnesses put you people at a restaurant in town last night?"
+0,67,30,JACK & DANNY,"Sir, I can ---"
+0,67,30,DANNY,Explain that. (Sam kept silent! I see she's the smartest one of the group!
+0,67,30,SAM,We were very --- hungry --- Sir.
+0,67,30,GH,The reports says there was a brawl.
+0,67,30,JACK,"More of a --- scuffle, Sir."
+0,67,30,GH,You're lucky you didn't KILL any of those men!
+0,67,30,JACK,"Na --- we were very careful about that, General!"
+0,67,30,GH,What am I supposed to do with you people?
+0,67,30,JACK,"General, I can't tell you how sorry we are. But --- Carter wanted a steak"
+0,67,30,SAM,Actually it was YOUR idea ---
+0,67,30,JACK,My point is ---
+0,67,30,SAM,--- Sir!
+0,67,30,JACK,--- The fact that we were defying orders didn't occur to us until we were --- defying.
+0,67,30,DANNY,It's like the armbands are having an affect on our ability to make rational choices.
+0,67,31,GH,What?
+0,67,31,TS,"I reported the progress of the experiment, and have made a suggestion."
+0,67,31,GH,Regarding?
+0,67,31,TS,The High Council would like to forward the idea of putting SG-1's new skills into practice.
+0,67,31,JACK,
+0,67,31,GH,What are they suggesting.
+0,67,31,TS,We have just received new information regarding a new class of battle ship that Apophis is building.
+0,67,31,GH,
+0,67,31,TS,Our internal attempt at sabotage has already failed. How ever based on our intelligence A special covert team could ---
+0,67,31,GH,You've known all along!
+0,67,31,TS,Excuse me?
+0,67,31,GH,This was the point wasn't it?
+0,67,31,TS,"General, I assure you"
+0,67,31,GH,"I assure YOU! I have been at this a long time, and I know DAMN WELL when I'm being manipulated!"
+0,67,31,TS,"I realize how this must look. However, in the interest of the Tok'Ra-Earth alliance ---"
+0,67,31,GH,Don't give me that load of bunk! I don't think the Tok'Ra have my people's best interest in mind.
+0,67,31,TS,"General, if you believe anything, believe this. If Apophasis is allowed to complete this battle ship, it will assure his dominance over the Gaul, Your planet, and the rest of this galaxy! I am sure the High Council will be disappointed. I have downloaded everything we know about the ship's construction into your base computer. I hope you will review it, and change your mind ---"
+0,67,31,JACK,"General, if I may ---"
+0,67,31,GH,"No, you may not. Take them back to the lockup. For what it's worth, I'm ORDERING you to cooperate. (The super trio leave, and GH just looks at TS."
+0,67,31,JACK,Dismissed. Let's have a look.
+0,67,31,GH,"So, you think we have a problem here?"
+0,67,31,TEAL'C,This new vessel has several advancements over the Goa'Uld mother ships we have previously engaged in battle. We MUST stop it's completion.
+0,67,31,GH,I can't send the rest of SG-1 on such a dangerous mission knowing their judgment is impaired.
+0,67,31,TEAL'C,"I will go alone, then."
+0,67,31,GH,"According to Tok'Ra intelligence, the gate on that planet is HEAVILY guarded. I doubt very much even YOU could make it thru."
+0,67,31,TEAL'C,We MUST not allow Apophis to complete this vessel.
+0,67,31,GH,Let's say I agree. Prove to me it isn't a suicide mission.
+0,67,31,SAM,"The gate will be heavily guarded, but we SHOULD be able to handle it. Wormhole physics dictate that you exit at the same velocity that you enter."
+0,67,31,DANNY,"So, they'll never know what hit them."
+0,67,31,SAM,"Exactly. The facility, however, will be more of a challenge."
+0,67,31,JACK,"Can't we just zip in, plant C-4, zip out?"
+0,67,31,SAM,"Won't do it, Sir. The power core of the ship is completely sealed in trinium. That's what we have to take out. Hang on, the POWER core is directly linked to some sort of liquid cooling system that's based in the facility. These pipes, here, lead into it."
+0,67,31,JACK,"So, we zip in, blow the pipes, and zip out?"
+0,67,31,SAM,"The core will over heat and explode. The only problem is, there are force shields protecting this restricted area."
+0,67,31,DANNY,So?---
+0,67,31,SAM,"So --- I see your point. Goa'uld force shields operate on a frequency oscillation principle. If we were moving fast enough --- theoretically, we'd be able to see the oscillation principle, and run right thru."
+0,67,31,JACK,We'll need snacks.
+0,67,32,SAM,Let's go.
+0,67,32,TEAL'C,O'Neill!
+0,67,32,JACK,"Not this time, Teal'C."
+0,67,32,TECH,"The gate's open, Sir."
+0,67,32,GH,Shut it down! Get the blast doors open!
+0,67,32,TECH,I can't Sir! I'm locked out of the system.
+0,67,32,GH,Medical team to control room.
+0,67,32,JAFFA,Onak! Cree!
+0,67,32,JACK,Takes 2 guys to carry that?!
+0,67,32,SAM,"Weapons grade naquada is extremely dense. Sir, do realize how many Naquada reactors a single bar like that could power?"
+0,67,32,JACK,No.
+0,67,32,SAM,A lot!
+0,67,32,DANNY,I'll get it. Meet ya back here.
+0,67,33,SAM,"Whoa, Sir. Is it hot?"
+0,67,33,JACK,Little bit. You all right?
+0,67,33,SAM,Yeah. I'm fine. The force shield should be --- somewhere around here.
+0,67,33,JACK,Heads up! Whoa! 5 minutes.
+0,67,33,SAM,"Right. After the cooling system goes down, it should take about 10 minutes for the power core to go critical. That leaves us 15 minutes total to get back to the gate."
+0,67,33,JACK,Whatever.
+0,67,34,SAM,Did ya get the naquata?
+0,67,34,DANNY,"Oh, It's --- uh --- it's in the pack."
+0,67,34,JACK,"Good, let's go!"
+0,67,34,DANNY,"Actually, this --- is --- is getting kinda --- heavy ---"
+0,67,34,JACK,Daniel?
+0,67,34,SAM,What's going on?
+0,67,34,DANNY,I can't move.
+0,67,34,GH,The arm bands are gonna come off on their own?
+0,67,34,TS,The last bits of data from their biosensors before they stepped thru the gate indicate traces of an antibody.
+0,67,34,JANET,To the virus that allowed the devices to enhance their speed and strength.
+0,67,34,TS,I'm afraid we solved the mystery of the antiknock's extinction.
+0,67,34,GH,How so?
+0,67,34,JANET,"The armbands only work for a limited time, Sir."
+0,67,34,TS,"As the immunity spread across the atinick warriors, the armbands proved useless. I guess they never solved the problem."
+0,67,34,GH,Which means SG-1 are out on a planet filled with heavily armed Jaffa with an advantage that could disappear at any time?
+0,67,34,JANET,"Yes, Sir."
+0,67,34,TS,"General, for what it's worth, Anise and I are sorry. We were not aware of the mission prior to our arrival here. (The snake is back!"
+0,67,34,JAFFA,Halt! Cree!
+0,67,34,JACK,All right! You got us! Don't Cree! (That Jaffa gets a ZAT hit for his efforts.
+0,67,34,TEAL'C,It seems my assistance was required after all!
+0,67,34,JACK,"Yes, thank you!"
+0,67,34,DANNY,What happened?
+0,67,34,SAM,You passed out. Your arm band came off.
+0,67,34,JACK,"All right, talk later! We gotta move! Teal'C, get Daniel out of here, back thru the gate. Carter, you're with me! Carter? AAWW!"
+0,67,34,DANNY,Where are they?
+0,67,34,TEAL'C,"They should have been right behind us. Continue on, DanielJackson."
+0,67,34,SAM,Sir --- COLONEL!!??!?
+0,67,34,JACK,Whoa! We should've brought more snacks!
+0,67,34,SAM,I don't think that would've helped.
+0,67,34,JACK,1:56.
+0,67,34,SAM,"Sir, you've gotta get out of here!"
+0,67,34,JACK,So do you.
+0,67,34,TEAL'C,"I am not leaving, DanielJackson."
+0,67,34,DANNY,"Well, I'm not --- suggesting we should. There is no way in there to help them."
+0,67,34,TEAL'C,No.
+0,67,35,DANNY,"10 minutes after that C-4 goes, this whole mountain is gonna explode."
+0,67,35,TEAL'C,I am aware of that.
+0,67,35,DANNY,"So, the fact that we're staying is based on a completely informed decision?"
+0,67,35,TEAL'C,It is.
+0,67,35,DANNY,"'Kay, just makin' sure."
+0,67,35,SAM,"Sir --- Sir, there's no time!"
+0,67,36,DANNY,Here goes.
+0,67,37,SAM,Did you see that?!
+0,67,38,TEAL'C,The shield is down.
+0,67,38,JACK,"Come on, let's go! Move, move, move! I thought I told you guys to get back to that gate!"
+0,67,38,DANNY,"Yeah, Teal'C wouldn't leave."
+0,67,38,SAM,Less than a minute!
+0,67,38,TEAL'C,Get down!
+0,67,39,JACK,"Just remember, I retired! YOU wanted me back!"
+0,67,39,GH,"Colonel, are you all OK?"
+0,67,39,DANNY,Think so.
+0,67,39,SAM,Will be!
+0,67,39,TEAL'C,"I am very well, General Hammond!"
+0,67,39,GH,What happened?
+0,67,39,JACK,The damn armbands fell off is what happened!
+0,67,39,TS,I am sorry!
+0,67,39,GH,Were you successful in destroying the ship?
+0,67,39,TEAL'C,"Indeed we were, General Hammond."
+0,67,39,GH,Good! Report to the infirmary.
+0,67,39,JACK,"Uh, General, Sir, about the obviously impending court-marshals, I'd like ---"
+0,67,39,GH,"You were all under the influence of Alien technology, Colonel. I'd say that a pretty solid defense."
+0,67,39,JACK,"Even so, I --- I'm sorry."
+0,67,39,SAM,Me too!
+0,67,39,DANNY,"Me, three."
+0,67,39,TEAL'C,I have no need to apologize.
+0,67,39,GH,Teal'C was actually following orders.
+0,67,39,JACK,Of course he was!
+0,67,39,TS,You left the armbands behind.
+0,67,39,SAM,We had other things on our minds.
+0,67,39,TS,Understandable. Colonel? Anise and I both hope we can work together in the future.
+0,67,39,JACK,

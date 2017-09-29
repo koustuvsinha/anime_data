@@ -1,0 +1,373 @@
+Season,Episode,Scene,Character,Line
+0,60,0,STARGATE SG1,Episode 318
+0,60,0,"""SHADES OF GREY""",By Jonathan Glassner
+0,60,1,DANIEL,"Your eminence, our Government has asked us to return to Tollana to arrange formal diplomatic relations with your people."
+0,60,1,TRAVELL,"Consider it done. You are, after all, the people who saved us from the Goa'uld."
+0,60,1,DANIEL,"Thank you, yes. Well in that spirit, we'd like to arrange for a trade."
+0,60,1,TRAVELL,What would you like to trade?
+0,60,1,DANIEL,Technology.
+0,60,1,TRAVELL,I'm sorry. You know that is the one thing we cannot give you. Tollan law strictly forbids it.
+0,60,1,DANIEL,"Okay, we understand that. However in our culture, laws can be changed when it is deemed that the reasons for those laws are no longer relevant."
+0,60,1,TRAVELL,The reasons for these laws are still relevant.
+0,60,1,DANIEL,"Okay. Please, if you, if you just allow me to make our case."
+0,60,1,TRAVELL,I assume you want weapons technology?
+0,60,1,DANIEL,Yes.
+0,60,1,O'NEILL,One of those ion cannons would be nice.
+0,60,1,TRAVELL,I see. And for what will you use such a cannon?
+0,60,1,O'NEILL,To defend ourselves against the Goa'uld.
+0,60,1,TRAVELL,"Forgive me Colonel, but our research shows you are far more likely to use our technology against enemies on your own planet."
+0,60,1,O'NEILL,What if I gave you my word that would never happen?
+0,60,1,TRAVELL,Are you the commander of your entire nation?
+0,60,1,O'NEILL,No.
+0,60,1,TRAVELL,"Then in truth, you cannot guarantee it."
+0,60,1,O'NEILL,You know what? Forget it.
+0,60,1,DANIEL,Jack?
+0,60,1,O'NEILL,We knew you wouldn't give us anything. We're wasting a lot of time here.
+0,60,1,DANIEL,Jack.
+0,60,1,O'NEILL,"No, Daniel. Let's go."
+0,60,4,DANIEL,Wwwww what are you doing?
+0,60,4,O'NEILL,We never should have saved their technological superior butts.
+0,60,5,O'NEILL,"This is that thing that disabled our weapons, isn't it?"
+0,60,5,TEAL'C,As well as the Goa'uld technology.
+0,60,6,CARTER,"Sir, isn't this against regulations?"
+0,60,6,O'NEILL,I suppose it is Carter.
+0,60,7,DANIEL,Kinda crossing the line...
+0,60,7,O'NEILL,"Shut up, Daniel."
+0,60,9,HAMMOND,"As you were. Sorry to keep you waiting. So, what is this device you've brought back?"
+0,60,9,O'NEILL,It's the thing the Tollan used to disable our weapons the last time we were there.
+0,60,9,HAMMOND,And it really works?
+0,60,9,O'NEILL,Worked on us. And the Goa'uld's.
+0,60,9,HAMMOND,That should come in handy. Good job.
+0,60,9,O'NEILL,Thank you sir.
+0,60,9,HAMMOND,"So, what did you have to promise them in return, Dr Jackson?"
+0,60,9,DANIEL,"Actually General, we didn't have to promise to give them anything."
+0,60,9,HAMMOND,They just gave you the device as a reward for saving them from the Goa'uld?
+0,60,9,DANIEL,"Actually General, the Tollan refused to give us any technology."
+0,60,9,O'NEILL,Offered us a nice fruit basket though.
+0,60,9,HAMMOND,Well I'm confused. How did you get the device? Major Carter?
+0,60,9,CARTER,Uh...
+0,60,9,O'NEILL,I took it Sir.
+0,60,9,HAMMOND,Took it?
+0,60,9,O'NEILL,Yes.
+0,60,9,HAMMOND,You stole it?
+0,60,9,O'NEILL,"I like to think of it as `borrowed', sir. Major Carter can figure out how to reproduce it and we'll give it back."
+0,60,9,HAMMOND,I can't believe what I'm hearing! You and your team stole an alien device from an extremely advanced culture.
+0,60,9,O'NEILL,They won't retaliate if that's what you're worried about. Not their way. Right Daniel?
+0,60,9,HAMMOND,"This command has already been accused of stealing from several other alien cultures, Colonel. Until now, we've denied it. Perhaps that was a bit premature. Dare I ask how many other items you've stolen?"
+0,60,9,O'NEILL,None. This is the first.
+0,60,9,HAMMOND,"Colonel, you don't seem to understand how serious this matter is. You and your team have committed a court martiallable offence."
+0,60,9,O'NEILL,"To be fair, General, I did it. Carter and Daniel protested. And Teal'c, well he really didn't say anything but I could tell he was opposed to my actions by the way he cocked his head and sort of raised his eyebrow."
+0,60,9,HAMMOND,"Enough Colonel. Dr Jackson, Major Carter and Teal'c, you will return this device immediately to the Tollan and, hopefully, smooth over what must be some very ruffled feathers."
+0,60,9,CARTER,Yes sir.
+0,60,9,O'NEILL,Why? Our core mission is to go through that Gate to find technologies we can use to defend against Goa'uld incursion. Am I right?
+0,60,9,HAMMOND,You are bordering on insubordination. We do not steal from friendlies.
+0,60,9,O'NEILL,"Well with no due respect, General, that's just plain stupid."
+0,60,9,HAMMOND,Colonel...
+0,60,9,O'NEILL,"And since the Pentagon won't approve our backup programme, we have no choice.."
+0,60,9,HAMMOND,"Colonel, do not go there."
+0,60,9,O'NEILL,We have no choice but to take whatever steps we need to get what we need!
+0,60,9,HAMMOND,As long as I am in command of the SGC we will hold ourself to the highest ethical standards.
+0,60,9,O'NEILL,"And when the Goa'uld wipe us out because we have nothing with which to defend ourselves, I'm sure we'll all feel great about ourselves and our high moral standards."
+0,60,9,HAMMOND,"Colonel O'Neill, you are out of line. Now stand down. Colonel O'Neill, I am hereby relieving you of your command. You are to report to the infirmary and stay there until I send for you."
+0,60,9,O'NEILL,"No holding cell, sir?"
+0,60,9,HAMMOND,"That could very well be you next stop, if you say another word, Colonel."
+0,60,9,PA,Incoming traveller.
+0,60,9,HAMMOND,"Now get down to the infirmary and submit yourself for a complete examination. Teal'c, escort him."
+0,60,10,HAMMOND,"And Teal'c, you are no longer under Colonel O'Neill's command. Is that understood?"
+0,60,10,TEAL'C,Understood.
+0,60,10,PA,Unauthorised incoming traveller. Closing the iris.
+0,60,10,HAMMOND,Great. Now what?
+0,60,17,HAMMOND,Hold your fire.
+0,60,18,DANIEL,"Your eminence. Welcome to Earth. High Chancellor Travell, this is General Hammond, commander of this facility."
+0,60,18,HAMMOND,It's an honour to meet you.
+0,60,18,TRAVELL,I only wish it were under more pleasant circumstances. We have come to retrieve our stolen property and to tell you all diplomatic relations with your people will be terminated.
+0,60,18,HAMMOND,"Of course we will return your property to you immediately. But, please, if you will just sit down with us and at least talk about it."
+0,60,18,TRAVELL,Then you admit you have stolen from us?
+0,60,18,DANIEL,"Your Eminence, I know that you are wise enough not to hold the actions of one man against an entire planet."
+0,60,18,TRAVELL,"You were there, Dr Jackson. As were you, Major. And Teal'c. Who exactly are you saying is responsible?"
+0,60,20,O'NEILL,"Thanks Doc. As always, a pleasure."
+0,60,20,FRAISER,"Well I don't see anything immediately wrong with you. Your blood pressure, DRE and EEGL seem normal. It will be a while before I get your hormone levels and CAT scans back."
+0,60,20,O'NEILL,Great. Let me know what kind of wacky alien stuff you find in there.
+0,60,21,O'NEILL,Excuse me.
+0,60,21,TEAL'C,I am to keep you here until General Hammond is ready for you.
+0,60,21,O'NEILL,"Get out of my way, Teal'c. That's an order."
+0,60,21,TEAL'C,"I do not understand your behaviour, O'Neill."
+0,60,22,O'NEILL,Get outta my way.
+0,60,23,FRAISER,Fraiser. Yes Sir. Colonel? General Hammond wants to see you in his office.
+0,60,26,O'NEILL,Carter.
+0,60,26,CARTER,Sir?
+0,60,26,O'NEILL,What?
+0,60,26,CARTER,Is there anything I can do?
+0,60,26,O'NEILL,About?
+0,60,26,CARTER,"Well Sir, with respect, you aren't exactly acting like yourself."
+0,60,26,O'NEILL,No Carter. I haven't been acting like myself since I met you. Now I'm acting like myself.
+0,60,29,O'NEILL,"Well, look who's here. Come to retrieve your vastly superior stuff?"
+0,60,30,O'NEILL,"You know, it'd be a lot more superior if it wasn't so easy to steal."
+0,60,30,HAMMOND,Colonel O'Neill! Get in here and take a seat. Close the door!
+0,60,31,HAMMOND,"My God, Jack, you've really crossed the line here."
+0,60,31,O'NEILL,"In terms of my insubordination towards you, your absolutely right, General. And for that I'm truly sorry. But I still think what I did was right."
+0,60,31,HAMMOND,I just met with two members of the Tollan High Council who disagree.
+0,60,31,O'NEILL,So the Tollan are dictating our policies now.
+0,60,31,HAMMOND,The victims of a crime are demanding the perpetrator be dealt with appropriately.
+0,60,31,O'NEILL,I'm a criminal?
+0,60,31,HAMMOND,What you've done here is clearly a court martiallable offence. I have to press charges.
+0,60,31,O'NEILL,"Well, by all means, General, do what you have to do."
+0,60,31,HAMMOND,I do have one other option I can offer you Jack.
+0,60,31,O'NEILL,What's that?
+0,60,31,HAMMOND,Early retirement.
+0,60,31,O'NEILL,"Now see, I tried that once before and you pulled me out of it."
+0,60,31,HAMMOND,The offer is only on the table while you're in this room.
+0,60,31,O'NEILL,All this for one little indiscretion?
+0,60,32,HAMMOND,Five counts of direct insubordination towards superior officers and a United States Senator. Two counts of refusal to obey orders. Kidnapping an alien child. Should I go on?
+0,60,32,O'NEILL,"The proverbial straw, sir."
+0,60,32,HAMMOND,You got it. I'd accept the offer if I were you Jack. Beats the hell out of the prison time you'd get otherwise.
+0,60,32,O'NEILL,Then I guess I'm retiring.
+0,60,34,DANIEL,Hi.
+0,60,34,O'NEILL,What do you want?
+0,60,34,DANIEL,"I'm not, uh, I'm not sure, to tell you the truth. I'm here to talk, I guess."
+0,60,34,O'NEILL,So talk.
+0,60,35,DANIEL,You got another one of those?
+0,60,35,O'NEILL,Yeah.
+0,60,35,DANIEL,Feel like sharing?
+0,60,35,O'NEILL,Beer? Sure.
+0,60,36,DANIEL,So? How are you feeling about all this?
+0,60,36,O'NEILL,Yes to the beer. No to the feelings.
+0,60,36,DANIEL,That's too bad because I don't really like beer.
+0,60,36,O'NEILL,Stop your worryin'. I'm fine.
+0,60,36,DANIEL,Really? That's...that's funny because I didn't figure you for the early retirement type any more.
+0,60,37,DANIEL,"There's another reason you're angry, isn't there?"
+0,60,37,O'NEILL,"Oh here we go. Pop pysch 101, right?"
+0,60,37,DANIEL,"No. When we were in the briefing, you said something about the Pentagon not giving us the backup we requested. What, uh, what were you talking about?"
+0,60,37,O'NEILL,Hammond and I were planning a secondary SGC base off world. It was gonna serve as a backup in case ours was attacked. I was gonna command.
+0,60,37,DANIEL,"And the Pentagon pulled the plug? So you're acting up because you're hurt, because you didn't get a command?"
+0,60,37,O'NEILL,"Give me a break, Daniel. Their denial of the programme was just another indication that they're not serious about attaining our goals."
+0,60,37,DANIEL,Which you think is obtaining new weapons and technology?
+0,60,37,O'NEILL,Protecting ourselves.
+0,60,37,DANIEL,But isn't our mission also about establishing and maintaining diplomatic relations with other cultures?
+0,60,37,O'NEILL,"What's the point, if we don't gain anything to help our other interests?"
+0,60,37,DANIEL,Well there's a lot we could learn from people like the Tollan that has nothing to do with technology and weapons.
+0,60,37,O'NEILL,"Stuff that interests people like you, Daniel. Not people like me. I want to see tangible gains from our efforts. And if people like the Tollan don't want to share, we should just take."
+0,60,37,DANIEL,You really believe that?
+0,60,37,O'NEILL,Being sweet and nice isn't gonna stop three or four Goa'uld motherships if they decide to come back again. I'd rather be a thief and alive than honest and dead. It's a cliché but there it is.
+0,60,37,DANIEL,"If you really believe that, I guess, uh, I guess I never really knew you at all."
+0,60,37,O'NEILL,Come on. You're a bright guy. You had to sense some of this.
+0,60,38,O'NEILL,Then no. I guess you couldn't relate to me any more than I could to you.
+0,60,38,DANIEL,So this whole friendship thing we've been working on the last few years...
+0,60,38,O'NEILL,"Apparently not much of a foundation there, huh?"
+0,60,41,MAYBOURNE,Colonel O'Neill.
+0,60,41,O'NEILL,"What the hell is this? A joke, Maybourne? What are you doin' here?"
+0,60,41,MAYBOURNE,"Well, in a way, you invited me."
+0,60,41,O'NEILL,"Come to gloat about my retirement, have you?"
+0,60,41,MAYBOURNE,May I come in?
+0,60,41,O'NEILL,No. I'm in no way obligated to put up with your crap any more.
+0,60,41,MAYBOURNE,I think you're gonna want to hear what I have to offer you.
+0,60,41,O'NEILL,Offer?
+0,60,42,MAYBOURNE,May I sit down?
+0,60,42,O'NEILL,No. You won't be here that long. What's this about?
+0,60,42,MAYBOURNE,"Well, sufficed to say, I heard about your little altercation with General Hammond."
+0,60,42,O'NEILL,"Sweet little grapevine we got there, isn't it?"
+0,60,42,MAYBOURNE,Let's just say I see at lot of paper that goes through the mountain. I was most interested in your passionate argument that we shouldn't be quite so diplomatic about acquiring the things we need.
+0,60,42,O'NEILL,Get to the point.
+0,60,42,MAYBOURNE,What if I told you I could offer you a way to achieve your goals?
+0,60,42,O'NEILL,My goals?
+0,60,42,MAYBOURNE,"Yes. What if I told you I could arrange for you to lead a team through the Gate to acquire whatever you want, whenever you want? For the good of this country."
+0,60,42,O'NEILL,"If I believed you could do that, I'd have to figure whatever you're doing is very illegal."
+0,60,42,MAYBOURNE,"What you did yesterday was very illegal, Colonel."
+0,60,42,O'NEILL,Get out. Not interested.
+0,60,43,MAYBOURNE,Page me when you miss the action too much.
+0,60,46,TEAL'C,For what purpose were we summoned?
+0,60,46,DANIEL,My guess is we're getting our fourth.
+0,60,46,CARTER,Who do you think it will be?
+0,60,46,DANIEL,We'll probably get someone like Ferretti and you'll get command.
+0,60,46,CARTER,I don't know about that. They'll probably go with someone higher than Major.
+0,60,47,HAMMOND,As you were. Since SG-1 is considered the flagship unit it falls on me to assure you have the strongest possible leadership. Therefore I'm reassigning the most senior officer we have in the field as your new commanding officer. Colonel Makepeace will be joining SG-1 immediately. I hope you'll make him feel welcome.
+0,60,47,DANIEL,"Uh, sir. I don't want to seem out of line here, but since I'm a civilian here, I'm probably the only one who can say this."
+0,60,47,HAMMOND,Spit it out Doctor.
+0,60,47,DANIEL,"Well no offence, but doesn't Major Carter deserve to take charge of SG-1?"
+0,60,47,HAMMOND,Major Carter has an exemplary record on the team as recognised by her recent promotion to Major. But major is a far cry from colonel.
+0,60,47,CARTER,"I understand, General."
+0,60,47,DANIEL,"I'm sorry, but I don't. What, uh, what difference does it make what title she has? The point is.."
+0,60,47,CARTER,It's all right Daniel. Really.
+0,60,47,HAMMOND,Dismissed.
+0,60,47,MAKPEACE,I'm proud to join you folks. I hope you can learn to trust my command as much as you did Colonel O'Neill's.
+0,60,47,CARTER,"I'm sure we will, sir."
+0,60,47,DANIEL,"I never really trusted Jack's command, but I'm open."
+0,60,47,MAKEPEACE,That's good. Then I'll see you at our first briefing.
+0,60,52,O'NEILL,What took you so long?
+0,60,52,MAYBOURNE,"Frankly, I didn't think you'd get bored so fast or I would have stayed in town."
+0,60,52,O'NEILL,Not quite the student of human behaviour you thought you were?
+0,60,52,MAYBOURNE,Are you ready to go?
+0,60,52,O'NEILL,I have some questions.
+0,60,52,MAYBOURNE,Can't tell you much.
+0,60,52,O'NEILL,You expect me to jump into this operation blind?
+0,60,52,MAYBOURNE,Are you interested in my offer or not?
+0,60,53,O'NEILL,I'm interested.
+0,60,53,MAYBOURNE,"Good. I want to be sure you understand one thing, O'Neill. What I'm about to show you is not so much `classified' as it is `secret'. `Dangerous' would be another word I would use."
+0,60,53,O'NEILL,Keep talkin'.
+0,60,53,MAYBOURNE,I want you to understand that once you see what I'm about to show you there is no turning back. You will have the choice to go along with it.. or disappear.
+0,60,53,O'NEILL,Disappear?
+0,60,53,MAYBOURNE,This is your last chance to back out.
+0,60,53,O'NEILL,"Well, if you promise to cut back on the melodrama, I'll consider crossin' the line."
+0,60,54,O'NEILL,"So, where are we going?"
+0,60,54,MAYBOURNE,"Nowhere in particular. I find being 30,000 feet up greatly reduces the chances of any effective surveillance."
+0,60,55,MAYBOURNE,Do you know what this is?
+0,60,55,O'NEILL,I assume it's one of those Goa'uld communication balls.
+0,60,55,MAYBOURNE,We didn't have to negotiate for it either.
+0,60,55,O'NEILL,Who's we?
+0,60,55,MAYBOURNE,My organisation.
+0,60,55,NID?,
+0,60,55,MAYBOURNE,Mmm.. more of an offshoot.
+0,60,55,O'NEILL,"Ah. That sort of says it all, doesn't it?"
+0,60,55,MAYBOURNE,I want you to command a unit.
+0,60,55,O'NEILL,There are units?
+0,60,55,MAYBOURNE,Oh yes. Would you like to meet the temporary commander of the unit I want you to run?
+0,60,55,O'NEILL,I guess.
+0,60,55,MAYBOURNE,Took us a while to figure out how to use this thing without a Goa'uld at the controls. But good old human ingenuity eventually won out.
+0,60,56,NEWMAN,Colonel Maybourne.
+0,60,56,MAYBOURNE,Newman. I'd like you to meet Colonel Jack O'Neill. Retired.
+0,60,56,NEWMAN,"Colonel O'Neill, it is a pleasure Sir. Read just about all the SG-1 mission briefings and uh, let's just say your file is very impressive. It'd be an honour to serve under your command, Colonel."
+0,60,56,O'NEILL,"Hello, Newman. You look familiar."
+0,60,56,NEWMAN,"Yes, sir. We have met briefly. In a hangar at a Utah landing strip."
+0,60,56,O'NEILL,You're one of those kids we chased through the other Stargate.
+0,60,56,NEWMAN,"That would be me. I apologise about having to return fire, sir."
+0,60,56,O'NEILL,Hm. Where are you?
+0,60,56,MAYBOURNE,He's on another planet.
+0,60,56,O'NEILL,"Your mission, Newman?"
+0,60,56,NEWMAN,"Use whatever means necessary to acquire goods and technology that could help Earth in the battle against the Goa'ulds, sir, or other unforseen aggressors."
+0,60,56,O'NEILL,"You've seen my file, Newman. It's only fair I know a little more about you."
+0,60,56,MAYBOURNE,"Need to know, Colonel."
+0,60,56,O'NEILL,Well I need to know if I'm gonna command this unit.
+0,60,56,MAYBOURNE,"You agree to go there and take command, I'll give you detailed files on every one of your people. Now how about it, Colonel? You ready for a command where you can finally achieve what you and I both agree needs to be achieved to defend this planet?"
+0,60,56,O'NEILL,"I never thought I'd agree with you about anything, Maybourne. But yeah. I'm ready."
+0,60,58,MAKEPEACE,"Major Carter has accepted my command with no problem, sir. But I'm afraid Dr Jackson and the jaffa have not."
+0,60,58,HAMMOND,Well maybe if you didn't think of him as `the jaffa' it would be a good start.
+0,60,59,HAMMOND,Come in.
+0,60,60,HAMMOND,"Jack, come in. You know Colonel Makepeace."
+0,60,60,O'NEILL,Yeah.
+0,60,60,HAMMOND,How's the retirement going?
+0,60,60,O'NEILL,"Uh, great. I retire, I wake up, I retire. It's, it's a living. I'm bored out of my skull, sir."
+0,60,60,HAMMOND,I'm sorry to hear that. Something I can help you with?
+0,60,60,O'NEILL,"Actually, there is, General."
+0,60,60,MAKEPEACE,"Would you like me to leave, Jack?"
+0,60,60,O'NEILL,I don't care.
+0,60,60,HAMMOND,"We're not finished, Colonel Makepeace."
+0,60,60,O'NEILL,"I'll make it fast, General. I'm hoping you could grant me one last favour."
+0,60,60,HAMMOND,I'm listening.
+0,60,60,O'NEILL,I want to retire offworld.
+0,60,60,HAMMOND,"Jack, I don't know..."
+0,60,60,O'NEILL,You remember that woman I told you about on Edora? Laira was her name.
+0,60,60,HAMMOND,Yes.
+0,60,60,O'NEILL,I promised her I'd come back some day. I'm asking you to help me keep that promise. Please.
+0,60,60,HAMMOND,"If I agree to do this, you know I can't give you a GDO. That means you can never return to Earth through the Gate."
+0,60,60,O'NEILL,"I understand that, sir."
+0,60,63,HAMMOND,Colonel...
+0,60,67,NEWMAN,"Colonel O'Neill. It is an honour, Sir."
+0,60,68,O'NEILL,Newman.
+0,60,68,NEWMAN,We may look a little rag-tag but I assure you we're very good at what we do.
+0,60,68,O'NEILL,Which is... stealing stuff.
+0,60,68,NEWMAN,"Well, acquiring what we need to defend our planet, Colonel."
+0,60,68,O'NEILL,And you measure how good you are by the fact that you've never been caught?
+0,60,68,NEWMAN,"Well, and by the spoils of our missions. Would you care to take a gander at one of our latest acquisitions?"
+0,60,68,O'NEILL,Sure. I'll take a gander.
+0,60,68,NEWMAN,"This way, Sir."
+0,60,70,NEWMAN,"What do you think, Colonel?"
+0,60,70,TOBIAS,Just brought it back. It's an anti-gravitational device.
+0,60,70,O'NEILL,Really?
+0,60,70,TOBIAS,"Lieutenant Clare Tobias, Sir."
+0,60,70,O'NEILL,Tobias. Jack O'Neill.
+0,60,70,NEWMAN,"If it's all right, sir, I'll leave you in the lieutenant's very capable hands."
+0,60,70,O'NEILL,So... tell me about this thing.
+0,60,70,TOBIAS,"Well, it utilises superconducted gyroscopic action to generate an anti-gravitational field.."
+0,60,70,O'NEILL,Stop. Scientist?
+0,60,70,TOBIAS,Engineer. Why?
+0,60,70,O'NEILL,You remind me of someone in my old command.
+0,60,70,TOBIAS,Major Carter.
+0,60,70,O'NEILL,How do you know her?
+0,60,70,TOBIAS,She beat me out of a position in the
+0,60,70,O'NEILL,"Oh. So, what do you do around here?"
+0,60,70,TOBIAS,My job is to examine some of the larger items we require. The ones that are too big to be transported back to Earth. See if we can backwards engineer them and send the plans home to Colonel Maybourne.
+0,60,70,NEWMAN,"Excuse me, sir. Colonel Maybourne would like to talk to you."
+0,60,70,O'NEILL,Yeah? Tobias.
+0,60,73,MAYBOURNE,Jack! I see you made it in one peace. What do you think of our little operation?
+0,60,73,O'NEILL,"It's swell, Harry."
+0,60,73,MAYBOURNE,"We do what we can to make it comfortable. I have your first mission, Colonel. Planet PX3 595."
+0,60,73,NEWMAN,It's about time we got one of those things.
+0,60,73,MAYBOURNE,
+0,60,73,O'NEILL,What device are we talking about?
+0,60,73,MAYBOURNE,"Newman can fill you in on all the details. Good luck, Colonel."
+0,60,73,O'NEILL,Thanks.
+0,60,73,MAYBOURNE,"And Colonel, just a reminder. This isn't the SGC. So if someone, gets in your way, do what you have to do."
+0,60,76,NEWMAN,"Okay, the mouth of the cave we're gonna hit is about 50 metres at two o'clock from the Gate. The primitive locals are called Tiernods. They use them as a place to hide from predators."
+0,60,76,TOBIAS,"If a predator follows them into the cave, the Tiernods use the device we're after to vanish."
+0,60,76,O'NEILL,Very nice.
+0,60,78,O'NEILL,Clear.
+0,60,78,TOBIAS,Bingo.
+0,60,79,NEWMAN,You're gonna love this.
+0,60,80,NEWMAN,"Pretty cool, huh?"
+0,60,80,O'NEILL,What the...
+0,60,80,O'NEILL,That thing looks Asgard.
+0,60,80,TOBIAS,It is. This is an Asgard protected planet.
+0,60,82,NEWMAN,Can you imagine the ways we could use this for black ops back on Earth?
+0,60,82,O'NEILL,Yep. But it's not back on Earth. You gonna be able to backwards engineer this thing?
+0,60,82,TOBIAS,Don't have to. Items this small we just send back to Earth.
+0,60,82,O'NEILL,How?
+0,60,82,NEWMAN,"Got a man on the inside, on one of the SG teams. Colonel Maybourne tells us where the mole's team is about to go, we get there first, make the drop and come back here. The mole comes in later, retrieves the item and packs it in his gear."
+0,60,83,NEWMAN,It's about time her got back to us.
+0,60,84,MAYBOURNE,"Hello, team. You get the device?"
+0,60,84,O'NEILL,Yep.
+0,60,84,MAYBOURNE,Good. I have the time and co ordinates for the drop. Just drop and go. No contact.
+0,60,84,O'NEILL,Okay.
+0,60,84,MAYBOURNE,I'm sending the so ordinates and time info. Record them.
+0,60,85,NEWMAN,Alex? Want me to go Sir?
+0,60,85,O'NEILL,No. I'll go.
+0,60,85,NEWMAN,Really?
+0,60,85,O'NEILL,Yeah. Best way to understand a command is to do every job yourself at least once.
+0,60,85,NEWMAN,"That's your prerogative, Colonel."
+0,60,87,MAKEPEACE,"All right, let's make this quick. Carter, Dr Jackson, run your tests. Let's see if the intel was right about naqahdah deposits here."
+0,60,92,NEWMAN,How'd it go Sir?
+0,60,92,O'NEILL,"Maybourne had the co ordinates right, but his timing sucked! I just about ran into the SG team on my way back through the Gate."
+0,60,93,NEWMAN,What's goin' on?
+0,60,94,NEWMAN,"Sir... Sir, we do not open the Gate without direct orders from Colonel Maybourne! Colonel, what are you doing?"
+0,60,95,O'NEILL,Opening up some options!
+0,60,97,TOBIAS,There's an Asgard ship descending over the base!
+0,60,100,TOBIAS,What are they doing?
+0,60,100,O'NEILL,"Taking back what's rightfully theirs, I guess. Listen up all of you. You've got two choices here. As soon as they stop takin' stuff, they're gonna start takin' people. Now you can go with the Asgard. Or you can follow me. It's your choice. I'll be holding the door open so you can't go anywhere else."
+0,60,103,MAKEPEACE,Get your hands together. Got you now Newman.
+0,60,103,O'NEILL,"Good job, kids. Uh, give me one of those things."
+0,60,103,MAKEPEACE,Here.
+0,60,104,MAKEPEACE,What the hell..? What are you doing?!
+0,60,104,O'NEILL,That would be my job.
+0,60,105,HAMMOND,"Ladies and Gentlemen, I am pleased to announce that you are all under arrest for high crimes against the United States and it's allies."
+0,60,106,MAKEPEACE,You really blew it O'Neill.
+0,60,106,O'NEILL,Oh I think it came off quite nicely. Don't you General?
+0,60,106,HAMMOND,"Yes, I do."
+0,60,106,MAKEPEACE,You have no idea how high up this goes. You've pissed off the wrong people.
+0,60,106,O'NEILL,"Like the Tollan, Tok'ra, Asgard, Nox. Those folks?"
+0,60,106,MAKEPEACE,They refuse to give us the things we need to defend ourselves against the Goa'uld.
+0,60,106,O'NEILL,"We don't need their stuff, Makepeace. We do need them."
+0,60,106,HAMMOND,Get them out of here.
+0,60,107,DANIEL,"So, uh, just to clarify. This whole week, beginning with the appeal we made on Tollana, in which, I did a lot of hard work by the way, I take it that was all a scam?"
+0,60,107,HAMMOND,"Within the last two weeks, the Asgard and the Tollan approached us independently of each other with evidence we were stealing technology from them."
+0,60,107,CARTER,We? The SGC?
+0,60,107,HAMMOND,"Yes. The Asgard, Tollan and the Nox were going to sever all ties with us. But we convinced them the theft must be the action of a rogue group from outside the SGC."
+0,60,107,TRAVELL,We insisted that you apprehend them yourselves. You have now regained our trust.
+0,60,107,CARTER,So you set that whole thing up on Tollana in the hopes that the mole would think you were one of them and approach you.
+0,60,107,DANIEL,And you didn't think you could trust us to help?
+0,60,107,HAMMOND,We wanted to assure your reaction to the Colonel's behaviour was as it should be. And the Asgard insisted that Colonel O'Neill be the only one involved.
+0,60,107,O'NEILL,They like me.
+0,60,107,HAMMOND,"And now, will you come with me, Your Eminence?"
+0,60,108,O'NEILL,I'm back.
+0,60,108,CARTER,It's good to have you back Sir.
+0,60,108,TEAL'C,Indeed.
+0,60,108,O'NEILL,Thank you. Um.. Daniel?
+0,60,108,DANIEL,Mmm.
+0,60,109,O'NEILL,That stuff I was talking about at my house..
+0,60,109,DANIEL,Um..
+0,60,109,O'NEILL,The place was bugged. I had to keep up the act.
+0,60,109,DANIEL,It's.. I understand.
+0,60,109,O'NEILL,"Obviously, the whole friendship thing, the foundation, it's all solid."
+0,60,109,DANIEL,"Uh, obviously. You don't.."
+0,60,109,O'NEILL,You don't have to.. No I feel kind of.. I do appreciate that you were the one that came to see if I was okay. That.. that means something.
+0,60,110,DANIEL,"Uh, actually, no it doesn't."
+0,60,110,O'NEILL,Huh?
+0,60,110,DANIEL,"Um, We, uh, we drew straws. I lost."

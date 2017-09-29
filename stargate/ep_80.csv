@@ -1,0 +1,396 @@
+Season,Episode,Scene,Character,Line
+0,80,0,STARGATE SG1,Episode 416
+0,80,0,"""2010""","By Brad Wright A man is reading the Washington Post. The headline reads ""Aschen promise anti-ageing vaccine worldwide."" Carter walks up."
+0,80,0,CARTER,"Hon, I am so sorry."
+0,80,0,JOE,Its's all right.
+0,80,0,CARTER,"No, if you were this late I'd --"
+0,80,0,JOE,"Hon, I know how busy you are, don't worry about it besides it's a beautiful day to wait. And wait."
+0,80,0,CARTER,Have you eaten?
+0,80,0,JOE,"Yeah I'm sorry honey I had to, I'm scheduled to be offworld by 13:30. What?"
+0,80,0,CARTER,I just found out.
+0,80,0,JOE,I thought for sure this time.
+0,80,2,CARTER,"They said it isn't either one of us, we just have to keep trying."
+0,80,2,JOE,Not that I mind the trying... I just... thought we'd be working on our second child by now.
+0,80,2,CARTER,Me too
+0,80,2,JOE,Walk me to the terminal?
+0,80,3,JOE,Maybe we should get a second opinion
+0,80,3,CARTER,The Aschen are hundreds of years more advanced in medicine than we are.
+0,80,4,CARTER,So How long will you be gone?
+0,80,4,JOE,"Ahh well, I have to visit that new embassy on the southern continent, then I have to tour the nine planets..."
+0,80,4,CARTER,You're kidding..
+0,80,4,JOE,Of course I'm kidding. You don't think I'd miss your Anniversary ceremony tomorrow?
+0,80,4,CARTER,"It's no big deal, I just --"
+0,80,4,JOE,"Oh it's no a big deal..If it wasn't for you, we'd have never even met the Aschen. I'll be back tonight okay"
+0,80,4,ANNOUNCEMENT (V.0.),Outbound travellers to the Confederation planets please stand by in the departure area.
+0,80,4,JOE,Bye
+0,80,4,CARTER,Bye.
+0,80,7,PRESIDENT KINSEY,"My fellow Americans. Ten years ago this very day, a team code named S G- 1, then working in secret, came upon an alien race: The Aschen. With that introduction I was able to forge the greatest alliance this country, indeed, this world has ever known..."
+0,80,8,PRESIDENT KINSEY,"I read now from Colonel Jack O'Neill's mission report of that first contact: These folks sound too good to be true. Willing to share their science and technology, friendly, smarter than we are. One thing's for sure: The goa'uld are coming... The Aschen could save our asses. Well, guess what Jack? They did."
+0,80,10,PRESIDENT KINSEY,"Though the nations business has kept me from being with you in person, nonetheless I want to thank you from the bottom of my heart for what you've done for me, and for our country. God bless you all."
+0,80,13,CARTER,To General Hammond.
+0,80,14,CARTER,I miss him. Especially today.
+0,80,14,DANIEL,Yeah how long has it been anyway?
+0,80,14,TEAL'C,It has been Six years.
+0,80,14,DANIEL,"Which reminds me, what was Jack's excuse? I expected to see him here."
+0,80,14,TEAL'C,O'Neill has made his feelings very clear concerning the Aschen alliance.
+0,80,14,DANIEL,"Well, he could have come to see us."
+0,80,14,FRAISER,I almost didn't come myself.
+0,80,14,DANIEL,What?
+0,80,14,FRAISER,"It's easier for you, Daniel. I mean your job wasn't made obsolete - and If I Mollem."
+0,80,14,MOLLEM,Forgive me for interrupting... Ambassador? The Aschen delegation is eager to hear about your visit to our South Continent.
+0,80,14,JOE,"Yep, It would be my pleasure."
+0,80,14,JOE,"Well I think we can safely assume I'll be late. Doctors, Teal'c congratulations again"
+0,80,15,CARTER,So: Where are we going?
+0,80,15,TEAL'C,I had planned to return to Chulak.
+0,80,15,CARTER,"Oh come on Teal'c, we haven't seen each other in ages. Please."
+0,80,15,TEAL'C,Very well
+0,80,15,DANIEL,Dinner?
+0,80,15,CARTER,Sounds great.
+0,80,15,FRAISER,Yes dinner
+0,80,15,CARTER,Great to see you again.
+0,80,15,FRAISER,I'll see you soon.
+0,80,15,DANIEL,Okay
+0,80,15,FRAISER,Bye
+0,80,16,CARTER,"So,"
+0,80,16,FRAISER,What?
+0,80,16,CARTER,What was that?
+0,80,16,FRAISER,What was what?
+0,80,16,CARTER,Going on again about being obsolete.
+0,80,16,FRAISER,Think about it Sam. We've all taken the anti ageing vaccine and the anti cancer vaccine...and now The Aschen have these medical machines that can reverse tissue damage and mend broken bones... I mean where does that leave me?
+0,80,16,CARTER,"I guess when you put it that was I know what you mean...I mean Half the time the science they're talking about is so far over my head, I feel like a lab assistant..."
+0,80,16,FRAISER,Ah but you have something to do.
+0,80,16,CARTER,Yeah
+0,80,16,FRAISER,"Okay enough of that, tell me by any chance are you and Joe..?"
+0,80,16,CARTER,Not yet. They say it isn't either one of us; we Just have to keep trying...
+0,80,16,FRAISER,You know they still let me keep an office in Washington even though I have nothing to do. So I'd be more than happy to give you a check up.
+0,80,16,CARTER,No they said I was fine --
+0,80,16,FRAISER,"Sam, the medicine I practiced may seem like the dark ages now, but I was your doctor for a long time. How long have you been trying?"
+0,80,16,CARTER,Almost three years.
+0,80,16,FRAISER,Yes
+0,80,16,CARTER,When can we do this?
+0,80,18,FRAISER,"Hey. Sorry to keep you waiting, but I just wanted to double-check my results..."
+0,80,18,CARTER,And I'm fine. Right?
+0,80,18,FRAISER,"Sam, I don't know how your Aschen doctor could have missed, it, and frankly I just don't think it's possible he could have --"
+0,80,18,CARTER,What?
+0,80,18,FRAISER,You can't have children.
+0,80,18,CARTER,They said everything was normal --
+0,80,18,FRAISER,In every other way it is --
+0,80,18,CARTER,Then this is a mistake.
+0,80,18,FRAISER,Here let me show you the scan.
+0,80,19,FRAISER,There's no room for interpretation. Clearly your ovaries are damaged.
+0,80,19,CARTER,Why?
+0,80,19,FRAISER,I don't know. I don't know what may have caused it or when it may have happened but obviously it was some time.
+0,80,19,CARTER,No. I want to know why the Aschen doctors looked me in the eye and told me that I was okay. Why did they lie to me?
+0,80,19,FRAISER,I don't know. But I'm willing to help you find out.
+0,80,21,MOLLEM,I've been waiting.
+0,80,21,CARTER,Sorry.
+0,80,21,MOLLEM,Is there something wrong?
+0,80,21,CARTER,No.
+0,80,21,MOLLEM,All right.
+0,80,23,MOLLEM,We're still not finding the necessary material to initiate the conversion.
+0,80,23,CARTER,We'll just have to find a way to collapse it faster; revise the calculations.
+0,80,23,MOLLEM,Interesting.
+0,80,23,CARTER,Am I wrong?
+0,80,23,MOLLEM,"Oh, no, you're absolutely correct, it's just that a year or so ago you never thought this project was possible and now you seem so... determined."
+0,80,23,CARTER,You've convinced me.
+0,80,24,MOLLEM,Did your people ever imagine converting a planet into a star?
+0,80,24,CARTER,No. I doubt it.
+0,80,24,MOLLEM,"I should think you would have at least considered the possibility, considering the rapid growth of your population and the viability of the planet."
+0,80,24,CARTER,Humans don't think quite as far ahead as the Aschen seem to.
+0,80,24,MOLLEM,"All right, since you're so determined, revise the calculations."
+0,80,24,CARTER,"If I use our computers it will take weeks... on the other hand, if I can interface with the Aschen computer core."
+0,80,24,MOLLEM,You know that's strictly for Aschen personnel.
+0,80,24,CARTER,It's not like you haven't given me access before.
+0,80,24,MOLLEM,Samantha... Why do I let you talk me into this?
+0,80,25,MOLLEM,There. You have core access.
+0,80,25,CARTER,"Thank you, Mollem."
+0,80,27,FRAISER,Are you in?
+0,80,27,CARTER,Not yet...
+0,80,27,FRAISER,The medical subcore has its own code you're not going to be able to access
+0,80,27,CARTER,"I'm in, I'm in. Now what?"
+0,80,27,CARTER (CONT'D),Its calling for search parameters.
+0,80,27,FRAISER,Right.Try medical records.
+0,80,27,CARTER,I don't think I'm going to find anything specific to me in here...
+0,80,27,FRAISER,So maybe this has happened to some other people. Do a general search. Human reproductive statistics.
+0,80,27,CARTER,That's it.
+0,80,27,FRAISER,You can read this?
+0,80,27,CARTER,"Oh that can't be right. If I'm reading this properly, the world wide birth rate has dropped almost ninety one percent in the last two years."
+0,80,27,FRAISER,What?
+0,80,27,CARTER,"That's what it says right here. These are Aschen numbers,"
+0,80,27,FRAISER,Yeah but we would know --
+0,80,27,CARTER,It's happening everywhere the anti ageing vaccine has gone.
+0,80,27,FRAISER,Turn it off.
+0,80,27,CARTER,They're doing it systematically --
+0,80,27,FRAISER,"Just turn it off, please."
+0,80,28,CARTER,"Mollem leaves me alone for hours at a time,"
+0,80,28,FRAISER,"Sam, you're on the inside, you don't see them the same way I do --"
+0,80,28,CARTER,"Janet, they have done this to us deliberately; we have to do something."
+0,80,28,FRAISER,I know but we can't talk about it here. We'll talk tonight At the Restaurant okay. I have to go.
+0,80,29,DANIEL,"Guys, I think it would be public knowledge if something this catastrophic was happening to the entire population."
+0,80,29,CARTER,"Would it? The Ashen can convert planets into stars, you don't think they could control the media if they wanted to?"
+0,80,29,DANIEL,Assuming the Aschen could keep something that big secret... it's been ten years. Why now?
+0,80,29,CARTER,"We were completely taken in. This way they didn't have to fire a shot. It's slow, methodical, painless..."
+0,80,29,DANIEL,Okay then why provide a vaccine that almost doubles the human life span? That doesn't make any sense.
+0,80,29,FRAISER,Unless that's the mechanism they've used to sterilize the population
+0,80,29,CARTER,they're certainly patient enough. All they have to do is wait.
+0,80,29,TEAL'C,"Then within two hundred years, there will be very few humans, if any will remain. The Aschen will have this world to themselves."
+0,80,29,DANIEL,"Well, we have to do something... I don't know; tell somebody."
+0,80,29,FRAISER,"The night before General Hammond died he called me and said he needed to speak with me about something very important. Something that he couldn't discuss over the phone. The next day I told the Ashen doctors, I said this is impossible, he could not have died of a heart attack he was in perfect health, but they said their diagnostic machines were infallible."
+0,80,29,TEAL'C,You believe he was murdered.
+0,80,29,FRAISER,"At the time, no, I believed the same as everyone else: the Aschen were our saviours..."
+0,80,29,DANIEL,"So we can't tell anyone, we have to keep this to ourselves."
+0,80,29,CARTER,Well I have to tell Joe.
+0,80,29,DANIEL,Maybe you shouldn't.
+0,80,29,CARTER,Daniel If you're even suggesting he knows about this --
+0,80,29,DANIEL,I'm just saying that it's all of our lives are at stake here --
+0,80,29,CARTER,Yes He can help us!
+0,80,29,DANIEL,How? Say he goes to the President; The President goes to the rest of the world. Even if what's left of every army on Earth mobilizes... what would they be able to do?
+0,80,29,FRAISER,Fight back.
+0,80,29,TEAL'C,They would be defeated. As were the Goa'uld.
+0,80,29,DANIEL,We have to think of something else.
+0,80,29,CARTER,Like what?
+0,80,29,DANIEL,"I don't know ... contact the Tollan; find the survivors of the Tok'ra, there have to be some left out there. Teal'c, what about the Jaffa?"
+0,80,29,TEAL'C,Few remain loyal to the Tauri since the war's end. There are only a few healthy symbiotes available for implantation.
+0,80,29,CARTER,"We don't even control the stargate. Oh, God... what have we done? This morning we were celebrating..."
+0,80,29,DANIEL,Now I wish we could take it all back.
+0,80,29,WAITRESS,Will there be anything else?
+0,80,29,DANIEL,Apparently not.
+0,80,29,CARTER,Maybe we can. Take it back.
+0,80,29,DANIEL,How
+0,80,29,CARTER,General Hammond showed us.
+0,80,29,DANIEL,He left us a note.
+0,80,29,FRAISER,"What, what are you talking about"
+0,80,29,CARTER,A number of years ago a freak accident sent us back to 1969. We know that by dialling coordinates on the opposite sides of the sun at the exact moment of a solar flare it causes the wormhole to turn back towards Earth on itself and creates a time distortion
+0,80,29,CARTER (CONT'D),"Theoretically, we could send ourselves a message."
+0,80,29,DANIEL,"Wait a second, I thought you said it was impossible to predict the exact moment of a solar flare."
+0,80,29,CARTER,"For us, yes, it was. But with access to Aschen computers..."
+0,80,29,FRAISER,Wait a second here... We're considering changing the lives of the entire human race on Earth; do we have the right?
+0,80,29,CARTER,"If we don't, then we will live to see the end of the entire human race on Earth."
+0,80,30,CARTER,Hi.
+0,80,30,O'NEILL,Hi.
+0,80,30,CARTER,"So this is the place you kept threatening to take me. It's good to see you, sir."
+0,80,30,O'NEILL,I'm retired Carter. Lose the sir.
+0,80,30,CARTER,Right. Jack.
+0,80,30,O'NEILL,What are you doing here?
+0,80,30,CARTER,It turns out we made a mistake. A big one.
+0,80,30,O'NEILL,Which one? We made a few...
+0,80,30,CARTER,Our alliance with the Aschen.
+0,80,30,O'NEILL,"Oh that not working out, is it? Gosh I wish I'd seen that coming."
+0,80,30,O'NEILL (CONT'D),"Oh, wait... I did see it coming."
+0,80,30,CARTER,It isn't what you thought.
+0,80,30,CARTER,A couple of days ago I found out that I can't ever have children.
+0,80,30,O'NEILL,I'm sorry to hear that.
+0,80,31,CARTER,"According to the Aschen doctors I was fine. But not according to Doctor Fraiser. We got into the Aschen computer network; they keep statistics on everything. In the past couple of years, without our even knowing it, they have managed to sterilize over ninety percent of the population... The other ten percent are probably just a matter of time. We don't know how they've done it, or even how they've managed to keep it a secret this long."
+0,80,31,O'NEILL,What d'you want me to do about it?
+0,80,31,CARTER,Help us.
+0,80,31,O'NEILL,Do what?
+0,80,31,CARTER,We can undo this --
+0,80,31,O'NEILL,Oh here we go --
+0,80,31,CARTER,"We send a message back through the stargate to ourselves, ten years ago. We stop this from ever happening."
+0,80,31,O'NEILL,Stop this from happening?
+0,80,31,CARTER,We know it's possible --
+0,80,31,O'NEILL,Why am I having this conversation..?
+0,80,31,CARTER,"We know what we have to do. I am almost positive with the Aschen computers and solar observatory I can predict a flare a few hours of it happening, and we should be able to get our hands on a G.D.O. So it'll come Down to accessing the gate within that window, dialling the right address and sending the message."
+0,80,31,O'NEILL,"Well, if it just comes down to that -do it"
+0,80,31,CARTER,"Look if I thought it was easy, I wouldn't be standing here asking for your help"
+0,80,31,O'NEILL,"Just out of curiosity, say we do this: What happens to everything that's happened the past ten years?"
+0,80,31,CARTER,It won't happen.
+0,80,31,O'NEILL,"So we don't go to P4C 970; we don't meet the Aschen, then.... What?"
+0,80,31,CARTER,I don't know.
+0,80,31,O'NEILL,"Well let me tell you something, Carter you want to erase your mistakes, that's your business. My conscience is clear I warned everybody, I threw up the red flag and everyone -- including you I might add -- shut me down."
+0,80,31,CARTER,I'm asking you to put that behind us
+0,80,31,O'NEILL,"You're not happy with the way things turned out, I'm sorry to hear that..."
+0,80,32,CARTER,Jack - I'm talking about the future of the human race
+0,80,32,O'NEILL,So was I.
+0,80,32,CARTER,We're doing this.
+0,80,32,O'NEILL,Let me know how it turns out.
+0,80,32,CARTER,Our chances are a lot better with you than without you.
+0,80,32,O'NEILL,Let me ask you something: What does your dearly beloved Ambassador say about all this?
+0,80,32,CARTER,I haven't had a chance to tell him.
+0,80,32,O'NEILL,Maybe he can help you.
+0,80,34,CARTER,We're on our own.
+0,80,34,DANIEL,"You're kidding me, he said no?"
+0,80,34,TEAL'C,That is unfortunate.
+0,80,34,CARTER,We can still do this Did you track down the G.D.0's?
+0,80,34,DANIEL,"Ah, yes and no. From what I could gather in the museum records there's only one original remote left on display at the"
+0,80,34,CARTER,"Okay then that's our next stop. Teal'c: You'd better return to Chulak, We don't want to arouse any more suspicion than we already have. It'll take at least two days but we'll contact you when it's time."
+0,80,34,TEAL'C,I will be prepared.
+0,80,35,GUIDE,"All righty everyone, everyone please step all the way out, we've arrived at level 28."
+0,80,36,KID,The Gate room?
+0,80,36,GUIDE,"That's very, very close... Anyone else?"
+0,80,36,DANIEL,He's right. It's the Gate room
+0,80,36,GUIDE,"What I'm sure many of you don't know is that officially it was known as the ""embarkation "" room because, that's where the SG teams ""embarked"" from. Okay, now we're walking... This way."
+0,80,37,GUIDE,"And these people comprise the famous SG-1, arguably the most important -- although not my personal favourite team of the entire command."
+0,80,38,GUIDE,And we're walking...
+0,80,39,GUIDE,"While of course the real stargate is in Washington at the J.R. Reed Space Terminal, this one is a perfect replica of the original. Should you want photos, they're Twenty-seven dollars each and please do not touch the stargate itself as you'll leave fingerprints. ""See you on the other side."""
+0,80,39,DANIEL,This is ridiculous.
+0,80,39,CARTER,We couldn't break away until there were more people around. Once we're in the control room --
+0,80,39,DANIEL,Not her personal favourite SG team?
+0,80,39,CARTER,Just don't ask for the photo
+0,80,39,O'NEILL,And we're walking...
+0,80,40,O'NEILL,Hey. Thanks for showing.
+0,80,40,CARTER,"We decided to take the last tour of the day. So, when did you decide against getting a dog?"
+0,80,40,O'NEILL,I'm still thinking about it. In the meantime I took the liberty of doing a little shopping for you.
+0,80,40,O'NEILL (CONT'D),The Zats are completely operational.
+0,80,41,O'NEILL (CONT'D),"This, however, presents a problem."
+0,80,41,CARTER,"It's a replica. . CARTER: Daniel, was this the only one?"
+0,80,42,TECHNICIAN (O.S.),"Excuse me, you people aren't supposed to be --"
+0,80,42,TECHNICIAN (CONT'D),Colonel O'Neill?
+0,80,42,O'NEILL,Sergeant... what're you doing here?
+0,80,42,TECHNICIAN,I work here now. I'm sort of the operations tech advisor.
+0,80,42,DANIEL,Oh Well you're doing a great job.
+0,80,42,TECHNICIAN,"This section is closed off. You're here for old time's sake,"
+0,80,42,O'NEILL,That's it exactly.
+0,80,42,TECHNICIAN,Where did you get those?
+0,80,42,O'NEILL,The Zats? Armory. We're taking them.
+0,80,42,TECHNICIAN,"No, no, no."
+0,80,42,CARTER,"Sergeant, please this is really important: d'you know where our real G.D.0's went?"
+0,80,42,TECHNICIAN,"I'm not a sergeant anymore, you're not Colonels, and you're not supposed to have that remote either..."
+0,80,42,DANIEL,Oh that's good because actually we don't want that one we want the real one
+0,80,42,TECHNICIAN,"It's In the White House. In the Oval Office, on the President's desk."
+0,80,42,O'NEILL,Kinsey grab a souvenir on the way down?
+0,80,42,TECHNICIAN,"Look guys, I don't know what."
+0,80,42,O'NEILL,"Ahh Wal.ter Right now I need you to trust us. Turn around, walk away, pretend we weren't even here. I'll bring everything back I promise. Thursday."
+0,80,42,TECHNICIAN,Then you'll tell me what's going on?
+0,80,42,O'NEILL,Absolutely everything.
+0,80,42,TECHNICIAN,Okay
+0,80,42,CARTER,Thank you
+0,80,42,DANIEL,Thank you
+0,80,42,TECHNICIAN,Thursday.
+0,80,45,DANIEL,Radio.
+0,80,45,CARTER,"There's an EM dampening field around the terminal, part of the automated defenses."
+0,80,45,O'NEILL,So we're about as far back in time as we're going to get.
+0,80,45,CARTER,I think I can get it.
+0,80,45,DANIEL,Joe?
+0,80,46,CARTER,He's a good guy
+0,80,46,O'NEILL,If you tell him there'll be no going back.
+0,80,46,DANIEL,"Of course if you don't tell him, there'll be ... no going back."
+0,80,46,CARTER,He'll do it. I know he will.
+0,80,48,JOE,"Sam, Hey honey. How're you feeling? You were out this morning before I could say goodbye"
+0,80,48,CARTER,I'm fine.
+0,80,48,JOE,Mollem said you left the lab early you were feeling kinda ill. Honey You're just depressed. We can just keep trying. Alright
+0,80,48,CARTER,"No, we can't, Joe. Nobody can."
+0,80,48,JOE,What are you talking about?
+0,80,49,DANIEL,I think this is the note we should send.
+0,80,50,FRAISER,That's it?
+0,80,50,DANIEL,"I thought about including more information, but I think in this case the simpler the better."
+0,80,50,ONEILL,Why don't we just stick one on a rock and throw it through?
+0,80,50,DANIEL,It would never make it through the automated defences.
+0,80,50,O'NEILL,Can we at least mention who won the Superbowl in 2004?
+0,80,50,DANIEL,No.
+0,80,50,O'NEILL,World Series?
+0,80,50,DANIEL,No
+0,80,50,ONEILL,Grey Cup.
+0,80,50,DANIEL,I put it in my own handwriting so I'll be able to recognize it when I read it...
+0,80,50,O'NEILL,"I think we should all write a note of our own. Case I don't make it to the gate, you can keep trying."
+0,80,50,JOE,You're wrong.
+0,80,50,CARTER,"I saw the numbers, Joe."
+0,80,50,JOE,The Aschen doctors said you were fine.
+0,80,50,CARTER,This isn't just about me. I read this right from an Aschen terminal; Mollem gave me access to work on something else. The birth rate has been cut over ninety percent.
+0,80,50,JOE,Oh my God. It was supposed to be a third of that.
+0,80,50,CARTER,You knew?
+0,80,50,JOE,The Aschen insisted on it.
+0,80,50,CARTER,"Oh, my God..."
+0,80,50,JOE,Honey they see farther ahead than we do. They knew that if we didn't limit growth --
+0,80,50,CARTER,Is that what you call this?
+0,80,50,JOE,This obviously isn't what we agreed to
+0,80,50,CARTER,I can't believe this --
+0,80,50,JOE,We didn't have a choice Sam
+0,80,50,CARTER,You sold us out --
+0,80,50,JOE,You think this was my decision -- ?!
+0,80,50,CARTER,You could have told me
+0,80,50,JOE,"Oh, come on, you know how it works! Before the Alliance you spent most of your adult life in secrecy"
+0,80,50,CARTER,Please that was different --
+0,80,50,JOE,Sam It's the same.
+0,80,50,CARTER,No
+0,80,50,JOE,"It's exactly the same. Our population was unsustainable. Without drastic measures the Aschen didn't think we were worth investing in. Obviously they went too far, but I can't believe they did this deliberately. There must be some sort of reverse medical procedure they have."
+0,80,50,CARTER,You still don't get it --
+0,80,50,JOE,Sooner or later the goa'uld would have wiped us out; would you have preferred that?
+0,80,50,CARTER,The Aschen way is slower. That's all..
+0,80,50,JOE,"They're not limiting growth, they're. I have to talk to the President.I.."
+0,80,50,CARTER,"Yes, you do. But not about this."
+0,80,51,CARTER (CONT'D),I need you to take this iris remote and change it with the one on the presidents desk without getting caught. And bring the other one back to my lab. I need you to do this first thing tomorrow.
+0,80,51,JOE,How am I gonna do that?
+0,80,51,CARTER,"Just Come up with some excuse, I don't care, but you can't say one word about what we've talked about or they will kill you."
+0,80,53,O'NEILL,Hot in here?
+0,80,53,CARTER,"This is a real time representation of the actual sun, recorded by Aschen satellites all over the solar system."
+0,80,53,FRAISER,How do you use it to predict a flare?
+0,80,53,CARTER,I've been studying Aschen knowledge of solar dynamics for the Jupiter ignition project.
+0,80,53,CARTER,"There are significant changes Just beneath the surface of the sun preceding a flare that are detectable by the satellite net... Look right here... If my calculations are right, there should be a flare in about five seconds."
+0,80,54,DANIEL,That's it.
+0,80,54,CARTER,Now All we need to do is for the computer to predict another flare.
+0,80,54,CARTER,Have you got your travel papers for Chulak?
+0,80,54,FRAISER,Yeah all set.
+0,80,55,CARTER,Give this to Teal'c. It's the coordinates he'll need.
+0,80,55,O'NEILL,Joe's here...
+0,80,55,O'NEILL (CONT'D),Ambassador.
+0,80,55,JOE,I knew you'd have something to do with this.
+0,80,55,O'NEILL,Did you get it?
+0,80,55,CARTER,Thank you.
+0,80,55,JOE,What do you gonna to do with it?
+0,80,55,O'NEILL,Send a message.
+0,80,55,JOE,To who?
+0,80,55,O'NEILL,To whom. Let's have it.
+0,80,55,JOE,I'll hand it over if you give me your word that Samantha will play no part in this.
+0,80,55,O'NEILL,I can't do that
+0,80,55,JOE,It's in a briefcase at the customs office at the Stargate Terminal. They've been instructed not to release it without my authorization. Your word.
+0,80,55,O'NEILL,We need her to pull this off.
+0,80,55,JOE,"Whatever it is, you'll have to do it without Sam."
+0,80,55,CARTER,"Joe, unless I help --"
+0,80,55,JOE,"This is not negotiable. You don't want to tell me what it is you're planning, fine; I'm better off not knowing. But if it involves G.D.0's, then it involves the Stargate.And the terminal is the last heavily defended place left on Earth. I will not let you risk Sam's life."
+0,80,55,O'NEILL,Okay.
+0,80,55,CARTER,You won't have back up --
+0,80,55,O'NEILL,We won't need it.
+0,80,55,DANIEL,Um... The sun's beeping.
+0,80,55,CARTER,We have a flare prediction... fifty seven minutes from now. Is that enough time?
+0,80,55,O'NEILL,It'll have to do.
+0,80,56,O'NEILL,Thank you.
+0,80,56,JOE,"If you can manage, give us enough time to get away from here --"
+0,80,56,O'NEILL,The message goes in six minutes.
+0,80,56,JOE,Sam wanted me to wish you good luck.
+0,80,56,O'NEILL,Give her my best.
+0,80,65,JOE,All right Let's go.
+0,80,65,CARTER,I'm staying. You go if you want to
+0,80,65,JOE,C'mon. Sam we gotta go
+0,80,66,CARTER,Joe doesn't --
+0,80,66,JOE,Sam. Listen to me. We can work this out all right. Right now I think it's best for both of us if we're very far away from here...
+0,80,66,CARTER,If they manage to do this it won't matter where we are.
+0,80,67,MOLLEM,Colonel O'Neill?
+0,80,67,O'NEILL,Melon?
+0,80,67,MOLLEM,Mollem.
+0,80,67,O'NEILL,Mollem.I'm Sorry it's the war you know
+0,80,67,MOLLEM,You didn't come to the Anniversary celebration.
+0,80,67,O'NEILL,What's to celebrate? I say
+0,80,67,MOLLEM,Surely the Aschen have proven your earlier misgivings erroneous. For all we've done.
+0,80,67,O'NEILL,Yes.You've certainly done your part.
+0,80,67,MOLLEM,What brings you here?
+0,80,67,O'NEILL,"Well, you know my friend Teal'c. I missed him at the celebration. He's coming into town. I brought him a hat."
+0,80,68,O'NEILL,He's right on time.
+0,80,69,DIALER,"I'm sorry, sir, but weapons are not allowed."
+0,80,70,DANIEL,"It's archaeological equipment, this happens every time..."
+0,80,71,TEAL'C,We carry these for ceremonial purposes only
+0,80,71,DIALER,"I'm sorry, but you'll have to let me have it."
+0,80,71,TEAL'C,Very well.
+0,80,76,MOLLEM,What's happening?!
+0,80,89,JOE,"Shut off the system! I'm the Confederation Ambassador, shut down the system"
+0,80,91,NO!,
+0,80,92,TECHNICIAN,Incoming traveller!
+0,80,93,HAMMOND,Who is it?
+0,80,93,TECHNICIAN,"It's... SG-1, sir."
+0,80,93,O'NEILL,Hello...
+0,80,93,FRAISER,How can that be?
+0,80,94,HAMMOND,Let's find out. Defense teams stand by! Open the Iris.
+0,80,96,HAMMOND,Stand down. What is it?
+0,80,97,DANIEL,Well?
+0,80,97,O'NEILL,You tell me.
+0,80,97,DANIEL,Under no circumstances go to P4C 970. Colonel Jack O'NEILL. That looks like your handwriting.
+0,80,97,O'NEILL,It is my handwriting. And that's my signature.
+0,80,97,TEAL'C,Though you sent no such note.
+0,80,97,O'NEILL,No.
+0,80,97,FRAISER,Sir may I?
+0,80,97,FRAISER,"That looks like blood, sir."
+0,80,97,HAMMOND,Have it analyzed.
+0,80,97,O'NEILL,"General, wasn't 970 on our mission list?"
+0,80,97,HAMMOND,It was. Not anymore. I'm not taking any chances I want P4C 970 removed from the dialing computer immediately. Dismissed.
+0,80,98,CARTER,I wonder why you sent it... I wonder when.
+0,80,98,O'NEILL,Yeah. You gotta wonder..

@@ -1,0 +1,309 @@
+Season,Episode,Scene,Character,Line
+0,158,0,STARGATE SG1,Episode 806
+0,158,0,"""AVATAR""",By Damian Kindler Transcribed by
+0,158,1,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,2,TEALC,"Give me your weapon. (The SF hands his rifle over. Tealc stands facing the door, then nods to the SF who swipes his card through the reader. The door opens and one of the SFs is immediately shot by whoever is inside the Gateroom. As Tealc enters the Gateroom, another SF already inside is shot down. Tealc fires at whoever is on the ramp as yet another SF goes down. The camera swings round and we see that one of Anubis super-soldiers is on the ramp firing at anything that moves. The Gateroom is full of gunned-down troops. The other door to the Gateroom opens and some more SFs, together with Jack, rush through. As Jack comes into the room, a shot from the super-soldier hits him directly in the chest and he goes down. Tealc is briefly distracted by the death of his friend, but then looks down and sees a Telchak rifle on the ground near one of the dead SFs. He dives to the ground, picks up the gun as he rolls, then surges up and fires it at the super-soldier. The shot hits it smack in the middle of the chest and it falls to the ramp. After several seconds, the light in its eyes goes out. Tealc stands up and looks around the Gateroom. Theres a large white flash and ..."
+0,158,3,LEE,"Simulation time - forty-nine seconds?! ... Its not bad, not bad."
+0,158,4,ONEILL,How was it? Was it fun?
+0,158,4,TEALC,"Indeed. You died well in battle, ONeill."
+0,158,5,ONEILL,Obviously theres something defective with this thing.
+0,158,5,TEALC,Agreed. An Anubis drone is a far more formidable warrior than this simulation would suggest.
+0,158,5,LEE,"What?! Look, weve been working on this chair for two years to make it a viable virtual reality training tool for SGC personnel."
+0,158,5,TEALC,You have failed.
+0,158,5,ONEILL,Hes nothing if not honest.
+0,158,5,LEE,"Well, I mean, maybe we could, er, it could use a little more work but ..."
+0,158,5,ONEILL,Can you make it harder ... more difficult?
+0,158,5,LEE,"Well, I mean, we can input the parameters for different scenarios, but the vast majority of the simulation array comes from the mind of the user. The programming is actually built by interfacing memories from the individuals consciousness with the chairs matrix."
+0,158,5,ONEILL,"Carter, all I heard was matrix and I found those films quite confusing."
+0,158,5,CARTER,I think what Doctor Lee is trying to explain is that the simulation actually learns its realism from the person using it.
+0,158,5,ONEILL,What?
+0,158,5,LEE,"Yeah. No, we built it, we tested the software extensively using a variety of subjects - obviously no-one with Tealcs field experience."
+0,158,5,ONEILL,Subjects - to whom do you refer?
+0,158,6,LEE,"Well, um ... Hey - if Tealc would agree to work with us a little more. Look, all youd have to do is basically just play the game, let it learn from you. Oh, come on, itd be fun - youd be so good!"
+0,158,7,TEALC,Very well.
+0,158,7,ONEILL,There ygo. Just make sure theres a beginners level for the rest of us.
+0,158,7,LEE,"Oh yeah, we can always make it easier ... not-not that wed have to for you, certainly. I mean, for others, but you-youd be fine, uh ..."
+0,158,7,ONEILL,Carter. Gentlemen.
+0,158,8,LEE,"Thanks to Colonel Carters new code translation programme, we can actually monitor your progress through a graphic representation of your point of view."
+0,158,8,CARTER,Youve played Doom.
+0,158,8,TEALC,I played Def Jam Vendetta.
+0,158,8,LEE,"Exactly, yes. Now, there is a two second delay between the chairs processor and your perceived experience, but, um, you shouldnt notice anything. Anyway, we can, uh, store every aspect of your activity in the game and then later choose what were going to incorporate into our programming of the training scenario. Oh, you understand - as before, once your mind is interfaced with the chair we cannot forcibly remove the connection or cut power to the chair without endangering you."
+0,158,8,TEALC,Indeed.
+0,158,8,CARTER,"Its a function of the new chair design. Since the whole Gamekeeper incident, the aliens of P7J-989 built the shut-off command into the internal programming, so only someone in the chair can control it."
+0,158,8,TEALC,"You have previously given me this information, Colonel Carter."
+0,158,8,LEE,This is a little different this time because the game will actually be learning from you and then incorporating those changes into its programming code.
+0,158,8,CARTER,"If youre killed in the game, it will re-set and youll automatically start again. The chair will only disconnect and end the game under two conditions: once you complete the scenario; or if you engage the internal failsafe, which of course youre free to do at any time."
+0,158,8,TEALC,That will be unnecessary.
+0,158,8,CARTER,"Dont be so cocky, Tealc. The chair is intuitive - its eventually gonna learn everything you know. Now, if you wanna stop it before the conclusion of the simulation, just get to the base elevator, head for the surface. Ready?"
+0,158,8,TEALC,Proceed.
+0,158,8,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,9,TEALC,Give me your weapon.
+0,158,10,CARTER,What just happened?
+0,158,10,LEE,It looks like the chair induced a pain response when he was killed.
+0,158,10,CARTER,Its directly linked to his brain - we knew it was capable of this.
+0,158,10,LEE,"Yeah, but its just a simulation, it doesnt have to hurt."
+0,158,10,CARTER,"Yeah, see, thats the difference between you and Tealc. He knows that in a real situation your tactics would be completely different if you thought you couldnt feel any pain."
+0,158,10,LEE,"Man, that was a heck of a shock."
+0,158,10,CARTER,Hed want it to be realistic.
+0,158,10,LEE,"Well, fortunately we limited the chair from being able to deliver any sort of lethal jolt."
+0,158,11,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,12,TEALC,ONeill.
+0,158,12,ONEILL,"Get outta here, Tealc."
+0,158,13,LEE,Thats twice. Looks like the chair is learning quickly.
+0,158,13,CARTER,Dont count Tealc out yet.
+0,158,14,DANIEL,"Ooh, thats cold!"
+0,158,14,LEE,"Colonel, Im, uh, pretty concerned about some of these bioreadings."
+0,158,14,CARTER,"Me too. Doctor Carmichael, this is Colonel Carter. Can you join us in Science Lab 5?"
+0,158,14,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,15,CARTER,Tealc.
+0,158,15,TEALC,"Colonel Carter, I require your assistance."
+0,158,15,CARTER,Likewise. SG-3 came in hot - sounds like our Gateroom people could use a little back-up.
+0,158,15,TEALC,They are all dead.
+0,158,15,CARTER,Excuse me?
+0,158,15,TEALC,The Gateroom has been breached. Our most effective defence will be to seal off the east and south ends of level 28. If we act now we may be able to force them into a cross-fire.
+0,158,15,CARTER,Force who?
+0,158,15,TEALC,The two Anubis warriors.
+0,158,15,CARTER,How the hell can you know that?
+0,158,15,TEALC,Because they have chosen the same route seven of the last ten times.
+0,158,17,MALE VOICE,"Colonel, we have two hostiles headed your way."
+0,158,17,CARTER,"Roger that, were in position. Heads up, people."
+0,158,18,TEALC,Fall back!
+0,158,19,CARMICHAEL,"Well, you were right to be concerned about these readings. Frequent sympathetic spikes in his natural adrenaline production are causing blood pressure and heart rate way too high to be sustained over the long term."
+0,158,19,CARTER,That last ambush should have worked. Why did the energy weapon have no effect?
+0,158,19,LEE,I dunno. Have you ever known a super-soldier to be resistant to the weapon like that in reality?
+0,158,19,CARTER,No.
+0,158,19,DANIEL,"But its possible, right? I mean, weve seen situations where the Goauld have adapted their technology to defend against something weve thrown at them."
+0,158,19,LEE,"Well, hopefully the gamell also extrapolate possible solutions and offer them to Tealc. Well, I mean, itd just be fair."
+0,158,19,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,19,CARTER,"Tealc, SG-3 came in hot. Sounds like the Gateroom people could use some back-up. Weve gotta move!"
+0,158,19,TEALC,"Colonel Carter, listen to me. The SGC has been penetrated by two Anubis drones. Our weapons are now ineffective against their armour."
+0,158,19,CARTER,How could you ...?
+0,158,19,TEALC,How is this possible?
+0,158,19,CARTER,Thats what I wanna know!
+0,158,19,TEALC,I am speaking of the armour.
+0,158,19,CARTER,It could have been altered to resist the effectiveness of the energy weapon.
+0,158,19,TEALC,Can they now be defeated?
+0,158,19,CARTER,Ive been working on a frequency modulator chip.
+0,158,19,TEALC,Where is it?
+0,158,19,CARTER,"In my lab, but I still dont ..."
+0,158,19,TEALC,Show me.
+0,158,20,CARTER,Its only a prototype.
+0,158,20,HARRIMANS VOICE,Warning. Base auto-destruct sequence has been activated.
+0,158,21,DANIEL,Nice of you to join us!
+0,158,21,CARTER,Been busy.
+0,158,21,DANIEL,Theyve found a way to counteract our little weapons here.
+0,158,22,HARRIMANS VOICE,Warning. Base auto-destruct sequence has been activated. Thirty seconds to detonation.
+0,158,23,HARRIMANS VOICE,Base auto-destruct has been aborted.
+0,158,23,CARTER,Were clear.
+0,158,23,TEALC,Then the threat has been eliminated. The threat has been eliminated.
+0,158,24,CARTER,"Tealc, youre injured."
+0,158,24,DANIEL,Tealc?
+0,158,24,TEALC,Im fine.
+0,158,25,LEE,I dont get it. That should be the end.
+0,158,25,DANIEL,Youre saying he should have won.
+0,158,25,CARTER,Well that was the conclusion of the originally-programmed scenario.
+0,158,25,CARMICHAEL,But the chair is not disconnecting.
+0,158,25,LEE,"Yeah, and the games not re-setting to the beginning either."
+0,158,25,DANIEL,Well thats not fair - you cant win a race if someone keeps moving the finish line.
+0,158,25,LEE,"He said he wanted it to be harder, more realistic."
+0,158,25,DANIEL,In reality we havent defeated the Goauld.
+0,158,25,LEE,Are you saying the game wont end until he defeats all the Goauld?
+0,158,25,DANIEL,"I dunno, you tell me. You said the game was learning the rules from Tealc."
+0,158,25,CARTER,"Yeah, but the parameters cant go beyond the base invasion scenario."
+0,158,25,DANIEL,Can you get him out?
+0,158,25,CARMICHAEL,Not without risking serious neural damage.
+0,158,25,CARTER,The game has a failsafe. All Tealc has to do is quit.
+0,158,25,DANIEL,Yeah - Tealc quit
+0,158,26,DANIEL,Anubis drones must have waited for SG-3 to dial the Gate and then overwhelmed them at the last minute. What I cant figure out is how they knew how to set the base self-destruct.
+0,158,26,CARTER,I cant believe General ONeill is really dead.
+0,158,26,TEALC,He is not dead.
+0,158,26,CARTER,What?
+0,158,26,TEALC,We must focus on the situation. The threat has not been neutralised.
+0,158,26,DANIEL,What?
+0,158,26,TEALC,We will search the base immediately. More warriors remain.
+0,158,26,DANIEL,What?!
+0,158,26,CARTER,He also knew the super-soldiers armour was resistant to our energy weapons.
+0,158,26,DANIEL,Sergeant Harriman reported that there were only two intruders before he got killed.
+0,158,26,TEALC,They held the Control Room long enough to keep the iris open and let others through.
+0,158,26,DANIEL,"Maybe, but the Gate logs would have indicated there was another incoming wormhole."
+0,158,26,TEALC,The threat has not been neutralised. There are others - I am certain of it.
+0,158,26,DANIEL,Because ...?
+0,158,26,TEALC,The game has not yet ended.
+0,158,26,DANIEL,"Tealc, I know this isnt your strongest suit but this is a really bad time for jokes."
+0,158,26,TEALC,You are all part of a simulation designed to test the SGCs preparedness in case of Gate breach. None of you are real. I am fine.
+0,158,27,HARRIMANS VOICE,Warning. Base auto-destruct sequence has been activated.
+0,158,28,DANIEL,Sam?
+0,158,28,CARTER,I dont understand it - somebody must have reactivated the auto-destruct from a remote location. Im locked out of the system - I cant shut it down.
+0,158,28,DANIEL,How did you know?
+0,158,29,CARMICHAEL,His heart rate and blood pressure are too high.
+0,158,29,CARTER,How long can he do this?
+0,158,29,CARMICHAEL,"I dont know - a day, maybe less."
+0,158,29,DANIEL,I thought the chair wasnt supposed to be able to kill him?
+0,158,29,CARTER,The physiological effects it can have at any one time are limited.
+0,158,29,CARMICHAEL,"Yes, but Im afraid that while each individual pain stimulus isnt in any way life-threatening, the cumulative effect is now starting to take its toll. If he doesnt have a heart attack hell eventually run out of adrenaline. His heart will slow down, his blood pressure will drop, his entire organ system is gonna fail."
+0,158,29,DANIEL,Death by a thousand cuts.
+0,158,30,TEALC,You must disable the auto-destruct command.
+0,158,30,CARTER,What?!
+0,158,30,TEALC,The SGC will be breached by Anubis warriors. They will attempt to destroy the base via the auto-destruct command.
+0,158,30,CARTER,What are you talking about?
+0,158,30,TEALC,If you disable the command theyll be forced to use other means to achieve the goal. Only then can we hope to defeat them.
+0,158,30,CARTER,"Tealc, how could you possibly know"
+0,158,31,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,32,TEALC,There is little time.
+0,158,33,LEE,"Colonel - hes at level 28. Hes already got the modulator chip and hes used it to kill the first two super-soldiers. Hes hunting for the third ... Man, hes not in good shape."
+0,158,36,DANIEL,This is ridiculous - its torturing him.
+0,158,36,LEE,Why wont he quit?
+0,158,36,DANIEL,Wait a minute - hes heading for the elevator.
+0,158,36,CARTER,Hes gonna use the failsafe.
+0,158,37,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,39,CARTER,It didnt work - hes back in the game.
+0,158,40,ONEILL,"Yknow, I always thought a failsafe system was supposed to be somewhat safe ... from failure."
+0,158,41,CARTER,"From the beginning, in Tealcs mind the goal was to make the simulation as real as possible. As much as he must now wanna quit, we think the game evaluated his character and decided that if this were a real situation, Tealc would never give up under any circumstances."
+0,158,41,ONEILL,"Well, its right. Its also just a game."
+0,158,41,CARTER,The game doesnt know that.
+0,158,41,ONEILL,So how do we get him out?
+0,158,41,CARMICHAEL,"Well, removing the connections while the system is operating is very dangerous, potentially fatal. On the other hand, the physical stress that the chair is putting him under will eventually kill him anyway."
+0,158,41,CARTER,Right now the only way out is for Tealc to win the game.
+0,158,41,ONEILL,Can he?
+0,158,41,CARTER,"It seems to be getting harder and harder. Every time it appears hes won, the game adds a new twist."
+0,158,41,ONEILL,So its not gonna let him win.
+0,158,41,CARTER,"No - the chair doesnt have an ego; its not trying to beat Tealc, just provide a challenge thats worthy of his abilities."
+0,158,41,DANIEL,Ironically its Tealcs ego that created this problem in the first place - not that his self-image isnt entirely accurate.
+0,158,41,CARMICHAEL,"If this continues, hes gonna require adrenaline to sustain his heartrate. And the thing is, I cant keep him going like this for long."
+0,158,41,CARTER,There has to be a way for him to win.
+0,158,43,CARMICHAEL,I think its helping.
+0,158,43,LEE,Yeah. Yeah.
+0,158,45,CARTER,Theyve adapted their armour.
+0,158,45,TEALC,Cover me.
+0,158,45,TEALC,Colonel Carter.
+0,158,45,CARTER,"Tealc, whats going on? What are you doing with a thermographic sensor?"
+0,158,46,TEALC,There is a third drone.
+0,158,46,CARTER,Are you sure? I thought only two came through.
+0,158,46,TEALC,Im certain. He is using a cloak of invisibility.
+0,158,47,CARTER,Nice one.
+0,158,47,TEALC,Yet it is not yet over.
+0,158,47,CARTER,There are more?
+0,158,47,SILER,Colonel?
+0,158,47,CARTER,Go ahead.
+0,158,47,SILER,"Maam, Ive got a problem with the naqahdah generator in Storage Room 28-F9."
+0,158,49,SILER,I cant stop it.
+0,158,49,CARTER,Someones rigged it on a feedback loop. Theres not enough time to stop the overload.
+0,158,50,CARTER,"Sergeant, dial the Gate now - P4M-523."
+0,158,50,HARRIMAN,"Yes, maam. Starting dialling sequence."
+0,158,51,HARRIMAN,Chevron one encoded.
+0,158,51,HARRIMAN,Chevron two encoded.
+0,158,51,HARRIMAN,Chevron three encoded.
+0,158,51,HARRIMAN,Chevron four ... arghh!
+0,158,51,CARTER,Daniel? What the hell are you doing?!
+0,158,52,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,53,HARRIMANS VOICE,Warning. Base auto-destruct sequence has been activated.
+0,158,59,CARTER,Hows he doin?
+0,158,59,DANIEL,Not well. His physical exhaustions translating into the game. Its like hes having trouble even playing any more - it still wont let him go.
+0,158,59,CARTER,I spoke to one of the scientists on P7J-989. He says theres nothing they can do under the circumstances.
+0,158,59,DANIEL,What are you doing?
+0,158,59,CARTER,They had a neural imprint of Tealcs mind on file from when we were trapped in the chairs six years ago.
+0,158,59,DANIEL,Creepy!
+0,158,59,CARTER,"Yeah - Im trying not to think about it. Anyway, Im running a simulation on this chair using the same parameters that Tealcs dealing with now."
+0,158,59,DANIEL,And?
+0,158,59,CARTER,"Well, the imprints nowhere near the same as a live active mind. Plus a lot has changed in the last six years."
+0,158,59,DANIEL,"Yeah, but not the essence of Tealcs character."
+0,158,59,CARTER,"See, thats what worries me. I hope it has. Now, I have run hundreds of simulations. No matter what Tealc does, the programming adapts. Every time it looks like hes won, the chair makes it harder. Its almost like the game is reading Tealcs mind and somehow seeing this one game as a microcosm for our war against the Goauld."
+0,158,59,DANIEL,"Well, thats how Tealc probably treats every battle we fight with em."
+0,158,59,CARTER,"Well, according to these results, six years ago - despite what Tealc led us to believe - deep down, he didnt really think the Goauld could ever be defeated."
+0,158,59,DANIEL,"Well, he doesnt think that now. He cant, not after everything weve accomplished."
+0,158,59,CARTER,"I hope youre right, otherwise no matter how long or hard Tealc plays the game, he wont win."
+0,158,60,CARMICHAEL,This cant go on for much longer. Were gonna have to make a decision pretty soon about forcibly removing the connections.
+0,158,60,ONEILL,"Yknow, its too bad we cant hook up a joystick to this thing - give him a little help, a little back-up, maybe."
+0,158,61,LEE,"Actually, we could link up another chair and send someone else into the same simulation. Oh - it wouldnt make any difference; the processors would network and the second person would just fall victim to the same altered elements in the simulation that have already trapped Tealc."
+0,158,61,CARTER,"Unless the new player had an advantage. Sir, you may have done it again."
+0,158,61,ONEILL,Yes. ... Howd I do it this time?
+0,158,61,CARTER,"These graphics are being generated by a data recorder thats tracking the game. Its actually interfaced into the system between the chairs processor and Tealc. The chair decides whats gonna happen - Tealc responds. Those responses are then incorporated, processed, and we see the results. Its a continuous loop of ever-changing data."
+0,158,61,ONEILL,Oh Still waitin on my good idea.
+0,158,61,CARTER,The recorder causes a two second delay between the programming in the chair and the experience in Tealcs mind. He wont know the difference but we could use it to our advantage.
+0,158,61,LEE,If we hook up the second chair to the first without using the recorder in the loop ...
+0,158,61,CARTER,... the new player would know what was about to happen in the game two seconds before it occurred.
+0,158,61,DANIEL,Like precognition.
+0,158,61,CARTER,Exactly. Its not much but it might give us enough of an edge to help both players win.
+0,158,61,LEE,Thats assuming the chairs programming wont become aware of it and adapt.
+0,158,61,CARMICHAEL,Which would mean that theres a good chance that the second player could be trapped along with Tealc.
+0,158,62,ONEILL,Ill go.
+0,158,62,DANIEL,Ill go.
+0,158,62,CARTER,Ill do it.
+0,158,62,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,63,DANIEL,Tealc!
+0,158,63,DANIEL,"What are you doing? No, dont, dont!"
+0,158,65,ONEILL,Whyd he shoot him?
+0,158,65,CARTER,Because Daniel was a Goauld in the last several simulations.
+0,158,65,ONEILL,I told you I shoulda gone.
+0,158,65,CARTER,The last thing we needed was the game learning from your tactical experience.
+0,158,67,DANIEL,I gotta get used to this.
+0,158,67,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,69,DANIEL,"Easy. Dont shoot. Just hear me out. OK, its me - Im real, Im not a Goauld, and Im gonna prove that to you, OK?"
+0,158,71,DANIEL,Crap!
+0,158,71,HARRIMANS VOICE,Threat level: Foxtrot Alpha Six. All security teams to the Gateroom.
+0,158,73,DANIEL,"Im sorry, buddy, youre gonna have to listen to me. OK - now a minute ago we were in Sams lab, I was trying to convince you I was real and you shot me, remember? What happened next? The game re-set. I know - its probably happened so many times its just one big blur, but the reason it happened this time is because Im playing too. Im in the chair, just like you. If either one of us die, we both lose."
+0,158,74,TEALC,It can no longer be helped.
+0,158,74,DANIEL,I know. The game thinks in a real situation youd never quit.
+0,158,74,TEALC,"No matter what I do ... it is not possible, Daniel Jackson, it is not possible."
+0,158,74,DANIEL,"Yes it is. Thats why Im here. . Cmon, lets do this - together."
+0,158,75,TEALC,We must leave this area immediately.
+0,158,75,DANIEL,"Yeah, I heard that."
+0,158,76,TEALC,You possess the ability to foresee the future.
+0,158,76,DANIEL,"Yeah, two seconds in the future. To be honest with you, its kinda freaking me out. Two seconds is not a lot of time. Maybe, uh, just a chance to see something happen and all I can see is ... watch out. No, seriously, watch out!"
+0,158,76,CARMICHAEL,Were gonna need a crash cart in here.
+0,158,76,LEE,You cant introduce an electrical impulse to the chair like that!
+0,158,76,CARTER,Hes right.
+0,158,76,CARMICHAEL,Theres a very good chance Tealc is going to go into cardiac arrest if he suffers one more re-set.
+0,158,77,DANIEL,Tealc!
+0,158,77,CARMICHAEL,His hearts stopped.
+0,158,77,CARTER,Hes got a pulse.
+0,158,77,CARMICHAEL,Thats not gonna work again.
+0,158,77,ONEILL,I dont wanna see that again! I thought they were gonna be able to beat this thing.
+0,158,77,CARTER,"It may take Daniel a while to adjust to the precognitive abilities, plus two seconds isnt a lot of time. Hell need the right opportunity to take advantage of it."
+0,158,78,TEALC,Search for the modulator chip to compensate for the drones modified armour.
+0,158,78,DANIEL,Any idea where she keeps it?
+0,158,78,TEALC,It changes location each time.
+0,158,78,DANIEL,Of course it does! Found it! Down. Yeah - this could work.
+0,158,79,DANIEL,Why didnt you shoot him?
+0,158,79,TEALC,"Such an action has always proven fatal. On previous versions of the game, when Ive eliminated a drone from this location, it has inevitably attracted the attention of a third cloaked drone."
+0,158,79,DANIEL,So well shoot him too.
+0,158,79,TEALC,It was merely a diversion designed to allow a Goauld enough time to destroy the base. It will use either our self-destruct mechanism or a naqahdah generator designed to overload.
+0,158,79,DANIEL,And if you try and stop one it uses the other.
+0,158,79,TEALC,Indeed.
+0,158,79,DANIEL,I suppose the identity of that Goauld always changes too.
+0,158,79,TEALC,Yes. I believe it to be the final component of the game we must overcome.
+0,158,80,ONEILL,You guys alright?
+0,158,80,DANIEL,"Oh, yeah. Thanks."
+0,158,80,TEALC,The naqahdah generator.
+0,158,80,ONEILL,You guys alright?
+0,158,81,CARTER,"Almost got it, just give me a second."
+0,158,81,TEALC,Step away from the device.
+0,158,81,CARTER,"Tealc, what are you doing? Weve got less than a minute before this thing goes critical."
+0,158,82,T?,
+0,158,82,TEALC,Step away.
+0,158,82,DANIEL,Id do as he says.
+0,158,82,ONEILL,What the hells goin on here?
+0,158,82,CARTER,"Tealc, were all gonna die if you dont let me stop that overload."
+0,158,82,TEALC,She may be a Goauld.
+0,158,82,CARTER,It was Siler .
+0,158,82,ONEILL,Siler?!
+0,158,82,DANIEL,Siler?
+0,158,82,CARTER,He was in here - I found him setting the generator.
+0,158,82,ONEILL,"Tealc, put the weapon down. Thats an order."
+0,158,83,DANIEL,"What if its not her? You said yourself, you could never tell who it was until the last second."
+0,158,83,TEALC,"You may be correct, Daniel Jackson."
+0,158,83,ONEILL,Heyyy!
+0,158,83,ONEILL,Now what?
+0,158,83,DANIEL,I know for a fact its not me or Tealc.
+0,158,84,TEALC,Daniel Jackson!
+0,158,84,DANIEL,I dont know. I cant tell.
+0,158,84,ONEILL,Carter.
+0,158,84,TEALC!,
+0,158,84,ONEILL,Carter!
+0,158,85,DANIEL,Is it finished?
+0,158,85,CARTER,Yeah. You did it.
+0,158,85,CARTER,Shutting off power to both chairs.
+0,158,86,TEALC,ONeill.
+0,158,86,ONEILL,Hey.
+0,158,86,TEALC,We have won.
+0,158,86,ONEILL,Well - its what we do.

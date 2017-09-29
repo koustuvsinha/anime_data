@@ -1,0 +1,391 @@
+Season,Episode,Scene,Character,Line
+0,132,0,STARGATE SG1,Episode 702
+0,132,0,"""HOMECOMING""",By Joseph Mallozzi & Paul Mullie SGC - 'Gate Room The 'gate is spinning up. The alarm klaxons are blaring.
+0,132,0,DAVIS,"Receiving IDC, sir. It's SG-1."
+0,132,0,HAMMOND,"Open the iris. Hammond walks down to the 'gate room. The iris opens and after a few seconds, Sam and Jack step through the 'gate, along with a couple of others."
+0,132,0,HAMMOND,"Colonel, Major..."
+0,132,0,CARTER,"Our mission objective was a success, sir. Anubis's new weapon has been neurtralized."
+0,132,0,HAMMOND,Well done. What about Jonas and Dr. Jackson?
+0,132,0,JACK,Still on the ship.
+0,132,0,CARTER,Anubis went into hyper-space before we could do anything.
+0,132,0,HAMMOND,Do we have any idea where they went?
+0,132,0,CARTER,"No, sir."
+0,132,1,ANUBIS,You appear to be unharmed by the mind probe.
+0,132,1,JONAS,"*Scoffs* I appreciate the concern. You seem...calm, considering some lowly humans just put a serious crimp in your plans for galactic domination."
+0,132,1,ANUBIS,"Your insolence amuses me. I've learned many valuable things from you, Jonas Quinn. I now know Dr. Jackson accompanied you aboard this ship."
+0,132,1,JONAS,Do you know where he is?
+0,132,1,ANUBIS,He continues to elude our sensors...but his time is running out.
+0,132,1,JONAS,Nothing you learn from me is going to help you.
+0,132,1,ANUBIS,"Oh, we will see about that. Have a look out the window. Jonas turns to look out the window. He sees a lot of what appear to be clouds, but the view is obscured by white mist."
+0,132,1,JONAS,"We, uh...dropped out of hyperspace."
+0,132,1,ANUBIS,I'm eager to find out more about this powerful variation of Naquadah discovered on your planet. I believe you call it Naquadria.
+0,132,1,JONAS,Where are we?
+0,132,1,ANUBIS,"Welcome home, Jonas Quinn. We see an external view of Kelowna. The camera pans up slightly and the clouds part to reveal Anubis' ship is hovering over the city."
+0,132,1,*NOTE,I'm thinking this is where they'll insert opening credits when they break these episodes up.
+0,132,2,HAMMOND,"We just receive a report from Tok'ra intelligence. So far, they have no information on the whereabouts of Anubis' ship."
+0,132,2,JACK,What about Teal'c?
+0,132,2,HAMMOND,We haven't heard anything. We can only assume he's still with Yu's fleet.
+0,132,2,CARTER,Any idea why the didn't show?
+0,132,2,JACK,I could make a guess...
+0,132,2,HAMMOND,You think Yu hung us out to dry.
+0,132,2,JACK,"I'm not going to touch that, sir."
+0,132,2,CARTER,I don't think he would have made a deal with Anubis...not with their history.
+0,132,2,JACK,Trust a Goa'uld...this is what you get.
+0,132,2,HAMMOND,"I understand how you feel, Colonel, but I approved this operation because I believed it was our best chance to deal Anubis a crippling blow."
+0,132,2,JACK,"Yes, sir. We hear the Stargate start spinning and the alarms start blaring."
+0,132,2,DAVIS,Unscheduled off-world activation. All three head down to the control room as the worm hole is established.
+0,132,2,DAVIS,"We're receiving a radio signal, sir."
+0,132,2,DREYLOCK,This is Ambassador Dreylock of the Kelownan High Council. Please respond.
+0,132,2,HAMMOND,This is General Hammond of Stargate Command.
+0,132,2,DREYLOCK,We request immediate assistance. We are under attack.
+0,132,2,HAMMOND,"We've been over this, Ambassador. We can't interfere in the internal affairs of your planet."
+0,132,2,DREYLOCK,You don't understand. We are under attack from a Goa'uld. He calls himself Anubis.
+0,132,3,JACK,Oy.
+0,132,4,TEAL'C,Why have I been detained? Lord Yu is without honor. This comment prompts the Jaffa with the First Prime to power up his staff weapon and aim it at Teal'c. JAFFA: Shol'va!
+0,132,4,YFP,"Jaffa! Kree, Jel-na."
+0,132,4,TEAL'C,We had an agreement.
+0,132,4,YFP,You have not been betrayed...not deliberately.
+0,132,4,TEAL'C,I do not understand.
+0,132,4,YFP,My master is not well. He spends most of his time in the sarcophagus. He is there even now.
+0,132,4,TEAL'C,Why does he not take another host?
+0,132,4,YFP,I believe he has reached the point where he is incapable. Lord Yu is the oldest of the system lords. He has reigned for countless centuries...but now I'm beginning to fear that...even gods cannot live forever.
+0,132,4,TEAL'C,Lord Yu is not a god.
+0,132,4,YFP,There was a time I would have struck you down for speaking those words.
+0,132,4,TEAL'C,But now?
+0,132,4,YFP,"He was convinced that Anubis was in the Chodawa system...and even though I knew this was not the case, I could not contradict him."
+0,132,4,TEAL'C,But you have seen that Lord Yu can make mistakes.
+0,132,4,YFP,"He's become increasingly paranoid...and confused. He speaks to himself, but his words make no sense...and he forgets key details...of our attack plans. And grows angry when I remind him."
+0,132,4,TEAL'C,"If what you say is true, you and your Jaffa are in grave danger. You must do something."
+0,132,4,YFP,I cannot betray him. I have devoted my life to his service.
+0,132,4,TEAL'C,"If this continues, Lord Yu's empire will fall. Millions of Jaffa will die. Lord Yu will be remembered as a fool. What meaning will your life have then?"
+0,132,5,CMDR,Have they agreed to help us?
+0,132,5,DREYLOCK,Not yet.
+0,132,6,DREYLOCK,"Colonel O'Neill, Major Carter..."
+0,132,6,CARTER,"Ambassador, Commander..."
+0,132,6,DREYLOCK,Thank you for coming.
+0,132,6,JACK,"What's going on, kids?"
+0,132,6,CMDR,A ship is hovering over the city. Alien troops have already taken the capitol building as well as other key positions.
+0,132,6,CARTER,"Where are we, exactly?"
+0,132,6,CMDR,This bunker is several hundred feet below an army base on the outskirts of the city.
+0,132,6,CARTER,The communicator should work. It was designed to transmit from Tok'ra tunnels.
+0,132,6,DREYLOCK,I don't understand.
+0,132,6,CARTER,We believe...two of our people may be on board that ship. One being Jonas Quinn. Jack takes the radio from Sam and walks a short distance away to try it out.
+0,132,6,JACK,"Daniel? Daniel, come in...it's O'Neill."
+0,132,6,DANIEL,Jack?
+0,132,6,JACK,What's your situation?
+0,132,6,DANIEL,I'm hiding. What's yours?
+0,132,6,JACK,Carter and I are on the planet.
+0,132,6,DANIEL,"You're gonna have to be a little more specific, Jack. I haven't had a chance to look out a window lately."
+0,132,6,JACK,You're hovering over Jonas's homeworld.
+0,132,6,DANIEL,Why?
+0,132,6,JACK,I wish I knew. Are you in any...immediate danger?
+0,132,6,DANIEL,"Ah, depends on what you mean by immediate."
+0,132,6,JACK,Daniel...
+0,132,6,DANIEL,I'm fine. I got a location on Jonas's cell from the ship's computer. I'm on my way there right now. I've just got a...couple of problems.
+0,132,6,JACK,Like what?
+0,132,6,DANIEL,"Well, I'm not sure how to shut off the force field protecting his cell yet."
+0,132,6,JACK,You said a couple?
+0,132,6,DANIEL,"Yeah, actually, I'm a little lost at the moment. And I've only got about, uh, three hours left before the Tok'ra Isotope wears off and I'm visible to the ship's sensors."
+0,132,6,JACK,"So, business as usual then, huh?"
+0,132,6,DANIEL,I don't know. Is it?
+0,132,6,JACK,"Yes, we do this kind of thing all the time. DANIEL: Oh, well, good. That's- that's comforting, then."
+0,132,7,YFP,This is a mistake.
+0,132,7,TEAL'C,"Lord Yu can no longer be permitted to command the opposition to Anubis. His Jaffa will follow your orders in his name, but others will not. And we need the combined force of the system lords."
+0,132,7,YFP,None of them can be trusted.
+0,132,7,TEAL'C,"Nonetheless, one must be chosen. A signal is heard in the background. Yu's First Prime turns to see what it is."
+0,132,7,YFP,The signal is coming through. We see Ba'al on the main screen.
+0,132,7,BA'AL,What is the meaning of this?
+0,132,7,YFP,Lord Ba'al...
+0,132,7,BA'AL,Where is your master? Why do you allow this...Shol'va to appear before me?
+0,132,7,TEAL'C,I am here to present an offer.
+0,132,7,BA'AL,I will not listen to the words of a traitor.
+0,132,7,TEAL'C,Then you will miss an opportunity to rid yourself of Anubis forever. Ba'al appears to reconsider.
+0,132,8,CMDR,"When the ship appeared, we were caught completely off-guard. There was widespread panic. Before we even knew what was happening, most of the High Council had been taken hostage. When we wouldn't give into his demands, Anubis had the First Minister executed. He also fired a volley into our industrial sector, destroying several factories and killing many innocent citizens. After that...we gave him what he wanted."
+0,132,8,JACK,Which was?
+0,132,8,CMDR,Naquadria...our entire stockpile.
+0,132,8,DREYLOCK,"Commander, we're receiving a transmission from the surface."
+0,132,8,CMDR,Excuse me a moment. Jack and Sam are left to discuss the situation in private and the Commander and the Ambassador attend to their message.
+0,132,8,CARTER,Anubis must have used that mind probe on Jonas. That's how he found out about the Naquadria.
+0,132,8,JACK,"Well, if he did, he knows the stuff only works half the time."
+0,132,8,CARTER,Just because we haven't been able to establish a stable power output doesn't mean he won't. And if he does...
+0,132,8,JACK,"Dada, D-Daaa...Dut, dut. The background music sort of echoes his hum."
+0,132,9,YFP,"The truth is, my master is no longer fit to lead the combined forces of the system lords."
+0,132,9,BA'AL,How dare you judge your god. The Shol'va has poisoned your mind.
+0,132,9,TEAL'C,"Clearly, Lord Ba'al is not interested."
+0,132,9,YFP,We should contact one of the other system lords.
+0,132,9,TEAL'C,Hm-mm. Perhaps Bastet.
+0,132,9,YFP,Mm-hmm.
+0,132,9,BA'AL,"If I assume command, how can I be assured of the loyalty of Yu's troops?"
+0,132,9,YFP,They will follow me in his name.
+0,132,9,BA'AL,And will you obey me?
+0,132,9,YFP,The destruction of Anubis is in my master's best interest. I will support any action that lead to this goal.
+0,132,9,TEAL'C,"If you are both in agreement, I must contact the Tau'ri to make the final arrangements"
+0,132,9,BA'AL,Then do so.
+0,132,9,TEAL'C,Take me to the nearest Stargate.
+0,132,10,CARTER,"Commander, you said you gave Anubis your entire stockpile of Naquadria?"
+0,132,10,CMDR,That's correct.
+0,132,10,CARTER,"So, if he got what he wanted, why is he still here?"
+0,132,10,CMDR,I have no idea. We've just learned his men have been rounding up archeaologists from the Academy of Sciences.
+0,132,10,CARTER,He may be trying to find the Stargate.
+0,132,10,JACK,How secure is this place?
+0,132,10,CMDR,It's top secret. We had the 'gate moved here after the Tiranians and Andaris began their air strikes.
+0,132,10,CARTER,"So, you did go to war?"
+0,132,10,DREYLOCK,"Yes, but we managed to negotiate a cease-fire."
+0,132,10,JACK,I thought you were out-gunned and out-manned?
+0,132,10,CMDR,We used the Naquadria bomb.
+0,132,10,JACK,On people?
+0,132,10,DREYLOCK,"Believe me, everyone immediately regretted it. The devastation was beyond anything we could have ever imagined."
+0,132,10,CMDR,We had no choice. As many Kelownans would have died had we done nothing. We were faced with our own destruction and you refused to help us.
+0,132,10,DREYLOCK,"And as awful as it was, it did succeed in bringing Tiranians and Andaris to the table. In fact, delegates had just arrived in the city for peace talks when all of this began."
+0,132,10,CARTER,Do they know about the Stargate?
+0,132,10,CMDR,No.
+0,132,10,JACK,"Well, they may have noticed the rather large ship floating in the sky. You might as well tell them the rest."
+0,132,10,CMDR,"Well, we were hoping it wouldn't come to that. Anubis has everything he came for. He may just leave."
+0,132,10,CARTER,"If Anubis can figure out how to overcome the instability of the Naquadria, it will give him a significant advantage over all of his enemies. Sooner or later he's going to want more."
+0,132,10,DREYLOCK,There is no more. The mine is dry.
+0,132,10,CARTER,You think he's gonna take your word for it? He will occupy this planet and enslave your people. We've seen it before.
+0,132,10,CMDR,"What can we do? Sam turns to look at Jack, who nods."
+0,132,10,CARTER,"If you want to fight, we'll help you. But we need the cooperation of the other major powers on this world. Dreylock and the Commander look at each other."
+0,132,11,GS,"My Lord, I have completed a preliminary analysis of the Naquadria. The potential energy output is much greater than that of regular Naquadah. The difficulty will be in maintaining a stable reaction."
+0,132,11,ANUBIS,This ship must have full power again. I will not accept failure.
+0,132,11,GS,"My Lord, We have already learned all we can from Jonas Quinn. Why keep him alive?"
+0,132,11,ANUBIS,"His physiology merits further experimentation. He may still prove to be very useful. He motions for the scientist to leave and the scientist complies. Then we see Daniel skulking around the corridors of the ship. He opens a door into a cargo area, enters and closes the door behind him. He finally finds the panel in the wall that he has been searching for. He knocks on it."
+0,132,11,DANIEL,"Jonas? Jonas, are you there?"
+0,132,11,JONAS,Daniel?
+0,132,11,DANIEL,Yeah...are you all right?
+0,132,11,JONAS,"Yeah, I'm fine. Where are you?"
+0,132,11,DANIEL,"Uh, I'm in a storage room about 20 feet from your current position."
+0,132,11,JONAS,Can you get me outta here?
+0,132,11,DANIEL,I'm working on it.
+0,132,12,DREYLOCK,"Colonel O'Neill, Major Carter, may I present the leaders of the Tiranian and the Andari peace delegations? Ambassador Sevaarin and Ambassador Noor. Colonel O'Neill and Major Carter are representatives of a planet called Earth."
+0,132,12,NOOR,They don't look very alien.
+0,132,12,JACK,We get that a lot. The Stargate begins activating.
+0,132,12,DREYLOCK,"And this, of course, is the Stargate."
+0,132,12,SEVAARIN,How does it work?
+0,132,12,JACK,Let's have a look. The whoosh causes Noor and Sevaarin to take a step back in shock.
+0,132,12,JACK,Something like that...
+0,132,12,NOOR,Incredible...
+0,132,12,JACK,Isn't it? Teal'c emerges from the Stargate.
+0,132,12,SEVAARIN,He is one of the enemy soldiers.
+0,132,12,JACK,Relax...he's one of ours. He and Sam go to greet Teal'c.
+0,132,12,TEAL'C,It is good to see the both of you again.
+0,132,12,CARTER,We got your message through General Hammond.
+0,132,12,JACK,Are you nuts?
+0,132,12,TEAL'C,"I believe it to be our only choice, O'Neill."
+0,132,13,DANIEL,"I don't know quite how to tell you this, but, uh...Anubis has taken this ship to your homeworld. We're in position right above the Kelownan capital."
+0,132,13,JONAS,"Yeah, I know. He's after the Naquadria. It's my fault. If it wasn't for me, he never would have found out about it."
+0,132,13,DANIEL,Don't blame yourself.
+0,132,13,JONAS,"Look, the point is, I joined Stargate Command so that maybe, one day, I could protect my planet from the Goa'uld. Instead, I brought them right to it."
+0,132,13,DANIEL,We'll find a way out of this.
+0,132,13,JONAS,Yeah?
+0,132,13,DANIEL,Apparently.
+0,132,14,JACK,We already trusted one Goa'uld...look where it got us.
+0,132,14,TEAL'C,"I do not trust Ba'al, O'Neill. But I believe, at least for the moment, his goal is the same as ours."
+0,132,14,JACK,"Well...all right. Have at it. Oh, yes...you do the talking. Teal'c and Jack move to address the others."
+0,132,14,TEAL'C,"We have made and agreement with another system lord named Ba'al. If we give him the location of this world, he will bring a fleet and destroy Anubis."
+0,132,14,NOOR,"You propose to bring more of these Goa'uld to our world? TEAL'C: For the moment, Anubis is vulnerable. He has but one ship and is preoccupied. But he believes his position to be secure because he knows the other system lords are unaware of this place."
+0,132,14,CMDR,"And if Anubis is destroyed, how do we know this Ba'al will leave us alone?"
+0,132,14,TEAL'C,That is part of the agreement.
+0,132,14,CMDR,You say we cannot negotiate with Anubis and these Goa'uld cannot be trusted...
+0,132,14,NOOR,"And yet, you ask us to trust another?"
+0,132,14,TEAL'C,Your world is facing an imminent threat.
+0,132,14,SEVAARIN,Kelowna is facing an imminent threat. There are no alien ships in the skies above Tirania.
+0,132,14,CMDR,See what we have to deal with?
+0,132,14,JACK,Haven't you guys ever heard the story of the dog and the dancing monkeys? Has something to do with getting along and...dancing. Carter...
+0,132,14,CARTER,"With all due respect, Mr. Ambassador, when Anubis comes looking for more Naquadria, he is not going to respect any borders. He will tear this planet apart, piece by piece, if he has to."
+0,132,14,JACK,"Bottom line is, I'm not going to approve any plan unless I have unanimous agreement from all parties."
+0,132,15,GS,My Lord.
+0,132,15,ANUBIS,Have you found a way to overcome the instability of the Naquadria?
+0,132,15,GS,I believe I have.
+0,132,15,ANUBIS,Then use the substance to power one of the ship's weapons arrays. I want it tested immediately.
+0,132,15,GS,We will need to select a target.
+0,132,15,ANUBIS,How fortunate that there is a city before us.
+0,132,15,GS,I am unsure of the destructive poser of this weapon. The blast radius from a single shot could conceivably encompass the entire city.
+0,132,15,ANUBIS,"If it does, you will have my congratulations. GS bows and leaves."
+0,132,16,CARTER,"Daniel, this is Sam...come in?"
+0,132,16,DANIEL,"Yeah, go ahead."
+0,132,16,CARTER,Did you find Jonas?
+0,132,16,DANIEL,"Yeah, but I'm still having trouble this...force field cell thing."
+0,132,16,CARTER,You're going to have to find a way to cut the power.
+0,132,16,DANIEL,How do I do that?
+0,132,16,CARTER,"I'm no sure, but we've only got a couple of hours to figure it out."
+0,132,16,DANIEL,What happens then?
+0,132,16,CARTER,Ba'al's fleet arrives.
+0,132,16,DANIEL,"Well, I've got 15 minutes till this isotope wears out and I'm visible to the ship's sensors. You know what? I think I'm gonna have to get back to you. I 've got company. Daniel hides as Jaffa come into the storage area."
+0,132,16,JAFFA,"Reltac. Tel shek anfar. Tel nor moklan n'ral. The two Jaffa accompanying him pick up a container and haul it out. They all start to leave, but the lead Jaffa hears something. JAFFA: Jaffa! Those carrying the container put it down and head back into the storage area. JAFFA: Sarit!"
+0,132,17,GS,The Naquadria generator is on-line. We are ready.
+0,132,17,ANUBIS,Charge the weapon. The GS moves to another control panel and complies.
+0,132,19,GS,"My Lord, the generator is overloading."
+0,132,19,ANUBIS,Abort the test.
+0,132,19,GS,I cannot abate the overload.
+0,132,20,JAFFA,Jaffa! Kree!
+0,132,21,BACK WITH ANUBIS,
+0,132,21,ANUBIS,Kill him. Herak complies. He shoots the Scientist with his staff weapon.
+0,132,22,DANIEL,Jonas.
+0,132,22,JONAS,What happened?
+0,132,22,DANIEL,I don't know.
+0,132,22,JONAS,"What ever it was, there's not enough power to maintain the force fields. Aah!"
+0,132,22,DANIEL,You okay? JONAS: That hurt.
+0,132,22,DANIEL,Arm?
+0,132,22,JONAS,A little numb. I think I can make it.
+0,132,22,DANIEL,"Well, you better. I don't wanna take you outta here in a dust pan."
+0,132,22,JONAS,Yeah. Jonas rears back and steels himself to rush the force field. He runs and throws himself through it. He lands on the floor outside the cell and writhes on the floor in pain for a few seconds before Daniel reaches him and helps him up.
+0,132,22,DANIEL,Nice.
+0,132,22,JONAS,"Okay, how do we get off this thing?"
+0,132,22,DANIEL,Cargo ship.
+0,132,22,JONAS,Which way?
+0,132,22,DANIEL,Uh....this way. Points and begins to run with Jonas close behind.
+0,132,22,JONAS,You sure?
+0,132,22,DANIEL,No.
+0,132,22,JONAS,Right.
+0,132,23,HAMMOND,Report.
+0,132,23,JACK,"We're in position, but the Kelownans are requesting additional weapons and troops to help deal with the Jaffa on the ground."
+0,132,23,HAMMOND,"Colonel, you know I can't authorize that without Pentagon approval."
+0,132,23,JACK,"Yes, sir, but I was thinking maybe I could take Sgs -15 and -11 as technical advisors?"
+0,132,23,HAMMOND,But if Ba'al doesn't show up?
+0,132,23,JACK,Could be a little screwy. But we talked these folks into this. THe least we can do is back 'em up.
+0,132,23,HAMMOND,Agreed. Put your teams together.
+0,132,23,JACK,Sir
+0,132,24,CARTER,"Anubis has superior shields, but according to our intelligence, they're less than 40% effective within the atmosphere of a planet. If Ba'al attacks while Anubis is vulnerable, he's got a chance."
+0,132,24,CMDR,That's not very reassuring.
+0,132,24,DREYLOCK,We just received a report. Anubis's men are ransacking the Museum of Antiquities.
+0,132,24,CARTER,Why would they do that?
+0,132,24,CMDR,"They may still be looking for the Stargate, as you said."
+0,132,24,CARTER,"No, Anubis is smart enough to know that it wouldn't be in a public place. What was in the museum?"
+0,132,24,DREYLOCK,Nothing. The entire exhibit was packed up and put into storage when the war began.
+0,132,24,CARTER,Okay. What was in the exhibit?
+0,132,24,CMDR,"Minor trinkets from the original Goa'uld dig sites...pottery, statues."
+0,132,24,CARTER,What about tablets?
+0,132,24,CMDR,Those were classified top secret and given to the scientists working on the Naquadria project.
+0,132,24,CARTER,I'd like to see a list of objects in the exhibit. Anubis is looking for something. I wanna know what it is.
+0,132,25,DANIEL,Cargo bay should be just down the next hall. How's your arm?
+0,132,25,JONAS,I can wiggle my fingers.
+0,132,26,DANIEL,Those are all the Jaffa going into the cargo bay which is just down the hall. He turns and lead Jonas back the way they came.
+0,132,27,CMDR,Eight men? That's all you brought?
+0,132,27,JACK,Eight good men.
+0,132,27,CMDR,There are over a thousand alien soldiers in the city. Their weapons are more powerful than anything our forces have ever seen. We don't stand a chance.
+0,132,27,JACK,"The main problem is the ship. Once that's taken out, we can deal with the Jaffa."
+0,132,27,CARTER,"Sir, I think I know why Anubis hasn't left yet. He's looking for a crystal. The Kelownan archaeologists found it with the other Goa'uld artifacts, but the didn't know what it was. They classified it as a decorative object and placed it in a museum display."
+0,132,27,CMDR,I don't understand. What is it?
+0,132,27,CARTER,The Goa'uld use crystals to store information.
+0,132,27,DREYLOCK,What kind of information?
+0,132,27,CARTER,"Well, we know from the tablets that the original Goa'uld who occupied this planet was experimenting with Naquadria, but they don't give any details. There are no lab notes, no test results."
+0,132,27,CMDR,And you think that's what's on the crystal?
+0,132,27,CARTER,"Well, it makes sense. Your people didn't know it was important. They never included it with the other material from the Naquadria project. Which is why Jonas never knew about it either. Sir, if Anubis gets a hold of this crystal, he could use it to adapt his systems and make the Naquadria work."
+0,132,27,JACK,"Yeah, I get it. Where is it?"
+0,132,27,CMDR,Everything was moved to a warehouse for safekeeping.
+0,132,27,DREYLOCK,I can take you there.
+0,132,27,CMDR,"Wait...if this is as important as you say it is, let me send a contingent to secure the building."
+0,132,27,JACK,We don't want to draw any unnecessary attention to the place.
+0,132,27,CARTER,"I'll go, sir. I know what to look for."
+0,132,27,JACK,All right. Take Teal'c. Dreylock nods and she and Sam leave. Jack and the Commander share a look and then the Commander leaves Jack alone.
+0,132,28,JONAS,Looks like patrols are closing in.
+0,132,28,DANIEL,"Yeah, well, we've got one minute before the isotope wears off. You know...that planet you guys found me on was nice. People were simple, life was quiet."
+0,132,28,JONAS,Why didn't you stay?
+0,132,28,DANIEL,I couldn't remember what this was like.
+0,132,28,JONAS,"It's fun, isn't it?"
+0,132,28,DANIEL,Yeah...
+0,132,28,JONAS,"Look, it we get out of this, uh..."
+0,132,28,DANIEL,"Oh, you can keep the office..."
+0,132,28,JONAS,"Actually, I was talking about SG-1."
+0,132,28,DANIEL,Ah...you took the position because you felt guilty about what happened to me and you thought you could make up for it by finishing my work and now that I'm back you...
+0,132,28,JONAS,"Don't get me wrong, I love the job."
+0,132,28,DANIEL,"Well, yeah, who could argue? I mean, lousy hours, constant peril."
+0,132,28,JONAS,On the bright side...you get to travel a lot.
+0,132,28,DANIEL,You're very up.
+0,132,28,JONAS,"Yeah...well, truth is, I don't thing that, uh, Colonel O'Neill was very comfortable having me around."
+0,132,28,DANIEL,"No, that's not what he told me. He said that your were a good man."
+0,132,28,JONAS,Really? He said that?
+0,132,28,DANIEL,Yeah. You're shocked he never let on?
+0,132,28,JONAS,Anyway...now that you're back...
+0,132,28,DANIEL,Let's worry about getting out of here first. Jonas nods...and then stop.
+0,132,28,JONAS,Rings?
+0,132,28,DANIEL,What good's that gonna do? There's nowhere to ring to.
+0,132,28,JONAS,We found a ring platform when we first uncovered the Stargate.
+0,132,28,DANIEL,Which means it hasn't been used in over 2000 years.
+0,132,28,JONAS,"Well, let's see if it still works."
+0,132,29,CARTER,Looks like we got here first.
+0,132,30,VOICE OVER SPEAKER,"Jaffa, Kree! Two unauthorized persons detected on sensors approaching your sector."
+0,132,32,DREYLOCK,This is hopeless.
+0,132,32,CARTER,It has to be here somewhere.
+0,132,32,TEAL'C,Major Carter... He hands her the crystal.
+0,132,32,CARTER,"Bingo. Just then, several Jaffa come in from every doorway, bearing weapons."
+0,132,32,JAFFA,"Jaffa, Kree! Teal'c and Sam raise their weapons and try to defend themselves, but they are hopelessly outnumbered."
+0,132,32,JAFFA,Shel-norak. Teal'c and Sam lower their weapons and surrender.
+0,132,33,DANIEL,Do we even know where it is we're goin'?
+0,132,33,JONAS,Not a clue.
+0,132,34,JAFFA,"Gal a'quel. Sam gets the hint and reluctantly begins to hand him the crystal, but just then, the rings transporter activates, knocking several Jaffa off their feet and out. Jonas and Daniel arrive from Anubis' ship and begin zatting Jaffa as Sam, Teal'c and the others duck. Seconds later, all the Jaffa are unconscious."
+0,132,34,CARTER,Nice timing.
+0,132,34,DANIEL,Thanks.
+0,132,34,DREYLOCK,Jonas Quinn.
+0,132,34,JONAS,Ambassador.
+0,132,34,DANIEL,Where are we?
+0,132,34,CARTER,"Warehouse. It's where they keep all the Goa'uld artifacts, including a ring platform."
+0,132,34,JONAS,And a crystal.
+0,132,34,DANIEL,Let's get out of here. There's probably more Jaffa right on our tails.
+0,132,35,SGT,"The perimeter's clear, sir. We've got a visual on Major Robbin's position across the square."
+0,132,35,JACK,"Okay, Sergeant, sit tight. O'Neill out."
+0,132,35,CARTER,Colonel.
+0,132,35,JACK,Hey! Where'd you find 'em?
+0,132,35,CARTER,"They, uh, dropped into the warehouse."
+0,132,35,JACK,Nice. The crystal?
+0,132,35,CARTER,Right here.
+0,132,35,CMDR,I'll take that.
+0,132,35,CARTER,I think it would be better if we held onto it.
+0,132,35,CMDR,I'm afraid I must insist. Several Jaffa with staff weapons appear from all entrances and surround the SGC group.
+0,132,35,JACK,What is this?
+0,132,35,CMDR,I've made a separate arrangement.
+0,132,36,HERAK,"Put down your weapons, Colonel, or I will be forced to destroy these people. Jack looks at Sam first, then the others and they all put their weapons down as he unhooks his P-90 from his vest. The Commander walks forward and holds out his hand."
+0,132,36,CMDR,The crystal.
+0,132,37,JACK,You're an idiot. You know that?
+0,132,37,CMDR,"In exchange for this, Anubis has agreed to leave Kelownan territory untouched."
+0,132,37,JACK,Thus confirming my last statement.
+0,132,37,CMDR,"He knows our Naquadria supplies are depleted, but I believe he may find another mine on Tiranian territory."
+0,132,37,SEVAARIN,That's a lie.
+0,132,37,CMDR,One of your scientists is a Kelownan spy. We know you've been trying to build your own bomb for the last three years.
+0,132,37,SEVAARIN,But we didn't mine the Naquadria. We stole it from the Andaris.
+0,132,37,NOOR,What? JONAS : Don't you see what's happening here? He's using you against each other.
+0,132,37,HERAK,Enough!
+0,132,37,JONAS,"You can't afford to fight any longer. This whole planet is a target, not just Kelowna or Tirania. You have to stand together here."
+0,132,37,HERAK,I said enough!
+0,132,37,JONAS,You've got to start trusting each other otherwise you're all gonna become slaves.
+0,132,37,JACK,If you're lucky.
+0,132,37,HERAK,The crystal. Thank you. As for the rest of you...you will be publicly executed as an example to all those who would defy their god.
+0,132,37,JACK,Does it...have to be publicly?
+0,132,37,HERAK,I could kill you now.
+0,132,37,JACK,Publicly's fine. Herak shuts the weapon down and Jack acts as though his finger was pinched or nearly pinched by the closing petals of the staff.
+0,132,37,HERAK,Jaffa! He leaves and the other Jaffa begin herding people.
+0,132,40,VOICE,"Tel nor. Hatak mal shee. Herak frowns and begins punching in an address on the DHD. Sam takes out a Jaffa and throws a staff to Jonas who begins firing. The Stargate activates as the battle continues. Herak starts toward the 'gate, but Sam jumps on him from behind, knocking him to the ground and causing him to drop the crystal."
+0,132,41,BA'AL,You're ship is at my mercy. You are defeated. Surrender now. The camera pans to show that Anubis is no longer on his throne. Then we see an exterior shot as the ship begins to break up. We see a small saucer shaped ship escape from the doomed mother ship and fly away.
+0,132,42,JONAS,"Daniel! Jonas dives toward Daniel and shoves him out of the way, but takes a staff blast to the ribs. Teal'c nails the guy who shot Jonas and Herak decides to leave the crystal and jumps through the 'gate just before it shuts down. Then we see Anubis' escape vessel jump to hyper-space."
+0,132,43,CARTER,Jonas! She crawls toward him. Jonas grimaces in pain.
+0,132,43,DANIEL,I owe you one.
+0,132,43,JONAS,We'll call it even. Oh!
+0,132,44,DREYLOCK,"The last time you returned to Kelowna, you were considered a traitor. That will not be the case this time."
+0,132,44,JONAS,Are you sure about that?
+0,132,44,DREYLOCK,"The Andaris and Tiranians would only agree to participate in the joint ruling council on the condition that you were the Kelownan representative. Your experiences over the past year will be vital to our planet forging ahead and facing what awaits in our future. We need you, Jonas."
+0,132,44,JACK,Got everything packed? Toothbrush? Slippers? Hair gel?
+0,132,44,JONAS,Yes.
+0,132,45,JONAS,Sir.
+0,132,45,HAMMOND,"It was an honor, son."
+0,132,45,JONAS,"Yes, it was."
+0,132,45,DANIEL,"Yeah, I remember that."
+0,132,45,JONAS,You do?
+0,132,45,DANIEL,Yeah.
+0,132,45,JONAS,"Hey, that's great."
+0,132,45,DANIEL,It's just...it's all kinda comin' back.
+0,132,45,JONAS,"Anyway, I'm just glad I had the chance to find out."
+0,132,45,DANIEL,Me too. They shake hands and it's on to Teal'c.
+0,132,45,TEAL'C,"You have the heart of a warrior, Jonas Quinn. Continue to fight well. Jonas nods and slaps Teal'c on the shoulder. Teal'c bows slightly. Then he moves to Sam and gives her a hug."
+0,132,45,CARTER,Keep in touch. He nods and smiles...then moves onto Jack.
+0,132,45,JONAS,Uh...
+0,132,45,JACK,You earned it.
+0,132,45,JONAS,Thanks. Jonas picks up his duffel and he and Dreylock walk toward the 'gate. Jonas stops and turns back.
+0,132,45,JONAS,"Hey, Daniel...feed my fish? Daniel nods and Jonas turns back toward the 'gate. He stops just short of crossing the even horizon. He takes one last look back, then turns and walks through. Those assembled begin to disperse. Everyone, but Daniel. He stands there, looking up at the Stargate. Then he walks closer to it...stopping at the base of the ramp. Jack turns back at the exit as he notices that Daniel is hanging back."
+0,132,45,JACK,You all right?
+0,132,45,DANIEL,Yeah.
+0,132,45,JACK,"Well, dinner's at 7:00. Don't be late. Teal'c gets a little cranky when his blood sugar gets low."
+0,132,45,DANIEL,Jack...
+0,132,45,JACK,Yeah?
+0,132,45,DANIEL,"It's not that I mind...rejoining SG-1 and exploring the galaxy, meeting new cultures, jeopardy, saving the world, that kind of thing...we get paid for this, right?"
+0,132,45,JACK,Welcome back. Daniel turns to look back at the 'gate as the camera pans back.

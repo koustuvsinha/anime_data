@@ -1,0 +1,351 @@
+Season,Episode,Scene,Character,Line
+0,54,0,STARGATE SG1,Episode 312
+0,54,0,"""JOLINAR'S MEMORIES""","By Daniel Stashower & Sonny Wareham Gate spinning, splashes into life, iris shuts. Jack and Sam walk into the Control room."
+0,54,0,SAM,Whats up?
+0,54,0,TECH,"Receiving GDO transmission, sir. Its the Tokra."
+0,54,0,JACK,Open the iris. Maybe its Dad.
+0,54,0,SAM,Maybe.
+0,54,1,SAM,Martouf. How are you?
+0,54,1,MARTY,"Samantha. Colonel ONeill. Well enough, under the circumstances."
+0,54,1,SAM,whats wrong?
+0,54,1,MARTY,Maybe we should discuss this elsewhere.
+0,54,1,SAM,Its my father.
+0,54,1,MARTY,Im afraid hes been captured by Sokar.
+0,54,1,SAM,Oh my God.
+0,54,1,MARTY,As far as we know he is still alive.
+0,54,1,SAM,As far as you know?
+0,54,1,MARTY,You are familiar of how Sokar has assumed the persona of the entity known on Earth as the Devil.
+0,54,1,JACK,"Yeah. Bit pretentious, dont ya think?"
+0,54,1,MARTY,"You must understand when I say that if Selmak is still alive, he has been sent to hell."
+0,54,1,JACK,As in...
+0,54,1,MARTY,A place of eternal suffering and damnation from which there is no return.
+0,54,2,JACK,"So, what are we really talking about here?"
+0,54,2,MARTY,Netu is a moon orbiting Sokars home planet.
+0,54,2,JACK,"A very hot moon, I take it?"
+0,54,2,MARTY,It is indeed a place where fire burns strong.
+0,54,2,SAM,But you know for sure that my father is still alive?
+0,54,3,MARTY,"I am sorry, Samantha. I know this must be difficult. Once captured, Selmak and Jacob your father would have been brutally tortured But Sokar would rather see his victims suffer than die."
+0,54,3,JACK,So were talking about a rescue mission.
+0,54,3,MARTY,"Unfortunately, to our knowledge, no one has ever escaped from Netu."
+0,54,3,JACK,Oh.
+0,54,3,MARTY,No one except for Jolinar.
+0,54,3,SAM,Oh.
+0,54,4,DANIEL,Of course it makes sense. The Goauld impersonating the Devil would naturally create a place like Netu. Netu is from the book of Am-Taut which is kind of how-to guide to passage through the ancient Egyptian otherworld regions. And many of those regions are described as dark places with pits of fire home to hellish monsters and damned.
+0,54,4,MARTY,What little we know is largely based on the legends that have been perpetuated by Sokar himself.
+0,54,4,JACK,How did Jolinar get out?
+0,54,4,MARTY,She never said.
+0,54,4,DANIEL,And no one ever asked her how she escaped from an inescapable prison?
+0,54,4,MARTY,"She was found unconscious and badly injured in a Teltak, a cargo ship, floating in space. Her recovery was long and painful. She was encouraged to remember how she escaped but she refused to speak of it."
+0,54,4,JACK,Anyone curious as to why?
+0,54,4,MARTY,I implored her but she would not say.
+0,54,4,SAM,"I only carried Jolinar for a short time. Ive never had anything more than scattered flashes of her memories, occasionally some dreams, but never anything like this place youre describing."
+0,54,4,MARTY,"The Tokra have technology that aids in the recall of memories, but you must be willing to use it."
+0,54,4,JACK,"If were going in on this one, sir, were going to need some more units."
+0,54,4,MARTY,"A full military incursion will be impossible, Colonel ONeill."
+0,54,4,JACK,We do covert.
+0,54,4,MARTY,"Selmaks recovery is obviously a high priority, however, and forgive me, Samantha, there is something larger at stake. The Tokra believe that Sokar is planning to launch a massive attack against the System Lords."
+0,54,4,JACK,Isnt that good news?
+0,54,4,TEALC,The chaotic and feudal disorganisation of the System Lords fragmented rule is a far more vulnerable target than that of one powerful Goauld.
+0,54,4,MARTY,Especially if that Goauld is Sokar.
+0,54,4,HAMMOND,Hes really that much worse than the others?
+0,54,4,DANIEL,"Well, of all the gods he picked to impersonate he chose the Devil."
+0,54,4,MARTY,"We need to find Selmak and determine what information he has gathered about Sokars attack. Without wanting to sound overly-dramatic, the fate of the Galaxy might be at stake"
+0,54,4,JACK,Sounds a bit overly dramatic
+0,54,4,HAMMOND,Sounds like we cant refuse. Colonel you have a go
+0,54,4,SAM,When do we leave?
+0,54,4,MARTY,As soon as you are ready. If you are sure you are all sure you understand what you are volunteering for.
+0,54,4,DANIEL,"You said hell, right?"
+0,54,4,JACK,"Well, Im gonna end up there sooner or later. May as well check out the neighbourhood."
+0,54,5,MARTY,The Teltak we will require for our journey awaits us on the planet Vorash
+0,54,5,JACK,Ship?
+0,54,5,MARTY,There is no Stargate on Netu. Those banished there are taken by ship
+0,54,5,JACK,Have I mentioned to you that I hate surprises?
+0,54,5,MARTY,We have a long journey ahead of us. There will be much time to inform you of all the details.
+0,54,5,JACK,Ah! Now that puts me in a position to be surprised.
+0,54,5,TECH,Chevron seven is locked
+0,54,5,HAMMOND,"Major, you will bring your father back safely"
+0,54,5,JACK,"Yes, sir. We will."
+0,54,134,MARTY,get ready
+0,54,134,DANIEL,Tealc!
+0,54,7,SAM,This ship looks familiar
+0,54,7,MARTY,"This is the same Teltak that Jolinar was found adrift. It was severely damaged when we found it. Essential flight mechanisms have been repaired, however, the hyperdrive engines can only be run at 40% without too much risk."
+0,54,8,TEALC,Is this vessel equipped with stealth capabilities?
+0,54,9,SAM,The ship we were in could make itself invisible
+0,54,9,MARTY,Really?
+0,54,9,JACK,It was an upgrade. Youre obviously dealing with your base model here.
+0,54,9,MARTY,Are you sure you can fly a ship such as this?
+0,54,9,TEALC,With great proficiency
+0,54,9,MARTY,"While we are on the surface, you may have to avoid Sokars forces"
+0,54,9,DANIEL,Isnt Tealc coming with us?
+0,54,9,MARTY,"He cannot. The atmosphere around the moon is impenetrable by ship. The only way to reach the surface is in the descent pods. It is how all the damned are sent to sent to Netu by Sokar, and it how we must also arrive if we are to convince the Denizens we can be trusted"
+0,54,9,SAM,And there are only four pods
+0,54,9,JACK,This counts as a surprise you know.
+0,54,9,MARTY,Shall we embark?
+0,54,9,JACK,By all means. To hell with us.
+0,54,128,DANIEL,"Tealc, were almost ready. Tealc, do you copy?"
+0,54,11,DANIEL,So what else can you tell us about Netu?
+0,54,11,MARTY,The moon was once an industrialised colony of the planet Delmak. When Sokar conquered Delmak he made it his homeworld. He transformed the moons environment to suit the myths.
+0,54,11,JACK,sounds like he went to an awful lot of trouble
+0,54,11,MARY,"he filled the atmosphere with barely breathable toxins, then blasted numerous holes in the surface, releasing the molten core. As I apply the memory device, you will feel a slight pain"
+0,54,11,SAM,weve actually already experienced this technology before
+0,54,11,MARTY,good. Then you will know what to expect
+0,54,11,DANIEL,so were actually going to see Jolinars memories appear as... holographic images?
+0,54,11,MARTY,there are no specific way of targeting certain memories. Some of Samanthas personal memories may surface. Out of respect for her privacy we will not be using this part of the technology.
+0,54,11,SAM,thank you
+0,54,11,MARTY,you can describe what you see
+0,54,11,OK,
+0,54,140,OTHER GUY,kneel before Na'onak!
+0,54,141,NA'ONAK,you shall call me Na'onak no longer From this day forth I shall reclaim my rightful name...
+0,54,16,JACOB,Sam?
+0,54,16,YOUNG SAM,In here
+0,54,18,YOUNG SAM,why are you crying?
+0,54,19,YOUNG SAM,wheres Mom?
+0,54,20,SAM,oh God...
+0,54,20,MARTY,"listen to me, Samantha."
+0,54,20,SAM,"Im sorry, Im stuck in my own past"
+0,54,20,MARTY,think of Jolinar. The last night we spent together before she was captured by Sokar. We walked along the ridge of Noctana. There were two moons out that night.
+0,54,23,SAM,I see it
+0,54,137,NA'ONAK,move away!
+0,54,26,SAM,you didnt speak of Jolinar leaving. You both knew it was dangerous but she had to go
+0,54,29,SAM,you stayed up all night together
+0,54,31,SAM,Martouf.
+0,54,31,MARTY,are you OK?
+0,54,31,SAM,I want to try it again
+0,54,31,MARY,I should have said this earlier. I know my relationship with Jolinar is a source of discomfort for you.
+0,54,31,SAM,Martouf...
+0,54,31,MARTY,I would just like you to know that it has always been my belief that Jolinar kept her experiences from Netu a secret as she feared it would come between us. I do not want you to hold anything back for the same reason. You dont have to protect me.
+0,54,139,OK,
+0,54,37,SAM,shut it off! Shut it off!
+0,54,37,JACK,do it!
+0,54,38,MARTY,I am sorry. The memory technology can provide very realistic sensory recall
+0,54,38,SAM,she was tortured... so badly
+0,54,38,MARTY,"I am going to turn it on again, but at a lower setting"
+0,54,39,SAM,she was on a ship like this one. They put her in a descent pod. There was... fire all around. It was hard to breath.
+0,54,42,SAM,its gone. I lost it
+0,54,42,MARTY,we will arrive soon
+0,54,42,SAM,"I know, Martouf. Im sorry. Maybe Im not going to be able to do this"
+0,54,42,MARTY,you have to
+0,54,42,JACK,"hey, Marty. A word?"
+0,54,43,JACK,youre pushing a little hard dont ya think?
+0,54,43,MARTY,there is not much time left
+0,54,43,JACK,its her father. She knows the stakes
+0,54,43,MARTY,if she does not remember Jolinars method of escape I will not allow any of you to accompany me down to the surface
+0,54,43,JACK,why?
+0,54,43,MARTY,because anyone who goes down there will likely not return.
+0,54,43,JACK,but youre gonna go
+0,54,43,MARTY,I will attempt to locate Selmak and communicate any relevant information to you. You will then return to Vorash and relay it the Tokra
+0,54,43,JACK,"and leave and Jacob down there to, what? Rot?"
+0,54,43,MARTY,with no means of escape...
+0,54,43,JACK,"alright, first of all, Carters not going to let you go without her. Secondly, I wont let it happen, and thirdly, Jolinar escaped"
+0,54,43,MARTY,but if Samantha cannot recall how...
+0,54,43,JACK,"I know, I heard you. And forgive the bravado, but its been done before. It can be done again"
+0,54,44,DANIEL,you going to be OK?
+0,54,44,SAM,yeah. Its just so confusing. Images and faces. Fragments of thoughts and feelings... There was a Goauld on Netu. Not Sokar. He was... lets just say he was less than attractive. I know his name I just cant find it. And I get this horrible sick feeling when I remember him
+0,54,44,DANIEL,something happened between him and Jolinar
+0,54,44,SAM,something worse than the torture and pain. Something Jolinar never wanted Martouf to find out about
+0,54,46,TEALC,we have arrived at the co-ordinates
+0,54,47,MARTY,we must keep the device hidden from any Denizens we encounter. I will keep it on a low setting so you may continue to work through Jolinars memories as we go. Is that OK?
+0,54,47,SAM,"yeah, of course"
+0,54,48,JACK,Carter
+0,54,48,MARTY,Sokar would not send someone down to Netu with weapons
+0,54,48,JACK,"yeah, so?"
+0,54,48,MARTY,if they are discovered on you the Denizens will know we were not sent by Sokar. We must attempt to blend in the hope that we will be able to move about freely as Denizens
+0,54,48,JACK,
+0,54,48,MARTY,we believe that this device will be able to penetrate the atmosphere
+0,54,49,JACK,"""we believe""?"
+0,54,49,MARTY,we should be able to speak to Tealc as long as the ship remains in orbit of the moon
+0,54,51,DANIEL,thats err... thats still a long way down
+0,54,51,MARTY,the pods are launched at a great velocity
+0,54,51,DANIEL,"and thats supposed to make me feel better, or...?"
+0,54,51,MARTY,they are equipped with heat dampening shields and anti-gravity wave generators that will slow our descent
+0,54,51,JACK,"so, smooth sailing all the way, right?"
+0,54,51,TEALC,"not exactly, ONeill"
+0,54,52,TEALC,are you prepared?
+0,54,52,JACK,"ah, no. Not really."
+0,54,53,TEALC,"ONeill, can you hear me?"
+0,54,53,JACK,"I read you, Tealc"
+0,54,53,TEALC,you are now entering the atmosphere... Colonel ONeill?
+0,54,55,TEALC,"ONeill, can you hear me?"
+0,54,56,JACK,Carter? Daniel?
+0,54,56,DANIEL,over here!
+0,54,56,SAM,this way
+0,54,56,JACK,lets move
+0,54,58,JACK,"well, at least its a dry heat"
+0,54,58,TEALC,"Colonel ONeill, respond"
+0,54,58,JACK,"yeah, Tealc, were in one piece. Just hang tight, well be in touch"
+0,54,58,SAM,we should follow this tunnel
+0,54,58,MARTY,you remember?
+0,54,58,SAM,being here has helped. This should led us to the old remains of the underground colony. Its one of the only inhabitable places left
+0,54,60,DANIEL,"is it me, or is actually getting hotter?"
+0,54,60,JACK,little of both I think
+0,54,60,SAM,theres something up ahead
+0,54,61,SAM,this way
+0,54,62,JACK,"well, its certainly not Emerald City."
+0,54,63,JACK,Howdy folks. Were new in these parts. I know its hard to tell but its true. Carter?
+0,54,66,SAM,Bynarr.
+0,54,67,DANIEL,what does that mean?
+0,54,67,SAM,its the name I couldnt remember. weve come to see Bynarr
+0,54,67,NA'ONAK,who are you?
+0,54,67,JACK,"people of little consequence, pay no attention to us"
+0,54,67,NA'ONAK,kneel before me
+0,54,67,JACK,whos this guy?
+0,54,67,SOME GUY,"he is Na'onak, first prime to Bynarr, Lord of Netu."
+0,54,67,SAM,weve come to see Bynarr
+0,54,67,NA'ONAK,you will not. Banish them to the surface
+0,54,68,JACK,"I dont think so. Back off a little there, folks"
+0,54,69,BYNARR,who asks for me by name?
+0,54,69,SAM,"I do! Im Samantha Carter, host of Jolinar of Malkshur"
+0,54,69,BYNARR,take their weapons. Throw them in the pit.
+0,54,70,JACK,Boys. Pit
+0,54,72,JACK,thank you! The smells keep getting better and better
+0,54,72,DANIEL,"so, this doesnt look very encouraging"
+0,54,73,DANIEL,I thought Sokar wouldnt allow weapons. So far weve seen a staff weapon and a hand device
+0,54,73,MARTY,I don not understand it myself
+0,54,73,JACK,"surprise, surprise"
+0,54,73,SAM,Bynarr is Sokars appointed leader. He is allowed one hand device and one staff weapon for his First prime.
+0,54,73,MARTY,why did you think Binar would be sympathetic to Jolinar?
+0,54,73,SAM,I was sure he was the one who helped her escape
+0,54,73,JACK,why?
+0,54,73,SAM,she... errr...
+0,54,74,SAM,"Im sorry. Look, hes the key. Bynarr may not have knowingly helped Jolinar, but Im sure he must know how she escaped"
+0,54,74,JACOB,Sam? Sam?
+0,54,74,SAM,Dad? Dad! Dad...
+0,54,74,JACOB,am I dreaming?
+0,54,74,SAM,no were real
+0,54,74,JACOB,are you crazy?
+0,54,74,JACK,apparently
+0,54,74,SAM,are you OK?
+0,54,74,JACOB,been better
+0,54,74,MARTY,Selmak?
+0,54,74,JACOB,hes dying
+0,54,74,MARTY,this will help.
+0,54,75,SAM,hang in there. Were gonna get you out
+0,54,75,JACK,Marty...
+0,54,76,SAM,thank you
+0,54,76,JACK,he gonna make it?
+0,54,76,MARTY,"not here. Unless we get him out of here soon, he will die"
+0,54,77,SAM,its OK
+0,54,83,BYNARR,"I am humbled by your presence, my lord Sokar"
+0,54,83,SOKAR,"Bynarr, Lord of Netu, I do not have time to hear of the sufferings of the Damned on this day"
+0,54,83,BINAR,"allow me to offer thanks for returning the Tokra Jolinar, the one who betrayed me, so that I may seek my revenge"
+0,54,83,SOKAR,of what do you speak?
+0,54,83,BYNARR,she arrived today with three others
+0,54,84,SOKAR,"I did not send her to you. They are intruders. Find out what they want, then kill them"
+0,54,84,BYNARR,"I had hoped to take my revenge on Jolinar solely, my Lord. To see her suffer in the harshest ways of the Damned"
+0,54,84,SOKAR,go now! Report back to me in one day. Heed my command
+0,54,84,BYNARR,without fail my Lord
+0,54,84,SOKAR,"a ship brought these intruders. Find it, and destroy it"
+0,54,84,SOME GUARD,"yes, my Lord"
+0,54,86,MARTY,do you have the strength to speak?
+0,54,87,MARTY,we can relay communication to the Tokra Council
+0,54,87,JACOB,Sokars felt is 10 times larger than we thought. He is poised to attack six system lords. He will win
+0,54,87,MARTY,he will control an army big enough to rule the galaxy if that is so
+0,54,87,JACK,when is all this supposed to happen?
+0,54,87,JACOB,the attack was due to take place two weeks from the time I was captured. That was 4 days ago
+0,54,87,MARTY,we must relay this to the Tokra immediately
+0,54,87,JACK,"Tealc, come in"
+0,54,89,TEALC,"ONeill, it is I"
+0,54,89,JACK,"we found Jacob, hes in pretty rough shape"
+0,54,89,TEALC,have you as yet determined a means of escape
+0,54,90,JACK,err... no. not yet. Martouf wants to talk to you
+0,54,90,MARTY,"Tealc, I have an important message you must relay to the High Council if we do not get out of here"
+0,54,91,NEONACK,Samantha Carter. You will come with me
+0,54,91,JACK,whos calling?
+0,54,91,NA'ONAK,now
+0,54,91,JACK,come and get her yourself you...
+0,54,91,SAM,"Sir, this may be our only way out here"
+0,54,91,JACK,how do you figure?
+0,54,91,SAM,"if I could just get close to Binar, talk to him"
+0,54,91,NA'ONAK,move!
+0,54,91,JACK,"yeah, OK. Go ahead"
+0,54,91,SAM,look after my Dad
+0,54,135,DANIEL,Tealcs not responding
+0,54,135,JACK,"he said hed be there, right?"
+0,54,135,MARTY,if he is not...
+0,54,135,JACK,hell be there
+0,54,94,BYNARR,enter
+0,54,95,BYNARR,take it
+0,54,96,BYNARR,you have no symbiote within you
+0,54,96,SAM,no
+0,54,96,BYNARR,how then do you know of Jolinar?
+0,54,96,SAM,I once carried her
+0,54,96,BYNARR,I should have known. Jolinar would rather have died on the surface before she faced me
+0,54,96,SAM,because she betrayed you?
+0,54,97,BYNARR,look what Sokar took from me because of her. Where is she now?
+0,54,97,SAM,shes dead
+0,54,97,BYNARR,you know how she escaped?
+0,54,97,SAM,I dont. I dont remember
+0,54,97,BYNARR,why did you come here?
+0,54,99,JACOB,Sam?
+0,54,99,DANIEL,shell be back
+0,54,99,JACOB,where is she?
+0,54,99,JACK,shes with Bynarr
+0,54,99,MARTY,Samantha believes Bynarr is the key to our escape
+0,54,99,JACOB,Bynarr is Sokars eyes and ears
+0,54,99,JACK,"well, eye anyway"
+0,54,99,JACOB,he ensures there are no uprisings
+0,54,99,JACK,keeps the conditions liveable
+0,54,99,JACOB,and he reports to Sokar regularly. Sokar enjoys hearing about the suffering
+0,54,99,JACK,whats that?
+0,54,99,MARTY,Sokar comes here?
+0,54,99,JACOB,no. Bynarr goes to the planet
+0,54,99,MARTY,how do you know?
+0,54,99,JACOB,I saw him there before I was captured
+0,54,99,DANIEL,do you know how he gets there?
+0,54,131,JACK,we gotta go
+0,54,131,MARTY,almost
+0,54,101,BYNARR,our most recent addition is the Tokra Selmak. Have you come to rescue him? Did you think I helped Jolinar escape?
+0,54,101,SAM,yes
+0,54,101,BYNARR,why?
+0,54,101,SAM,because you loved her
+0,54,101,BYNARR,you are mistaken
+0,54,101,SAM,then why do hate her so much?
+0,54,101,BYNARR,her death has robbed me of the revenge I have long dreamed of
+0,54,105,BYNARR,"I wont get the same satisfaction from killing you, but I will get some"
+0,54,105,SAM,"no, wait!"
+0,54,108,JACK,you alright?
+0,54,108,SAM,Dad?
+0,54,108,JACK,hanging in there
+0,54,108,SAM,there are transportation rings in Bynarrs quarters
+0,54,108,MARTY,they must lead to Sokars place
+0,54,108,SAM,once there Jolinar managed to steal a cargo ship and escape
+0,54,109,JACK,whats goin on up there?
+0,54,109,SAM,Na'onak just killed Bynarr
+0,54,109,JACK,what?
+0,54,109,DANIEL,why?
+0,54,109,SAM,"I have no idea. Bynarr was about to kill me, Na'onak came in and shot him with a staff weapon. He didnt say a word, he just sent me back down here"
+0,54,109,JACOB,the Denizens will riot
+0,54,109,JACK,this could be our shot
+0,54,109,DANIEL,to do what? The rings lead to Sokars palace
+0,54,109,JACK,hey! Its a way out of here
+0,54,109,SAM,Jolinar was one person and she had a hand device
+0,54,109,JACOB,leave me
+0,54,109,JACK,"err, Jacob, you seem to be missing the whole point"
+0,54,109,MARTY,Tealc
+0,54,109,SAM,is that possible?
+0,54,109,JACK/DANIEL,what?
+0,54,109,SAM,the cargo ship has rings
+0,54,109,SAM,the cargo ship work like Stargates only over shorter distances. They transport a matter stream. If that matter stream is intercepted...
+0,54,109,JACK,"whoa! Simplify, please"
+0,54,109,SAM,if Tealc can manoeuvre the cargo ship into the correct position theoretically we should be able to transport aboard
+0,54,109,DANIEL,theoretically?
+0,54,109,JACK,how does he find the right position?
+0,54,109,MARTY,the ring mechanism has sensors that can locate other rings. Tealc should be able to detect the co-ordinates
+0,54,109,JACK,Ill take those odds. Cmere!
+0,54,111,DANIEL,"Tealc, its Daniel, come in."
+0,54,112,DANIEL,"Tealc, do you copy?"
+0,54,112,TEALC,"I do, Daniel Jackson"
+0,54,112,DANIEL,"Tealc, come in, over"
+0,54,113,SOME GUY,what are you doing?
+0,54,113,DANIEL,Im just communicating with my friend with this little device
+0,54,114,DANIEL,"Tealc, we need you, do you copy?"
+0,54,115,TEALC,I copy
+0,54,117,SAM,this way
+0,54,117,DANIEL,Martouf says the ring device on the ship should be able to locate the path the matter stream will take
+0,54,117,TEALC,I will be in position
+0,54,119,SAM,its gone. The key that activates the rings is gone
+0,54,119,MARTY,where was the key to be inserted?
+0,54,119,SAM,over here
+0,54,124,JACK,can you make it work?
+0,54,124,MARTY,it will take time
+0,54,124,JACK,take all you need

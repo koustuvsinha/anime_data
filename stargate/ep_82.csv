@@ -1,0 +1,361 @@
+Season,Episode,Scene,Character,Line
+0,82,0,STARGATE SG1,Episode 418
+0,82,0,"""THE LIGHT""",By James Phillips
+0,82,1,TECH,Chevron 1 encoded.
+0,82,1,O'NEILL,"Barber. When you get there, give this to Daniel will ya?"
+0,82,1,BARBER,Sir?
+0,82,1,O'NEILL,We had a bet. I lost.
+0,82,1,CARTER,What d'you bet on?
+0,82,1,TECH,Chevron 2 encoded.
+0,82,1,O'NEILL,Sports related. Just give it to him. He'll know what it means.
+0,82,1,BARBER,Yes sir.
+0,82,1,TECH,Chevron 3 encoded.
+0,82,1,CARTER,What sport?
+0,82,1,O'NEILL,Hmm?
+0,82,1,CARTER,What sport did you bet on?
+0,82,1,O'NEILL,Curling.
+0,82,1,CARTER,Daniel bet on curling?
+0,82,1,O'NEILL,Oh yes. His team won the Bonspiel
+0,82,1,CARTER,"Okay. You don't want to tell me what the bet is, that's fine."
+0,82,1,O'NEILL,Good. Have fun.
+0,82,1,TECH,Chevron 4 encoded. Chevron 5 encoded.
+0,82,2,CARTER,"So Sir, are you sure you'd rather take the weekend off than come with me to see this place?"
+0,82,2,O'NEILL,Ahh you know I get that way when I work my ass off. In fact I'd have figured you'd want some time off yourself by now.
+0,82,2,CARTER,Oh I do but Daniel says that of all the .. That was the bet? Whether or not I'd go? Don't you have anything better to do?
+0,82,2,TECH,Chevron 7 locked.
+0,82,3,O'NEILL,Barber!
+0,82,3,CARTER,Oh my God!
+0,82,5,DANIEL,Jack you've got to see this.
+0,82,5,O'NEILL,Daniel. There's been an incident.
+0,82,5,DANIEL,"Yeah I know, I got your message but this is really important. There is this light."
+0,82,5,O'NEILL,Barber's dead.
+0,82,5,DANIEL,What?
+0,82,5,O'NEILL,Come on.
+0,82,7,HAMMOND,Did Lieutenant Barber show any signs of depression while on the mission?
+0,82,7,DANIEL,The opposite. He was fine.
+0,82,7,O'NEILL,How long had he been back?
+0,82,7,CARTER,Well he hadn't been even been earthside for 48 hours.
+0,82,7,O'NEILL,What was he doing?
+0,82,7,TEAL'C,Awaiting the results of a translation with which I was assisting Daniel Jackson.
+0,82,7,DANIEL,"If you're asking me if he was suicidal, he wasn't. He was better than fine. Didn't anyone talk to him or like notice anything?"
+0,82,7,TEAL'C,Nothing.
+0,82,7,CARTER,We were all taken by surprise.
+0,82,7,DANIEL,Well so am I. I don't even know what to say.
+0,82,7,HAMMOND,We will continue to investigate what may have compelled him to do what he did but it's been my experience that these questions often go unanswered.
+0,82,7,O'NEILL,Yes Sir.
+0,82,7,HAMMOND,"Doctor Jackson, perhaps you can tell us more about this Goa'uld palace you were studying? Dr Jackson?"
+0,82,7,DANIEL,Yes. Ahh sorry.
+0,82,7,TEAL'C,Were there any signs of recent Goa'uld activity?
+0,82,7,DANIEL,No. I'm pretty sure no one has been there for hundreds of years but there was this room where there was this pedestal which projected this light matrix hologram onto the ceiling and it was absolutely stunning.
+0,82,7,HAMMOND,Any idea to its purpose?
+0,82,7,DANIEL,"Ideas yes but I was hoping this might tell me more. It's kind of like a Goa'uld hand held computer. When it's turned on it displays this Goa'uld dialect I've never seen before and there are similar writings all over the pillars of the palace. I'm thinking or hoping, crossing my fingers actually that there are instructions."
+0,82,7,TEAL'C,I would be happy to provide further assistance with the translation Daniel Jackson.
+0,82,7,DANIEL,"Thank you, I was counting on that."
+0,82,9,O'NEILL,Hey. Whatcha watching?
+0,82,9,TEAL'C,A digital image. I am endeavoring to translate the Goa'uld writings of which Daniel Jackson had spoken.
+0,82,9,O'NEILL,How goes the endeavoring?
+0,82,9,TEAL'C,Upon a second viewing I have discovered a figure moving in the background. It does not appear to be one of our personnel.
+0,82,9,O'NEILL,Well he never mentioned anyone else.
+0,82,10,DANIEL,What is wrong with this thing. This thing isn't working.
+0,82,10,O'NEILL,Have you checked the batteries?
+0,82,10,DANIEL,I need to go back to the planet and figure out what's going on.
+0,82,10,O'NEILL,Hammond suggested we do that tomorrow.
+0,82,10,DANIEL,Well this thing isn't working and tomorrow isn't good enough.
+0,82,10,O'NEILL,Yes it is.
+0,82,10,DANIEL,I'm gonna talk to Hammond.
+0,82,11,O'NEILL,Hey.
+0,82,12,HAMMOND,Have you slept at all since you returned?
+0,82,12,DANIEL,I fail to see what that has to do with anything.
+0,82,12,HAMMOND,
+0,82,12,DANIEL,I'm fine.
+0,82,12,HAMMOND,You're physically and mentally exhausted.
+0,82,12,DANIEL,I admit I may have been pushing myself a bit but this device could hold the key to everything about that entire place and I can't make any more progress on it here.
+0,82,12,HAMMOND,"You're scheduled to leave tomorrow morning, one more day isn't going to make a difference."
+0,82,12,DANIEL,I'm telling you it is.
+0,82,12,O'NEILL,Thank you for your time Sir.
+0,82,12,DANIEL,You know it is beyond my comprehension how anybody like yourself who has so power can miss the point entirely.
+0,82,12,O'NEILL,Hey knock it off!
+0,82,12,HAMMOND,"It's all right Colonel. This letter is to Lieutenant Barber's family explaining that he died in the service to country. I've spent the last two hours on it. I can't tell them anything about how he died or anything about the work he did here, only that he's gone. Do you get the point now?"
+0,82,12,O'NEILL,Yes Sir he got it.
+0,82,12,HAMMOND,Get him out of here.
+0,82,14,HAMMOND,What's the delay?
+0,82,14,CARTER,Daniel hasn't reported in this morning Sir.
+0,82,14,HAMMOND,What?
+0,82,14,CARTER,"I just called him, I think he picked up but now I just get a busy signal."
+0,82,14,HAMMOND,Yesterday he was demanding to leave immediately.
+0,82,14,O'NEILL,Maybe I should give him a wake up call Sir.
+0,82,14,HAMMOND,Sounds to me like he could use one.
+0,82,16,O'NEILL,Daniel?
+0,82,17,O'NEILL,Daniel? What are you doing out here?
+0,82,17,DANIEL,None of it means anything.
+0,82,17,O'NEILL,"Daniel, why don't you come inside here."
+0,82,17,DANIEL,I tried. It just goes away.
+0,82,17,O'NEILL,Okay. Then we'll get it back.
+0,82,17,DANIEL,You can't get it back.
+0,82,17,O'NEILL,"Whatever's wrong, we'll fix it."
+0,82,17,DANIEL,You don't even know what I'm talking about.
+0,82,17,O'NEILL,No. No I don't. But come inside.
+0,82,17,DANIEL,Jack?
+0,82,17,O'NEILL,Yeah.
+0,82,18,FRAISER,The PET scan reveals his neurological activity is slowing.
+0,82,18,O'NEILL,So?
+0,82,18,FRAISER,"Neurotransmitters relay messages in the body. Too many or too few of these chemicals transmissions can result in anxiety, depression or a number of emotional or physical disorders."
+0,82,18,O'NEILL,Does this have anything to do with Barbers thing?
+0,82,18,FRAISER,The remaining members of SG5 are reporting almost identical symptoms. Yes it seems almost certain. Now the only good news is that it doesn't seem to be the result of a contagion.
+0,82,18,O'NEILL,Well if it's not a disease. What?
+0,82,18,FRAISER,"I don't know. Such a drastic shift in levels is generally drug induced but all of their systems are void of any foreign substances. Not to mention that preliminary MALP readings of P4X347 have ruled out all the usual suspects, air, radiation."
+0,82,18,O'NEILL,So if we retrace SG5's tracks we may be able to come up with something?
+0,82,18,HAMMOND,"I'm afraid Colonel, until we get a grasp on."
+0,82,18,O'NEILL,"General, we saw the shadow on the video. Now something or someone is affecting these guys."
+0,82,18,FRAISER,More than affecting them Sir. If their brain function continues to fail they could be facing a worst case scenario.
+0,82,18,O'NEILL,"So we go in M.O.P 2, and bring back samples of the usual suspects."
+0,82,18,HAMMOND,You've made your case Colonel. Watch your step.
+0,82,18,O'NEILL,Thank you Sir.
+0,82,19,O'NEILL,Well I can see why Daniel was so hot on this place.
+0,82,19,TEAL'C,Indeed.
+0,82,19,O'NEILL,What'cha got?
+0,82,19,CARTER,The air's fine just like the MALP indicated. Whatever affected Daniel and SG5 they didn't breathe it in.
+0,82,19,O'NEILL,"Okay, watch your step."
+0,82,20,CARTER,It's just a kid. Obviously scared to death of us.
+0,82,20,TEAL'C,I believe this is the room of Light of which Daniel Jackson has spoken.
+0,82,20,O'NEILL,Really? Carter what are we looking at here?
+0,82,20,CARTER,Ahh It doesn't seem to be giving off any radiation other than detectable light. I think it's just decorative.
+0,82,20,O'NEILL,Safe?
+0,82,20,TEAL'C,It is most difficult to believe that something so beautiful could be dangerous O'Neill.
+0,82,20,O'NEILL,No. We'll come back to look at it. Let's go. Hey let's go.
+0,82,20,CARTER,Right. Sorry Sir.
+0,82,21,CARTER,Sir I'd like to run a full spectrum analysis on that light.
+0,82,21,O'NEILL,Later.
+0,82,21,CARTER,I think there might be a relationship between the light and what's happening to Daniel.
+0,82,21,O'NEILL,Thought you said it wasn't dangerous?
+0,82,21,CARTER,"I'm sure it isn't Sir, it's just."
+0,82,22,O'NEILL,Hi. I'm Jack. And you are? Nice digs. Kinda remind me of my first apartment. How are the people upstairs?
+0,82,22,LOREN,Loren.
+0,82,22,O'NEILL,I'm sorry I don't know what Loren means.
+0,82,22,LOREN,Me.
+0,82,22,O'NEILL,Hi Loren.
+0,82,22,LOREN,Jack.
+0,82,22,O'NEILL,Yeah. Anyone else live here with you?
+0,82,22,LOREN,My mother and father.
+0,82,22,O'NEILL,Can you take me to them? I'd like to talk to them.
+0,82,22,LOREN,No. They're not here.
+0,82,22,O`NEILL,Not in this place? So you're here alone?
+0,82,22,LOREN,Yes.
+0,82,22,O'NEILL,Well Loren some of my people came here a few days ago.
+0,82,22,LOREN,I was hiding.
+0,82,22,O'NEILL,"Well you hide very well, because they didn't even know you were here. The thing is when they came home they all got very sick. We'd like to figure out why. Do you know? Okay, well we're going to look around a little more. Maybe you should come along?"
+0,82,22,CARTER,Colonel. General Hammond has activated the Gate and is on the radio.
+0,82,22,O'NEILL,All right go ahead. I'll be there. Come on.
+0,82,23,HAMMOND,This is Hammond. Come in Colonel.
+0,82,23,LOREN,Where is here?
+0,82,23,O'NEILL,He's just sending his voice over the radio through this thing here. We read you General.
+0,82,23,HAMMOND,I see you've made a friend Colonel.
+0,82,23,O'NEILL,"Yes Sir, Loren, General Hammond."
+0,82,23,LOREN,He can see me?
+0,82,23,HAMMOND,Yes I can son.
+0,82,23,LOREN,Hi.
+0,82,23,O'NEILL,We haven't found anything yet Sir but we've only been at it a few minutes.
+0,82,23,HAMMOND,It's been well over an hour Colonel.
+0,82,23,O'NEILL,Well that can't be.
+0,82,23,HAMMOND,"Jack, I have some bad news. All of SG5 are dead."
+0,82,23,CARTER,Oh no.
+0,82,23,TEAL'C,What of the condition of Daniel Jackson?
+0,82,23,HAMMOND,Dr Fraiser's doing everything she can but I'm afraid he's fallen into a deep coma. We don't know how much time he has left.
+0,82,24,O'NEILL,Here are your samples.
+0,82,24,FRAISER,Did you get the boy's?
+0,82,24,O'NEILL,"Yeah, it's in there."
+0,82,24,FRAISER,Get this off to the lab.
+0,82,24,O'NEILL,How's he doing?
+0,82,24,FRAISER,I'm afraid his condition is unchanged Sir.
+0,82,24,O'NEILL,Okay.
+0,82,25,TEAL'C,So approximately how long ago was this image recorded?
+0,82,25,LOREN,That's my home. Before we came here.
+0,82,25,TEAL'C,So your parents brought you here from a different world?
+0,82,25,LOREN,Yeah. They were explorers. Kinda like you I guess. So they came here. and what was it that we were looking for?
+0,82,25,TEAL'C,If you cannot give us an explanation to our friend's illness we must continue to search for clues as to what may have caused it.
+0,82,25,LOREN,Well none of your friends are in here. Hey I have to show you something. This was a present from my father on my birthday. No it's not real.
+0,82,25,TEAL'C,Children of the Tau'ri also seem to enjoy colourful weapons that have no function.
+0,82,25,LOREN,It's fun.
+0,82,25,TEAL'C,I see. On my home world of Chulak we do not celebrate the anniversary of one's birth.
+0,82,25,LOREN,No presents?
+0,82,25,TEAL'C,It is a day like any other.
+0,82,25,LOREN,Well how do you know how old you are?
+0,82,25,TEAL'C,I am 101 years of age.
+0,82,25,LOREN,You don't look that old.
+0,82,25,TEAL'C,So I have been told.
+0,82,25,LOREN,So when do you turn 102?
+0,82,25,TEAL'C,In 47 days.
+0,82,25,LOREN,Keep it. It's a birthday present.
+0,82,25,TEAL'C,I cannot.
+0,82,25,LOREN,In 47 days you'll be gone right? You keep it.
+0,82,28,FRAISER,Colonel? Are you all right?
+0,82,28,O'NEILL,What kind of dumb-ass question is that? My friend is laying there on his deathbed. I'm fine.
+0,82,28,FRAISER,We're working on the problem Sir.
+0,82,28,O'NEILL,I don't want excuses.
+0,82,28,FRAISER,"Colonel O'Neill, if you don't calm down right now I will have you removed from my infirmary, is that clear?"
+0,82,28,O'NEILL,I'm fine.
+0,82,28,FRAISER,Colonel I'd like to recheck your dopamine levels.
+0,82,28,O'NEILL,It's happening to me isn't it?
+0,82,28,FRAISER,"Let me find out, please."
+0,82,29,FRAISER,Whatever's causing this actually accelerates neural activity in the brain and causes a dopamine like effect in the body.
+0,82,29,O'NEILL,Kinda like drugs.
+0,82,29,FRAISER,Only as long as you're on the planet. Shortly after you returned neural activity begins to decrease and depression results. Bloodwork confirms it.
+0,82,29,HAMMOND,Does the boy carry any immunity that we could use to our advantage?
+0,82,29,FRAISER,No. His bloodwork came back the same. I don't think he'll be able to leave the planet without experiencing the same narcotic withdrawal symptoms.
+0,82,29,HAMMOND,But Colonel O'Neill was only on that planet for a little over an hour?
+0,82,29,FRAISER,"Yes Sir, this addiction appears to be almost instantaneous."
+0,82,29,O'NEILL,You're telling me I'm addicted to that place.
+0,82,29,FRAISER,The intensity of your mood swing into depression seems to be proportional to the time you spent on the planet. All we can do is hope is your exposure wasn't long enough for you symptoms to get as bad as they did with Daniel and the others.
+0,82,29,O'NEILL,Great. All those years of just saying no.
+0,82,29,HAMMOND,"Jack I tried to recall Major Carter or Teal'c, they haven't responded and I can't risk sending another team."
+0,82,30,O'NEILL,What's that?
+0,82,30,FRAISER,His EEG is sporadic. This is exactly what happened to the members of SG5 before they died. Sir you're gonna have to take him back to the planet.
+0,82,31,FRAISER,"Once your there I'll need you to send me his vital signs every.. He's coding. No time to resuscitate, let's go."
+0,82,33,O'NEILL,"Daniel. Daniel. Come on, come on. Dammit. Daniel. Let's go, come on. Carter. Teal'c. Where are my friends?"
+0,82,33,LOREN,With the light.
+0,82,33,O'NEILL,Get them for me will ya.
+0,82,33,LOREN,They won't come.
+0,82,33,O'NEILL,Well try.
+0,82,33,LOREN,I'm not allowed to go in there.
+0,82,34,O'NEILL,"For God's sake. Carter. Carter, wake up."
+0,82,34,CARTER,"You're back Sir, when?"
+0,82,34,O'NEILL,"Teal'c? Teal'c come on. Yeah, come on out of here right now."
+0,82,35,TEAL'C,Daniel Jackson.
+0,82,35,O`NEILL,Yep. Had to bring him back. It was the only thing that was gonna keep him alive.
+0,82,35,CARTER,"Sir, how long were you gone?"
+0,82,35,O'NEILL,Few hours. Hammond tried to contact you.
+0,82,35,TEAL'C,He did not.
+0,82,35,LOREN,He did. I heard his voice.
+0,82,35,CARTER,Where were we?
+0,82,35,LOREN,In there.
+0,82,35,CARTER,I can't explain it Sir.
+0,82,35,O'NEILL,"Fraiser thinks we're all addicted to something here that alters our brain chemistry. And dollars to doughnuts, it's that damn light."
+0,82,35,CARTER,Oh I don't see how that's possible.
+0,82,35,O'NEILL,Hey. You knew didn't you?
+0,82,35,LOREN,No.
+0,82,35,O'NEILL,That's why you're not allowed in there.
+0,82,35,LOREN,My father said I was too young.
+0,82,35,O'NEILL,Uh-huh.
+0,82,35,CARTER,Sir if it's the light itself then how did Daniel recover just by arriving on the planet?
+0,82,35,O'NEILL,"I don't know Major but I want you to find out. Otherwise we're stuck here indefinitely and that's just not acceptable. Ahh screw it, we're shutting that thing off."
+0,82,35,LOREN,No.
+0,82,35,O'NEILL,You stay here.
+0,82,35,CARTER,What are we looking for Sir?
+0,82,35,O'NEILL,The off switch. All right. if we can't shut the thing off..we'll..
+0,82,35,TEAL'C,O'Neill.
+0,82,35,O'NEILL,Aww man. Damn that thing's dangerous.
+0,82,35,CARTER,My guess is the control mechanism is somewhere inside this pedestal. If we focus our attention on that we should be all right.
+0,82,37,HAMMOND,Glad to see your alive and well Dr. Jackson. We thought we'd lost you.
+0,82,37,DANIEL,"To be honest I don't really remember much after yelling at you, sorry about that by the way."
+0,82,37,HAMMOND,That's all right. Is there anything you need?
+0,82,37,DANIEL,"Glasses. Supplies, it looks like we're not going anywhere for a while. And that little remote computer thing I couldn't make work before."
+0,82,37,HAMMOND,I'll send it through immediately. Where's Colonel O'Neill?
+0,82,39,DANIEL,Guys I've figured out how to...
+0,82,40,CARTER,How did you do that?
+0,82,40,DANIEL,Remote control.
+0,82,40,O'NEILL,I thought that thing was broken.
+0,82,40,DANIEL,"Yeah you were right, it was the batteries."
+0,82,40,O'NEILL,I was?
+0,82,40,DANIEL,"At least I think it draws power from something in the room itself, that's why I couldn't get it to work back on Earth."
+0,82,40,O'NEILL,How long were we standing here?
+0,82,40,DANIEL,"I'm not sure. General Hammond sent some supplies and Loren and I figured out how to translate the writing on this thing, so.."
+0,82,40,O'NEILL,That long?
+0,82,40,DANIEL,"Well perception of time is one of the first things to go when you're. high. From what I've been able to translate so far with Loren's help, the Goa'uld used to use this place as some sort of opium den. The only difference is the symbiote must have kept the host's mind chemically balanced once they left."
+0,82,40,TEAL'C,Then it is most likely I will be able to leave.
+0,82,40,O'NEILL,Oh how nice for you.
+0,82,40,CARTER,"Wait a minute, if you turned it off how come I'm not getting depressed?"
+0,82,40,TEAL'C,Perhaps it will take some time to feel its effects.
+0,82,40,O'NEILL,Let's take advantage of that time.
+0,82,40,O'NEILL,Loren.
+0,82,40,LOREN,Jack.
+0,82,40,O'NEILL,All right. Where did your parents actually go?
+0,82,40,LOREN,"Far, far away from here."
+0,82,40,O'NEILL,"How far? Which direction? Kid's hiding something. Teal'c, Carter, with me."
+0,82,41,O'NEILL,What?
+0,82,41,CARTER,I guess the reality that we may never go home is setting in.
+0,82,41,O'NEILL,Oh Hammond'll keep us supplied with everything we'll need until we can figure this out.
+0,82,41,CARTER,Be a good excuse for you.
+0,82,41,O'NEILL,Huh?
+0,82,41,CARTER,To do nothing for a while.
+0,82,41,O'NEILL,What?
+0,82,41,CARTER,Forget it.
+0,82,41,O'NEILL,That would be forget it SIR.
+0,82,41,CARTER,"Oh please, you think I'm keeping that up if we're stuck here forever?"
+0,82,41,O'NEILL,Listen Major.
+0,82,41,CARTER,No way.
+0,82,41,O'NEILL,That's no way COLONEL.
+0,82,41,CARTER,I'm supposed to accept that. That's the way it's gonna be?
+0,82,41,O'NEILL,That's the way it is.
+0,82,41,CARTER,What difference does it make. It's not up to you.
+0,82,41,O'NEILL,Carter! You're in withdrawal.
+0,82,41,CARTER,Oh I'm in withdrawal?
+0,82,41,O'NEILL,Yes. So am I.
+0,82,41,TEAL'C,O'Neill. Major Carter. I believe I have located the parents of Loren.
+0,82,43,LOREN,That's my mother and father there. That's me.
+0,82,43,DANIEL,You were a lot younger there.
+0,82,43,LOREN,"Yeah, it's old."
+0,82,43,DANIEL,"Yeah, about that."
+0,82,43,LOREN,Hey can I take an image of you?
+0,82,43,DANIEL,Sure.
+0,82,43,LOREN,That's great. I'm sorry that you can't leave.
+0,82,43,DANIEL,Are you? I mean it makes sense that you'd want some company. I'm just thinking that's the reason you didn't tell us how dangerous the Light was.
+0,82,43,LOREN,No.
+0,82,43,DANIEL,"It's okay, I'm not mad."
+0,82,43,LOREN,That's not why.
+0,82,44,DANIEL,What's wrong?
+0,82,44,O'NEILL,Oh we're going through that withdrawal thing again.
+0,82,44,DANIEL,I felt fine the whole time you were gone.
+0,82,44,CARTER,Actually Sir I'm starting to feel myself again.
+0,82,44,O'NEILL,Me too. What's going on?
+0,82,44,CARTER,Well something other than that light must be affecting us.
+0,82,44,TEAL'C,And we must stay in close proximity.
+0,82,44,DANIEL,So not only are we stuck here. we're stuck here.
+0,82,45,O'NEILL,Well it's sure not as much fun to look at with the light off.
+0,82,45,TEAL'C,I feel no compulsion to remain here.
+0,82,45,CARTER,Sir I think you maybe onto something.
+0,82,45,O'NEILL,How's that?
+0,82,45,CARTER,"The light isn't what's affecting our minds, it's just something to take advantage of our altered brain chemistry."
+0,82,45,DANIEL,So.. entertainment?
+0,82,45,CARTER,Probably more than that. The colour and light interaction with our optic nerve probably triggers the chemical responses but it's not the direct cause of the imbalance.
+0,82,45,O'NEILL,What is the cause?
+0,82,45,CARTER,There must be a hidden device emitting some form of energy or radiation that we can't detect with our instruments.
+0,82,45,O'NEILL,All right Loren. Why doesn't this room seem to effect you?
+0,82,45,LOREN,Too young.
+0,82,45,O'NEILL,How do you know that?
+0,82,45,LOREN,My father told me.
+0,82,45,CARTER,It is possible that this place can only affect an adult physiology.
+0,82,45,O'NEILL,Fraiser says he's just as addicted as we are.
+0,82,45,LOREN,She's right the light didn't have any affect on me.
+0,82,45,O'NEILL,Then what'd it do to your parents? We need to know what this thing does.
+0,82,45,LOREN,"When they get back, they'll explain."
+0,82,45,O'NEILL,They're not coming back! You know that.
+0,82,45,LOREN,They are.
+0,82,45,O'NEILL,Someone buried those bodies. Now how do you shut that thing off?
+0,82,45,O'NEILL,Figure that thing out.
+0,82,45,CARTER,Yes Sir.
+0,82,46,O'NEILL,Hey. I'm sorry. Nice picture. Your parents?
+0,82,46,LOREN,I killed them.
+0,82,46,O'NEILL,You did? I find that.. What happened?
+0,82,46,LOREN,"We found this place. All that they would do is stare at that light all day. The light didn't affect me, my father said it was because I was too young. But they didn't let me in the Light room anyway. I told them to stop everyday. But they just told me to bring them things."
+0,82,46,O'NEILL,Okay. So you did that. And?
+0,82,46,LOREN,"One day I stopped. It was days before their hunger was stronger than the light. Then they came out, looking for me, looking for food and I snuck into the light room and I turned it off. Not just the light, everything. I didn't know it would hurt them I just wanted to go home."
+0,82,46,O'NEILL,It's not your fault.
+0,82,46,LOREN,"They died because of me. They were screaming. They ran outside, they didn't make any sense. So I did, I turned it back on. But they were already in the water, so far and they just kept on going, they just kept going and screaming to just turn it back on but they just kept on going. They were gone. The next day I found them on the shore."
+0,82,46,O'NEILL,Loren. You were trying to help them. You were trying to free them from something. It wasn't your fault.
+0,82,46,LOREN,I miss them.
+0,82,46,O'NEILL,Yeah.
+0,82,47,O'NEILL,What have you got?
+0,82,47,DANIEL,We think we can turn it off.
+0,82,47,LOREN,Don't let them. You'll die like my parents.
+0,82,47,CARTER,"If we shut if off cold turkey, Loren is right, we'll go into withdrawal again. But Teal'c and Daniel have translated some of the writing inside this thing, Sir, and we think it was designed to be turned down incrementally."
+0,82,47,DANIEL,The Goa'uld who used this place needed human slaves in order to tend to their needs while they were here.
+0,82,47,CARTER,We've already taken it down a notch without any harm.
+0,82,47,TEAL'C,Within 2 or 3 weeks your brain chemistry will return to normal. You may then return home.
+0,82,47,O'NEILL,"So three weeks in a palace by the beach? Teal'c, you don't have to hang around. Why don't you head back and let Hammond know what's going on?"
+0,82,47,TEAL'C,Very well.
+0,82,47,LOREN,And then you'll leave?
+0,82,47,O'NEILL,I think we all will. Right?
+0,82,47,CARTER,Yeah. He should return to normal with the rest of us.
+0,82,47,LOREN,I can go with you.
+0,82,47,O'NEILL,Sure. Come on. Let's go see Teal'c off. You like ice cream?
+0,82,47,LOREN,What's ice cream?

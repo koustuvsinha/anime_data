@@ -1,0 +1,359 @@
+Season,Episode,Scene,Character,Line
+0,130,0,STARGATE SG1,Episode 622
+0,130,0,"""FULL CIRCLE""",By Robert C. Cooper
+0,130,1,ELDER,"Skaara, join us. You know why you are here?"
+0,130,1,SKAARA,Then it is true?
+0,130,1,ELDER,Theres not much time. Kasuf will take the women and children to the caves of Kalima where they will be safe.
+0,130,1,SKAARA,No one will be safe anywhere. How can we even hope to defend ourselves against a Goauld as powerful as Anubis?
+0,130,1,ELDER,Our lives are meaningless if we dont stop him from finding what he seeks here. You must rally all those capable of fighting.
+0,130,1,SKAARA,All those willing to die.
+0,130,1,DANIEL,All those who must not fail.
+0,130,1,SKAARA,Daniel?
+0,130,1,DANIEL,You wont be alone.
+0,130,2,ONEILL,Hello? This is C.. Hello?
+0,130,2,DANIEL,Jack?
+0,130,3,DANIEL,"Jack. Hi Jack. Jack, Abydos is in trouble. Anubis is on his way. Hes after the Eye of Ra. I have that replica Catherine gave me, it looks like this. Now Im pretty sure the real one is located in some secret chamber in Ras pyramid on Abydos but Im not sure where exactly. According to legend there were six Eyes including those held by Apophis, Osiris and Tiamat among others. Each is powerful on its own but to use them in combination increases that power ten fold. Recently, Anubis has managed to track down five of the six Eyes and only needs Ras to complete the set. Hes looked everywhere Ra used to hang out except Abydos; now hes on his way there."
+0,130,3,ONEILL,Im sure that was an aspirin I took this morning.
+0,130,3,DANIEL,"Jack, its really me. Its me, you have to help, you have to find the Eye of Ra before Anubis does. Keep it, hide it, destroy it, whatever, it doesnt matter, we dont have much time."
+0,130,3,ONEILL,"Hey Daniel, how you doing? Long time. How are things on the higher planes?"
+0,130,3,DANIEL,"Hey Jack, long time no see. How you doing?"
+0,130,3,ONEILL,"Fine, just fine."
+0,130,3,DANIEL,"How are the knees, the back? Everythings.."
+0,130,3,ONEILL,"Oh you know, kind of weather contingent actually."
+0,130,3,DANIEL,So whats new?
+0,130,3,ONEILL,"Ah actually a funny thing happened to me, today, Im riding an elevator and an old friend of mine, someone who never calls, never writes just shows up and tells me all about this very important and apparently urgent mission that needs my attention."
+0,130,3,DANIEL,You gonna help or...
+0,130,3,ONEILL,"Wait; let me tell it, its good. You see this buddy of mine, this pal, this chum has ascended to a whole new level of existence. Do you see the irony? Hes asking for my help and hes this great and powerful being."
+0,130,3,DANIEL,"Jack, weve already been through this, I cant actually do anything."
+0,130,3,ONEILL,"See, Im still not clear on that."
+0,130,3,DANIEL,The Others have rules; just talking to you is a violation.
+0,130,3,ONEILL,"What like jay walking, double parking, what?"
+0,130,3,DANIEL,"The point is, taking action that changes human existence, thats a big one."
+0,130,3,ONEILL,Let me ask you this. Have you met any of these Other guys?
+0,130,3,DANIEL,No.
+0,130,3,ONEILL,Well how do you know theyre any kind of a threat?
+0,130,3,DANIEL,"Well good, thats a good one. As it is, Omas an outcast because she believes helping people ascend is our duty."
+0,130,3,ONEILL,And thats okay?
+0,130,3,DANIEL,"Technically, no. But she does it anyway. Those of us that follow her are walking a very fine line."
+0,130,3,ONEILL,Why dont they try to stop her?
+0,130,3,DANIEL,I dont know.
+0,130,3,ONEILL,You dont know?
+0,130,3,DANIEL,"No I dont know. All I know is what Oma has taught me. Ascension doesnt make you all knowing or all powerful. It is just the beginning of the journey. The point is, if I were to help you, if I were to take any action to help you, Oma would step in and stop me herself to avoid drawing the wrath of the Others. If they wanted to, they could stop everything shes been trying to do for a long time."
+0,130,4,DANIEL,I cant jeopardise that.
+0,130,5,ONEILL,Obviously we cant match forces with Anubis but apparently the Abydonians are willing to back us on this one.
+0,130,5,HAMMOND,"Colonel, howd you come by this intel?"
+0,130,5,ONEILL,I didnt say?
+0,130,5,HAMMOND,No you didnt.
+0,130,5,ONEILL,Daniel told me.
+0,130,5,JONAS,You saw Doctor Jackson?
+0,130,5,ONEILL,"Actually, its not the first time."
+0,130,5,CARTER,Is he all right?
+0,130,5,HAMMOND,What else did he say?
+0,130,5,ONEILL,"Whoa, wait. You guys dont think Im nuts or anything like that?"
+0,130,5,TEALC,I too have recently see Daniel Jackson.
+0,130,5,CARTER,Really?
+0,130,5,ONEILL,Why didnt you say something?
+0,130,5,TEALC,Why did you not?
+0,130,5,ONEILL,"Well to be honest, I wasnt quite sure it was really happening the first time."
+0,130,5,TEALC,Neither was I.
+0,130,5,JONAS,Did he tell you where we could find the Eye?
+0,130,5,ONEILL,"Uh, he doesnt know."
+0,130,5,CARTER,He doesnt know?
+0,130,5,ONEILL,I know. Personally I think this whole ascension thing is a bit overrated.
+0,130,5,HAMMOND,"Thats good enough for me Colonel. If Dr Jackson is right, we have to find that Eye before Anubis does."
+0,130,6,SKAARA,ONeill.
+0,130,6,ONEILL,Skaara.
+0,130,7,SKAARA,It is good to see you.
+0,130,7,CARTER,You too.
+0,130,7,JONAS,Im Jonas.
+0,130,7,SKAARA,Good to meet you.
+0,130,7,TOBAY,We are prepared to do whatever you ask.
+0,130,7,ONEILL,"Appreciate that. Tealc, set up a perimeter, I want to know the second we have company. Any idea where this Eye thing is?"
+0,130,7,SKAARA,I will show you.
+0,130,8,SKAARA,This is as far as the catacombs go. Daniel and I have spent much time here.
+0,130,8,ONEILL,No Eyes?
+0,130,8,SKAARA,The Eye of Ra is mentioned many times on these walls.
+0,130,8,ONEILL,"Just so were clear, its not a real eye? Its a kind of jewel or something."
+0,130,8,SKAARA,We have never been able to find it.
+0,130,10,ONEILL,So you seeing anybody?
+0,130,10,SKAARA,Maybe.
+0,130,10,ONEILL,Really? Is it serious?
+0,130,10,SKAARA,We are betrothed.
+0,130,10,ONEILL,"Trust me, thats serious. Congratulations."
+0,130,10,SKAARA,Thank you.
+0,130,10,ONEILL,I assume my invitation got lost in the mail or..?
+0,130,10,SKAARA,I wanted to ask you to shaloki. To stand beside me.
+0,130,10,ONEILL,During the ceremony right?
+0,130,10,SKAARA,"Yes, yes."
+0,130,10,ONEILL,Id be honoured.
+0,130,10,SKAARA,Will you becoming to my wedding alone?
+0,130,11,ONEILL,I assume Carters invited too?
+0,130,11,SKAARA,Of course. Will you becoming together?
+0,130,11,ONEILL,As in?
+0,130,11,CARTER,Friends going to a wedding.
+0,130,11,ONEILL,"Yes, sure. Jonas?"
+0,130,13,TEALC,Is there something you wish to ask me?
+0,130,13,TOBAY,You are a friend of Daniel Jackson?
+0,130,13,TEALC,Indeed I was.
+0,130,13,TOBAY,Skaara says he is not dead. He is now a God.
+0,130,13,TEALC,A God he is not.
+0,130,13,TOBAY,Is he not powerful?
+0,130,13,TEALC,That remains unclear.
+0,130,13,TOBAY,"Daniel once brought freedom to my people from the false God Ra. He has asked us to fight; we will fight in his name. Die for his cause if we must. Skaara says Daniel will protect us, watch over our families."
+0,130,13,TEALC,I am unsure of what you have been promised.
+0,130,14,TEALC,"But if you are not prepared to die, you should not be here."
+0,130,16,ONEILL,"How you doing there, son? We dont have all day."
+0,130,16,JONAS,"I know. Believe me I know. But theres nothing. Just a lot of talk about the power of Ra, the size of his domain."
+0,130,16,ONEILL,Big domain?
+0,130,16,JONAS,Theres no mention of a secret chamber where he keeps his most valuable possessions not that I would expect that.
+0,130,16,ONEILL,Right.
+0,130,17,TEALC,"ONeill, we are under attack! Ground forces have landed. We will not be able to hold them off for long."
+0,130,17,ONEILL,Roger that. You heard the man.
+0,130,17,JONAS,I dont know what to tell you. I mean if Dr Jackson was here..
+0,130,17,ONEILL,"Oh hes here. Hes definitely here. Trust me, hes here. Son of a bitch. Hey, where are you? Were only doing this because of you."
+0,130,18,DANIEL,"Jack, its here."
+0,130,18,CARTER,Daniel.
+0,130,18,DANIEL,Sam. Jonas.
+0,130,18,JONAS,Dr Jackson.
+0,130,19,ONEILL,You hear that?
+0,130,19,DANIEL,"I cant do anything about that, you know."
+0,130,19,ONEILL,I dont care. Do something or we walk. Right now.
+0,130,19,DANIEL,Remember that fine line we were talking about?
+0,130,19,ONEILL,Cross it.
+0,130,19,DANIEL,Okay. I always thought there might be a secret chamber here. This section talks about how Ra draws his power from the sun.
+0,130,19,TEALC,"ONeill, we cannot hold our position."
+0,130,19,ONEILL,"Fall back to the pyramid. You guys do your stuff, Im gonna go help Tealc."
+0,130,19,SKAARA,I will come with you.
+0,130,21,TEALC,Fall back. Fall back!
+0,130,22,CARTER,"Ah, cant you just zip into the wall and see if theres something on the other side?"
+0,130,22,DANIEL,Its complicated.
+0,130,22,JONAS,"Some kind of trigger for a secret door. Rays of the sun will reveal all. Rays of the sun, theres no sunlight. Think any light will do?"
+0,130,22,DANIEL,Its possible.
+0,130,23,CARTER,Maybe you need to focus it a little?
+0,130,23,JONAS,Yeah.
+0,130,24,DANIEL,Is that my stuff?
+0,130,24,JONAS,You werent using it any more.
+0,130,24,DANIEL,Yeah.
+0,130,26,ONEILL,How many?
+0,130,26,TEALC,Many.
+0,130,26,ONEILL,Carter?
+0,130,26,CARTER,"Sir, were working on it."
+0,130,26,ONEILL,Work faster.
+0,130,26,CARTER,Yes sir.
+0,130,26,JONAS,I thought we were on to something.
+0,130,26,DANIEL,You are.
+0,130,26,JONAS,Its not working.
+0,130,26,DANIEL,Its red.
+0,130,26,JONAS,What is?
+0,130,26,DANIEL,The rays of the sun on the fresco are red. Sam?
+0,130,26,CARTER,Yeah. Jonas?
+0,130,27,JONAS,Sweet.
+0,130,30,CARTER,Daniel what is it?
+0,130,30,DANIEL,Im an Ancient.
+0,130,30,CARTER,What?
+0,130,30,DANIEL,"Not me, but the Others like me. Theyre the Ancients."
+0,130,30,JONAS,This is written in one of the oldest dialects of the Ancients.
+0,130,30,DANIEL,I mean I always suspected but I never really knew for sure.
+0,130,30,CARTER,What does it say?
+0,130,30,DANIEL,"It says the Ancients evolved from a race of humans that lived long before us. They were wiped out by a plague that was sweeping across the galaxy. Many learned to ascend, the rest died out. I have to go."
+0,130,30,CARTER,Where?
+0,130,30,DANIEL,Ill be back. Dont lose that tablet; it talks about a lost city thats more valuable than anything.
+0,130,30,CARTER,Daniel?
+0,130,32,ONEILL,Tealc!
+0,130,34,JONAS,What if its not here?
+0,130,34,CARTER,Maybe theres a secret compartment?
+0,130,34,JONAS,A secret compartment inside a secret chamber?
+0,130,34,CARTER,Why not?
+0,130,34,JONAS,Why not?
+0,130,35,JONAS,Right here. I dont see a latch or a jewel like in the other door but theres got to be some way to open this.
+0,130,35,CARTER,"Yeah, stand back."
+0,130,37,CARTER,"Sir, we got it."
+0,130,38,ONEILL,Too late.
+0,130,38,TEALC,We cannot hold the Gateroom. Anubis dialled the Stargate preventing our escape.
+0,130,38,ONEILL,We got jaffa on our ass. Wheres that Eye?
+0,130,38,JONAS,Right here.
+0,130,39,JONAS,What are you going to do with that?
+0,130,39,ONEILL,Im gonna see how much Anubis wants that Eye in one piece.
+0,130,40,HERAK,Surrender or die!
+0,130,40,ONEILL,What?
+0,130,40,HERAK,Surrender or die!
+0,130,40,ONEILL,I was just gonna say the exact same thing.
+0,130,40,HERAK,ONeill of SG1.
+0,130,40,ONEILL,"Hey, howre you doing? Youll have to forgive me, Im terrible with names. What.."
+0,130,41,ONEILL,Jeez!
+0,130,41,HERAK,I am Herak.
+0,130,41,ONEILL,Congratulations. Failing upwards I see.
+0,130,41,HERAK,You have no choice.
+0,130,41,ONEILL,Actually I do. Ive got the Eye and about a pound of very powerful explosives stuck to it. Give us clear access to the Gate or Ill blow it up.
+0,130,41,HERAK,Yourself along with it?
+0,130,41,ONEILL,Whats your point?
+0,130,41,HERAK,I will speak with my master.
+0,130,41,ONEILL,"Yes, you do that. Dont forget to tell him you screwed up again."
+0,130,42,JONAS,Is it really necessary to further antagonise him?
+0,130,42,ONEILL,Yes.
+0,130,42,CARTER,Would you really do it?
+0,130,42,ONEILL,"Sure, why not?"
+0,130,42,TEALC,ONeill. Skaara is in need of medical attention.
+0,130,42,SKAARA,I have failed you.
+0,130,42,ONEILL,Ah stop it.
+0,130,43,HERAK,My Lord. The humans from Earth and the one named ONeill have found the Eye of Ra. We have them trapped. But he says if we do not grant them free passage he will destroy the Eye.
+0,130,43,ANUBIS,He will give you the Eye of Ra or I will destroy Abydos.
+0,130,43,HERAK,Yes my Lord.
+0,130,44,DANIEL,You wont touch Abydos.
+0,130,44,ANUBIS,And how will you stop me?
+0,130,44,DANIEL,I can. And I will if one more person down there is hurt.
+0,130,44,ANUBIS,You can do nothing but stand there and utter empty threats because I know what you are.
+0,130,44,DANIEL,"If you know what I am, you know very well I can wipe you from existence."
+0,130,44,ANUBIS,"I know you who are Daniel Jackson, but you know not who I am."
+0,130,46,HERAK,"ONeill, can you hear me?"
+0,130,46,ONEILL,Yeah.
+0,130,46,HERAK,Anubis commands that you turn over the Eye of Ra immediately or he will destroy all of Abydos.
+0,130,46,ONEILL,Tell him to go ahead. Hes not getting the Eye.
+0,130,47,ONEILL,Hes bluffing.
+0,130,47,JONAS,"We dont have much of a choice. If we blow up the Eye hes going to destroy Abydos anyway,."
+0,130,47,ONEILL,Hes just as likely to attack after we give it to him.
+0,130,47,JONAS,Maybe not.
+0,130,47,ONEILL,Hes a Goauld.
+0,130,47,SKAARA,ONeill.
+0,130,49,ONEILL,Whats he say?
+0,130,49,TEALC,He speaks of a bright light. Of giving up. Of releasing something.
+0,130,51,ANUBIS,"With a wave of my hand, I will bombard the surface. You can try and stop me if you choose."
+0,130,51,DANIEL,What makes you think I wont?
+0,130,51,ANUBIS,Your words mean nothing. Take action if you dare.
+0,130,52,DANIEL,Maybe I wont have to.
+0,130,53,YU,I command the collective forces of the System Lords.
+0,130,53,ANUBIS,Youve finally managed to rally them against me.
+0,130,53,YU,You will hand over the Eye of Ra or face destruction.
+0,130,53,ANUBIS,I will consider your most generous offer.
+0,130,54,DANIEL,You wont survive that many motherships.
+0,130,54,ANUBIS,They are not attacking because they fear me.
+0,130,54,DANIEL,Maybe Ill tell them you dont have the Eye. And they can beat you if they strike now.
+0,130,54,ANUBIS,Do you know that for a fact?
+0,130,54,DANIEL,Maybe Ill deliver the Eye of Ra to you. If you give me your word you wont harm the people of Abydos. Ever.
+0,130,54,ANUBIS,So be it.
+0,130,54,DANIEL,Thats a promise Ill hold you to no matter what.
+0,130,54,CARTER,"Sir, youre not considering shooting our way out?"
+0,130,54,ONEILL,No. Anubis must really want that thing in one piece if his boys have held off this long.
+0,130,54,DANIEL,He does.
+0,130,54,CARTER,Where were you?
+0,130,54,DANIEL,"Busy, busy."
+0,130,54,ONEILL,"Hey, thanks for Skaara. I assume hes okay."
+0,130,54,DANIEL,What are you talking about?
+0,130,54,TEALC,He has ascended.
+0,130,54,DANIEL,What?
+0,130,54,ONEILL,That wasnt you?
+0,130,55,DANIEL,Omas here watching me.
+0,130,55,ONEILL,And?
+0,130,55,DANIEL,And I dont care any more. Anubis is one of us.
+0,130,55,ONEILL,What?
+0,130,55,DANIEL,Hes partly in some bastardised way.
+0,130,55,CARTER,"Daniel, what are you talking about?"
+0,130,55,DANIEL,The Goauld Anubis used to be figured out how to ascend.
+0,130,55,TEALC,He was believed to have been dead for quite some time.
+0,130,55,DANIEL,The Others didnt want him.
+0,130,55,JONAS,Thats understandable.
+0,130,55,DANIEL,"They sent him back. At least they tried, but not all the way."
+0,130,55,CARTER,What is he now?
+0,130,55,DANIEL,"Hes still some form of energy, that black mask is a shield, its keeping his form intact. Hes stuck somewhere between human existence and ascension."
+0,130,55,TEALC,Why have the Others allowed him to remain that way?
+0,130,55,DANIEL,I dont know. Maybe they couldnt exile him completely?
+0,130,55,ONEILL,Maybe they just dont care?
+0,130,55,DANIEL,Maybe youre right. Either way hes still very powerful.
+0,130,55,CARTER,It explains his mastery of Ancient technology.
+0,130,55,ONEILL,Hows that?
+0,130,55,DANIEL,"Jack, the Others are the Ancients. The original creators of the Stargates. You didnt tell him?"
+0,130,55,CARTER,"Uh, no."
+0,130,56,ONEILL,"All right look, just bottom line this for me, will you?"
+0,130,56,DANIEL,"Theres a fleet of System Lord Motherships surrounding Anubis, I warned them about the Eye and what it can do."
+0,130,56,ONEILL,Nice.
+0,130,56,DANIEL,Turn it over.
+0,130,56,ONEILL,What?
+0,130,56,DANIEL,"I made a deal with Anubis, you turn the Eye over, you go free and the people of Abydos remain unharmed."
+0,130,56,ONEILL,You made a deal with Anubis?
+0,130,56,DANIEL,"Ill make sure he keeps it. The Goauld are going to fight it out over the Eye and hopefully destroy each other in the process but even if they dont, while theyre licking their wounds, youre gonna find the lost city of the Ancients."
+0,130,56,ONEILL,The lost city?
+0,130,56,DANIEL,"Didnt tell him about that either, huh?"
+0,130,56,CARTER,Daniel found a tablet talking about a lost city.
+0,130,56,DANIEL,Where there are powerful Ancient weapons capable of giving you a big advantage over Anubis.
+0,130,56,ONEILL,Do you know where it is?
+0,130,56,DANIEL,"No, but Ill help you find it. Jack, nothing will happen to the Abydonians, the most important thing right now is for you to get out of here with that tablet. If Anubis gets his hands on it and finds the lost city before you do, its all over. He already has a huge advantage over you because of what the Others have done or rather failed to do."
+0,130,56,ONEILL,You gonna kick his ass?
+0,130,56,DANIEL,If I have to.
+0,130,56,ONEILL,Can you?
+0,130,56,DANIEL,Well see. Nothing will happen to the people of Abydos.
+0,130,57,ONEILL,Coming out!
+0,130,58,ONEILL,I assume you know about the part where you dont kill us?
+0,130,58,HERAK,As much as I would like to.
+0,130,59,HERAK,Jaffa Kree!
+0,130,60,ONEILL,Well spank me rosy. Lets book.
+0,130,62,HERAK,"My Lord, the Eye of Ra."
+0,130,64,ANUBIS,The ships weapons are now fully powered.
+0,130,65,YU,Your time is up.
+0,130,65,ANUBIS,Of that you are gravely mistaken.
+0,130,67,JONAS,Sounds like a hell of a battle going on up there.
+0,130,69,HERAK,They are retreating.
+0,130,69,ANUBIS,Yes.
+0,130,69,HERAK,What now My Lord?
+0,130,69,ANUBIS,Now I will destroy Abydos.
+0,130,71,DANIEL,Stop!
+0,130,72,ANUBIS,"Stop me, if you can."
+0,130,74,ANUBIS,Strike me down. Do it now or I will destroy Abydos.
+0,130,75,DANIEL,No! Dont do this.
+0,130,78,HERAK,You are indeed all powerful my Lord.
+0,130,78,ANUBIS,"What you just saw was not my doing. However, this is."
+0,130,82,JONAS,What was that?
+0,130,83,JONAS,What just happened?
+0,130,83,ONEILL,Abydos was hit.
+0,130,83,CARTER,You saw it?
+0,130,83,ONEILL,I felt it. Just before I came through.
+0,130,84,CARTER,"Sergeant, call up a full Gate diagnostic. What have you got?"
+0,130,84,DAVIS,Im working on it. A large burst of energy was transmitted through the wormhole just after Colonel ONeill came through.
+0,130,84,ONEILL,Carter?
+0,130,84,CARTER,Were lucky they closed the iris when they did Sir. A massive energy wave followed you through the wormhole.
+0,130,84,ONEILL,Redial.
+0,130,84,DAVIS,Yes sir.
+0,130,84,HAMMOND,Welcome back SG1. Whats happening?
+0,130,84,CARTER,Seems there was a large explosion on the planet just after we left Sir.
+0,130,84,HAMMOND,Is that possible?
+0,130,84,ONEILL,"Unfortunately, Sir."
+0,130,84,CARTER,Were dialling Abydos now to see what happened.
+0,130,84,DAVIS,Chevron 6 encoded. Chevron 7 will not lock.
+0,130,84,HAMMOND,Briefing room.
+0,130,84,ONEILL,Yes sir.
+0,130,84,CARTER,The only thing we can assume is that Anubis didnt keep his deal with Daniel.
+0,130,84,ONEILL,"Thats a shock, eh?"
+0,130,84,TEALC,And that Daniel Jackson was unable to prevent Anubis from destroying Abydos.
+0,130,84,HAMMOND,Which leaves Anubis in possession of a powerful weapon that has given him clear superiority over the System Lords.
+0,130,84,ONEILL,"We dont know any of that for sure, Sir."
+0,130,84,JONAS,"What we do know, is that we have to find the city thats described on that tablet."
+0,130,84,HAMMOND,Can you translate this?
+0,130,84,JONAS,Oh yeah. It will take some time but Dr Jackson did offer his assistance.
+0,130,84,CARTER,Im not sure we can count on Daniel for anything any more.
+0,130,84,HAMMOND,Why not?
+0,130,84,CARTER,"Well Sir, he would have done everything in his power to protect the people of Abydos. If he was somehow prevented from doing that then...."
+0,130,85,DAVIS,"Chevron 5 encoded. Major, if you dont mind me asking, how many times are we going to dial Abydos before you give up?"
+0,130,85,CARTER,Until a Tokra with a ship flies over the planet and tells me theres no one left alive.
+0,130,85,DAVIS,Chevron 6 encoded. Chevron 7 locked.
+0,130,87,CARTER,The MALP shows the pyramid is intact. No evident damage.
+0,130,87,HAMMOND,What about the explosion?
+0,130,87,CARTER,"I dont know Sir, I cant explain it."
+0,130,87,ONEILL,"Id like to go Sir, make sure the people are okay."
+0,130,91,JONAS,I guess everybodys all right.
+0,130,92,ONEILL,Skaara.
+0,130,92,SKAARA,ONeill.
+0,130,92,ONEILL,Whats going on here?
+0,130,92,SKAARA,Anubis destroyed the pyramid. Everyone was killed in the blast.
+0,130,92,ONEILL,They dont look dead to me. But then neither do you.
+0,130,92,SKAARA,Death is only the beginning of ones journey.
+0,130,92,ONEILL,That sounds familiar.
+0,130,92,TEALC,What of Daniel Jackson?
+0,130,92,SKAARA,I have not seen Daniel.
+0,130,92,CARTER,Do you know if hes okay?
+0,130,92,SKAARA,I do not know. One named Oma did this.
+0,130,92,ONEILL,All of you?
+0,130,92,SKAARA,I wish you well ONeill. You will not see me again. At least not for a while.
+0,130,92,ONEILL,Take care.
+0,130,92,SKAARA,Do not fear. You will find your way.
+0,130,93,ONEILL,What do you mean by that?
+0,130,94,SKAARA,The Chappaai will remain until you leave.
+0,130,96,ONEILL,Lets go home.

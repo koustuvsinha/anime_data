@@ -1,0 +1,357 @@
+Season,Episode,Scene,Character,Line
+0,166,0,STARGATE SG1,Episode 814
+0,166,0,"""FULL ALERT""",By Joseph Mallozzi & Paul Mullie Transcribed by
+0,166,1,KINSEY,Bad news: youre out of Scotch.
+0,166,1,ONEILL,"Well, if Id known you were comin, Id have hidden the good stuff."
+0,166,2,KINSEY,"If youd known I was coming, I doubt Id have made it through the door."
+0,166,3,KINSEY,Who are you calling?
+0,166,3,ONEILL,Local sheriffs a friend of mine.
+0,166,3,KINSEY,"I may be disgraced, but Im not wanted for any crimes."
+0,166,3,ONEILL,Breaking and entering?
+0,166,3,KINSEY,Jack ...
+0,166,3,ONEILL,Shh. Its ringing.
+0,166,3,KINSEY,Now you can listen to what I have to say.
+0,166,4,KINSEY,"Oh, for Gods sake! You need to start trusting me, Jack."
+0,166,4,ONEILL,"Mmmmmmm, no - I really dont."
+0,166,4,KINSEY,"Yes, you really do. The fate of the planet depends on it."
+0,166,5,SHERIFF,Hello?
+0,166,5,ONEILL,Andy. Its Jack.
+0,166,5,SHERIFF/ANDY,"Hey, whats up?"
+0,166,5,ANDY,Jack? Hello?
+0,166,5,ONEILL,I was just checking on Friday - making sure were still on for poker.
+0,166,5,ANDY,"Yeah, you bet!"
+0,166,5,ONEILL,Ill bring the beer.
+0,166,5,ANDY,Alright.
+0,166,5,ONEILL,See ya then.
+0,166,5,ANDY,See ya.
+0,166,5,KINSEY,Wise decision.
+0,166,5,ONEILL,Youve got three minutes ... before I shoot you as an intruder in my home.
+0,166,6,KINSEY,"Same old Jack ONeill - although I hear youre a general now. Congratulations. Alright, then - straight to the point. You wanna take down The Trust - I can help you."
+0,166,6,ONEILL,Im sorry - I must have missed an episode. I thought you guys were working together.
+0,166,6,KINSEY,"After I was forced to resign as Vice President, my relationship with the organisation changed."
+0,166,6,ONEILL,"Meaning you were no longer useful, so they kicked you out on your ass."
+0,166,6,KINSEY,Thats a rather crude way of putting it but ... yes.
+0,166,6,ONEILL,Why didnt they just shoot you?
+0,166,6,KINSEY,"Believe me, that was a consideration - which is why, when they requested a meeting a few days ago, I suggested a nice public venue. They made me a very interesting offer. In exchange for a large cash payment, The Trust wants me to arrange a meeting with General Miraslov Kiselev, the Russian Defence Minister."
+0,166,6,ONEILL,I thought they already had connections with the Russian military?
+0,166,6,KINSEY,"This isnt just a connection. Kiselev exercises operational authority over all of Russias armed forces, including their nuclear arsenal."
+0,166,6,ONEILL,And he just happens to be a good friend of yours.
+0,166,6,KINSEY,"After the fall of communism, he was one of a number of officers assigned to pursue secret talks with the west, aimed at military co-operation. He was a hard-liner even then. His country was falling apart but he came at us as though we were the ones at a disadvantage! He and I developed a ... mutual respect."
+0,166,6,ONEILL,What does The Trust want with him?
+0,166,6,KINSEY,"Well, they wouldnt give me any specifics, but they know we entered into a deal with the Russians for control of the Gate, and they also know that theres a growing sentiment in Moscow that we havent been keeping up our end of the bargain."
+0,166,6,ONEILL,You think theyre trying to turn the Russians against us?
+0,166,6,KINSEY,"Its ambitious, I know, even for The Trust, but from what I hear, after you put a crimp in their little plan to use symbiont poison to wipe out the Goauld, theres been a change of attitude. Theyre no longer willing to stay in the shadows and bide their time. They wanna make a direct grab for power. Thats why I came to you."
+0,166,6,ONEILL,"Yes, you always struck me as the hero type."
+0,166,6,KINSEY,"You may question my methods, but everything I did was for God and country. For The Trust to ally themselves with a foreign power against the United States of America - well, thats just something I cant condone."
+0,166,6,ONEILL,"Kinsey, please - spare me the diatribe. They kicked you when you were down and you want revenge - its as simple as that."
+0,166,6,KINSEY,"The truth is, my motives are irrelevant. The Trust has become an imminent threat to the sovereignty of this nation. Now, what are you gonna do about it?"
+0,166,7,DANIEL,"Well, that would be a problem. Technically the Gates only here on loan - if the Russians decide they want it back, things could get sticky."
+0,166,7,TEALC,Is it possible Kinsey is simply lying?
+0,166,7,ONEILL,That is always possible.
+0,166,7,CARTER,Has he asked for anything in return for the information?
+0,166,7,ONEILL,Protection.
+0,166,7,DANIEL,"Makes sense - if he doesnt co-operate, The Trustll kill him."
+0,166,7,CARTER,Maybe he should co-operate. This could be our chance to get somebody on the inside - infiltrate the organisation.
+0,166,8,KINSEY,You want me to wear a wire?!
+0,166,8,ONEILL,Thats the deal.
+0,166,8,KINSEY,I am not a spy!
+0,166,8,ONEILL,"Think of it this way: if you dont do what they want, theyll kill you. If you dont do what we want ... well let em."
+0,166,8,KINSEY,"Well, thats as good as pulling the trigger yourself! I thought Stargate Command didnt do that sort of thing."
+0,166,8,ONEILL,Well ... were under new management.
+0,166,8,CARTER,"Alright, lets test it. Hows it looking?"
+0,166,8,DANIEL,Got picture.
+0,166,8,CARTER,Lets have your belt.
+0,166,8,KINSEY,Why?
+0,166,8,CARTER,You should be wearing this one instead. The buckle contains a GPS receiver unit thatll allow us to track your movements.
+0,166,8,KINSEY,"When were done, I want that back."
+0,166,8,CARTER,"Now, theyve arranged to meet you at a remote location. My guess is theyll have you leave your car and then theyll drive you to a second location where the actual meeting will take place. Now, were gonna have to keep back a fair distance so as not to arouse suspicion but we will be monitoring your conversations by means of this listening device that we fitted into the collar of your shirt. Weve got a strike team with us. They will be ready to move in at the first sign of trouble. Now, in the event that something does go wrong, I suggest we come up with a pre-established signal, preferably a code word thatll let us know youre in trouble."
+0,166,8,KINSEY,"How about something simple, like Help?!"
+0,166,8,CARTER,"How about something a little less obvious, like, Red?"
+0,166,8,KINSEY,Whatever.
+0,166,8,CARTER,Dont be too direct fishing for information. Let them do the talking.
+0,166,9,KINSEY,Get out of my way. I know what to do.
+0,166,10,KINSEY,"Youre late. Youre kidding, right?"
+0,166,10,JENNINGS,Afraid not.
+0,166,10,CARTER,Hes on the move.
+0,166,10,TEALC,Understood.
+0,166,11,KINSEY,So how longs this sightseeing trip gonna last?
+0,166,11,JENNINGS,Well let you know.
+0,166,11,DANIEL,Theyve turned off the main road.
+0,166,11,DANIEL,: Theyve stopped.
+0,166,11,JENNINGS,This way.
+0,166,11,MR PARKER,Bob. Good to see you again. Sorry about the blindfold. What can we get you to drink?
+0,166,11,KINSEY,What are you having?
+0,166,11,MR PARKER,Vodka tonic.
+0,166,11,KINSEY,In that case Ill have a Scotch - no ice.
+0,166,12,MR KENT,"Were glad you finally agreed to a private meeting. We were afraid you might be, uh, holding a grudge against us."
+0,166,12,KINSEY,You mean because you abandoned me at the moment I needed you the most?
+0,166,12,MR PARKER,"You were a liability, Bob - an embarrassment."
+0,166,12,KINSEY,I think youve got that backwards. I was only forced to resign as Vice President because they found out about my relationship with you.
+0,166,12,MR PARKER,"Either way, you were no longer useful to us. You would have done the same."
+0,166,12,KINSEY,"Maybe. But when I cut someone loose, I dont go back to them grovelling for favours."
+0,166,12,MR WAYNE,You say whats on your mind - Ill give you that.
+0,166,12,KINSEY,"Under other circumstances, I might be worried about winding up like one of your trophies on the wall but youve already made it clear that you need me, so I dont have anything to worry about, do I?"
+0,166,14,CARTER,Were losing video.
+0,166,14,MR KENT,"Its true, we do need you but not for what you think."
+0,166,14,DANIEL,They jamming us?
+0,166,14,CARTER,I dont know.
+0,166,14,KINSEY,What are you talking about?
+0,166,14,MR WAYNE,Show him.
+0,166,14,MR PARKER,"This is why we need you, Bob."
+0,166,14,KINSEY,What the hell is goin on here?
+0,166,14,CARTER,"They are definitely jamming us. Tealc, weve lost audio. Move in."
+0,166,15,DANIEL,Can you get the signal back?
+0,166,15,CARTER,I cant get past the interference.
+0,166,16,STRIKE TEAM MEMBER 1,Clear!
+0,166,16,STRIKE TEAM MEMBER 2,"Clear over here, sir."
+0,166,16,DANIEL,They beamed out.
+0,166,16,CARTER,This is starting to become a habit.
+0,166,17,CARTER,"If the alkesh is in orbit, they must have fixed the cloak, because SSN hasnt picked them up."
+0,166,17,DANIEL,What about the locator beacons?
+0,166,17,CARTER,"Were running a search through the NSA satellite system, but all theyd have to do to avoid detection is change the frequency. Odds are were not gonna find anything."
+0,166,17,ONEILL,"Well, the Pentagons been apprised of the situation. Theyre launching Prometheus in about four hours. I want you on board. Theres a C-17 waiting for you at Peterson."
+0,166,17,TEALC,Understood.
+0,166,17,CARTER,"Sir, Ive been going over the sensor logs from the last encounter between Prometheus and the alkesh. There were a few small anomalies emanating from the ships position before it decloaked. They didnt register because we didnt know to look for them, but I could create a programme that would key the sensors to those particular readings."
+0,166,17,ONEILL,I was just going to suggest that!
+0,166,17,DANIEL,So wed be able to detect a cloaked ship?
+0,166,17,CARTER,"Well, its not that simple. These anomalies are very difficult to detect. It might have just been a fluke that we picked them up the first time. The effect is also mimicked by certain types of cosmic radiation, but I still think it might improve our odds."
+0,166,17,ONEILL,So instead of a million to one ...
+0,166,17,CARTER,... maybe ten thousand to one?
+0,166,17,DANIEL,"Improved, then."
+0,166,17,ONEILL,Yeah.
+0,166,17,CARTER,Ill need a few hours to create the programme.
+0,166,17,ONEILL,Fine.
+0,166,17,DANIEL,I have to pick up my dry cleaning.
+0,166,17,ONEILL,Youre on a flight to Moscow in half an hour.
+0,166,17,DANIEL,I am?
+0,166,17,ONEILL,"Yes, you are. Colonel Chekovs people will meet you there. Will you please try to find out what the hells goin on? And if you get a chance, hook up with this General Kiselev."
+0,166,17,DANIEL,"Jack, they know were on to them - they may just abort the mission."
+0,166,17,ONEILL,"No, the way Kinsey was talking, it sounds like theyre lookin for a big score here."
+0,166,17,DANIEL,And what if he wont co-operate with them?
+0,166,17,ONEILL,Kinseyll do whats best for Kinsey.
+0,166,17,DANIEL,Mm!
+0,166,18,COMM OFFICER,"Sir, download is complete. Colonel Carters new sensor programme is online and operational."
+0,166,18,PENDERGAST,"Alright, begin search pattern alpha."
+0,166,18,COMM OFFICER,"Yes, sir."
+0,166,19,DANIEL,"Hi, Im here to see Captain Voronokov."
+0,166,19,WOMAN,There is no Captain Voronokov here.
+0,166,19,DANIEL,"Oh! Thats strange - the, uh, guy down the hall said ..."
+0,166,19,WOMAN,I am Captain Voronokova. Daria Voronokova. You must be Daniel Jackson.
+0,166,19,DANIEL,"Yeah. Im sorry - I was told I would be meeting Colonel Chekovs right-hand man, so naturally I ..."
+0,166,19,VORONOKOVA,"For my part, I expected a drab, pasty-faced, middle-aged academic. I too am pleasantly surprised."
+0,166,19,DANIEL,"Oh! Uh, your English is excellent."
+0,166,19,VORONOKOVA,Spaseba . And how is your Russian?
+0,166,19,DANIEL,
+0,166,19,VORONOKOVA,"... OK, we stick to English, then. I will be your guide. Whatever you wish to do while you are in Moscow, you will ask me first - I will take care of it. If you desire to meet with anyone, I will arrange it for you. If you go out on your own, I cannot protect you. Lie to me, or attempt to mislead me, and I will not protect you."
+0,166,19,OK!,
+0,166,19,VORONOKOVA,Have you eaten a proper lunch?
+0,166,19,DANIEL,I had something on the plane.
+0,166,19,VORONOKOVA,Then the answer is no. Good. I know a restaurant around the corner that serves the best salo in Moscow.
+0,166,19,DANIEL,"Oh, Im not a big fan of salo."
+0,166,19,VORONOKOVA,Dont worry - you will acquire taste.
+0,166,20,CARTER,"Sir, whats going on?"
+0,166,20,ONEILL,The Russians have gone to a heightened state of alert.
+0,166,20,CARTER,Why?!
+0,166,20,ONEILL,Were tryin to find out. The Presidents called a meeting for the Joint Chiefs. Were at Defcon 3.
+0,166,21,DANIEL,"So, where exactly are we going?"
+0,166,21,VORONOKOVA,"You wish to meet with General Kiselev, da? That is where we are going."
+0,166,21,DANIEL,You must be pretty well connected to get in to see him this quickly. What do you know about him?
+0,166,21,VORONOKOVA,General Miraslov Kiselev - graduated with a gold medal from Academy. Received the Hero of Russia for his distinguished leadership in Chechnya. He was the head of the General Staff Academy for five years before being appointed to his present position.
+0,166,21,DANIEL,So youve heard of him
+0,166,21,VORONOKOVA,Hes a little suspicious of American global influence and highly critical of what he calls NATO expansion plans. You may not receive a very warm welcome.
+0,166,22,VORONOKOVA,
+0,166,22,CHERNOVSHEV,
+0,166,22,DANIEL,Whats goin on?
+0,166,22,VORONOKOVA,I dont know.
+0,166,22,CHERNOVSHEV,Nyet.
+0,166,22,VORONOKOVA,"Dont worry, Daniel, Ill find out whats happening."
+0,166,24,ONEILL,"Yeah, alright. ... OK, get back to me when you know something. ... Yeah."
+0,166,24,HARRIMAN,"Sir, Colonel Chekovs here to see you."
+0,166,24,ONEILL,Send him in.
+0,166,24,CHEKOV,General.
+0,166,24,ONEILL,Colonel! I was hoping you could shed some light on the situation here. We cant seem to get a straight answer from your government.
+0,166,24,CHEKOV,"Well, the information coming out of Moscow is ... guarded at best but my sources in the Kremlin tell me the Russian military is increasing its alert status because they think the American administration has been compromised."
+0,166,25,CHERNOVSHEV,"Doctor Jackson, sorry to keep you waiting."
+0,166,25,DANIEL,No problem. You wanna tell me whats going on?
+0,166,25,CHERNOVSHEV,"All in good time. Please, roll up your sleeve. We need a sample of your blood."
+0,166,26,DANIEL,Youre kidding?
+0,166,26,CHERNOVSHEV,Either you co-operate or we will take it by force.
+0,166,27,DANIEL,Is this a normal part of your interrogation procedure?
+0,166,27,CHERNOVSHEV,"Depends what you wish to know. In this case, it will answer a very specific question."
+0,166,27,DANIEL,What question? Ow.
+0,166,29,DANIEL,Whats going on?
+0,166,29,CHERNOVSHEV,Why do you wish to see General Kiselev?
+0,166,29,DANIEL,Its complicated.
+0,166,29,CHERNOVSHEV,Surely you can explain it to me.
+0,166,29,DANIEL,I think Id rather explain it to General Kiselev.
+0,166,29,CHERNOVSHEV,"Thats not going to happen. You see, earlier today we managed to uncover a plot against the generals life. Luckily we captured the assassin before he could make his move. I believe you know him."
+0,166,30,DANIEL,Kinsey!
+0,166,30,CHERNOVSHEV,"Robert Kinsey, former Vice President of the United States of America."
+0,166,30,DANIEL,Thats insane - why would Kinsey want to kill General Kiselev?
+0,166,30,CHERNOVSHEV,Im afraid Mr Kinsey isnt exactly himself these days.
+0,166,31,KINSEY,By stopping me you will only delay the inevitable. Your world is doomed.
+0,166,32,CHERNOVSHEV,Now you begin to appreciate the gravity of the situation.
+0,166,33,CHEKOV,How could Kinsey have become a Goauld?
+0,166,33,ONEILL,Five bucks says Carter has a theory.
+0,166,33,CARTER,"As a matter of fact, I do."
+0,166,33,ONEILL,Huh?
+0,166,33,CARTER,"According to TokRa intelligence, The Trust launched at least two poison attacks against Goauld-occupied worlds after we took back the Gate. That means they had to leave the relatively safe confines of the solar system and head out into the galaxy where they ran the risk of being killed or ... captured."
+0,166,33,CHEKOV,What are you suggesting?
+0,166,33,CARTER,"Any Goauld who got his hands on them would have discovered pretty quickly that they belong to a top secret organisation with high level connections to some of the most powerful governments and institutions on this planet, including the SGC, Area 51, and maybe even the Ancient outpost in the Antarctic."
+0,166,33,CHEKOV,"My God! You think they have been taken as hosts, then sent back to Earth."
+0,166,33,CARTER,"I think its possible. They could have brought dozens, maybe even hundreds, of symbionts back with them. By now, the entire Trust could have been taken over."
+0,166,33,CHEKOV,But why would the Goauld want to assassinate General Kiselev?
+0,166,33,ONEILL,"We dont know for sure that was the plan, but if Carters right, Kinsey might have been trying to get a snake into Kiselevs head."
+0,166,33,CARTER,"It makes sense. From Kiselev, its one step up to the President of Russia."
+0,166,33,CHEKOV,How do we know he didnt succeed?
+0,166,33,CARTER,Kinsey never met with the general. He was arrested before he had the chance.
+0,166,33,CHEKOV,"Well, my government feels that it is the American administration that has been infiltrated by the Goauld ..."
+0,166,33,ONEILL,"Oh, here we go!"
+0,166,33,CHEKOV,... and they are insisting that everyone in key positions - including the President - must submit for testing.
+0,166,33,ONEILL,Not gonna happen.
+0,166,33,CHEKOV,"Well, then we have a problem."
+0,166,34,DANIEL,Thank you for getting me out of there.
+0,166,34,VORONOKOVA,"It wasnt easy. Even after your blood test came back negative, they still wanted to hold you."
+0,166,34,DANIEL,"Yeah, not a lot of trust and goodwill to spare right now, I guess. Listen - I need to talk to the Goauld."
+0,166,34,VORONOKOVA,Nyet.
+0,166,34,DANIEL,You have to get me in to see Kinsey.
+0,166,34,VORONOKOVA,Impossible.
+0,166,34,DANIEL,"If were gonna figure out whats going on here, we have to question him."
+0,166,34,VORONOKOVA,"He is being questioned, by Russian military intelligence."
+0,166,34,DANIEL,"Yes, and hes feeding them a pack of lies. Hes telling them the American administration has been infiltrated cos he wants to force a confrontation."
+0,166,34,VORONOKOVA,To what end?
+0,166,34,DANIEL,I dont know - thats why Ill need to talk to him.
+0,166,35,VORONOKOVA,Dosta.
+0,166,35,DANIEL,"Language! Daria, please."
+0,166,36,VORONOKOVA,"Ill see what I can do. In the meantime, stay here."
+0,166,37,HARRIMAN,"Sir. Just received another report. As of 0912, the Chinese military joined the Russians in an elevated state of alert."
+0,166,37,ONEILL,Naturally!
+0,166,37,CHEKOV,General. Ive been talking to my contacts in the Kremlin. They tell me President Mikhailov is not happy with the situation but is under considerable pressure from his military advisers.
+0,166,37,ONEILL,"In other words, Kiselev is running the show."
+0,166,37,CHEKOV,Da.
+0,166,37,ONEILL,Any idea how we can keep this from going to total forces?
+0,166,37,CHEKOV,"Yes, I have many friends in the generals staff. If I can convince enough of them to take a united stand against escalation, it could give our President sufficient leverage to consider other options."
+0,166,37,ONEILL,"And if Kiselev finds out youre goin around him, it could make things ... worse."
+0,166,37,CHEKOV,"At this point, I dont believe we have much choice."
+0,166,37,ONEILL,Right.
+0,166,39,DANIEL,"So, what should I call you?"
+0,166,39,KINSEY,You are unworthy to speak my name.
+0,166,39,DANIEL,"Maybe. So Im guessing you work for the System Lords, am I right? I know youre not working for Baal - hes too busy conquering the galaxy to bother with an unimportant planet like Earth. Gotta hand it to you, though - your territories are falling one by one, your troops are in full retreat, and yet you still find the time to come and try and destroy little old us. The question is, why? Captain Voronokova thinks its, uh, a petty need for revenge for all the trouble weve caused you over the years - sort of a last-ditch attempt to take us with you before Baal finishes you off. I told her, the System Lords arent that pathetic - are they?"
+0,166,39,KINSEY,You are the one who is pathetic. You will die never knowing our true purpose.
+0,166,39,DANIEL,"So there is a hidden agenda? Making progress now, arent we?"
+0,166,40,ONEILL,"Yeah. ... Alright, keep me posted. Well - the Chinese are refusing to back down and, gosh and golly go figure, were pickin up increased chatter from within Russia."
+0,166,40,CHEKOV,Im still waiting to hear back from my contacts in Moscow.
+0,166,40,ONEILL,And I just talked to the Joint Chiefs. Were goin to Defcon 2.
+0,166,40,DANIEL,"Yknow, Im sure if we put our heads together we could come up with a dozen reasons why youd want to wipe us out - the most important being the Ancient weapon that you know we possess. Im sure the System Lords think that if they can get us to wipe ourselves out, they can just step right in and take it. Theyre probably right, but what I dont understand is you. Why are you so willing to sacrifice yourself?"
+0,166,40,KINSEY,"I assure you, I have no intention of dying on this miserable planet."
+0,166,40,DANIEL,"Youre in Russian Defence headquarters - a primary target. If you do succeed in starting a nuclear war, youre gonna die right along with the rest of us. Unless theres something Im missing."
+0,166,40,KINSEY,"You should return to your homes and say farewell to your loved ones. Your gods have deemed you to be unworthy, and the hour of reckoning is at hand."
+0,166,41,HARRIMAN,Air Force Space Command has put all its missile wings on alert; the first B2 left Whiteman at 0940; FL SATCOM sent out an Emergency Action message; nine of our missile submarines are at sea and the rest are preparing for immediate sortie. The President and his team are on their way to Andrews where the National Airborne Command Post is awaiting their arrival.
+0,166,41,CHEKOV,General Kiselev found out we were trying to rally support against him. Hes already arrested several officers on trumped up charges. Im afraid Doctor Jackson may be in danger.
+0,166,41,DANIEL,"Cmon! Next to slaughtering innocents, gloating is what you guys are all about! It must be just killing you just sitting there not bragging about your brilliant plan."
+0,166,42,VORONOKOVA,We have to get out of here now.
+0,166,42,DANIEL,"Why, what is it?"
+0,166,42,VORONOKOVA,Theyre coming for us.
+0,166,42,DANIEL,Who?
+0,166,43,KINSEY,You are too late.
+0,166,43,DANIEL,"Sorry, guys, gotta go."
+0,166,44,KINSEY,What is the meaning of this?
+0,166,44,PENDERGAST,"Doctor Jackson, welcome aboard the Prometheus."
+0,166,44,DANIEL,Any luck finding the alkesh?
+0,166,44,TEALC,None.
+0,166,44,PENDERGAST,Maybe he can help us.
+0,166,44,KINSEY,I think not.
+0,166,44,TEALC,"If you do not co-operate, I will kill you."
+0,166,44,KINSEY,"Dont you realise what you have done? The Russians already suspect that you have been compromised by the Goauld. As far as they know, you helped me to escape. Youve done more to convince them than I ever could."
+0,166,45,ONEILL,"Listen up, people. I just got word. The Russians have gone to a state of full military preparedness. As of this moment, were at Defcon 1."
+0,166,46,KINSEY,The Russians will no doubt view my abduction as an attempt to hide evidence that your government has been infiltrated by the Goauld. You have no choice but to return me immediately.
+0,166,46,DANIEL,"Yeah. See, thats the part I dont understand. The whole time you were down there, you were doing your best to start a nuclear war even though you were right in the line of fire. Now you wanna go back?"
+0,166,47,PENDERGAST,He has a way out.
+0,166,47,DANIEL,He knows someone on the inside - someone who can protect him.
+0,166,48,TEALC,Who is it?
+0,166,48,KINSEY,I have nothing more to say to you.
+0,166,48,PENDERGAST,We can start this again when hes had some time to think about it. Take him to the Brig.
+0,166,50,ONEILL,"All our naval forces have been deployed, and weve got some pretty big birds in the air right now. Radio chatter suggests that both your people and the Chinese have alerted their missile regiments."
+0,166,50,CHEKOV,"Theyre posturing! Kiselev knows that even if he launches an effective first strike against your land-based forces, your sea-based missiles are already in a position to exact extreme retribution."
+0,166,50,ONEILL,"Yeah, thats only if he doesnt completely lose his mind - and Im not discounting that possibility."
+0,166,50,CHEKOV,"As acting Commander in Chief of the Russian armed forces, President Mikhailov is our only hope of reeling him in."
+0,166,50,ONEILL,"Well, we cant get through to him! Hes not even taking calls from the White House any more."
+0,166,50,CHEKOV,"He is convinced the Goauld now control the American administration. Look, I know a few people on his personal staff - I may be able to get a direct line. But, if we do make contact, we will only have a few minutes to convince him that General Kiselev has been misled by the Goauld. Now, right now, I dont see how were going to do that."
+0,166,50,ONEILL,Oy!
+0,166,51,JENNINGS,We are in position.
+0,166,51,MR PARKER,Have they detected our presence?
+0,166,51,JENNINGS,No.
+0,166,51,MR PARKER,Very well. Destroy the ship.
+0,166,51,JENNINGS,"They have superior shields. If we do not succeed with the first salvo, we will be at a disadvantage."
+0,166,51,MR PARKER,"So long as he is in their hands, he remains a liability. We have no choice."
+0,166,51,JENNINGS,Understood.
+0,166,52,DANIEL,What the hell was that?
+0,166,53,COMM OFFICER,Were under attack.
+0,166,53,PENDERGAST,Shields up!
+0,166,53,COMM OFFICER,Shields are down to forty percent; weve lost starboard engines.
+0,166,53,PENDERGAST,Transfer power to port engines; give me evasive manoeuvres. Bring all weapon batteries online.
+0,166,53,VOICE,Bridge - this is Sergeant Larson.
+0,166,53,PENDERGAST,Go ahead.
+0,166,53,LARSON,"Im sorry, sir, the prisoner escaped."
+0,166,53,TEALC,The ring room.
+0,166,54,ONEILL,Please - tell me you have something.
+0,166,54,CARTER,"Yes, sir, I think I do. Ive been going over everything we have on General Kiselev and I found this. Colonel Ruselin Chernovshev. He was Kiselevs Chief of Staff - his right-hand man. Three years ago he was involved in a plot to sell a captured symbiont to elements of The Trust, then operating within the NID. That means The Trust had a direct connection to Kiselev. They didnt need Kinsey. He was just a pretext to justify this confrontation by making them think that wed been compromised."
+0,166,54,CHEKOV,"So, if The Trust had access to Kiselev, then he could have been compromised as well."
+0,166,54,CARTER,Exactly. This is a file photo of General Kiselev taken three years ago. And this was taken less than a week ago during a speech he gave at the General Staff Academy. Notice the difference?
+0,166,54,ONEILL,Glasses.
+0,166,54,CHEKOV,May I see that?
+0,166,54,CARTER,"We know that symbionts have healing power. They can cure a host body of any number of physical shortcomings, including bad eyesight."
+0,166,55,ONEILL,Thats it? Did it occur to you that he might be wearing contacts?
+0,166,55,CARTER,"Sir, I realise its not a lot to go on."
+0,166,55,ONEILL,Have you heard of laser surgery?
+0,166,55,CARTER,Sir ...
+0,166,55,CHEKOV,"No, wait. Colonel Carter is right. General Kiselev suffered from glaucoma. His vision was extremely poor. There is no possibility he could have read from a prepared statement without his glasses."
+0,166,55,CARTER,"Sir, I think Kiselevs a Goauld. I think he has been all along."
+0,166,56,DANIEL,Crap!
+0,166,57,HARRIMAN,"Weve almost got it, sir - stand by."
+0,166,58,ONEILL,Hey - how do we know Mikhailov hasnt been infected too?
+0,166,58,CHEKOV,We dont - but at this point we hardly have anything to lose.
+0,166,58,ONEILL,Good point.
+0,166,58,HARRIMAN,"We got it, sir - youre on."
+0,166,58,CHEKOV,"Mr President, can you hear me?"
+0,166,58,MIKHAILOV,"Colonel Chekov, this is highly irregular."
+0,166,58,CHEKOV,"Uh, yes, sir, but these are highly unusual circumstances."
+0,166,58,MIKHAILOV,Agreed. Is General ONeill there with you?
+0,166,58,ONEILL,"Im here, Mr President."
+0,166,58,MIKHAILOV,Its good to speak with you again - although you understand at the moment I cannot trust anything you say.
+0,166,58,ONEILL,"Yeah, about that: its true there has been a Goauld infiltration - but its not on our side, its on yours."
+0,166,59,MIKHAILOV,What is it exactly that you are saying?
+0,166,59,ONEILL,"Let me put it this way, sir: the last time you saw General Kiselev, did you happen to notice if he was wearing his glasses?"
+0,166,60,COMM OFFICER,"Shields are holding, sir - forty percent and steady."
+0,166,60,PENDERGAST,Then weve got em. Come about and prepare to fire on my signal.
+0,166,61,JENNINGS,Im pleased you were able to use my diversion to free yourself.
+0,166,61,KINSEY,Do you think Im a fool? You tried to destroy the ship because you thought I would reveal information about you.
+0,166,61,JENNINGS,Of course not. We were merely ...
+0,166,61,PENDERGAST,Open fire - all batteries!
+0,166,61,COMM OFFICER,"Yes, sir!"
+0,166,63,CHEKOV,"Were sending you the relevant documents now, Mr President - proof of Colonel Chernovshevs prior relationship with The Trust, plus a list of generals who are willing to support you should you decide to move against General Kiselev."
+0,166,63,MIKHAILOV,"I must say, Im not sure what to make about this."
+0,166,63,ONEILL,"Well, you could start by trusting us."
+0,166,63,MIKHAILOV,"And if you have been compromised by the Goauld, I would be standing down my forces with the Americans in position to launch an immediate attack."
+0,166,63,ONEILL,"Sir, we both know neither side can win outright with a first strike. Thats the whole point. The Goauld dont want a winner - they want us to destroy each other."
+0,166,63,MIKHAILOV,Why?
+0,166,63,CHEKOV,We believe their ultimate goal is to get their hands on the Ancient weapon in Antarctica.
+0,166,64,HARRIMAN,"Sir, MPIC is reporting the visuals from Russian missile site 537. Silo doors are open - evidence of a firefight on the ground."
+0,166,64,CHEKOV,My God - Kiselev is trying to launch without authorisation.
+0,166,65,ONEILL,"Mr President, you are about to lose control of your own forces. You have to do something right now!"
+0,166,65,MIKHAILOV,I am ...
+0,166,65,ONEILL,What happened?
+0,166,65,HARRIMAN,We lost the connection - the line is down.
+0,166,65,COMM OFFICER,"Sir, the alkesh is no longer making evasive manoeuvres or returning fire. We have a clear shot."
+0,166,65,PENDERGAST,Stand by.
+0,166,66,MR KENT,Why are we not returning fire?
+0,166,66,COMM OFFICER,Theyre powering weapons.
+0,166,66,PENDERGAST,Take them out.
+0,166,66,COMM OFFICER,Target destroyed.
+0,166,67,ONEILL,Get me Washington.
+0,166,67,CHEKOV,General! Wait!
+0,166,67,ONEILL,"Were out of time, Colonel."
+0,166,67,CHEKOV,Please.
+0,166,67,HARRIMAN,Sir - MPIC is reporting new visuals at 537. Silo doors are closing.
+0,166,67,CARTER,Russian bombers are turning around and returning to base.
+0,166,68,CARTER,Theyre standing down.
